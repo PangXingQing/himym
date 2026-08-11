@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "ambition",
+    "hint": "抱负",
+    "phonetic": "/æmˈbɪʃ.ən/"
+  },
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "architect",
+    "hint": "建筑师",
+    "phonetic": "/ˈɑːr.kɪ.tekt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ on after the breakup.",
+    "answer": "moved"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's time to __________ on.",
+    "answer": "move"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He ended up liking __________ job.",
+    "answer": "the"
+  }
+]

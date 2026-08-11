@@ -1,0 +1,128 @@
+{
+  "id": 59,
+  "title": "The Chain of Screaming",
+  "cn": "第 15 集 · 怒吼链",
+  "novel": "Marshall's boss Arthur [[screamed|scream]] at everyone. The [[chain|chain]] of screaming went from top to bottom: Arthur screamed at Marshall, Marshall screamed at Ted, Ted screamed at a [[stranger|stranger]].\n\nMarshall decided to [[confront|confront]] Arthur [[directly|directly]]. His heart [[pounded|pound]], his hands [[trembled|tremble]], but he stood his ground. \"You can't talk to me like that,\" he said.\n\nTo his [[shock|shock]], Arthur [[respected|respect]] him for it. \"Finally, someone with [[courage|courage]],\" Arthur [[admitted|admit]]. Marshall had [[earned|earn]] his respect.\n\nBarney [[declared|declare]] that the chain of screaming was natural. \"Everyone [[passes|pass]] it down,\" he [[explained|explain]].\n\nBut Marshall [[refused|refuse]] to pass it on. He [[broke|break]] the chain. \"Someone has to stop it,\" he said.\n\nStanding up to a [[bully|bully]], Marshall [[realized|realize]], required more [[courage|courage]] than screaming back. It required the strength to be [[calm|calm]].",
+  "words": {
+    "scream": {
+      "pos": "v.",
+      "ipa": "/skriːm/",
+      "cn": "尖叫；怒吼",
+      "en": "to shout loudly in anger"
+    },
+    "chain": {
+      "pos": "n.",
+      "ipa": "/tʃeɪn/",
+      "cn": "链条",
+      "en": "a series of connected things"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "当面对质",
+      "en": "to face someone directly"
+    },
+    "directly": {
+      "pos": "adv.",
+      "ipa": "/dɪˈrekt.li/",
+      "cn": "直接地",
+      "en": "without hesitation"
+    },
+    "pound": {
+      "pos": "v.",
+      "ipa": "/paʊnd/",
+      "cn": "砰砰跳",
+      "en": "to beat heavily"
+    },
+    "tremble": {
+      "pos": "v.",
+      "ipa": "/ˈtrem.bəl/",
+      "cn": "颤抖",
+      "en": "to shake from fear"
+    },
+    "shock": {
+      "pos": "n.",
+      "ipa": "/ʃɒk/",
+      "cn": "震惊",
+      "en": "a strong feeling of surprise"
+    },
+    "respect": {
+      "pos": "v.",
+      "ipa": "/rɪˈspekt/",
+      "cn": "尊重",
+      "en": "to admire someone"
+    },
+    "courage": {
+      "pos": "n.",
+      "ipa": "/ˈkʌr.ɪdʒ/",
+      "cn": "勇气",
+      "en": "the ability to face danger"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "earn": {
+      "pos": "v.",
+      "ipa": "/ɜːn/",
+      "cn": "赢得",
+      "en": "to get through effort"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "pass": {
+      "pos": "v.",
+      "ipa": "/pɑːs/",
+      "cn": "传递",
+      "en": "to give to someone else"
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make clear"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no"
+    },
+    "break": {
+      "pos": "v.",
+      "ipa": "/breɪk/",
+      "cn": "打破",
+      "en": "to end something"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "bully": {
+      "pos": "n.",
+      "ipa": "/ˈbʊl.i/",
+      "cn": "霸凌者",
+      "en": "someone who hurts others"
+    },
+    "calm": {
+      "pos": "adj.",
+      "ipa": "/kɑːm/",
+      "cn": "冷静的",
+      "en": "not excited or angry"
+    },
+    "stranger": {
+      "pos": "n.",
+      "ipa": "/ˈstreɪn.dʒə/",
+      "cn": "陌生人",
+      "en": "someone you don't know"
+    }
+  }
+}

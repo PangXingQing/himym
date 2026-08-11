@@ -1,0 +1,86 @@
+{
+  "id": 179,
+  "title": "The Fortress",
+  "cn": "第 19 集 · 堡垒",
+  "novel": "Robin asked Barney to sell his bachelor pad. The apartment was filled with [[memorabilia|memorabilia]] from Barney's single days. It had hidden [[cameras|camera]], a special bed, and many other [[questionable|questionable]] features. Robin felt uncomfortable in the apartment and wanted a fresh start. She said they could not start their married life in a place full of Barney's old [[schemes|scheme]]. Barney was [[reluctant|reluctant]] to give up his apartment. He had many [[memories|memory]] there and felt attached to the place. He told Robin that the apartment was a part of who he was. Robin [[understood|understand]] but said they needed a home that belonged to both of them. Meanwhile, Lily's job as an art [[consultant|consultant]] put a strain on her relationship with Marshall. She was traveling a lot for work and was often away from home. Marshall had to take care of Marvin by himself while Lily was away. He was [[exhausted|exhaust]] and felt [[overwhelmed|overwhelm]] by the responsibility. He told Lily that he needed more help at home. Lily felt [[guilty|guilty]] about being away so much. She loved her job but also loved her family. They had a difficult conversation about how to [[balance|balance]] work and family. Marshall suggested that Lily cut back on her travel, but Lily was afraid of losing her job. They eventually [[compromised|compromise]] and found a way to make things work. Barney finally agreed to sell his apartment after Robin helped him see that their future together was more important than his past.",
+  "words": {
+    "memorabilia": {
+      "pos": "n.",
+      "ipa": "/ˌmemərəˈbɪliə/",
+      "cn": "纪念品",
+      "en": "objects collected as souvenirs"
+    },
+    "camera": {
+      "pos": "n.",
+      "ipa": "/ˈkæmərəz/",
+      "cn": "摄像头",
+      "en": "devices for recording video"
+    },
+    "questionable": {
+      "pos": "adj.",
+      "ipa": "/ˈkwestʃənəbl/",
+      "cn": "有问题的",
+      "en": "doubtful or suspicious"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːmz/",
+      "cn": "计划",
+      "en": "clever or secret plans"
+    },
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌktənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "memory": {
+      "pos": "n.",
+      "ipa": "/ˈmeməriz/",
+      "cn": "回忆",
+      "en": "things you remember from the past"
+    },
+    "understand": {
+      "pos": "v.",
+      "ipa": "/ˌʌndərˈstʊd/",
+      "cn": "理解",
+      "en": "to know what someone means"
+    },
+    "consultant": {
+      "pos": "n.",
+      "ipa": "/kənˈsʌltənt/",
+      "cn": "顾问",
+      "en": "someone who gives expert advice"
+    },
+    "exhaust": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "cn": "使筋疲力尽",
+      "en": "to make very tired"
+    },
+    "overwhelm": {
+      "pos": "v.",
+      "ipa": "/ˌoʊvərˈwhelmd/",
+      "cn": "不知所措",
+      "en": "to feel too much pressure"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪlti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something"
+    },
+    "balance": {
+      "pos": "v.",
+      "ipa": "/ˈbæləns/",
+      "cn": "平衡",
+      "en": "to keep things equal"
+    },
+    "compromise": {
+      "pos": "v.",
+      "ipa": "/ˈkɑːmprəmaɪzd/",
+      "cn": "妥协",
+      "en": "to reach an agreement"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 160,
+  "title": "The Magician's Code (2)",
+  "cn": "第 24 集 · 魔术师法则（下）",
+  "novel": "Barney's wife was finally [[revealed|reveal]] to everyone. The gang gathered at the hospital where Lily had just given birth to a healthy baby boy. Marshall held his son for the first time and cried tears of joy. He named the baby Marvin, after his late father. Meanwhile, the big [[mystery|mystery]] of who Barney was marrying was solved. It was Robin all along. The gang was [[shocked|shock]] but happy for them. Barney explained how he had [[planned|plan]] the whole thing as a magic trick. He said a magician never reveals his secrets, but for his friends, he made an [[exception|exception]]. Ted was [[inspired|inspire]] by all the changes happening around him. He decided to follow his heart and go after the one that got away. He had been thinking about Victoria, his old girlfriend. He knew it was a [[risk|risk]], but he felt it was the right thing to do. He drove to her house and told her how he felt. Victoria was surprised but happy to see him. She agreed to give their relationship another chance. Marshall and Lily brought baby Marvin home from the hospital. They were [[exhausted|exhaust]] but happier than they had ever been. Ted looked at his friends and felt a deep sense of [[gratitude|gratitude]]. They had been through so much together, and he knew the best was yet to come.",
+  "words": {
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːld/",
+      "cn": "揭晓",
+      "en": "to make something known"
+    },
+    "mystery": {
+      "pos": "n.",
+      "ipa": "/ˈmɪstəri/",
+      "cn": "谜",
+      "en": "something hard to understand"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːkt/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "plan": {
+      "pos": "v.",
+      "ipa": "/plænd/",
+      "cn": "策划",
+      "en": "to arrange something carefully"
+    },
+    "exception": {
+      "pos": "n.",
+      "ipa": "/ɪkˈsepʃn/",
+      "cn": "例外",
+      "en": "something not following a rule"
+    },
+    "inspire": {
+      "pos": "v.",
+      "ipa": "/ɪnˈspaɪərd/",
+      "cn": "激励",
+      "en": "to encourage someone to act"
+    },
+    "risk": {
+      "pos": "n.",
+      "ipa": "/rɪsk/",
+      "cn": "冒险",
+      "en": "a chance of something bad happening"
+    },
+    "exhaust": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "cn": "使筋疲力尽",
+      "en": "to make very tired"
+    },
+    "gratitude": {
+      "pos": "n.",
+      "ipa": "/ˈɡrætɪtuːd/",
+      "cn": "感激",
+      "en": "a feeling of being thankful"
+    }
+  }
+}

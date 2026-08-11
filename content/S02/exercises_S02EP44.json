@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "pronounce",
+    "hint": "发音；念出",
+    "phonetic": "/prəˈnaʊns/"
+  },
+  {
+    "type": "spelling",
+    "word": "move",
+    "hint": "移动；搬家",
+    "phonetic": "/muːv/"
+  },
+  {
+    "type": "spelling",
+    "word": "Japan",
+    "hint": "日本",
+    "phonetic": "/dʒəˈpæn/"
+  },
+  {
+    "type": "spelling",
+    "word": "stream",
+    "hint": "流；涌出",
+    "phonetic": "/striːm/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The woman with the yellow umbrella was standing __________ outside in the rain.",
+    "answer": "just"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We'll just be... different. Like the sky — __________ could say it was blue, but you would be missing the point.",
+    "answer": "you"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He might not know it yet, __________ his future wife was at that wedding.",
+    "answer": "but"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They had been avoiding this conversation __________ months.",
+    "answer": "for"
+  }
+]

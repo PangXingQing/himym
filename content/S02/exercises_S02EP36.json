@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "spoiler",
+    "hint": "剧透；扫兴的信息",
+    "phonetic": "/ˈspɔɪ.lər/"
+  },
+  {
+    "type": "spelling",
+    "word": "appear",
+    "hint": "出现；露面",
+    "phonetic": "/əˈpɪər/"
+  },
+  {
+    "type": "spelling",
+    "word": "excite",
+    "hint": "使兴奋；使激动",
+    "phonetic": "/ɪkˈsaɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "swap",
+    "hint": "交换；调换",
+    "phonetic": "/swɒp/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's not __________ about football but about friendship.",
+    "answer": "just"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The tradition was __________ just about watching — it was about sharing.",
+    "answer": "not"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Everyone __________ to be there — it was tradition.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Step by step, Ted's __________ all rearranged their plans.",
+    "answer": "friends"
+  }
+]

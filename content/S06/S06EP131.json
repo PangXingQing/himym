@@ -1,0 +1,23 @@
+{
+  "id": 131,
+  "title": "Legendaddy",
+  "cn": "第 19 集 · 传奇老爸",
+  "novel": "Barney finally met his biological father, Jerome. He had been [[imagining|imagine]] this moment for years. He expected his father to be a [[legendary|legendary]] figure, a cool and exciting man who would understand him perfectly. However, when Barney arrived at Jerome's house, he was [[stunned|stun]] by what he found. Jerome was an ordinary suburban father who drove a minivan and coached a Little League team. He lived in a quiet [[neighborhood|neighborhood]] with his wife and children. Barney felt [[disappointed|disappoint]] and even a little angry. This was not the man he had been dreaming about. Jerome tried to connect with Barney, but the [[gap|gap]] between them was enormous. They had nothing in common, and the conversation was [[stiff|stiff]] and awkward. Meanwhile, the gang discovered that each of them had gaps in their knowledge, things they should have known by [[adulthood|adulthood]]. Ted did not know how to [[pronounce|pronounce]] certain common words. Robin did not know that the North Pole was a real place. Marshall did not know how to [[properly|proper]] use a screwdriver. They spent the evening pointing out each other's [[embarrassing|embarrass]] gaps and laughing about them. Lily told everyone that having gaps did not make them stupid. It just meant they were human. Back at Jerome's house, Barney [[stormed|storm]] out after a tense dinner. But as he drove away, he saw Jerome playing catch with his young son in the front yard. Barney stopped the car and watched. He realized that Jerome had chosen a different life, and that life had made him a good father to other children, even if he had not been there for Barney. Barney felt a complex mix of [[sadness|sadness]], [[resentment|resentment]], and understanding. He drove back to the city with a [[heavy|heavy]] heart.",
+  "words": {
+    "imagine": {"pos": "v.", "ipa": "/ɪˈmædʒɪn/", "cn": "想象;设想", "en": "to form a picture of something in your mind"},
+    "legendary": {"pos": "adj.", "ipa": "/ˈledʒənderi/", "cn": "传奇的;著名的", "en": "famous and admired in stories"},
+    "stun": {"pos": "v.", "ipa": "/stʌn/", "cn": "使震惊;使目瞪口呆", "en": "to shock someone so much they cannot speak"},
+    "neighborhood": {"pos": "n.", "ipa": "/ˈneɪbərhʊd/", "cn": "社区;街坊", "en": "an area where people live near each other"},
+    "disappoint": {"pos": "v.", "ipa": "/ˌdɪsəˈpɔɪnt/", "cn": "使失望", "en": "to make someone feel sad by not meeting hopes"},
+    "gap": {"pos": "n.", "ipa": "/ɡæp/", "cn": "差距;空白", "en": "a space or difference between two things"},
+    "stiff": {"pos": "adj.", "ipa": "/stɪf/", "cn": "僵硬的;拘谨的", "en": "not relaxed or natural in behavior"},
+    "adulthood": {"pos": "n.", "ipa": "/əˈdʌlthʊd/", "cn": "成年;成人期", "en": "the time when you are an adult"},
+    "pronounce": {"pos": "v.", "ipa": "/prəˈnaʊns/", "cn": "发音;读出", "en": "to say the sounds of a word correctly"},
+    "proper": {"pos": "adv.", "ipa": "/ˈprɑːpərli/", "cn": "正确地;适当地", "en": "in the right or correct way"},
+    "embarrass": {"pos": "v.", "ipa": "/ɪmˈbærəs/", "cn": "使尴尬;使难堪", "en": "to make someone feel uncomfortable"},
+    "storm": {"pos": "v.", "ipa": "/stɔːrm/", "cn": "猛冲;气冲冲地走", "en": "to leave a place angrily and quickly"},
+    "sadness": {"pos": "n.", "ipa": "/ˈsædnəs/", "cn": "悲伤;忧愁", "en": "a feeling of being unhappy or sorrowful"},
+    "resentment": {"pos": "n.", "ipa": "/rɪˈzentmənt/", "cn": "怨恨;愤恨", "en": "a feeling of anger about being treated unfairly"},
+    "heavy": {"pos": "adj.", "ipa": "/ˈhevi/", "cn": "沉重的;心情低落的", "en": "weighing a lot or feeling emotionally burdened"}
+  }
+}

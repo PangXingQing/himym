@@ -1,0 +1,110 @@
+{
+  "id": 53,
+  "title": "Slapsgiving",
+  "cn": "第 9 集 · 耳光感恩节",
+  "novel": "Marshall [[hosted|host]] Thanksgiving and prepared to [[deliver|deliver]] the third [[slap|slap]] to Barney. He had earned it months ago in a bet. Barney lived in [[dread|dread]], jumping at every sound.\n\nLily became a holiday-[[obsessed|obsess]] [[maniac|maniac]], [[decorating|decorate]] every corner. \"It's [[tradition|tradition]]!\" she [[declared|declare]], carving the [[feast|feast]] with [[anticipation|anticipation]].\n\nThe [[countdown|countdown]] began. Marshall [[taunted|taunt]] Barney all day. \"Any moment now,\" he would say with a grin. Barney [[begged|beg]] for mercy.\n\nAs the family gathered around the table, Marshall [[raised|raise]] his hand. The [[slap|slap]] echoed through the apartment. Barney [[stumbled|stumble]] back, his face red. The table erupted in laughter.\n\n\"Happy Slapsgiving,\" Marshall said. Some [[traditions|tradition]], Barney [[realized|realize]], were worse than others.",
+  "words": {
+    "host": {
+      "pos": "v.",
+      "ipa": "/həʊst/",
+      "cn": "主办",
+      "en": "to organize an event"
+    },
+    "deliver": {
+      "pos": "v.",
+      "ipa": "/dɪˈlɪv.ə/",
+      "cn": "给予；交付",
+      "en": "to give something as planned"
+    },
+    "slap": {
+      "pos": "n.",
+      "ipa": "/slæp/",
+      "cn": "耳光",
+      "en": "a hit with the palm"
+    },
+    "dread": {
+      "pos": "n.",
+      "ipa": "/dred/",
+      "cn": "恐惧",
+      "en": "a strong feeling of fear"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈses/",
+      "cn": "痴迷",
+      "en": "to think about all the time"
+    },
+    "maniac": {
+      "pos": "n.",
+      "ipa": "/ˈmeɪ.ni.æk/",
+      "cn": "狂人",
+      "en": "someone who acts crazy"
+    },
+    "decorate": {
+      "pos": "v.",
+      "ipa": "/ˈdek.ə.reɪt/",
+      "cn": "装饰",
+      "en": "to make look attractive"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "cn": "传统",
+      "en": "something done for years"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "feast": {
+      "pos": "n.",
+      "ipa": "/fiːst/",
+      "cn": "盛宴",
+      "en": "a large special meal"
+    },
+    "anticipation": {
+      "pos": "n.",
+      "ipa": "/ænˌtɪs.ɪˈpeɪ.ʃən/",
+      "cn": "期待",
+      "en": "excitement about future"
+    },
+    "countdown": {
+      "pos": "n.",
+      "ipa": "/ˈkaʊnt.daʊn/",
+      "cn": "倒计时",
+      "en": "counting down to something"
+    },
+    "taunt": {
+      "pos": "v.",
+      "ipa": "/tɔːnt/",
+      "cn": "嘲弄",
+      "en": "to mock to provoke"
+    },
+    "beg": {
+      "pos": "v.",
+      "ipa": "/beɡ/",
+      "cn": "恳求",
+      "en": "to ask desperately"
+    },
+    "raise": {
+      "pos": "v.",
+      "ipa": "/reɪz/",
+      "cn": "举起",
+      "en": "to lift up"
+    },
+    "stumble": {
+      "pos": "v.",
+      "ipa": "/ˈstʌm.bəl/",
+      "cn": "踉跄",
+      "en": "to almost fall"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    }
+  }
+}

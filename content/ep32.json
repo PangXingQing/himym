@@ -1,0 +1,164 @@
+{
+  "id": 32,
+  "title": "Single Stamina",
+  "cn": "第32集 · 单身耐力",
+  "novel": "Barney's [[brother|brother]] James came to visit, and he was everything Barney had [[described|describe]] — [[charming|charm]], [[stylish|style]], and completely [[obsessed|obsess]] with being single. They were the [[dynamic|dynamic]] [[duo|duo]] of [[bachelorhood|bachelor]], two men who believed that [[marriage|marriage]] was the enemy of [[happiness|happy]].\n\nBut something had changed. James was acting differently. He kept [[checking|check]] his phone and [[smiling|smile]] at messages in a way Barney had never seen. During a night out, James [[excused|excuse]] himself and disappeared for an hour.\n\nBarney [[tracked|track]] him down and found him sitting in a quiet [[park|park]], talking to someone on the phone. \"Who is she?\" Barney [[demanded|demand]]. James looked [[guilty|guilt]]. \"Her name is Tom.\"\n\nBarney blinked. \"Tom?\"\n\n\"I'm [[engaged|engage]],\" James said. \"To a man. I've met someone, Barney. I'm getting married.\"\n\nBarney felt the world [[tilt|tilt]]. His brother, his partner in [[singledom|singledom]], was [[abandoning|abandon]] him — and for marriage, of all things. \"But we had a [[pact|pact]]!\" Barney said. \"Single [[forever|forever]]!\"\n\n\"People grow up,\" James said gently. \"Even us.\"\n\nThat night, at the [[engagement|engagement]] party, Barney gave a [[toast|toast]]. \"To my brother James,\" he said, \"who taught me that the [[scariest|scary]] thing in the world is not being alone. It's watching someone you love move on without you.\" He [[raised|raise]] his glass. \"I'm [[terrified|terrify]].\"\n\nThe room went [[silent|silence]]. Then James hugged him. \"You're going to be fine, little brother.\"",
+  "words": {
+    "brother": {
+      "pos": "n.",
+      "ipa": "/ˈbrʌð.ər/",
+      "cn": "兄弟",
+      "en": "a boy or man who has the same parents as you"
+    },
+    "describe": {
+      "pos": "v.",
+      "ipa": "/dɪˈskraɪb/",
+      "cn": "描述",
+      "en": "to say what someone or something is like"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːm/",
+      "cn": "魅力",
+      "en": "a special quality that makes people like you"
+    },
+    "style": {
+      "pos": "n.",
+      "ipa": "/staɪl/",
+      "cn": "风格；品味",
+      "en": "a particular way of dressing or behaving"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈses/",
+      "cn": "痴迷；沉迷",
+      "en": "to think about something all the time"
+    },
+    "dynamic": {
+      "pos": "adj.",
+      "ipa": "/daɪˈnæm.ɪk/",
+      "cn": "充满活力的；动态的",
+      "en": "full of energy and new ideas"
+    },
+    "duo": {
+      "pos": "n.",
+      "ipa": "/ˈdjuː.əʊ/",
+      "cn": "二人组",
+      "en": "two people who perform together or are closely connected"
+    },
+    "bachelor": {
+      "pos": "n.",
+      "ipa": "/ˈbætʃ.ə.lər/",
+      "cn": "单身汉",
+      "en": "a man who is not married"
+    },
+    "marriage": {
+      "pos": "n.",
+      "ipa": "/ˈmær.ɪdʒ/",
+      "cn": "婚姻",
+      "en": "the legal relationship between a husband and wife"
+    },
+    "happiness": {
+      "pos": "n.",
+      "ipa": "/ˈhæp.i.nəs/",
+      "cn": "幸福；快乐",
+      "en": "the state of feeling pleased and content"
+    },
+    "check": {
+      "pos": "v.",
+      "ipa": "/tʃek/",
+      "cn": "检查；查看",
+      "en": "to look at something to make sure it is correct"
+    },
+    "smile": {
+      "pos": "v.",
+      "ipa": "/smaɪl/",
+      "cn": "微笑",
+      "en": "to make your mouth curve upward to show happiness"
+    },
+    "excuse": {
+      "pos": "v.",
+      "ipa": "/ɪkˈskjuːz/",
+      "cn": "原谅；请求离开",
+      "en": "to politely leave; to forgive someone"
+    },
+    "track": {
+      "pos": "v.",
+      "ipa": "/træk/",
+      "cn": "追踪；跟踪",
+      "en": "to follow or find someone by searching"
+    },
+    "park": {
+      "pos": "n.",
+      "ipa": "/pɑːk/",
+      "cn": "公园",
+      "en": "a large area of grass and trees for public enjoyment"
+    },
+    "demand": {
+      "pos": "v.",
+      "ipa": "/dɪˈmɑːnd/",
+      "cn": "要求；追问",
+      "en": "to ask for something very firmly"
+    },
+    "guilt": {
+      "pos": "n.",
+      "ipa": "/ɡɪlt/",
+      "cn": "内疚；罪恶感",
+      "en": "a feeling of worry or sadness because you did something wrong"
+    },
+    "engage": {
+      "pos": "v.",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "cn": "订婚",
+      "en": "to agree to marry someone"
+    },
+    "tilt": {
+      "pos": "v.",
+      "ipa": "/tɪlt/",
+      "cn": "倾斜；使倾斜",
+      "en": "to move into a sloping position"
+    },
+    "abandon": {
+      "pos": "v.",
+      "ipa": "/əˈbæn.dən/",
+      "cn": "抛弃；放弃",
+      "en": "to leave someone or something completely"
+    },
+    "pact": {
+      "pos": "n.",
+      "ipa": "/pækt/",
+      "cn": "协议；约定",
+      "en": "a formal agreement between two people or groups"
+    },
+    "forever": {
+      "pos": "adv.",
+      "ipa": "/fərˈev.ər/",
+      "cn": "永远",
+      "en": "for all time; without end"
+    },
+    "toast": {
+      "pos": "n.",
+      "ipa": "/təʊst/",
+      "cn": "祝酒词",
+      "en": "a short speech before drinking to honor someone"
+    },
+    "scary": {
+      "pos": "adj.",
+      "ipa": "/ˈskeə.ri/",
+      "cn": "可怕的",
+      "en": "making you feel frightened"
+    },
+    "terrify": {
+      "pos": "v.",
+      "ipa": "/ˈter.ɪ.faɪ/",
+      "cn": "使恐惧；使害怕",
+      "en": "to make someone feel extremely frightened"
+    },
+    "silent": {
+      "pos": "adj.",
+      "ipa": "/ˈsaɪ.lənt/",
+      "cn": "沉默的；安静的",
+      "en": "making no sound; not speaking"
+    }
+  }
+}

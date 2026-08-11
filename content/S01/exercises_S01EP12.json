@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "vows",
+    "hint": "誓言（婚礼上的）",
+    "phonetic": "/vaʊz/"
+  },
+  {
+    "type": "spelling",
+    "word": "ceremony",
+    "hint": "仪式",
+    "phonetic": "/ˈser.ɪ.mə.ni/"
+  },
+  {
+    "type": "spelling",
+    "word": "tuxedo",
+    "hint": "男士晚礼服",
+    "phonetic": "/tʌkˈsiː.dəʊ/"
+  },
+  {
+    "type": "spelling",
+    "word": "groom",
+    "hint": "新郎",
+    "phonetic": "/ɡruːm/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted would __________ confess than keep silent.",
+    "answer": "rather"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He could __________ pretend it meant nothing forever.",
+    "answer": "not"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Neither Ted nor __________ knew what to say.",
+    "answer": "Barney"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She was both surprised and __________ by his honesty.",
+    "answer": "touched"
+  }
+]

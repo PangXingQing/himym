@@ -1,0 +1,140 @@
+{
+  "id": 88,
+  "title": "The Leap",
+  "cn": "第 24 集 · 跃进",
+  "novel": "Ted stood on his [[rooftop|rooftop]], staring at the city. He had been [[stuck|stick]] for months — no career [[momentum|momentum]], no love life, no [[direction|direction]]. He felt like he was [[standing|stand]] on the edge of something.\n\n\"You need to take a [[leap|leap]],\" Marshall told him. \"A leap of [[faith|faith]].\"\n\nTed was [[hesitant|hesitant]]. \"What if I [[fall|fall]]?\"\n\n\"What if you [[fly|fly]]?\" Marshall replied.\n\nBarney was dealing with his own [[leap|leap]]. He had been hiding his feelings for Robin for months. Finally, he [[confessed|confess]] everything to her.\n\n\"I like you,\" Barney said. \"I really like you.\"\n\nRobin was [[stunned|stun]]. She said nothing for a long moment. Then she kissed him.\n\nTed, inspired by Barney's [[courage|courage]], decided to take his own leap. He [[quit|quit]] his unsatisfying job and [[devoted|devote]] himself fully to Mosbius Designs. He also [[decided|decide]] to start teaching architecture — a dream he had [[abandoned|abandon]] years ago.\n\n\"I'm taking the leap,\" Ted told the gang.\n\nThey all gathered on the rooftop as the sun set. The city [[glowed|glow]] below them.\n\n\"To new [[beginnings|beginning]],\" Lily [[raised|raise]] her glass.\n\n\"To leaps of faith,\" Marshall added.\n\nBarney and Robin held hands. Ted smiled, feeling for the first time in months that he was moving [[forward|forward]].\n\nThe season ended with Ted looking at the [[horizon|horizon]], ready for whatever came next.",
+  "words": {
+    "rooftop": {
+      "pos": "n.",
+      "ipa": "/ˈruːf.tɒp/",
+      "cn": "屋顶",
+      "en": "the top of a building"
+    },
+    "stick": {
+      "pos": "v.",
+      "ipa": "/stɪk/",
+      "cn": "卡住",
+      "en": "to be unable to move forward"
+    },
+    "momentum": {
+      "pos": "n.",
+      "ipa": "/məˈmen.təm/",
+      "cn": "动力",
+      "en": "the force that keeps something moving"
+    },
+    "direction": {
+      "pos": "n.",
+      "ipa": "/dɪˈrek.ʃən/",
+      "cn": "方向",
+      "en": "the way something is going"
+    },
+    "stand": {
+      "pos": "v.",
+      "ipa": "/stænd/",
+      "cn": "站立",
+      "en": "to be on your feet"
+    },
+    "leap": {
+      "pos": "n.",
+      "ipa": "/liːp/",
+      "cn": "跳跃；跃进",
+      "en": "a big jump or a brave risk"
+    },
+    "faith": {
+      "pos": "n.",
+      "ipa": "/feɪθ/",
+      "cn": "信念",
+      "en": "strong belief or trust"
+    },
+    "hesitant": {
+      "pos": "adj.",
+      "ipa": "/ˈhez.ɪ.tənt/",
+      "cn": "犹豫的",
+      "en": "not sure, pausing before acting"
+    },
+    "fall": {
+      "pos": "v.",
+      "ipa": "/fɔːl/",
+      "cn": "坠落",
+      "en": "to drop down from a high place"
+    },
+    "fly": {
+      "pos": "v.",
+      "ipa": "/flaɪ/",
+      "cn": "飞翔",
+      "en": "to move through the air"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to tell the truth about something hidden"
+    },
+    "stun": {
+      "pos": "v.",
+      "ipa": "/stʌn/",
+      "cn": "使震惊",
+      "en": "to surprise someone very much"
+    },
+    "courage": {
+      "pos": "n.",
+      "ipa": "/ˈkʌr.ɪdʒ/",
+      "cn": "勇气",
+      "en": "the ability to do something frightening"
+    },
+    "quit": {
+      "pos": "v.",
+      "ipa": "/kwɪt/",
+      "cn": "辞去",
+      "en": "to leave your job"
+    },
+    "devote": {
+      "pos": "v.",
+      "ipa": "/dɪˈvəʊt/",
+      "cn": "投入",
+      "en": "to give all your time to something"
+    },
+    "decide": {
+      "pos": "v.",
+      "ipa": "/dɪˈsaɪd/",
+      "cn": "决定",
+      "en": "to choose to do something"
+    },
+    "abandon": {
+      "pos": "v.",
+      "ipa": "/əˈbæn.dən/",
+      "cn": "放弃",
+      "en": "to give up something completely"
+    },
+    "glow": {
+      "pos": "v.",
+      "ipa": "/ɡləʊ/",
+      "cn": "发光",
+      "en": "to shine with a warm light"
+    },
+    "beginning": {
+      "pos": "n.",
+      "ipa": "/bɪˈɡɪn.ɪŋ/",
+      "cn": "开始",
+      "en": "the start of something"
+    },
+    "raise": {
+      "pos": "v.",
+      "ipa": "/reɪz/",
+      "cn": "举起",
+      "en": "to lift something up"
+    },
+    "forward": {
+      "pos": "adv.",
+      "ipa": "/ˈfɔː.wəd/",
+      "cn": "向前",
+      "en": "in the direction ahead"
+    },
+    "horizon": {
+      "pos": "n.",
+      "ipa": "/həˈraɪ.zən/",
+      "cn": "地平线",
+      "en": "the line where the sky meets the ground"
+    }
+  }
+}

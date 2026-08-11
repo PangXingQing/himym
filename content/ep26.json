@@ -1,0 +1,152 @@
+{
+  "id": 26,
+  "title": "Ted Mosby: Architect",
+  "cn": "第26集 · 建筑师泰德",
+  "novel": "Ted was an [[architect|architect]] — he had said it a thousand times. But lately, Robin had started [[yawning|yawn]] every time he mentioned [[cantilevers|cantilever]] or [[facades|facade]]. She was [[bored|bore]], and Ted could feel it like a [[papercut|papercut]] on his heart.\n\n\"Maybe I should [[switch|switch]] careers,\" he [[pondered|ponder]] one evening. Barney [[overheard|overhear]] and [[nearly spat|nearly spit]] out his drink. \"Are you [[insane|insane]]? You're an architect! That's the third most [[impressive|impress]] job title after [[president|president]] and [[astronaut|astronaut]]!\"\n\nBut the real problem was not Ted's job. The real problem was that Robin felt [[trapped|trap]] in a [[routine|routine]]. Date night every Wednesday, brunch every Sunday — their relationship had become as [[predictable|predict]] as a subway [[schedule|schedule]].\n\nTed decided to [[surprise|surprise]] her. He [[rented|rent]] a [[convertible|convertible]] and took her to a [[construction|construction]] site where one of his building [[designs|design]] was being built. \"This is mine,\" he said, pointing at the [[steel|steel]] [[skeleton|skeleton]] rising against the sky. \"One day, people will live here. They'll fall in love here. They'll start families here.\"\n\nFor the first time in weeks, Robin looked at him the way she had on that first night at MacLaren's. \"That is actually kind of [[magnificent|magnificent]],\" she admitted.\n\n\"I know,\" Ted said. \"I'm an [[architect|architect]].\"",
+  "words": {
+    "yawn": {
+      "pos": "v.",
+      "ipa": "/jɔːn/",
+      "cn": "打哈欠",
+      "en": "to open your mouth wide and breathe deeply when tired or bored"
+    },
+    "cantilever": {
+      "pos": "n.",
+      "ipa": "/ˈkæn.tɪ.liː.vər/",
+      "cn": "悬臂结构",
+      "en": "a long beam fixed at one end, used in architecture"
+    },
+    "facade": {
+      "pos": "n.",
+      "ipa": "/fəˈsɑːd/",
+      "cn": "建筑物正面；门面",
+      "en": "the front of a building; a false appearance"
+    },
+    "bore": {
+      "pos": "v.",
+      "ipa": "/bɔːr/",
+      "cn": "使厌烦",
+      "en": "to make someone feel tired and uninterested"
+    },
+    "papercut": {
+      "pos": "n.",
+      "ipa": "/ˈpeɪ.pər.kʌt/",
+      "cn": "纸割伤（比喻小但痛的伤害）",
+      "en": "a small cut from paper that hurts more than expected"
+    },
+    "switch": {
+      "pos": "v.",
+      "ipa": "/swɪtʃ/",
+      "cn": "转换；改变",
+      "en": "to change from one thing to another"
+    },
+    "ponder": {
+      "pos": "v.",
+      "ipa": "/ˈpɒn.dər/",
+      "cn": "沉思；考虑",
+      "en": "to think carefully about something for a long time"
+    },
+    "overhear": {
+      "pos": "v.",
+      "ipa": "/ˌəʊ.vəˈhɪər/",
+      "cn": "无意中听到",
+      "en": "to hear someone say something without them knowing"
+    },
+    "nearly spit": {
+      "pos": "phr.",
+      "ipa": "/ˈnɪə.li spɪt/",
+      "cn": "差点吐出来",
+      "en": "almost sprayed liquid from one's mouth in surprise"
+    },
+    "insane": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈseɪn/",
+      "cn": "疯狂的",
+      "en": "completely crazy or foolish"
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈpres/",
+      "cn": "给...留下深刻印象",
+      "en": "to make someone admire or respect you"
+    },
+    "president": {
+      "pos": "n.",
+      "ipa": "/ˈprez.ɪ.dənt/",
+      "cn": "总统；主席",
+      "en": "the elected leader of a country"
+    },
+    "astronaut": {
+      "pos": "n.",
+      "ipa": "/ˈæs.trə.nɔːt/",
+      "cn": "宇航员",
+      "en": "a person trained to travel in a spacecraft"
+    },
+    "trap": {
+      "pos": "v.",
+      "ipa": "/træp/",
+      "cn": "困住；陷入",
+      "en": "to keep someone in an unpleasant situation they cannot escape"
+    },
+    "routine": {
+      "pos": "n.",
+      "ipa": "/ruːˈtiːn/",
+      "cn": "常规；惯例",
+      "en": "the usual way you do things, which can become boring"
+    },
+    "predict": {
+      "pos": "v.",
+      "ipa": "/prɪˈdɪkt/",
+      "cn": "预测",
+      "en": "to say what will happen in the future"
+    },
+    "schedule": {
+      "pos": "n.",
+      "ipa": "/ˈʃed.juːl/",
+      "cn": "时间表；日程",
+      "en": "a list of times when things will happen"
+    },
+    "rent": {
+      "pos": "v.",
+      "ipa": "/rent/",
+      "cn": "租用；租借",
+      "en": "to pay money to use something for a short time"
+    },
+    "convertible": {
+      "pos": "n.",
+      "ipa": "/kənˈvɜː.tə.bl̩/",
+      "cn": "敞篷车",
+      "en": "a car with a roof that can be folded down"
+    },
+    "construction": {
+      "pos": "n.",
+      "ipa": "/kənˈstrʌk.ʃən/",
+      "cn": "建筑；施工",
+      "en": "the work of building something like a house or bridge"
+    },
+    "design": {
+      "pos": "n.",
+      "ipa": "/dɪˈzaɪn/",
+      "cn": "设计",
+      "en": "a plan or drawing showing what something will look like"
+    },
+    "steel": {
+      "pos": "n.",
+      "ipa": "/stiːl/",
+      "cn": "钢铁",
+      "en": "a strong metal used for building structures"
+    },
+    "skeleton": {
+      "pos": "n.",
+      "ipa": "/ˈskel.ɪ.tən/",
+      "cn": "骨架；框架",
+      "en": "the basic bones that support a body or structure"
+    },
+    "magnificent": {
+      "pos": "adj.",
+      "ipa": "/mæɡˈnɪf.ɪ.sənt/",
+      "cn": "宏伟的；壮丽的",
+      "en": "extremely beautiful or impressive"
+    }
+  }
+}

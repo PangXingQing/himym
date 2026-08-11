@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "reluctant",
+    "hint": "不情愿的",
+    "phonetic": "/rɪˈlʌk.tənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ pretended to be tourists.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found __________ thinking of her.",
+    "answer": "himself"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "spelling",
+    "word": "hilarious",
+    "hint": "极滑稽的",
+    "phonetic": "/hɪˈler.i.əs/"
+  }
+]

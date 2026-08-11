@@ -1,0 +1,98 @@
+{
+  "id": 204,
+  "title": "Daisy",
+  "cn": "第 20 集 · 雏菊",
+  "novel": "After their fight, Lily suddenly [[disappeared|disappear]] from the hotel. Marshall was [[worried|worry]] and [[enlisted|enlist]] Ted and Barney to help him find her. They searched the entire hotel but could not find any [[clue|clue]] to where she had gone.\n\nMarshall was [[frantic|frantic]]. He called Lily's phone repeatedly, but she did not answer. He feared that she had left the wedding entirely. Ted tried to [[reassure|reassure]] him, saying that Lily probably just needed some time alone to cool down.\n\nBarney, despite being busy with wedding preparations, agreed to help. The three men [[tracked|track]] Lily's movements through the hotel security cameras. They saw her leave the hotel and get into a taxi.\n\nThey followed the taxi to a garden center outside of town. There, they found Lily sitting among the flowers, looking [[peaceful|peaceful]]. She was holding a small potted [[daisy|daisy]] plant.\n\nLily [[explained|explain]] that she had not run away. She had come to the garden center because she needed to think. She told Marshall that she was still upset about the judge job, but she did not want to fight anymore. She had come here because the flowers helped her feel calm.\n\nMarshall was [[relieved|relieve]] to see that Lily was okay. He [[apologized|apologize]] again for his mistake and promised to always include her in important decisions. Lily smiled and accepted his apology.\n\nThe group returned to the hotel with the daisy plant. Lily placed it on the windowsill of their room. She said the daisy reminded her that even after a [[storm|storm]], beautiful things could [[grow|grow]]. The gang was [[grateful|grateful]] that the conflict was over and the wedding could go on.",
+  "words": {
+    "disappear": {
+      "pos": "v.",
+      "ipa": "/ˌdɪs.əˈpɪr/",
+      "cn": "消失",
+      "en": "She disappeared without a trace."
+    },
+    "worry": {
+      "pos": "v.",
+      "ipa": "/ˈwɜːr.i/",
+      "cn": "担心",
+      "en": "She worried about the exam."
+    },
+    "enlist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈlɪst/",
+      "cn": "征召",
+      "en": "He enlisted his friends to help."
+    },
+    "clue": {
+      "pos": "n.",
+      "ipa": "/kluː/",
+      "cn": "线索",
+      "en": "The detective found a clue."
+    },
+    "frantic": {
+      "pos": "adj.",
+      "ipa": "/ˈfræn.tɪk/",
+      "cn": "慌乱的",
+      "en": "She was frantic with worry."
+    },
+    "reassure": {
+      "pos": "v.",
+      "ipa": "/ˌriː.əˈʃʊr/",
+      "cn": "安慰",
+      "en": "He reassured her that everything was fine."
+    },
+    "track": {
+      "pos": "v.",
+      "ipa": "/træk/",
+      "cn": "追踪",
+      "en": "They tracked the package online."
+    },
+    "peaceful": {
+      "pos": "adj.",
+      "ipa": "/ˈpiːs.fəl/",
+      "cn": "平静的",
+      "en": "The garden was peaceful."
+    },
+    "daisy": {
+      "pos": "n.",
+      "ipa": "/ˈdeɪ.zi/",
+      "cn": "雏菊",
+      "en": "She picked a daisy from the field."
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "She explained the situation."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "He was relieved to see her."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "He apologized for the mistake."
+    },
+    "storm": {
+      "pos": "n.",
+      "ipa": "/stɔːrm/",
+      "cn": "风暴",
+      "en": "The storm caused a lot of damage."
+    },
+    "grow": {
+      "pos": "v.",
+      "ipa": "/ɡroʊ/",
+      "cn": "生长",
+      "en": "Plants grow in the spring."
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "She was grateful for the help."
+    }
+  }
+}

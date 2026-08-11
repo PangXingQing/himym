@@ -1,0 +1,104 @@
+{
+  "id": 195,
+  "title": "Bedtime Stories",
+  "cn": "第 11 集 · 睡前故事",
+  "novel": "During the long car ride from Minnesota to New York, Marshall [[recited|recite]] three rhyming [[tales|tale]] to baby Marvin. He hoped the [[rhythm|rhythm]] of the verses would help his tired son fall asleep on the road.\n\nThe first tale was about Ted and his [[adventures|adventure]] in New York. Marshall [[described|describe]] how Ted searched for love in the big city. He told the story in a [[funny|funny]] rhyme that made even Daphne laugh. Ted met many women, but none of them were the right one, until he finally found the mother of his children.\n\nThe second tale was about Barney and his [[legendary|legendary]] [[skills|skill]] at picking up women. Marshall rhymed about Barney's suits and his many [[conquests|conquest]]. The story was [[exaggerated|exaggerate]] for comedy, but it captured Barney's spirit perfectly. Marvin seemed to enjoy the silly voices Marshall used for each [[character|character]].\n\nThe third tale was about Marshall himself. He told Marvin about how he met Lily, fell in love, and started a family. This tale was the most [[personal|personal]] and heartfelt. Marshall's voice grew [[softer|soft]] as he described the day Marvin was born. He told his son that being a father was the greatest [[journey|journey]] of his life.\n\nBy the end of the third tale, Marvin was finally asleep. Daphne, who had been listening quietly, was [[touched|touch]] by Marshall's stories. She told him he was a good father. Marshall smiled, feeling [[grateful|grateful]] for his family and the long trip that brought him to this moment.",
+  "words": {
+    "recite": {
+      "pos": "v.",
+      "ipa": "/rɪˈsaɪt/",
+      "cn": "朗诵",
+      "en": "She recited a poem from memory."
+    },
+    "tale": {
+      "pos": "n.",
+      "ipa": "/teɪl/",
+      "cn": "故事",
+      "en": "He told a tale of adventure."
+    },
+    "rhythm": {
+      "pos": "n.",
+      "ipa": "/ˈrɪð.əm/",
+      "cn": "节奏",
+      "en": "The song has a good rhythm."
+    },
+    "adventure": {
+      "pos": "n.",
+      "ipa": "/ədˈven.tʃər/",
+      "cn": "冒险",
+      "en": "They went on an adventure."
+    },
+    "describe": {
+      "pos": "v.",
+      "ipa": "/dɪˈskraɪb/",
+      "cn": "描述",
+      "en": "She described the beautiful sunset."
+    },
+    "funny": {
+      "pos": "adj.",
+      "ipa": "/ˈfʌn.i/",
+      "cn": "有趣的",
+      "en": "The movie was very funny."
+    },
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒ.ən.der.i/",
+      "cn": "传奇的",
+      "en": "He is a legendary hero."
+    },
+    "skill": {
+      "pos": "n.",
+      "ipa": "/skɪl/",
+      "cn": "技能",
+      "en": "She has great skill in cooking."
+    },
+    "conquest": {
+      "pos": "n.",
+      "ipa": "/ˈkɒŋ.kwest/",
+      "cn": "征服",
+      "en": "The conquest was difficult."
+    },
+    "exaggerate": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "cn": "夸张",
+      "en": "He exaggerated the story."
+    },
+    "character": {
+      "pos": "n.",
+      "ipa": "/ˈkær.ək.tər/",
+      "cn": "角色",
+      "en": "The main character is brave."
+    },
+    "personal": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːr.sən.əl/",
+      "cn": "个人的",
+      "en": "It was a personal matter."
+    },
+    "soft": {
+      "pos": "adj.",
+      "ipa": "/sɒft/",
+      "cn": "轻柔的",
+      "en": "She spoke in a soft voice."
+    },
+    "journey": {
+      "pos": "n.",
+      "ipa": "/ˈdʒɜːr.ni/",
+      "cn": "旅程",
+      "en": "The journey was long but worth it."
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃ/",
+      "cn": "打动",
+      "en": "The story touched her heart."
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "She was grateful for the help."
+    }
+  }
+}

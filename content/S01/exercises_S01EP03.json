@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "thrill",
+    "hint": "刺激；兴奋感",
+    "phonetic": "/θrɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "itinerary",
+    "hint": "行程表",
+    "phonetic": "/aɪˈtɪn.ər.ər.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "stranger",
+    "hint": "陌生人",
+    "phonetic": "/ˈstreɪn.dʒə/"
+  },
+  {
+    "type": "spelling",
+    "word": "detain",
+    "hint": "拘留；扣留",
+    "phonetic": "/dɪˈteɪn/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "With his __________ pounding, Ted walked across the bar.",
+    "answer": "heart"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Not only was the night perfect, __________ destiny also played its part.",
+    "answer": "but"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Liberty is a noun, __________ liberated is an adjective.",
+    "answer": "but"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "With __________ ring sparkling, Lily couldn't stop smiling.",
+    "answer": "the"
+  }
+]

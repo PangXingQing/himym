@@ -1,0 +1,29 @@
+{
+  "id": 118,
+  "title": "Baby Talk",
+  "cn": "第 6 集 · 宝贝话题",
+  "novel": "Marshall and Lily [[decided|decide]] it was time to have a baby. They began to [[research|research]] how to conceive a child with the gender of their choice. Marshall read books about diet and timing while Lily [[created|create]] charts and spreadsheets. They were so [[determined|determine]] that they turned their bedroom into a science [[laboratory|laboratory]]. Meanwhile, Robin was [[irritated|irritate]] by her new co-anchor, Becky. Becky was [[perky|perky]] and spoke in a baby voice that the audience seemed to love. Robin found it [[unprofessional|unprofessional]] and complained to the producers, but they told her that Becky's style was [[boosting|boost]] the ratings. Robin felt [[jealous|jealous]] and [[frustrated|frustrate]] at the same time. She had worked hard to be taken seriously as a journalist, and now a woman who talked like a child was getting more [[attention|attention]] than her. Barney tried to [[cheer|cheer]] Robin up by taking her to a sports bar, but it did not help. Back at the apartment, Marshall and Lily's baby plans hit a [[snag|snag]]. They realized that no method was [[guaranteed|guarantee]] to work and that nature would ultimately make the decision. They felt [[disappointed|disappoint]] but also [[relieved|relief]] because the pressure was off. They agreed to just let things happen [[naturally|naturally]]. Ted watched his friends navigate their challenges and thought about his own future. He wondered if he would ever find someone to start a family with. The episode ended with Robin [[confronting|confront]] Becky, who turned out to be much smarter than she [[appeared|appear]]. They actually had a [[genuine|genuine]] conversation and found some common ground.",
+  "words": {
+    "decide": {"pos": "v.", "ipa": "/dɪˈsaɪd/", "cn": "决定;决心", "en": "to make a choice about something"},
+    "research": {"pos": "v.", "ipa": "/rɪˈsɜːrtʃ/", "cn": "研究;调查", "en": "to study something to learn new facts"},
+    "create": {"pos": "v.", "ipa": "/kriˈeɪt/", "cn": "创造;创建", "en": "to make something new that did not exist"},
+    "determine": {"pos": "v.", "ipa": "/dɪˈtɜːrmɪn/", "cn": "决心;决定", "en": "to firmly decide to do something"},
+    "laboratory": {"pos": "n.", "ipa": "/ˈlæbrətɔːri/", "cn": "实验室", "en": "a room used for scientific research"},
+    "irritate": {"pos": "v.", "ipa": "/ˈɪrɪteɪt/", "cn": "激怒;使烦恼", "en": "to make someone feel annoyed"},
+    "perky": {"pos": "adj.", "ipa": "/ˈpɜːrki/", "cn": "活泼的;精力充沛的", "en": "cheerful and full of energy"},
+    "unprofessional": {"pos": "adj.", "ipa": "/ˌʌnprəˈfeʃənl/", "cn": "不专业的", "en": "not showing proper work standards"},
+    "boost": {"pos": "v.", "ipa": "/buːst/", "cn": "提升;增加", "en": "to increase or improve something"},
+    "jealous": {"pos": "adj.", "ipa": "/ˈdʒeləs/", "cn": "嫉妒的;羡慕的", "en": "feeling unhappy because someone has what you want"},
+    "frustrate": {"pos": "v.", "ipa": "/ˈfrʌstreɪt/", "cn": "使沮丧;使挫败", "en": "to make someone feel blocked or upset"},
+    "attention": {"pos": "n.", "ipa": "/əˈtenʃ.ən/", "cn": "注意力;关注", "en": "interest or care given to something"},
+    "cheer": {"pos": "v.", "ipa": "/tʃɪr/", "cn": "使高兴;鼓励", "en": "to make someone feel happier"},
+    "snag": {"pos": "n.", "ipa": "/snæɡ/", "cn": "障碍;小困难", "en": "a small problem that delays something"},
+    "guarantee": {"pos": "v.", "ipa": "/ˌɡærənˈtiː/", "cn": "保证;担保", "en": "to promise something will happen"},
+    "disappoint": {"pos": "v.", "ipa": "/ˌdɪsəˈpɔɪnt/", "cn": "使失望", "en": "to make someone feel sad by not meeting hopes"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "宽慰;解脱", "en": "feeling better after worry goes away"},
+    "naturally": {"pos": "adv.", "ipa": "/ˈnætʃrəli/", "cn": "自然地", "en": "in a way that is normal and expected"},
+    "confront": {"pos": "v.", "ipa": "/kənˈfrʌnt/", "cn": "面对;对峙", "en": "to deal with a problem directly"},
+    "genuine": {"pos": "adj.", "ipa": "/ˈdʒenjuɪn/", "cn": "真诚的;真正的", "en": "real and honest, not fake"},
+    "appear": {"pos": "v.", "ipa": "/əˈpɪr/", "cn": "看起来;似乎", "en": "to seem or look a certain way"}
+  }
+}

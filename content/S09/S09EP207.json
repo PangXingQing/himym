@@ -1,0 +1,98 @@
+{
+  "id": 207,
+  "title": "Last Forever (1)",
+  "cn": "第 23 集 · 永远（上）",
+  "novel": "Ted sat his children down on the couch and told them he was finally [[finishing|finish]] the story. He had been telling them the story of how he met their mother for many years. Now, the tale was reaching its [[end|end]].\n\nTed [[described|describe]] the key moments that followed Barney and Robin's wedding. He told them about the day Barney and Robin got divorced, three years after the wedding. It was a [[painful|painful]] moment for everyone. Barney returned to his old lifestyle, while Robin threw herself into her career.\n\nTed [[revealed|reveal]] that he and the Mother, Tracy, finally met at the Farhampton train station after the wedding. Their first conversation was about a yellow umbrella. It was a moment of pure [[destiny|destiny]]. They fell in love quickly and deeply.\n\nThe story jumped forward in time. Ted and Tracy dated for years before he finally [[proposed|propose]] to her. They had two children together. But Ted's voice grew quiet as he approached the most difficult part of the story.\n\nHe told his children that their mother had been sick. She had fought [[bravely|bravely]] against her illness, but in the end, she [[passed away|pass away]]. The room fell silent. Ted wiped a tear from his eye.\n\nHis daughter asked why he was telling them this story now. Ted hesitated. He said that every story has a [[beginning|beginning]] and an end. He wanted them to understand that love was the most [[powerful|powerful]] force in the world, even when it ended in [[sorrow|sorrow]].\n\nThe children looked at their father with new [[understanding|understanding]]. They realized that this story was not just about how their parents met. It was about a [[lifetime|lifetime]] of love, loss, and the [[memories|memory]] that remained.",
+  "words": {
+    "finish": {
+      "pos": "v.",
+      "ipa": "/ˈfɪn.ɪʃ/",
+      "cn": "结束",
+      "en": "She finished her homework."
+    },
+    "end": {
+      "pos": "n.",
+      "ipa": "/end/",
+      "cn": "终点",
+      "en": "All good things come to an end."
+    },
+    "describe": {
+      "pos": "v.",
+      "ipa": "/dɪˈskraɪb/",
+      "cn": "描述",
+      "en": "He described the scene."
+    },
+    "painful": {
+      "pos": "adj.",
+      "ipa": "/ˈpeɪn.fəl/",
+      "cn": "痛苦的",
+      "en": "The memory was painful."
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "He revealed the truth."
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tə.ni/",
+      "cn": "命运",
+      "en": "It was destiny that brought them together."
+    },
+    "propose": {
+      "pos": "v.",
+      "ipa": "/prəˈpoʊz/",
+      "cn": "求婚",
+      "en": "He proposed to her under the stars."
+    },
+    "bravely": {
+      "pos": "adv.",
+      "ipa": "/ˈbreɪv.li/",
+      "cn": "勇敢地",
+      "en": "She fought bravely."
+    },
+    "pass away": {
+      "pos": "phr.v.",
+      "ipa": "/pæs əˈweɪ/",
+      "cn": "去世",
+      "en": "Her grandfather passed away last year."
+    },
+    "beginning": {
+      "pos": "n.",
+      "ipa": "/bɪˈɡɪn.ɪŋ/",
+      "cn": "开始",
+      "en": "It was a new beginning."
+    },
+    "powerful": {
+      "pos": "adj.",
+      "ipa": "/ˈpaʊər.fəl/",
+      "cn": "强大的",
+      "en": "Love is a powerful force."
+    },
+    "sorrow": {
+      "pos": "n.",
+      "ipa": "/ˈsɒr.oʊ/",
+      "cn": "悲伤",
+      "en": "She felt deep sorrow."
+    },
+    "understanding": {
+      "pos": "n.",
+      "ipa": "/ˌʌn.dərˈstæn.dɪŋ/",
+      "cn": "理解",
+      "en": "She showed great understanding."
+    },
+    "lifetime": {
+      "pos": "n.",
+      "ipa": "/ˈlaɪf.taɪm/",
+      "cn": "一生",
+      "en": "They spent a lifetime together."
+    },
+    "memory": {
+      "pos": "n.",
+      "ipa": "/ˈmem.ər.i/",
+      "cn": "回忆",
+      "en": "They shared many memories."
+    }
+  }
+}

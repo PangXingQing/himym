@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found himself __________ of her.",
+    "answer": "thinking"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They __________ to be tourists.",
+    "answer": "pretended"
+  },
+  {
+    "type": "spelling",
+    "word": "soulmate",
+    "hint": "灵魂伴侣",
+    "phonetic": "/ˈsoʊl.meɪt/"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": 122,
+  "title": "Blitzgiving",
+  "cn": "第 10 集 · 闪电感恩节",
+  "novel": "Ted left the bar early on the night before Thanksgiving to prepare a [[lavish|lavish]] dinner for his friends. He had been planning the meal for weeks and wanted everything to be [[perfect|perfect]]. However, the moment Ted walked out, the gang met a man called The Blitz. The Blitz was a college friend cursed with [[terrible|terrible]] luck. Whenever he left a room, something [[amazing|amazing]] happened, and he always missed it. This curse was known as the Blitz [[curse|curse]]. Steve, the current Blitz, joined the group and immediately brought his bad luck with him. The gang had an [[incredible|incredible]] night at the bar. They met celebrities, won free drinks, and laughed until dawn. But Steve missed every single [[spectacular|spectacular]] moment because he kept stepping outside. The next morning, Ted [[slaved|slave]] away in the kitchen. He [[roasted|roast]] a turkey, [[mashed|mash]] potatoes, and baked three different pies. But when his friends finally arrived, they were [[exhausted|exhaust]] from the night before and barely had any [[appetite|appetite]]. Ted was [[furious|furious]]. He felt that his hard work was being [[ignored|ignore]]. To make matters worse, the curse of the Blitz [[transferred|transfer]] to Ted. Every time he left the kitchen, something exciting happened in the living room. Ted finally understood how [[frustrating|frustrate]] the curse could be. Eventually, Steve left the apartment, and the curse returned to him. The gang sat down together and [[enjoyed|enjoy]] the Thanksgiving meal. Ted realized that the most important thing was not the food but being [[surrounded|surround]] by the people he loved. They raised their glasses and gave thanks for their [[friendship|friendship]].",
+  "words": {
+    "lavish": {"pos": "adj.", "ipa": "/ˈlævɪʃ/", "cn": "丰盛的;奢华的", "en": "very expensive and impressive in scale"},
+    "perfect": {"pos": "adj.", "ipa": "/ˈpɜːrfɪkt/", "cn": "完美的;理想的", "en": "without any faults or mistakes"},
+    "terrible": {"pos": "adj.", "ipa": "/ˈterəbl/", "cn": "糟糕的;可怕的", "en": "very bad or unpleasant"},
+    "amazing": {"pos": "adj.", "ipa": "/əˈmeɪzɪŋ/", "cn": "令人惊叹的", "en": "very surprising and impressive"},
+    "curse": {"pos": "n.", "ipa": "/kɜːrs/", "cn": "诅咒;祸根", "en": "a magic spell that brings bad luck"},
+    "incredible": {"pos": "adj.", "ipa": "/ɪnˈkredəbl/", "cn": "难以置信的", "en": "impossible or very hard to believe"},
+    "spectacular": {"pos": "adj.", "ipa": "/spekˈtækjələr/", "cn": "壮观的;惊人的", "en": "very impressive and exciting to watch"},
+    "slave": {"pos": "v.", "ipa": "/sleɪv/", "cn": "苦干;拼命工作", "en": "to work extremely hard at something"},
+    "roast": {"pos": "v.", "ipa": "/roʊst/", "cn": "烤;烘焙", "en": "to cook food in an oven with heat"},
+    "mash": {"pos": "v.", "ipa": "/mæʃ/", "cn": "捣碎;压成泥", "en": "to crush food until it is soft and smooth"},
+    "exhaust": {"pos": "v.", "ipa": "/ɪɡˈzɔːst/", "cn": "使筋疲力尽", "en": "to make someone feel completely tired"},
+    "appetite": {"pos": "n.", "ipa": "/ˈæpɪtaɪt/", "cn": "食欲;胃口", "en": "the desire to eat food"},
+    "furious": {"pos": "adj.", "ipa": "/ˈfjʊriəs/", "cn": "狂怒的;暴怒的", "en": "extremely angry about something"},
+    "ignore": {"pos": "v.", "ipa": "/ɪɡˈnɔːr/", "cn": "忽视;不理睬", "en": "to pay no attention to something"},
+    "transfer": {"pos": "v.", "ipa": "/trænsˈfɜːr/", "cn": "转移;传递", "en": "to move from one person to another"},
+    "frustrate": {"pos": "v.", "ipa": "/ˈfrʌstreɪt/", "cn": "使沮丧;使挫败", "en": "to make someone feel upset or blocked"},
+    "enjoy": {"pos": "v.", "ipa": "/ɪnˈdʒɔɪ/", "cn": "享受;欣赏", "en": "to get pleasure from something"},
+    "surround": {"pos": "v.", "ipa": "/səˈraʊnd/", "cn": "围绕;环绕", "en": "to be all around someone or something"},
+    "friendship": {"pos": "n.", "ipa": "/ˈfrendʃɪp/", "cn": "友谊;友情", "en": "the relationship between friends"}
+  }
+}

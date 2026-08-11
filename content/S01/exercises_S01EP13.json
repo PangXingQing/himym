@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "whirl",
+    "hint": "旋转",
+    "phonetic": "/wɜːl/"
+  },
+  {
+    "type": "spelling",
+    "word": "curiosity",
+    "hint": "好奇心",
+    "phonetic": "/ˌkjʊə.riˈɒs.ə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "identity",
+    "hint": "身份",
+    "phonetic": "/aɪˈden.tə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "（人与人之间的）来电、化学反应",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "With __________ ring sparkling, Lily couldn't stop smiling.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ was as nervous as a schoolboy.",
+    "answer": "Ted"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Was __________re anything real behind the drumroll?",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "With rain in her hair, Robin __________ unforgettable.",
+    "answer": "looked"
+  }
+]

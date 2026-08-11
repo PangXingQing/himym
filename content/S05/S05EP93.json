@@ -1,0 +1,110 @@
+{
+  "id": 93,
+  "title": "Duel Citizenship",
+  "cn": "第 5 集 · 双重国籍",
+  "novel": "Robin had lived in America for years, but her Canadian [[roots|root]] ran deep. When her work [[visa|visa]] came up for renewal, she faced a choice: apply for American [[citizenship|citizenship]], or return home.\n\nMarshall, [[proud|proud]] of his American [[heritage|heritage]], argued she should stay. A loud [[debate|debate]] followed. Barney, never one to miss a joke, [[invaded|invade]] a Canadian bar and [[declared|declare]] that Canada was America's hat.\n\nRobin felt torn. She loved New York, but she [[missed|miss]] the snow of her childhood, the polite strangers, the sound of [[hockey|hockey]] on a frozen pond.\n\n\"I don't want to [[abandon|abandon]] who I am,\" she told Ted.\n\nTed [[understood|understand]]. \"You don't have to choose. That's the [[compromise|compromise]].\"\n\nIn the end, Robin kept her Canadian [[identity|identity]] while building an American life. Some [[loyalties|loyalty]], she learned, did not require a [[passport|passport]]. They lived in the heart, where [[borders|border]] meant nothing.",
+  "words": {
+    "root": {
+      "pos": "n.",
+      "ipa": "/ruːt/",
+      "cn": "根源；根基",
+      "en": "the origin or deep connection to a place"
+    },
+    "visa": {
+      "pos": "n.",
+      "ipa": "/ˈviː.zə/",
+      "cn": "签证",
+      "en": "an official mark allowing you to enter a country"
+    },
+    "citizenship": {
+      "pos": "n.",
+      "ipa": "/ˈsɪt.ɪ.zən.ʃɪp/",
+      "cn": "国籍；公民身份",
+      "en": "being a legal member of a country"
+    },
+    "proud": {
+      "pos": "adj.",
+      "ipa": "/praʊd/",
+      "cn": "骄傲的",
+      "en": "feeling pleased about something you have done"
+    },
+    "heritage": {
+      "pos": "n.",
+      "ipa": "/ˈher.ɪ.tɪdʒ/",
+      "cn": "传统；遗产",
+      "en": "traditions passed down through a culture"
+    },
+    "debate": {
+      "pos": "n.",
+      "ipa": "/dɪˈbeɪt/",
+      "cn": "辩论",
+      "en": "a discussion in which people argue for different sides"
+    },
+    "invade": {
+      "pos": "v.",
+      "ipa": "/ɪnˈveɪd/",
+      "cn": "入侵；闯入",
+      "en": "to enter a place in large numbers, often by force"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "miss": {
+      "pos": "v.",
+      "ipa": "/mɪs/",
+      "cn": "想念",
+      "en": "to feel sad because someone is not with you"
+    },
+    "hockey": {
+      "pos": "n.",
+      "ipa": "/ˈhɒk.i/",
+      "cn": "冰球",
+      "en": "a game played on ice with sticks and a puck"
+    },
+    "abandon": {
+      "pos": "v.",
+      "ipa": "/əˈbæn.dən/",
+      "cn": "抛弃",
+      "en": "to leave someone or something completely"
+    },
+    "understand": {
+      "pos": "v.",
+      "ipa": "/ˌʌn.dəˈstænd/",
+      "cn": "理解",
+      "en": "to know what something means"
+    },
+    "compromise": {
+      "pos": "n.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "妥协；折中",
+      "en": "an agreement where each side gives up something"
+    },
+    "identity": {
+      "pos": "n.",
+      "ipa": "/aɪˈden.tɪ.ti/",
+      "cn": "身份；认同",
+      "en": "who a person is"
+    },
+    "loyalty": {
+      "pos": "n.",
+      "ipa": "/ˈlɔɪ.əl.ti/",
+      "cn": "忠诚",
+      "en": "staying true to someone or something"
+    },
+    "passport": {
+      "pos": "n.",
+      "ipa": "/ˈpɑːs.pɔːt/",
+      "cn": "护照",
+      "en": "a book that lets you travel between countries"
+    },
+    "border": {
+      "pos": "n.",
+      "ipa": "/ˈbɔː.dər/",
+      "cn": "边界",
+      "en": "the line that separates two countries"
+    }
+  }
+}

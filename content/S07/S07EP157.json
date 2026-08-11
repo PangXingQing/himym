@@ -1,0 +1,80 @@
+{
+  "id": 157,
+  "title": "Now We're Even",
+  "cn": "第 21 集 · 现在我们扯平了",
+  "novel": "Barney tried to get Ted out of the apartment every night. He felt that Ted was spending too much time alone and needed to [[socialize|socialize]]. Barney made a list of fun activities they could do together. They went to clubs, bars, and parties all over the city. Ted was [[reluctant|reluctant]] at first but eventually started to enjoy himself. Barney wanted to make sure Ted was having the best time of his life. He said they needed to be even in their [[experiences|experience]] before Barney got married. Meanwhile, Lily had a [[naughty|naughty]] dream about someone [[unexpected|unexpected]]. She felt [[embarrassed|embarrass]] about it and did not want to tell anyone. She finally told Marshall, who found it both funny and slightly [[disturbing|disturb]]. Marshall tried not to make a big deal out of it, but he could not stop thinking about it. Robin became a famous news anchor during this time. She [[landed|land]] a job on a morning news show. She was [[thrilled|thrill]] about her new position and worked hard every day. However, the early hours were [[exhausting|exhausting]]. She had to wake up at four in the morning every day. Ted and Barney's nightly adventures were getting more and more [[wild|wild]]. They did things they had never done before and created memories that would last a lifetime. Ted [[thanked|thank]] Barney for pushing him out of his comfort zone. Barney said that was what bros were for. They agreed that their friendship was one of the best things in their lives.",
+  "words": {
+    "socialize": {
+      "pos": "v.",
+      "ipa": "/ˈsoʊʃəlaɪz/",
+      "cn": "社交",
+      "en": "to spend time with others"
+    },
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌktənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "experience": {
+      "pos": "n.",
+      "ipa": "/ɪkˈspɪriənsɪz/",
+      "cn": "经历",
+      "en": "things you have done or seen"
+    },
+    "naughty": {
+      "pos": "adj.",
+      "ipa": "/ˈnɔːti/",
+      "cn": "调皮的",
+      "en": "slightly improper or bad"
+    },
+    "unexpected": {
+      "pos": "adj.",
+      "ipa": "/ˌʌnɪkˈspektɪd/",
+      "cn": "出乎意料的",
+      "en": "not expected or planned"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbærəst/",
+      "cn": "使尴尬",
+      "en": "to make someone feel ashamed"
+    },
+    "disturb": {
+      "pos": "v.",
+      "ipa": "/dɪˈstɜːrbɪŋ/",
+      "cn": "令人不安的",
+      "en": "making you feel worried"
+    },
+    "land": {
+      "pos": "v.",
+      "ipa": "/lændɪd/",
+      "cn": "获得",
+      "en": "to succeed in getting something"
+    },
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪld/",
+      "cn": "使兴奋",
+      "en": "to make someone very excited"
+    },
+    "exhausting": {
+      "pos": "adj.",
+      "ipa": "/ɪɡˈzɔːstɪŋ/",
+      "cn": "令人疲惫的",
+      "en": "making you very tired"
+    },
+    "wild": {
+      "pos": "adj.",
+      "ipa": "/waɪld/",
+      "cn": "疯狂的",
+      "en": "exciting and uncontrolled"
+    },
+    "thank": {
+      "pos": "v.",
+      "ipa": "/θæŋkt/",
+      "cn": "感谢",
+      "en": "to express gratitude to someone"
+    }
+  }
+}

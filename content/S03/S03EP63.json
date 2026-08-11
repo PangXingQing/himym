@@ -1,0 +1,128 @@
+{
+  "id": 63,
+  "title": "Everything Must Go",
+  "cn": "第 19 集 · 清仓大甩卖",
+  "novel": "Lily [[sold|sell]] her [[paintings|painting]] to [[pay off|pay off]] her [[debt|debt]]. Her art was [[terrible|terrible]], but Barney [[bought|buy]] them as an [[investment|investment]].\n\n\"These will be worth [[millions|millions]] someday,\" Barney [[declared|declare]], [[holding|hold]] up a [[crooked|crooked]] portrait.\n\nLily was [[grateful|grateful]] but [[suspicious|suspicious]]. \"Why are you being so [[generous|generous]]?\" she asked.\n\n\"Because I'm your friend,\" Barney said. \"And because I have [[terrible|terrible]] [[taste|taste]] in art.\"\n\nMarshall [[watched|watch]] the [[transaction|transaction]] with [[relief|relief]]. The debt was finally gone. They could [[breathe|breathe]] again.\n\nAt the [[gallery|gallery]], Lily's artwork drew small crowds. Some people laughed. Others nodded politely. None of it [[sold|sell]] — except to Barney.\n\nLily realized that true friends didn't just accept your flaws. Sometimes they [[bought|buy]] them and hung them on their wall.",
+  "words": {
+    "sell": {
+      "pos": "v.",
+      "ipa": "/sel/",
+      "cn": "卖（sold为过去式）",
+      "en": "to give for money"
+    },
+    "painting": {
+      "pos": "n.",
+      "ipa": "/ˈpeɪn.tɪŋ/",
+      "cn": "画作",
+      "en": "a picture made with paint"
+    },
+    "pay off": {
+      "pos": "phr.v.",
+      "ipa": "/peɪ ɒf/",
+      "cn": "还清",
+      "en": "to fully repay a debt"
+    },
+    "debt": {
+      "pos": "n.",
+      "ipa": "/det/",
+      "cn": "债务",
+      "en": "money you owe"
+    },
+    "terrible": {
+      "pos": "adj.",
+      "ipa": "/ˈter.ə.bəl/",
+      "cn": "糟糕的",
+      "en": "very bad in quality"
+    },
+    "buy": {
+      "pos": "v.",
+      "ipa": "/baɪ/",
+      "cn": "买（bought为过去式）",
+      "en": "to get for money"
+    },
+    "investment": {
+      "pos": "n.",
+      "ipa": "/ɪnˈvest.mənt/",
+      "cn": "投资",
+      "en": "money put into something for profit"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "hold": {
+      "pos": "v.",
+      "ipa": "/həʊld/",
+      "cn": "拿着",
+      "en": "to keep in hand"
+    },
+    "crooked": {
+      "pos": "adj.",
+      "ipa": "/ˈkrʊk.ɪd/",
+      "cn": "歪的",
+      "en": "not straight"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "feeling thankful"
+    },
+    "suspicious": {
+      "pos": "adj.",
+      "ipa": "/səˈspɪʃ.əs/",
+      "cn": "怀疑的",
+      "en": "feeling distrust"
+    },
+    "generous": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒen.ər.əs/",
+      "cn": "慷慨的",
+      "en": "willing to give freely"
+    },
+    "taste": {
+      "pos": "n.",
+      "ipa": "/teɪst/",
+      "cn": "品味",
+      "en": "ability to judge quality"
+    },
+    "watch": {
+      "pos": "v.",
+      "ipa": "/wɒtʃ/",
+      "cn": "观看",
+      "en": "to look at"
+    },
+    "transaction": {
+      "pos": "n.",
+      "ipa": "/trænˈzæk.ʃən/",
+      "cn": "交易",
+      "en": "a business deal"
+    },
+    "relief": {
+      "pos": "n.",
+      "ipa": "/rɪˈliːf/",
+      "cn": "解脱；宽慰",
+      "en": "feeling of comfort after stress"
+    },
+    "breathe": {
+      "pos": "v.",
+      "ipa": "/briːð/",
+      "cn": "呼吸",
+      "en": "to take air into lungs"
+    },
+    "gallery": {
+      "pos": "n.",
+      "ipa": "/ˈɡæl.ər.i/",
+      "cn": "画廊",
+      "en": "a place showing art"
+    },
+    "millions": {
+      "pos": "n.",
+      "ipa": "/ˈmɪl.jənz/",
+      "cn": "数百万",
+      "en": "a very large amount of money"
+    }
+  }
+}

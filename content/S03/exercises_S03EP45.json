@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I can see __________ your act.",
+    "answer": "through"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ saw through his lies.",
+    "answer": "She"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  }
+]

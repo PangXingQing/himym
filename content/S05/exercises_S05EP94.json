@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "ambition",
+    "hint": "抱负",
+    "phonetic": "/æmˈbɪʃ.ən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She moved on after __________ breakup.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's time to __________ on.",
+    "answer": "move"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He ended up liking __________ job.",
+    "answer": "the"
+  }
+]

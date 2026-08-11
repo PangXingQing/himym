@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He was __________ over the stain.",
+    "answer": "obsessing"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  }
+]

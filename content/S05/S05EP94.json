@@ -1,0 +1,92 @@
+{
+  "id": 94,
+  "title": "Bagpipes",
+  "cn": "第 6 集 · 风笛",
+  "novel": "A new neighbor moved in upstairs, and every night he played the [[bagpipes|bagpipes]]. The sound was [[dreadful|dreadful]] — a long, dying wail that [[pierced|pierce]] the walls.\n\nMarshall and Lily, meanwhile, tried to [[settle|settle]] a quarrel of their own. Marshall had given Barney [[advice|advice]] about Robin, and it had [[backfired|backfire]] badly. Now Barney and Robin were fighting over everything.\n\n\"You should [[mind|mind]] your own business,\" Lily scolded.\n\nBut Marshall could not help himself. He liked feeling [[wise|wise]], even when his wisdom [[ruined|ruin]] things.\n\nBarney finally [[confronted|confront]] the bagpipe player upstairs. \"Do you know what time it is?\" he shouted.\n\nThe man kept playing. Barney returned, [[defeated|defeated]].\n\nTed watched it all and laughed. Some sounds, he thought, could not be silenced — not the [[bagpipes|bagpipes]], and not the [[nagging|nagging]] voice of a friend who thought he knew best. The only [[remedy|remedy]], Ted decided, was patience, and a very good pair of [[earplugs|earplug]].",
+  "words": {
+    "bagpipes": {
+      "pos": "n.",
+      "ipa": "/ˈbæɡ.paɪps/",
+      "cn": "风笛",
+      "en": "a Scottish musical instrument played by blowing air into a bag"
+    },
+    "dreadful": {
+      "pos": "adj.",
+      "ipa": "/ˈdred.fəl/",
+      "cn": "可怕的；糟糕的",
+      "en": "very bad or unpleasant"
+    },
+    "pierce": {
+      "pos": "v.",
+      "ipa": "/pɪəs/",
+      "cn": "刺穿；穿透",
+      "en": "to go through something, especially a sound"
+    },
+    "settle": {
+      "pos": "v.",
+      "ipa": "/ˈset.əl/",
+      "cn": "解决；平息",
+      "en": "to end an argument"
+    },
+    "advice": {
+      "pos": "n.",
+      "ipa": "/ədˈvaɪs/",
+      "cn": "建议",
+      "en": "an opinion about what someone should do"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪər/",
+      "cn": "适得其反",
+      "en": "to have the opposite result to what you wanted"
+    },
+    "mind": {
+      "pos": "v.",
+      "ipa": "/maɪnd/",
+      "cn": "管；关心",
+      "en": "to care about or pay attention to something"
+    },
+    "wise": {
+      "pos": "adj.",
+      "ipa": "/waɪz/",
+      "cn": "明智的",
+      "en": "showing good sense and judgment"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "破坏",
+      "en": "to spoil or destroy something"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "当面质问",
+      "en": "to face someone and argue with them"
+    },
+    "defeated": {
+      "pos": "adj.",
+      "ipa": "/dɪˈfiː.tɪd/",
+      "cn": "挫败的",
+      "en": "feeling that you have lost"
+    },
+    "nagging": {
+      "pos": "adj.",
+      "ipa": "/ˈnæɡ.ɪŋ/",
+      "cn": "唠叨的",
+      "en": "complaining again and again"
+    },
+    "remedy": {
+      "pos": "n.",
+      "ipa": "/ˈrem.ə.di/",
+      "cn": "补救办法",
+      "en": "a way of fixing a problem"
+    },
+    "earplug": {
+      "pos": "n.",
+      "ipa": "/ˈɪə.plʌɡ/",
+      "cn": "耳塞",
+      "en": "a small piece you put in your ear to block noise"
+    }
+  }
+}

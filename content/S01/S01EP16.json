@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "title": "Cupcake",
+  "cn": "第 16 集 · 纸杯蛋糕",
+  "novel": "It began as an ordinary Tuesday and became, by accident, a perfect one.\n\nTed found a hat that suited him, met a kind stranger, and bought a warm [[cupcake|cupcake]] from a tiny [[bakery|bakery]]. The [[frosting|frosting]] was thick and [[irresistible|irresistible]]. He [[nibbled|nibble]] slowly to [[savour|savour]] it, then [[indulged|indulge]] and ate two more, leaving [[crumbs|crumb]] all over his coat like a [[greedy|greedy]] child.\n\nThat afternoon his boss offered him a [[promotion|promotion]]: a better [[salary|salary]], a five-year [[contract|contract]], and total [[stability|stability]].\n\nIt was a real [[opportunity|opportunity]]. It was also a [[dilemma|dilemma]].\n\nTaking it meant giving up his [[ambition|ambition]] to design one beautiful building of his own. Refusing it meant [[risk|risk]], and a very good chance of failure.\n\nHe kept the hat, the receipt and the paper cup as [[souvenirs|souvenir]] of the day, half believing in [[superstition|superstition]], half hoping the hat was a [[lucky charm|lucky charm]].\n\nThat night the choice felt [[overwhelming|overwhelming]]. But Ted had learned something from the [[bargain|bargain]] price of a cupcake: small joys are cheap, and big dreams are not meant to be.\n\nHe said no to the contract. He kept the hat.",
+  "words": {
+    "cupcake": {"pos": "n.", "ipa": "/ˈkʌp.keɪk/", "cn": "纸杯蛋糕", "en": "a small cake baked in a paper cup"},
+    "bakery": {"pos": "n.", "ipa": "/ˈbeɪ.kər.i/", "cn": "面包房", "en": "a shop that makes and sells bread and cakes"},
+    "frosting": {"pos": "n.", "ipa": "/ˈfrɒs.tɪŋ/", "cn": "糖霜（英式常说 icing）", "en": "the sweet soft layer on top of a cake"},
+    "irresistible": {"pos": "adj.", "ipa": "/ˌɪr.ɪˈzɪs.tə.bl̩/", "cn": "无法抗拒的", "en": "so good that you cannot say no"},
+    "nibble": {"pos": "v.", "ipa": "/ˈnɪb.l̩/", "cn": "小口地咬", "en": "to eat in small bites"},
+    "savour": {"pos": "v.", "ipa": "/ˈseɪ.və/", "cn": "细细品味（美式 savor）", "en": "to enjoy something slowly and fully"},
+    "indulge": {"pos": "v.", "ipa": "/ɪnˈdʌldʒ/", "cn": "放纵一下（自己）", "en": "to let yourself have something you enjoy, maybe too much"},
+    "crumb": {"pos": "n.", "ipa": "/krʌm/", "cn": "食物碎屑（b 不发音）", "en": "a very small piece of bread or cake"},
+    "greedy": {"pos": "adj.", "ipa": "/ˈɡriː.di/", "cn": "贪心的；嘴馋的", "en": "wanting more than you need"},
+    "promotion": {"pos": "n.", "ipa": "/prəˈməʊ.ʃən/", "cn": "升职", "en": "moving up to a better job in the same company"},
+    "salary": {"pos": "n.", "ipa": "/ˈsæl.ər.i/", "cn": "（月/年）薪水", "en": "the money you are paid for your job each month"},
+    "contract": {"pos": "n.", "ipa": "/ˈkɒn.trækt/", "cn": "合同", "en": "an official written agreement"},
+    "stability": {"pos": "n.", "ipa": "/stəˈbɪl.ə.ti/", "cn": "稳定", "en": "the state of staying safe and not changing"},
+    "opportunity": {"pos": "n.", "ipa": "/ˌɒp.əˈtjuː.nə.ti/", "cn": "机会", "en": "a good chance to do something"},
+    "dilemma": {"pos": "n.", "ipa": "/daɪˈlem.ə/", "cn": "两难困境", "en": "a hard choice between two things"},
+    "ambition": {"pos": "n.", "ipa": "/æmˈbɪʃ.ən/", "cn": "抱负；野心", "en": "something big you really want to achieve"},
+    "risk": {"pos": "n.", "ipa": "/rɪsk/", "cn": "风险", "en": "the chance that something bad may happen"},
+    "souvenir": {"pos": "n.", "ipa": "/ˌsuː.vəˈnɪə/", "cn": "纪念品", "en": "a small thing you keep to remember a place or day"},
+    "superstition": {"pos": "n.", "ipa": "/ˌsuː.pəˈstɪʃ.ən/", "cn": "迷信", "en": "the belief that certain things bring good or bad luck"},
+    "lucky charm": {"pos": "n.", "ipa": "/ˈlʌk.i tʃɑːm/", "cn": "幸运物", "en": "an object people believe brings good luck"},
+    "overwhelming": {"pos": "adj.", "ipa": "/ˌəʊ.vəˈwel.mɪŋ/", "cn": "压倒性的；令人难以承受的", "en": "so strong or big that you cannot deal with it"},
+    "bargain": {"pos": "n.", "ipa": "/ˈbɑː.ɡɪn/", "cn": "便宜货；划算的买卖", "en": "something you buy cheaply"}
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 54,
+  "title": "The Yips",
+  "cn": "第 10 集 · 失手症",
+  "novel": "Barney [[lost|lose]] his [[pickup|pickup]] [[ability|ability]] after a woman [[outsmarted|outsmart]] him. He [[froze|freeze]] at the bar, unable to speak. \"I've got the [[yips|yips]],\" he [[admitted|admit]].\n\nTed [[mooched|mooch]] free gym [[passes|pass]] from the front desk. \"It's a [[system|system]],\" he said, [[pretending|pretend]] to be a guest every day.\n\nBarney tried to [[recover|recover]] his [[confidence|confidence]]. He [[approached|approach]] women but [[choked|choke]] every time. \"My [[mouth|mouth]] stops working,\" he [[complained|complain]].\n\nFinally, Barney discovered the [[secret|secret]]: he needed to stop [[caring|care]]. The moment he stopped trying so hard, the words returned. He [[walked|walk]] up to a woman and said hello. She smiled.\n\nThe yips, Barney realized, were caused by overthinking. Sometimes the best strategy was no strategy at all.",
+  "words": {
+    "lose": {
+      "pos": "v.",
+      "ipa": "/luːz/",
+      "cn": "失去",
+      "en": "to no longer have something"
+    },
+    "pickup": {
+      "pos": "n.",
+      "ipa": "/ˈpɪk.ʌp/",
+      "cn": "搭讪",
+      "en": "starting a conversation with a stranger"
+    },
+    "ability": {
+      "pos": "n.",
+      "ipa": "/əˈbɪl.ə.ti/",
+      "cn": "能力",
+      "en": "the skill to do something"
+    },
+    "outsmart": {
+      "pos": "v.",
+      "ipa": "/ˌaʊtˈsmɑːt/",
+      "cn": "智胜",
+      "en": "to be cleverer than someone"
+    },
+    "freeze": {
+      "pos": "v.",
+      "ipa": "/friːz/",
+      "cn": "僵住",
+      "en": "to stop moving suddenly"
+    },
+    "yips": {
+      "pos": "n.",
+      "ipa": "/jɪps/",
+      "cn": "失手症",
+      "en": "sudden inability to do a skill"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "mooch": {
+      "pos": "v.",
+      "ipa": "/muːtʃ/",
+      "cn": "蹭",
+      "en": "to get something for free"
+    },
+    "pass": {
+      "pos": "n.",
+      "ipa": "/pɑːs/",
+      "cn": "通行证",
+      "en": "a card allowing entry"
+    },
+    "system": {
+      "pos": "n.",
+      "ipa": "/ˈsɪs.təm/",
+      "cn": "系统",
+      "en": "an organized method"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true"
+    },
+    "recover": {
+      "pos": "v.",
+      "ipa": "/rɪˈkʌv.ə/",
+      "cn": "恢复",
+      "en": "to get back to normal"
+    },
+    "confidence": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "cn": "信心",
+      "en": "belief in yourself"
+    },
+    "approach": {
+      "pos": "v.",
+      "ipa": "/əˈprəʊtʃ/",
+      "cn": "接近",
+      "en": "to move toward someone"
+    },
+    "choke": {
+      "pos": "v.",
+      "ipa": "/tʃəʊk/",
+      "cn": "卡壳",
+      "en": "to fail under pressure"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "to say you're not satisfied"
+    },
+    "care": {
+      "pos": "v.",
+      "ipa": "/keə/",
+      "cn": "在意",
+      "en": "to feel something matters"
+    },
+    "mouth": {
+      "pos": "n.",
+      "ipa": "/maʊθ/",
+      "cn": "嘴",
+      "en": "the opening in the face"
+    },
+    "secret": {
+      "pos": "n.",
+      "ipa": "/ˈsiː.krət/",
+      "cn": "秘密",
+      "en": "something hidden from others"
+    },
+    "walk": {
+      "pos": "v.",
+      "ipa": "/wɔːk/",
+      "cn": "走",
+      "en": "to move on foot"
+    }
+  }
+}

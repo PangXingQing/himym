@@ -1,0 +1,25 @@
+{
+  "id": 130,
+  "title": "A Change of Heart",
+  "cn": "第 18 集 · 心的改变",
+  "novel": "Barney started to worry that something was wrong with his heart. He had been developing real feelings for Nora, and the [[sensation|sensation]] was completely [[foreign|foreign]] to him. He felt his heart [[race|races]] every time he saw her, and he could not eat or sleep properly. He went to see a doctor, who told him that there was nothing [[physically|physical]] wrong with his heart. The problem was [[emotional|emotional]]. Barney was experiencing genuine love for the first time in his life, and it [[terrified|terrify]] him. Meanwhile, Robin started dating a man named Nate who behaved like a dog. He [[chased|chase]] balls, barked at strangers, and ate food off the floor. Robin found it [[bizarre|bizarre]] but also oddly endearing. Her friends thought she had lost her mind. Barney decided to [[confess|confess]] his feelings to Nora on a national television show. It was a [[grand|grand]] gesture that surprised everyone, including Barney himself. Nora was [[touched|touch]] by his honesty but was not sure if she could trust him. She told Barney that she needed time to think. While Barney waited for Nora's answer, he reflected on his life. He realized that every woman he had ever been with had been a [[substitute|substitute]] for the real connection he was afraid to seek. Robin broke up with Nate after he bit the mailman. She told the gang that she had been dating him only to distract herself from her feelings for Barney. Ted listened to Robin's [[confession|confession]] and felt [[concerned|concern]] for both of his friends. He knew that the situation was [[delicate|delicate]] and that someone was going to get hurt. Eventually, Nora agreed to give Barney a chance. Barney was so [[overjoyed|overjoyed]] that he literally danced in the street. He felt like a new man, as if his heart had undergone a complete [[transformation|transformation]]. It was a true change of heart in every sense of the word.",
+  "words": {
+    "sensation": {"pos": "n.", "ipa": "/senˈseɪʃ.ən/", "cn": "感觉;感受", "en": "a physical or emotional feeling"},
+    "foreign": {"pos": "adj.", "ipa": "/ˈfɔːrən/", "cn": "陌生的;外来的", "en": "not familiar or not from your own country"},
+    "races": {"pos": "v.", "ipa": "/ˈreɪsɪz/", "cn": "急速跳动;飞奔", "en": "to beat very fast, like a heart from fear"},
+    "physical": {"pos": "adv.", "ipa": "/ˈfɪzɪkli/", "cn": "身体上地;物理地", "en": "relating to the body rather than the mind"},
+    "emotional": {"pos": "adj.", "ipa": "/ɪˈmoʊʃənl/", "cn": "情感的;情绪的", "en": "relating to feelings and emotions"},
+    "terrify": {"pos": "v.", "ipa": "/ˈterɪfaɪ/", "cn": "使恐惧;使害怕", "en": "to make someone feel extremely afraid"},
+    "chase": {"pos": "v.", "ipa": "/tʃeɪs/", "cn": "追逐;追赶", "en": "to run after someone or something"},
+    "bizarre": {"pos": "adj.", "ipa": "/bɪˈzɑːr/", "cn": "古怪的;奇异的", "en": "very strange and unusual"},
+    "confess": {"pos": "v.", "ipa": "/kənˈfes/", "cn": "坦白;承认", "en": "to admit something you have been hiding"},
+    "grand": {"pos": "adj.", "ipa": "/ɡrænd/", "cn": "宏大的;盛大的", "en": "large and impressive in scale"},
+    "touch": {"pos": "v.", "ipa": "/tʌtʃ/", "cn": "感动;触动", "en": "to affect someone emotionally"},
+    "substitute": {"pos": "n.", "ipa": "/ˈsʌbstɪtuːt/", "cn": "替代品;代替者", "en": "a thing that takes the place of another"},
+    "confession": {"pos": "n.", "ipa": "/kənˈfeʃ.ən/", "cn": "坦白;供认", "en": "the act of admitting something hidden"},
+    "concern": {"pos": "v.", "ipa": "/kənˈsɜːrn/", "cn": "使担忧;使关心", "en": "to make someone feel worried"},
+    "delicate": {"pos": "adj.", "ipa": "/ˈdelɪkət/", "cn": "微妙的;需谨慎处理的", "en": "needing careful handling to avoid problems"},
+    "overjoyed": {"pos": "adj.", "ipa": "/ˌoʊvərˈdʒɔɪd/", "cn": "欣喜若狂的", "en": "extremely happy about something"},
+    "transformation": {"pos": "n.", "ipa": "/ˌtrænsfərˈmeɪʃ.ən/", "cn": "转变;变化", "en": "a complete change in appearance or nature"}
+  }
+}

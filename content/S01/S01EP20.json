@@ -1,0 +1,30 @@
+{
+  "id": 20,
+  "title": "Best Prom Ever",
+  "cn": "第 20 集 · 最棒的毕业舞会",
+  "novel": "Barney needed to hear a band play, and the band was booked for a high-school [[prom|prom]]. So the adults decided to [[gatecrash|gatecrash]] it.\n\nThey wore a poor [[disguise|disguise]]: old jackets, and a plastic [[corsage|corsage]] for Lily, who claimed to be a [[chaperone|chaperone]].\n\nInside, the school hall was gloriously [[tacky|tacky]]. Silver [[glitter|glitter]] covered the floor. A wall of blue [[balloons|balloon]] hid the basketball nets. Every dress had a thousand [[sequins|sequin]], and a paper [[crown|crown]] waited on a table for the king of the night.\n\nEvery [[teenager|teenager]] in the room looked [[insecure|insecure]]. They stood in tight little [[cliques|clique]], watching the door, [[yearning|yearn]] for somebody to notice them.\n\nWatching a [[slow dance|slow dance]], Ted felt something [[bittersweet|bittersweet]]. He had spent his own teenage years waiting to become a [[grown-up|grown-up]], and now he stood here, older, still waiting for his life to start.\n\nThe children were [[innocent|innocent]] and [[fond|fond]] of everything. They would [[cherish|cherish]] this [[memorable|memorable]] night for twenty years.\n\nAt eleven the [[curfew|curfew]] emptied the hall. The adults walked out into the street, quiet, smiling, and slightly embarrassed by how much they had enjoyed it.",
+  "words": {
+    "prom": {"pos": "n.", "ipa": "/prɒm/", "cn": "（美国高中）毕业舞会", "en": "a big formal dance for students at the end of high school"},
+    "gatecrash": {"pos": "v.", "ipa": "/ˈɡeɪt.kræʃ/", "cn": "不请自来；混进派对", "en": "to go to a party without being invited"},
+    "disguise": {"pos": "n.", "ipa": "/dɪsˈɡaɪz/", "cn": "伪装", "en": "clothes you wear so people do not know who you are"},
+    "corsage": {"pos": "n.", "ipa": "/kɔːˈsɑːʒ/", "cn": "（舞会上戴的）胸花/腕花", "en": "a small bunch of flowers worn on a dress or wrist"},
+    "chaperone": {"pos": "n.", "ipa": "/ˈʃæp.ər.əʊn/", "cn": "（陪伴年轻人的）监护人", "en": "an adult who watches young people at an event"},
+    "tacky": {"pos": "adj.", "ipa": "/ˈtæk.i/", "cn": "俗气廉价的", "en": "cheap-looking and in bad taste"},
+    "glitter": {"pos": "n.", "ipa": "/ˈɡlɪt.ə/", "cn": "亮片；闪粉", "en": "tiny shiny bits used to decorate things"},
+    "balloon": {"pos": "n.", "ipa": "/bəˈluːn/", "cn": "气球", "en": "a coloured rubber bag filled with air"},
+    "sequin": {"pos": "n.", "ipa": "/ˈsiː.kwɪn/", "cn": "（衣服上的）亮片", "en": "a small shiny disc sewn onto clothes"},
+    "crown": {"pos": "n.", "ipa": "/kraʊn/", "cn": "王冠", "en": "the round thing a king or queen wears on the head"},
+    "teenager": {"pos": "n.", "ipa": "/ˈtiːn.eɪ.dʒə/", "cn": "青少年（13–19 岁）", "en": "a young person between 13 and 19 years old"},
+    "insecure": {"pos": "adj.", "ipa": "/ˌɪn.sɪˈkjʊə/", "cn": "缺乏自信的；心里没底的", "en": "not confident; worried that you are not good enough"},
+    "clique": {"pos": "n.", "ipa": "/kliːk/", "cn": "小圈子；小团体", "en": "a small group of friends who keep others out"},
+    "yearn": {"pos": "v.", "ipa": "/jɜːn/", "cn": "渴望", "en": "to want something very much, in a sad way"},
+    "slow dance": {"pos": "n.", "ipa": "/sləʊ dɑːns/", "cn": "慢舞（贴面舞）", "en": "a dance to slow music, holding your partner"},
+    "bittersweet": {"pos": "adj.", "ipa": "/ˌbɪt.əˈswiːt/", "cn": "苦乐参半的", "en": "happy and sad at the same time"},
+    "grown-up": {"pos": "n.", "ipa": "/ˈɡrəʊn.ʌp/", "cn": "大人；成年人", "en": "an adult"},
+    "innocent": {"pos": "adj.", "ipa": "/ˈɪn.ə.sənt/", "cn": "天真无邪的；无辜的", "en": "having no experience of bad things"},
+    "fond": {"pos": "adj.", "ipa": "/fɒnd/", "cn": "喜爱的（常用 be fond of）", "en": "liking someone or something very much"},
+    "cherish": {"pos": "v.", "ipa": "/ˈtʃer.ɪʃ/", "cn": "珍视；珍藏（回忆）", "en": "to love something and keep it carefully"},
+    "memorable": {"pos": "adj.", "ipa": "/ˈmem.ər.ə.bl̩/", "cn": "难忘的", "en": "so good or special that you will remember it"},
+    "curfew": {"pos": "n.", "ipa": "/ˈkɜː.fjuː/", "cn": "宵禁；规定的回家时间", "en": "a time by which you must be home or off the streets"}
+  }
+}

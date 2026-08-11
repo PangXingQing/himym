@@ -1,0 +1,170 @@
+{
+  "id": 86,
+  "title": "Right Place, Right Time",
+  "cn": "第 22 集 · 对的时间，对的地点",
+  "novel": "Ted [[explained|explain]] how a [[series|series]] of [[coincidences|coincidence]] led to meeting Stella. Every step was [[accidental|accidental]], yet every step was [[crucial|crucial]].\n\nIt started with a [[rainstorm|rainstorm]]. Ted ducked into a [[doorway|doorway]] and met a stranger. The stranger recommended a restaurant. Ted went, and there he met Stella.\n\n\"If it hadn't rained, I wouldn't have met her,\" Ted said. \"If the stranger hadn't spoken, I wouldn't have gone. If I hadn't gone, I wouldn't have met Stella.\"\n\nBarney listened skeptically. \"That's not [[destiny|destiny]]. That's just [[probability|probability]].\"\n\nBut Ted was [[convinced|convince]]. Every moment was a [[turning|turning]] point. Every [[encounter|encounter]] was a [[link|link]] in a [[chain|chain]].\n\n\"Think about it,\" Ted said. \"How did we all meet? Marshall and I were [[roommates|roommate]]. Lily was Marshall's girlfriend. Barney was in the same bar. Robin walked in one night.\"\n\nEach meeting was a [[remarkable|remarkable]] [[sequence|sequence]] of events.\n\nMarshall [[agreed|agree]]. \"It's like a [[puzzle|puzzle]]. Every piece [[matters|matter]].\"\n\nLily [[smiled|smile]]. \"Or maybe we're just lucky.\"\n\nTed [[shrugged|shrug]]. \"Either way, I'm [[grateful|grateful]] for every [[accident|accident]] that brought us here.\"\n\nThe gang sat together at MacLaren's, [[pondering|ponder]] the [[mystery|mystery]] of fate and chance. Some things, they [[realized|realize]], were meant to be.",
+  "words": {
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make something clear"
+    },
+    "series": {
+      "pos": "n.",
+      "ipa": "/ˈsɪə.riːz/",
+      "cn": "一系列",
+      "en": "a number of things in order"
+    },
+    "coincidence": {
+      "pos": "n.",
+      "ipa": "/kəʊˈɪn.sɪ.dəns/",
+      "cn": "巧合",
+      "en": "when things happen by chance in a surprising way"
+    },
+    "accidental": {
+      "pos": "adj.",
+      "ipa": "/ˌæk.sɪˈden.təl/",
+      "cn": "偶然的",
+      "en": "happening by chance, not planned"
+    },
+    "crucial": {
+      "pos": "adj.",
+      "ipa": "/ˈkruː.ʃəl/",
+      "cn": "关键的",
+      "en": "extremely important"
+    },
+    "rainstorm": {
+      "pos": "n.",
+      "ipa": "/ˈreɪn.stɔːm/",
+      "cn": "暴风雨",
+      "en": "a heavy fall of rain with wind"
+    },
+    "doorway": {
+      "pos": "n.",
+      "ipa": "/ˈdɔː.weɪ/",
+      "cn": "门口",
+      "en": "the entrance to a building or room"
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tɪ.ni/",
+      "cn": "命运",
+      "en": "the things that will happen to you in the future"
+    },
+    "probability": {
+      "pos": "n.",
+      "ipa": "/ˌprɒb.əˈbɪl.ə.ti/",
+      "cn": "概率",
+      "en": "how likely something is to happen"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "使确信",
+      "en": "to make someone believe something"
+    },
+    "turning": {
+      "pos": "adj.",
+      "ipa": "/ˈtɜː.nɪŋ/",
+      "cn": "转折的",
+      "en": "a point where things change direction"
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "邂逅",
+      "en": "a meeting, especially unexpected"
+    },
+    "link": {
+      "pos": "n.",
+      "ipa": "/lɪŋk/",
+      "cn": "环节",
+      "en": "a connection between things"
+    },
+    "chain": {
+      "pos": "n.",
+      "ipa": "/tʃeɪn/",
+      "cn": "链条",
+      "en": "a series of connected things"
+    },
+    "roommate": {
+      "pos": "n.",
+      "ipa": "/ˈruːm.meɪt/",
+      "cn": "室友",
+      "en": "someone you share a room with"
+    },
+    "remarkable": {
+      "pos": "adj.",
+      "ipa": "/rɪˈmɑː.kə.bəl/",
+      "cn": "非凡的",
+      "en": "very unusual or special"
+    },
+    "sequence": {
+      "pos": "n.",
+      "ipa": "/ˈsiː.kwəns/",
+      "cn": "序列",
+      "en": "things that follow one after another"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to have the same opinion"
+    },
+    "puzzle": {
+      "pos": "n.",
+      "ipa": "/ˈpʌz.əl/",
+      "cn": "拼图",
+      "en": "a game where you put pieces together"
+    },
+    "matter": {
+      "pos": "v.",
+      "ipa": "/ˈmæt.ər/",
+      "cn": "要紧",
+      "en": "to be important"
+    },
+    "smile": {
+      "pos": "v.",
+      "ipa": "/smaɪl/",
+      "cn": "微笑",
+      "en": "to raise the corners of your mouth"
+    },
+    "shrug": {
+      "pos": "v.",
+      "ipa": "/ʃrʌɡ/",
+      "cn": "耸肩",
+      "en": "to raise your shoulders"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "feeling thankful"
+    },
+    "accident": {
+      "pos": "n.",
+      "ipa": "/ˈæk.sɪ.dənt/",
+      "cn": "偶然",
+      "en": "something that happens by chance"
+    },
+    "ponder": {
+      "pos": "v.",
+      "ipa": "/ˈpɒn.dər/",
+      "cn": "思考",
+      "en": "to think carefully about something"
+    },
+    "mystery": {
+      "pos": "n.",
+      "ipa": "/ˈmɪs.tər.i/",
+      "cn": "谜",
+      "en": "something that is hard to understand"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand something suddenly"
+    }
+  }
+}

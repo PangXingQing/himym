@@ -1,0 +1,62 @@
+{
+  "id": 168,
+  "title": "Twelve Horny Women",
+  "cn": "第 8 集 · 十二个饥渴女人",
+  "novel": "Marshall took on Brad in the biggest case of his career. Brad had betrayed him by joining the opposing side in a major [[environmental|environmental]] lawsuit. Marshall felt [[devastated|devastate]] that his friend had turned against him. The case was about a company that was [[polluting|pollute]] the local river. Marshall was determined to win and protect the environment. The trial was [[intense|intense]] and both sides fought hard. Brad used personal information about Marshall to try to win the case. Marshall was angry but stayed focused on the [[evidence|evidence]]. Meanwhile, the gang recalled their past run-ins with the law. They each shared stories about times they had gotten into trouble. Ted talked about a time he was caught [[trespassing|trespass]] on private property. Robin shared a story about being arrested during a protest. Barney bragged about his many encounters with the police. Lily told a story about getting a parking ticket that turned into a huge mess. They all laughed about their [[ridiculous|ridiculous]] experiences with the law. Back at the trial, Marshall delivered a powerful closing argument. He spoke [[passionately|passionate]] about protecting the environment for future generations. The jury was moved by his words. In the end, Marshall won the case and felt [[vindicated|vindicate]]. He had proven that he was a good lawyer and a good person.",
+  "words": {
+    "environmental": {
+      "pos": "adj.",
+      "ipa": "/ɪnˌvaɪrənˈmentl/",
+      "cn": "环境的",
+      "en": "relating to the natural world"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "cn": "使崩溃",
+      "en": "to destroy emotionally"
+    },
+    "pollute": {
+      "pos": "v.",
+      "ipa": "/pəˈluːtɪŋ/",
+      "cn": "污染",
+      "en": "to make something dirty or harmful"
+    },
+    "intense": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈtens/",
+      "cn": "激烈的",
+      "en": "very strong or extreme"
+    },
+    "evidence": {
+      "pos": "n.",
+      "ipa": "/ˈevɪdəns/",
+      "cn": "证据",
+      "en": "facts that prove something"
+    },
+    "trespass": {
+      "pos": "v.",
+      "ipa": "/ˈtrespəsɪŋ/",
+      "cn": "非法侵入",
+      "en": "to enter without permission"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪkjələs/",
+      "cn": "荒谬的",
+      "en": "very silly or unreasonable"
+    },
+    "passionate": {
+      "pos": "adv.",
+      "ipa": "/ˈpæʃənətli/",
+      "cn": "充满激情地",
+      "en": "with strong feeling"
+    },
+    "vindicate": {
+      "pos": "v.",
+      "ipa": "/ˈvɪndɪkeɪtɪd/",
+      "cn": "证明正确",
+      "en": "to prove someone was right"
+    }
+  }
+}

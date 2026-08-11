@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "title": "Matchmaker",
+  "cn": "第 7 集 · 婚介所",
+  "novel": "Ted booked an [[appointment|appointment]] at a small [[matchmaking|matchmaking]] [[agency|agency]] on the fourteenth floor.\n\nThe [[matchmaker|matchmaker]] gave him a [[questionnaire|questionnaire]] with ninety questions. She said her [[algorithm|algorithm]] had never failed. She showed him [[charts|chart]], [[statistics|statistics]], and a huge [[database|database]] of lonely [[clients|clients]].\n\n\"We [[guarantee|guarantee]] your [[soulmate|soulmate]],\" she said.\n\nTed was [[sceptical|sceptical]] but hopeful. He listed his [[criteria|criteria]] carefully. The machine thought for a while and found exactly one [[compatible|compatible]] woman in the whole city.\n\nOne. The [[odds|odds]] were terrible.\n\nThe [[blind date|blind date]] was arranged. Ted arrived early, wearing his best shirt, feeling almost [[flawless|flawless]].\n\nThen the woman appeared — wearing a ring. She had got engaged two days before. Ted laughed to hide his [[panic|panic]].\n\nSo the search had been [[in vain|in vain]]. The agency [[rejected|reject]] his request for a second name, because there was no second name.\n\nWalking home he thought about it. Perhaps he was too [[picky|picky]]; perhaps everyone else had learned to [[settle for|settle for]] something smaller.\n\nBut he did not want a match calculated by a computer. He wanted the [[accidental|accidental]] kind — the kind you cannot put in a form.",
+  "words": {
+    "appointment": {"pos": "n.", "ipa": "/əˈpɔɪnt.mənt/", "cn": "预约", "en": "a time you have arranged to meet someone"},
+    "matchmaking": {"pos": "n.", "ipa": "/ˈmætʃˌmeɪ.kɪŋ/", "cn": "牵线做媒", "en": "the job of finding a partner for someone"},
+    "agency": {"pos": "n.", "ipa": "/ˈeɪ.dʒən.si/", "cn": "代理机构；中介公司", "en": "a company that does a service for other people"},
+    "matchmaker": {"pos": "n.", "ipa": "/ˈmætʃˌmeɪ.kə/", "cn": "媒人", "en": "a person who tries to bring two single people together"},
+    "questionnaire": {"pos": "n.", "ipa": "/ˌkwes.tʃəˈneə/", "cn": "调查问卷", "en": "a list of questions you answer on paper"},
+    "algorithm": {"pos": "n.", "ipa": "/ˈæl.ɡə.rɪ.ðəm/", "cn": "算法", "en": "a set of steps a computer follows to solve a problem"},
+    "chart": {"pos": "n.", "ipa": "/tʃɑːt/", "cn": "图表", "en": "a drawing that shows numbers or information"},
+    "statistics": {"pos": "n.", "ipa": "/stəˈtɪs.tɪks/", "cn": "统计数据", "en": "numbers that show facts about a group of things"},
+    "database": {"pos": "n.", "ipa": "/ˈdeɪ.tə.beɪs/", "cn": "数据库", "en": "a large store of information kept on a computer"},
+    "clients": {"pos": "n.", "ipa": "/ˈklaɪ.ənts/", "cn": "客户", "en": "people who pay for a service"},
+    "guarantee": {"pos": "v.", "ipa": "/ˌɡær.ənˈtiː/", "cn": "保证", "en": "to promise firmly that something will happen"},
+    "soulmate": {"pos": "n.", "ipa": "/ˈsəʊl.meɪt/", "cn": "灵魂伴侣", "en": "the one person who understands you perfectly"},
+    "sceptical": {"pos": "adj.", "ipa": "/ˈskep.tɪ.kəl/", "cn": "怀疑的（美式 skeptical）", "en": "not ready to believe that something is true"},
+    "criteria": {"pos": "n.", "ipa": "/kraɪˈtɪə.ri.ə/", "cn": "标准；条件", "en": "the rules you use to judge or choose something"},
+    "compatible": {"pos": "adj.", "ipa": "/kəmˈpæt.ə.bl̩/", "cn": "合得来的；相容的", "en": "able to live or work well together"},
+    "odds": {"pos": "n.", "ipa": "/ɒdz/", "cn": "可能性；胜算", "en": "how likely it is that something will happen"},
+    "blind date": {"pos": "n.", "ipa": "/blaɪnd deɪt/", "cn": "相亲；盲约", "en": "a meeting with someone you have never seen before, to see if you like each other"},
+    "flawless": {"pos": "adj.", "ipa": "/ˈflɔː.ləs/", "cn": "完美无瑕的", "en": "with nothing wrong at all"},
+    "panic": {"pos": "n.", "ipa": "/ˈpæn.ɪk/", "cn": "惊慌", "en": "a sudden strong feeling of fear"},
+    "in vain": {"pos": "phr.", "ipa": "/ɪn veɪn/", "cn": "徒劳；白费力气", "en": "without success"},
+    "reject": {"pos": "v.", "ipa": "/rɪˈdʒekt/", "cn": "拒绝", "en": "to say no to something or someone"},
+    "picky": {"pos": "adj.", "ipa": "/ˈpɪk.i/", "cn": "挑剔的", "en": "very hard to please; choosing too carefully"},
+    "settle for": {"pos": "phr.v.", "ipa": "/ˈset.l̩ fɔː/", "cn": "将就；勉强接受", "en": "to accept something that is not as good as you wanted"},
+    "accidental": {"pos": "adj.", "ipa": "/ˌæk.sɪˈden.təl/", "cn": "偶然的；意外的", "en": "happening by chance, not by plan"}
+  }
+}

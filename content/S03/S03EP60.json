@@ -1,0 +1,128 @@
+{
+  "id": 60,
+  "title": "Sandcastles in the Sand",
+  "cn": "第 16 集 · 沙滩城堡",
+  "novel": "Robin's [[teen|teen]] pop star past as Robin Sparkles was [[revealed|reveal]]. Her old music video 'Let's Go to the Mall' was [[unearthed|unearth]], and the group watched it in [[horror|horror]] and [[delight|delight]].\n\nRobin was [[embarrassed|embarrass]]. \"I was [[sixteen|sixteen]],\" she [[pleaded|plead]]. \"Everyone did [[silly|silly]] things.\"\n\nBut Barney [[played|play]] the video on [[repeat|repeat]]. Marshall [[sang|sing]] along within minutes. Ted [[memorized|memorize]] the [[dance|dance]] moves.\n\n\"This is [[hilarious|hilarious]],\" Barney [[declared|declare]]. \"You were a [[Canadian|Canadian]] pop star!\"\n\nRobin watched her [[younger|young]] self on screen, full of hope and [[naive|naive]] dreams. She had wanted to be famous. Now she was a news reporter.\n\nSome [[dreams|dream]], she realized, were like sandcastles in the sand — beautiful while they lasted, but washed away by time.",
+  "words": {
+    "teen": {
+      "pos": "adj.",
+      "ipa": "/tiːn/",
+      "cn": "青少年的",
+      "en": "related to teenagers"
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "to make known"
+    },
+    "unearth": {
+      "pos": "v.",
+      "ipa": "/ʌnˈɜːθ/",
+      "cn": "挖掘出",
+      "en": "to find something hidden"
+    },
+    "horror": {
+      "pos": "n.",
+      "ipa": "/ˈhɒr.ə/",
+      "cn": "惊恐",
+      "en": "a strong feeling of fear"
+    },
+    "delight": {
+      "pos": "n.",
+      "ipa": "/dɪˈlaɪt/",
+      "cn": "欢乐",
+      "en": "great pleasure"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbær.əs/",
+      "cn": "使尴尬",
+      "en": "to make someone feel shy"
+    },
+    "plead": {
+      "pos": "v.",
+      "ipa": "/pliːd/",
+      "cn": "恳求",
+      "en": "to ask desperately"
+    },
+    "silly": {
+      "pos": "adj.",
+      "ipa": "/ˈsɪl.i/",
+      "cn": "傻的",
+      "en": "not serious or sensible"
+    },
+    "play": {
+      "pos": "v.",
+      "ipa": "/pleɪ/",
+      "cn": "播放",
+      "en": "to show on screen"
+    },
+    "repeat": {
+      "pos": "n.",
+      "ipa": "/rɪˈpiːt/",
+      "cn": "重复",
+      "en": "doing again and again"
+    },
+    "sing": {
+      "pos": "v.",
+      "ipa": "/sɪŋ/",
+      "cn": "唱歌",
+      "en": "to make music with voice"
+    },
+    "memorize": {
+      "pos": "v.",
+      "ipa": "/ˈmem.ə.raɪz/",
+      "cn": "记住",
+      "en": "to learn by heart"
+    },
+    "dance": {
+      "pos": "n.",
+      "ipa": "/dɑːns/",
+      "cn": "舞蹈",
+      "en": "moving to music"
+    },
+    "hilarious": {
+      "pos": "adj.",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "cn": "非常搞笑的",
+      "en": "extremely funny"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "Canadian": {
+      "pos": "adj.",
+      "ipa": "/kəˈneɪ.di.ən/",
+      "cn": "加拿大的",
+      "en": "from Canada"
+    },
+    "young": {
+      "pos": "adj.",
+      "ipa": "/jʌŋ/",
+      "cn": "年轻的",
+      "en": "not old"
+    },
+    "naive": {
+      "pos": "adj.",
+      "ipa": "/naɪˈiːv/",
+      "cn": "天真的",
+      "en": "too trusting or simple"
+    },
+    "dream": {
+      "pos": "n.",
+      "ipa": "/driːm/",
+      "cn": "梦想",
+      "en": "a hope for the future"
+    },
+    "sixteen": {
+      "pos": "num.",
+      "ipa": "/ˌsɪksˈtiːn/",
+      "cn": "十六",
+      "en": "the number 16"
+    }
+  }
+}

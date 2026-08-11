@@ -1,0 +1,74 @@
+{
+  "id": 177,
+  "title": "The Ashtray",
+  "cn": "第 17 集 · 烟灰缸",
+  "novel": "Ted got a phone call from The Captain, a man he had met before. The Captain was a wealthy and [[eccentric|eccentric]] man who collected art. He invited Ted to his [[gallery|gallery]] to see his new collection. Ted was [[nervous|nervous]] about seeing The Captain again because their last meeting had been [[awkward|awkward]]. The gang recalled their last encounter with him. The Captain had been married to Zoey, a woman Ted had dated. The situation had been [[complicated|complicate]] because Ted had feelings for Zoey while she was still married. The Captain had found out about Ted's feelings and had confronted him. Things had gotten tense and Ted had left in a hurry. Now, Ted wondered what The Captain wanted from him. He went to the gallery with [[trepidation|trepidation]]. The Captain greeted him warmly and showed him around the gallery. He told Ted that he had moved on from Zoey and held no [[grudge|grudge]]. He said he wanted to buy one of Ted's buildings. Ted was [[surprised|surprised]] and [[flattered|flatter]]. He showed The Captain his designs and The Captain was impressed. They talked for hours about architecture and art. Ted realized that The Captain was not as [[intimidating|intimidate]] as he had thought. The Captain gave Ted a rare ashtray as a gift. Ted accepted it [[graciously|gracious]], even though he did not smoke.",
+  "words": {
+    "eccentric": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈsentrɪk/",
+      "cn": "古怪的",
+      "en": "unusual and slightly strange"
+    },
+    "gallery": {
+      "pos": "n.",
+      "ipa": "/ˈɡæləri/",
+      "cn": "画廊",
+      "en": "a place to display art"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːrvəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːkwərd/",
+      "cn": "尴尬的",
+      "en": "making you feel uncomfortable"
+    },
+    "complicate": {
+      "pos": "adj.",
+      "ipa": "/ˈkɑːmplɪkeɪtɪd/",
+      "cn": "复杂的",
+      "en": "difficult to understand"
+    },
+    "trepidation": {
+      "pos": "n.",
+      "ipa": "/ˌtrepɪˈdeɪʃn/",
+      "cn": "恐惧",
+      "en": "a feeling of fear or worry"
+    },
+    "grudge": {
+      "pos": "n.",
+      "ipa": "/ɡrʌdʒ/",
+      "cn": "怨恨",
+      "en": "a feeling of anger toward someone"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    },
+    "flatter": {
+      "pos": "v.",
+      "ipa": "/ˈflætərd/",
+      "cn": "使受宠若惊",
+      "en": "to make someone feel honored"
+    },
+    "intimidate": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈtɪmɪdeɪtɪŋ/",
+      "cn": "令人畏惧的",
+      "en": "making you feel afraid"
+    },
+    "gracious": {
+      "pos": "adv.",
+      "ipa": "/ˈɡreɪʃəsli/",
+      "cn": " graciously地",
+      "en": "in a polite and kind way"
+    }
+  }
+}

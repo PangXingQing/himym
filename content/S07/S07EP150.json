@@ -1,0 +1,86 @@
+{
+  "id": 150,
+  "title": "46 Minutes",
+  "cn": "第 14 集 · 46分钟",
+  "novel": "Lily and Marshall moved to the suburbs, and everything [[changed|change]] for the group. They had been living in the city for years, and the move was a big [[adjustment|adjustment]] for everyone. It took exactly 46 minutes to get from their new house to MacLaren's bar. Ted felt [[abandoned|abandon]] by his best friends. He sat in the apartment and felt the [[silence|silence]] around him. Barney tried to [[distract|distract]] everyone from their sadness. He took the gang to a strip club to [[celebrate|celebrate]] being free from Marshall and Lily's rules. Ted was not in the mood for a party, but he went along anyway. Lily's father [[refused|refuse]] to move out of their new house. He had been living with them and showed no signs of leaving. Marshall tried to [[politely|politely]] ask him to go, but it was no use. Lily's father said he had nowhere else to go and [[begged|beg]] to stay. Marshall and Lily felt [[trapped|trap]] in their own home. They loved Lily's father but needed their own space for the baby. The gang [[gathered|gather]] at MacLaren's and [[realized|realize]] that things would never be the same. Ted said a sad toast to the old days. Barney tried to cheer everyone up but failed. They all felt a sense of [[loss|loss]] that evening, even though they knew the move was for the best.",
+  "words": {
+    "change": {
+      "pos": "v.",
+      "ipa": "/tʃeɪndʒd/",
+      "cn": "改变",
+      "en": "to become different"
+    },
+    "adjustment": {
+      "pos": "n.",
+      "ipa": "/əˈdʒʌstmənt/",
+      "cn": "适应",
+      "en": "getting used to a new situation"
+    },
+    "abandon": {
+      "pos": "v.",
+      "ipa": "/əˈbændənd/",
+      "cn": "被抛弃",
+      "en": "to be left behind by others"
+    },
+    "silence": {
+      "pos": "n.",
+      "ipa": "/ˈsaɪləns/",
+      "cn": "寂静",
+      "en": "a complete lack of sound"
+    },
+    "distract": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrækt/",
+      "cn": "转移注意力",
+      "en": "to take attention away"
+    },
+    "celebrate": {
+      "pos": "v.",
+      "ipa": "/ˈselɪbreɪt/",
+      "cn": "庆祝",
+      "en": "to do something special for an event"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːzd/",
+      "cn": "拒绝",
+      "en": "to say no to something"
+    },
+    "politely": {
+      "pos": "adv.",
+      "ipa": "/pəˈlaɪtli/",
+      "cn": "礼貌地",
+      "en": "in a respectful manner"
+    },
+    "beg": {
+      "pos": "v.",
+      "ipa": "/beɡd/",
+      "cn": "恳求",
+      "en": "to ask desperately for something"
+    },
+    "trap": {
+      "pos": "v.",
+      "ipa": "/træpt/",
+      "cn": "困住",
+      "en": "to be stuck in a situation"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæðərd/",
+      "cn": "聚集",
+      "en": "to come together"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪzd/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    },
+    "loss": {
+      "pos": "n.",
+      "ipa": "/lɔːs/",
+      "cn": "失落",
+      "en": "the feeling of losing something"
+    }
+  }
+}

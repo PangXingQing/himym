@@ -1,0 +1,128 @@
+{
+  "id": 55,
+  "title": "The Platinum Rule",
+  "cn": "第 11 集 · 白金法则",
+  "novel": "Barney [[revealed|reveal]] his dating [[philosophy|philosophy]]: the [[Platinum|platinum]] [[Rule|rule]]. \"[[Treat|treat]] women based on what you want,\" he [[explained|explain]].\n\nHis [[scheme|scheme]] was to date his doctor, but it [[spectacularly|spectacularly]] [[backfired|backfire]]. She [[ignored|ignore]] his calls and [[blocked|block]] his number. Barney was [[stunned|stun]].\n\n\"You [[broke|break]] your own rule,\" Ted [[observed|observe]]. \"You treated her the way you wanted, not the way she needed.\"\n\nBarney [[refused|refuse]] to [[admit|admit]] he was wrong. \"The rule is [[perfect|perfect]],\" he [[insisted|insist]]. \"The execution was off.\"\n\nBut deep down, Barney [[realized|realize]] the truth. The Platinum Rule, like all [[shortcuts|shortcut]] to love, was a trap. Real connections required honesty, not strategy.",
+  "words": {
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "to make known"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fɪˈlɒs.ə.fi/",
+      "cn": "哲学；理念",
+      "en": "a way of thinking"
+    },
+    "platinum": {
+      "pos": "adj.",
+      "ipa": "/ˈplæt.ɪ.nəm/",
+      "cn": "白金的",
+      "en": "of the highest quality"
+    },
+    "rule": {
+      "pos": "n.",
+      "ipa": "/ruːl/",
+      "cn": "法则",
+      "en": "a principle to follow"
+    },
+    "treat": {
+      "pos": "v.",
+      "ipa": "/triːt/",
+      "cn": "对待",
+      "en": "to act toward someone"
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make clear"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "计划",
+      "en": "a clever plan"
+    },
+    "spectacularly": {
+      "pos": "adv.",
+      "ipa": "/spekˈtæk.jə.lə.li/",
+      "cn": "壮观地",
+      "en": "in a dramatic way"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪə/",
+      "cn": "适得其反",
+      "en": "to have the opposite effect"
+    },
+    "ignore": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈnɔː/",
+      "cn": "无视",
+      "en": "to pay no attention"
+    },
+    "block": {
+      "pos": "v.",
+      "ipa": "/blɒk/",
+      "cn": "拉黑",
+      "en": "to stop contact"
+    },
+    "stun": {
+      "pos": "v.",
+      "ipa": "/stʌn/",
+      "cn": "震惊",
+      "en": "to shock completely"
+    },
+    "break": {
+      "pos": "v.",
+      "ipa": "/breɪk/",
+      "cn": "违反",
+      "en": "to not follow a rule"
+    },
+    "observe": {
+      "pos": "v.",
+      "ipa": "/əbˈzɜːv/",
+      "cn": "评论",
+      "en": "to comment on something"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜː.fɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "shortcut": {
+      "pos": "n.",
+      "ipa": "/ˈʃɔːt.kʌt/",
+      "cn": "捷径",
+      "en": "a quicker way to do something"
+    }
+  }
+}

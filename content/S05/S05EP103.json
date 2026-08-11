@@ -1,0 +1,80 @@
+{
+  "id": 103,
+  "title": "Rabbit or Duck",
+  "cn": "第 15 集 · 兔子还是鸭子",
+  "novel": "The gang stared at an [[optical|optical]] [[illusion|illusion]]. Some saw a rabbit. Others saw a duck. A long [[debate|debate]] followed, and no one would [[concede|concede]].\n\n\"It's obviously a duck,\" Barney said.\n\n\"You're [[blind|blind]],\" Robin shot back. \"It's a rabbit.\"\n\nTed and Marshall, meanwhile, fought over a phone number a woman had left at the bar. Both [[claimed|claim]] it. Both [[insisted|insist]] she had smiled at him.\n\nBarney [[proposed|propose]] a solution: whoever solved the rabbit-or-duck puzzle first would get the number.\n\nHours passed. Coffee grew cold. Lily [[yawned|yawn]]. No one could agree.\n\nFinally Ted laughed. \"We're [[idiots|idiot]],\" he said. \"The number is for neither of us. She left it for the bartender.\"\n\nThe gang fell silent, then burst into laughter. Some [[arguments|argument]], Ted decided, were never about the prize. They were about the [[thrill|thrill]] of being right — even when you weren't.",
+  "words": {
+    "optical": {
+      "pos": "adj.",
+      "ipa": "/ˈɒp.tɪ.kəl/",
+      "cn": "视觉的",
+      "en": "connected with seeing or the eyes"
+    },
+    "illusion": {
+      "pos": "n.",
+      "ipa": "/ɪˈluː.ʒən/",
+      "cn": "错觉",
+      "en": "something that seems real but is not"
+    },
+    "debate": {
+      "pos": "n.",
+      "ipa": "/dɪˈbeɪt/",
+      "cn": "辩论",
+      "en": "a discussion where people argue different sides"
+    },
+    "concede": {
+      "pos": "v.",
+      "ipa": "/kənˈsiːd/",
+      "cn": "让步；承认",
+      "en": "to admit that you have lost"
+    },
+    "blind": {
+      "pos": "adj.",
+      "ipa": "/blaɪnd/",
+      "cn": "瞎的；看不见的",
+      "en": "unable to see; unable to notice"
+    },
+    "claim": {
+      "pos": "v.",
+      "ipa": "/kleɪm/",
+      "cn": "声称",
+      "en": "to say that something is yours or true"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持说",
+      "en": "to say firmly that something is true"
+    },
+    "propose": {
+      "pos": "v.",
+      "ipa": "/prəˈpəʊz/",
+      "cn": "提议",
+      "en": "to suggest a plan or idea"
+    },
+    "yawn": {
+      "pos": "v.",
+      "ipa": "/jɔːn/",
+      "cn": "打哈欠",
+      "en": "to open your mouth wide when tired"
+    },
+    "idiot": {
+      "pos": "n.",
+      "ipa": "/ˈɪd.i.ət/",
+      "cn": "傻瓜",
+      "en": "a very stupid person"
+    },
+    "argument": {
+      "pos": "n.",
+      "ipa": "/ˈɑː.ɡju.mənt/",
+      "cn": "争论",
+      "en": "a disagreement between people"
+    },
+    "thrill": {
+      "pos": "n.",
+      "ipa": "/θrɪl/",
+      "cn": "刺激感",
+      "en": "a sudden feeling of excitement"
+    }
+  }
+}

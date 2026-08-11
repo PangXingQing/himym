@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He was obsessing __________ the stain.",
+    "answer": "over"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "tension",
+    "hint": "紧张",
+    "phonetic": "/ˈten.ʃən/"
+  }
+]

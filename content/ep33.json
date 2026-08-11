@@ -1,0 +1,128 @@
+{
+  "id": 33,
+  "title": "How Lily Stole Christmas",
+  "cn": "第33集 · 莉莉怎么偷走了圣诞节",
+  "novel": "It was [[Christmas|Christmas]] in New York, and Ted was [[decorating|decorate]] the apartment with his [[favorite|favor]] [[ornaments|ornament]] — including a beautiful [[handmade|handmade]] one Lily had given him years ago. But when Lily saw it, her face went [[pale|pale]].\n\n\"That [[ornament|ornament]] was a gift from me,\" she said, her voice [[shaking|shake]]. \"I [[gave|give]] it to you...\"\n\n\"I know,\" Ted said. \"It's my favorite.\"\n\n\"...after I [[called|call]] you a [[grinch|grinch]] for not putting up decorations,\" Lily finished. Then everyone [[froze|freeze]]. Because that was not what happened. What really happened was that Ted had [[answered|answer]] Lily's phone while she was in San Francisco, and she had left a [[voicemail|voicemail]] calling him a [[terrible|terrible]] name.\n\nTed had never told anyone. He had [[deleted|delete]] the message before Marshall could hear it. But Lily remembered. And now, standing in front of the Christmas tree, the [[truth|truth]] came out like an [[avalanche|avalanche]].\n\n\"You called me a —\" Ted started.\n\n\"Don't,\" Lily said, tears in her eyes. \"I was [[angry|anger]] and [[hurt|hurt]] and I took it out on you. I am so, so sorry.\"\n\nChristmas was almost [[ruined|ruin]]. But Marshall, who had been quiet the whole time, picked up the ornament and hung it on the tree. \"This is still beautiful,\" he said. \"And so are both of you. Now can we please have [[eggnog|eggnog]]?\"",
+  "words": {
+    "Christmas": {
+      "pos": "n.",
+      "ipa": "/ˈkrɪs.məs/",
+      "cn": "圣诞节",
+      "en": "the Christian holiday celebrating the birth of Jesus on Dec 25"
+    },
+    "decorate": {
+      "pos": "v.",
+      "ipa": "/ˈdek.ə.reɪt/",
+      "cn": "装饰",
+      "en": "to make something look more attractive by adding things to it"
+    },
+    "favorite": {
+      "pos": "adj.",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "cn": "最喜欢的",
+      "en": "liked more than all others of the same kind"
+    },
+    "ornament": {
+      "pos": "n.",
+      "ipa": "/ˈɔː.nə.mənt/",
+      "cn": "装饰品；圣诞挂饰",
+      "en": "a small object used to decorate something, especially a Christmas tree"
+    },
+    "handmade": {
+      "pos": "adj.",
+      "ipa": "/ˌhændˈmeɪd/",
+      "cn": "手工制作的",
+      "en": "made by a person, not by a machine"
+    },
+    "pale": {
+      "pos": "adj.",
+      "ipa": "/peɪl/",
+      "cn": "苍白的",
+      "en": "(of skin) very light, especially from shock or illness"
+    },
+    "shake": {
+      "pos": "v.",
+      "ipa": "/ʃeɪk/",
+      "cn": "摇晃；颤抖",
+      "en": "to move quickly from side to side or up and down"
+    },
+    "give": {
+      "pos": "v.",
+      "ipa": "/ɡɪv/",
+      "cn": "给；赠送",
+      "en": "to hand something to someone"
+    },
+    "grinch": {
+      "pos": "n.",
+      "ipa": "/ɡrɪntʃ/",
+      "cn": "扫兴的人；讨厌圣诞节的人",
+      "en": "a person who dislikes Christmas and spoils others' fun"
+    },
+    "freeze": {
+      "pos": "v.",
+      "ipa": "/friːz/",
+      "cn": "冻结；僵住",
+      "en": "to stop moving suddenly, especially from shock or fear"
+    },
+    "answer": {
+      "pos": "v.",
+      "ipa": "/ˈɑːn.sər/",
+      "cn": "回答；接电话",
+      "en": "to reply; to pick up the phone"
+    },
+    "voicemail": {
+      "pos": "n.",
+      "ipa": "/ˈvɔɪs.meɪl/",
+      "cn": "语音留言",
+      "en": "a recorded message left after an unanswered phone call"
+    },
+    "terrible": {
+      "pos": "adj.",
+      "ipa": "/ˈter.ə.bl̩/",
+      "cn": "可怕的；糟透的",
+      "en": "extremely bad or unpleasant"
+    },
+    "delete": {
+      "pos": "v.",
+      "ipa": "/dɪˈliːt/",
+      "cn": "删除",
+      "en": "to remove something that was written or recorded"
+    },
+    "truth": {
+      "pos": "n.",
+      "ipa": "/truːθ/",
+      "cn": "真相；事实",
+      "en": "the real facts about something; not a lie"
+    },
+    "avalanche": {
+      "pos": "n.",
+      "ipa": "/ˈæv.əl.ɑːntʃ/",
+      "cn": "雪崩；大量涌来",
+      "en": "a large mass of snow falling down a mountain; a sudden flood of something"
+    },
+    "anger": {
+      "pos": "n.",
+      "ipa": "/ˈæŋ.ɡər/",
+      "cn": "愤怒；生气",
+      "en": "a strong feeling of wanting to hurt or criticize someone"
+    },
+    "hurt": {
+      "pos": "adj.",
+      "ipa": "/hɜːt/",
+      "cn": "受伤的；伤心的",
+      "en": "feeling emotional pain"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁坏；破坏",
+      "en": "to damage something so badly that it cannot be used or enjoyed"
+    },
+    "eggnog": {
+      "pos": "n.",
+      "ipa": "/ˈeɡ.nɒɡ/",
+      "cn": "蛋奶酒（圣诞饮品）",
+      "en": "a sweet Christmas drink made from eggs, milk, and alcohol"
+    }
+  }
+}

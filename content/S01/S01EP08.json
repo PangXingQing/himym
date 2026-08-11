@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "title": "The Duel",
+  "cn": "第 8 集 · 决斗",
+  "novel": "Two [[ancient|ancient]] [[swords|sword]] had hung on the living-room wall since the day Ted and Marshall signed the [[lease|lease]].\n\nOne of them was [[inherited|inherit]] from Ted's grandfather. The other Marshall bought at a market. Neither man could prove [[ownership|ownership]] of the flat itself, and now Lily was moving in.\n\nThe [[tension|tension]] grew all week. It began as a small [[dispute|dispute]] about a bookshelf and turned into a [[furious|furious]] argument about the future.\n\n\"If you two [[split up|split up]],\" Ted said, \"where do I live?\"\n\nMarshall lifted a [[blade|blade]] and [[threatened|threaten]] him, joking. Ted lifted the other. They were both [[clumsy|clumsy]] and neither had held a real weapon before.\n\nIt was, everyone agreed later, [[symbolic|symbolic]]: two friends fighting over a home that belonged to their childhood.\n\nThen Ted [[accidentally|accidentally]] [[stabbed|stab]] Marshall's hand.\n\nThere was blood, a [[bandage|bandage]], a taxi, and four [[stitches|stitches]]. The [[wound|wound]] was small; the shame was large.\n\nIn the hospital they called a [[truce|truce]] and reached a quiet [[compromise|compromise]]: the flat would stay in the family, whatever the family became.\n\nThe swords went into a cupboard, where dangerous [[symbols|symbol]] belong.",
+  "words": {
+    "ancient": {"pos": "adj.", "ipa": "/ˈeɪn.ʃənt/", "cn": "古老的", "en": "very, very old"},
+    "sword": {"pos": "n.", "ipa": "/sɔːd/", "cn": "剑（w 不发音）", "en": "a long sharp metal weapon"},
+    "lease": {"pos": "n.", "ipa": "/liːs/", "cn": "租约", "en": "a written agreement to rent a flat or house"},
+    "inherit": {"pos": "v.", "ipa": "/ɪnˈher.ɪt/", "cn": "继承", "en": "to receive money or things from someone after they die"},
+    "ownership": {"pos": "n.", "ipa": "/ˈəʊ.nə.ʃɪp/", "cn": "所有权", "en": "the fact of owning something"},
+    "tension": {"pos": "n.", "ipa": "/ˈten.ʃən/", "cn": "紧张气氛", "en": "a feeling that people may start to fight or argue"},
+    "dispute": {"pos": "n.", "ipa": "/dɪˈspjuːt/", "cn": "争执；纠纷", "en": "a serious disagreement"},
+    "furious": {"pos": "adj.", "ipa": "/ˈfjʊə.ri.əs/", "cn": "暴怒的", "en": "very, very angry"},
+    "split up": {"pos": "phr.v.", "ipa": "/splɪt ʌp/", "cn": "分手", "en": "to end a relationship and separate"},
+    "blade": {"pos": "n.", "ipa": "/bleɪd/", "cn": "刀刃；刀身", "en": "the flat sharp part of a knife or sword"},
+    "threaten": {"pos": "v.", "ipa": "/ˈθret.ən/", "cn": "威胁", "en": "to say you will hurt someone or cause trouble"},
+    "clumsy": {"pos": "adj.", "ipa": "/ˈklʌm.zi/", "cn": "笨手笨脚的", "en": "moving badly and often dropping or breaking things"},
+    "symbolic": {"pos": "adj.", "ipa": "/sɪmˈbɒl.ɪk/", "cn": "象征性的", "en": "standing for a bigger idea"},
+    "accidentally": {"pos": "adv.", "ipa": "/ˌæk.sɪˈden.təl.i/", "cn": "不小心地", "en": "by mistake, not on purpose"},
+    "stab": {"pos": "v.", "ipa": "/stæb/", "cn": "刺；捅", "en": "to push a knife into someone"},
+    "bandage": {"pos": "n.", "ipa": "/ˈbæn.dɪdʒ/", "cn": "绷带", "en": "a long piece of cloth you wrap around a hurt part of the body"},
+    "stitches": {"pos": "n.", "ipa": "/ˈstɪtʃ.ɪz/", "cn": "（伤口）缝针", "en": "the thread a doctor uses to close a cut in your skin"},
+    "wound": {"pos": "n.", "ipa": "/wuːnd/", "cn": "伤口", "en": "an injury where the skin is cut or broken"},
+    "truce": {"pos": "n.", "ipa": "/truːs/", "cn": "休战；停火", "en": "an agreement to stop fighting for a while"},
+    "compromise": {"pos": "n.", "ipa": "/ˈkɒm.prə.maɪz/", "cn": "折中；妥协", "en": "an agreement where each side gives up a little"},
+    "symbol": {"pos": "n.", "ipa": "/ˈsɪm.bəl/", "cn": "象征；符号", "en": "a thing that represents a bigger idea"}
+  }
+}

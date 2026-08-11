@@ -1,0 +1,98 @@
+{
+  "id": 99,
+  "title": "Last Cigarette Ever",
+  "cn": "第 11 集 · 最后一支烟",
+  "novel": "The whole gang smoked — secretly, guiltily, in back alleys and on [[rooftops|rooftop]]. They all promised it would be their [[last cigarette|last cigarette]] ever. It never was.\n\nRobin [[craved|crave]] one after every argument. Ted lit up when he was writing. Marshall sneaked one before bed. Barney smoked to look [[cool|cool]].\n\nOne day they made a [[pact|pact]]. \"We quit together,\" Lily said. \"No [[excuses|excuse]].\"\n\nThe first hours were [[agony|agony]]. Marshall [[snapped|snap]] at a coworker. Ted could not [[concentrate|concentrate]]. Robin lay on the floor, [[muttering|mutter]] about [[nicotine|nicotine]].\n\nBy midnight, they had all failed — except Lily, who had never smoked at all. She watched them with quiet [[amusement|amusement]].\n\nFuture Ted would later reveal that this was indeed the last cigarette for each of them, though it took years. Some [[vices|vice]], he learned, were not [[defeated|defeat]] by willpower alone, but by time, by patience, and by the slow [[fading|fade]] of a habit that once felt like a friend.",
+  "words": {
+    "rooftop": {
+      "pos": "n.",
+      "ipa": "/ˈruːf.tɒp/",
+      "cn": "屋顶",
+      "en": "the top of a building where you can stand"
+    },
+    "last cigarette": {
+      "pos": "phr.",
+      "ipa": "/lɑːst ˌsɪɡ.əˈret/",
+      "cn": "最后一支烟",
+      "en": "the final cigarette someone smokes"
+    },
+    "crave": {
+      "pos": "v.",
+      "ipa": "/kreɪv/",
+      "cn": "渴望",
+      "en": "to want something very strongly"
+    },
+    "cool": {
+      "pos": "adj.",
+      "ipa": "/kuːl/",
+      "cn": "酷的",
+      "en": "fashionable and impressive"
+    },
+    "pact": {
+      "pos": "n.",
+      "ipa": "/pækt/",
+      "cn": "约定；协定",
+      "en": "a formal agreement between people"
+    },
+    "excuse": {
+      "pos": "n.",
+      "ipa": "/ɪkˈskjuːz/",
+      "cn": "借口",
+      "en": "a reason given to explain a failure"
+    },
+    "agony": {
+      "pos": "n.",
+      "ipa": "/ˈæɡ.ə.ni/",
+      "cn": "极度痛苦",
+      "en": "great pain of body or mind"
+    },
+    "snap": {
+      "pos": "v.",
+      "ipa": "/snæp/",
+      "cn": "厉声斥责",
+      "en": "to speak sharply because you are angry"
+    },
+    "concentrate": {
+      "pos": "v.",
+      "ipa": "/ˈkɒn.sən.treɪt/",
+      "cn": "集中注意力",
+      "en": "to focus your mind on something"
+    },
+    "mutter": {
+      "pos": "v.",
+      "ipa": "/ˈmʌt.ər/",
+      "cn": "嘟囔",
+      "en": "to speak quietly and unclearly"
+    },
+    "nicotine": {
+      "pos": "n.",
+      "ipa": "/ˈnɪk.ə.tiːn/",
+      "cn": "尼古丁",
+      "en": "the drug in tobacco that makes you want more"
+    },
+    "amusement": {
+      "pos": "n.",
+      "ipa": "/əˈmjuːz.mənt/",
+      "cn": "觉得好笑",
+      "en": "the feeling of finding something funny"
+    },
+    "vice": {
+      "pos": "n.",
+      "ipa": "/vaɪs/",
+      "cn": "恶习",
+      "en": "a bad habit that harms you"
+    },
+    "defeat": {
+      "pos": "v.",
+      "ipa": "/dɪˈfiːt/",
+      "cn": "战胜",
+      "en": "to win against something"
+    },
+    "fade": {
+      "pos": "v.",
+      "ipa": "/feɪd/",
+      "cn": "逐渐消失",
+      "en": "to slowly become weaker and disappear"
+    }
+  }
+}

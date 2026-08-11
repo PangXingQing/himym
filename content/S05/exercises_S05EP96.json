@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The criticism __________ him down.",
+    "answer": "wore"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She wore __________ his resistance.",
+    "answer": "down"
+  },
+  {
+    "type": "spelling",
+    "word": "networking",
+    "hint": "人脉",
+    "phonetic": "/ˈnet.wɜːr.kɪŋ/"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  }
+]

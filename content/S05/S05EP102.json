@@ -1,0 +1,98 @@
+{
+  "id": 102,
+  "title": "Perfect Week",
+  "cn": "第 14 集 · 完美一周",
+  "novel": "Barney declared it would be his \"Perfect Week\" — seven women in seven days, no [[rejections|rejection]]. The gang watched with [[dread|dread]] and a little [[admiration|admiration]].\n\n\"You're [[jinxing|jinx]] it,\" Lily warned. \"Don't talk about a [[streak|streak]] before it ends.\"\n\nBut Barney was [[superstitious|superstitious]] in all the wrong ways. He wore the same socks. He refused to wash his lucky [[tie|tie]]. He [[challenged|challenge]] fate at every turn.\n\nLily and Marshall tried to [[distract|distract]] him. They invited him to dinner, to a movie, to a long walk. Nothing worked. Barney [[persisted|persist]].\n\nBy Sunday, he had done it. Seven for seven. The bar [[erupted|erupt]] in celebration. Barney raised his glass, [[triumphant|triumphant]] — and then immediately [[knocked|knock]] it over.\n\nSome victories, Ted reflected, were so [[fragile|fragile]] that even a spilled drink could [[shatter|shatter]] them. But Barney did not care. He had his Perfect Week, and no one could take that away — not even himself.",
+  "words": {
+    "rejection": {
+      "pos": "n.",
+      "ipa": "/rɪˈdʒek.ʃən/",
+      "cn": "拒绝",
+      "en": "when someone refuses to accept you"
+    },
+    "dread": {
+      "pos": "n.",
+      "ipa": "/dred/",
+      "cn": "恐惧",
+      "en": "a strong feeling of fear about the future"
+    },
+    "admiration": {
+      "pos": "n.",
+      "ipa": "/ˌæd.məˈreɪ.ʃən/",
+      "cn": "钦佩",
+      "en": "a feeling of respect for someone"
+    },
+    "jinx": {
+      "pos": "v.",
+      "ipa": "/dʒɪŋks/",
+      "cn": "招致霉运",
+      "en": "to bring bad luck by talking about it"
+    },
+    "streak": {
+      "pos": "n.",
+      "ipa": "/striːk/",
+      "cn": "连续记录",
+      "en": "a series of successes in a row"
+    },
+    "superstitious": {
+      "pos": "adj.",
+      "ipa": "/ˌsuː.pəˈstɪʃ.əs/",
+      "cn": "迷信的",
+      "en": "believing that objects bring luck"
+    },
+    "tie": {
+      "pos": "n.",
+      "ipa": "/taɪ/",
+      "cn": "领带",
+      "en": "a piece of cloth worn around the neck with a suit"
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "to invite someone to compete"
+    },
+    "distract": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrækt/",
+      "cn": "使分心",
+      "en": "to take someone's attention away"
+    },
+    "persist": {
+      "pos": "v.",
+      "ipa": "/pəˈsɪst/",
+      "cn": "坚持",
+      "en": "to keep doing something despite difficulty"
+    },
+    "erupt": {
+      "pos": "v.",
+      "ipa": "/ɪˈrʌpt/",
+      "cn": "爆发",
+      "en": "to suddenly begin, often with noise"
+    },
+    "triumphant": {
+      "pos": "adj.",
+      "ipa": "/traɪˈʌmf.ənt/",
+      "cn": "胜利的",
+      "en": "showing joy at having won"
+    },
+    "knock": {
+      "pos": "v.",
+      "ipa": "/nɒk/",
+      "cn": "碰倒",
+      "en": "to hit something so it falls"
+    },
+    "fragile": {
+      "pos": "adj.",
+      "ipa": "/ˈfrædʒ.aɪl/",
+      "cn": "脆弱的",
+      "en": "easily broken or damaged"
+    },
+    "shatter": {
+      "pos": "v.",
+      "ipa": "/ˈʃæt.ər/",
+      "cn": "粉碎",
+      "en": "to break suddenly into pieces"
+    }
+  }
+}

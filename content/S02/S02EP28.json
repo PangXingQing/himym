@@ -1,0 +1,176 @@
+{
+  "id": 28,
+  "title": "Aldrin Justice",
+  "cn": "第28集 · 奥尔德林正义",
+  "novel": "Lily got a [[temporary|temporary]] job at Ted's architecture [[firm|firm]]. But she was a [[kindergarten|kindergarten]] teacher, not an [[office|office]] worker — and she brought her classroom [[philosophy|philosophy]] with her. She called it \"Aldrin Justice\": when someone [[misbehaved|misbehave]], she would [[confiscate|confiscate]] something they loved.\n\nFirst, she took the boss's [[expensive|expense]] [[pen|pen]] because he was [[rude|rude]] to the [[intern|intern]]. Then she took a [[developer|developer]]'s prized baseball because he [[yelled|yell]] at a [[secretary|secretary]]. Ted was [[horrified|horrify]] — this was his [[career|career]] she was [[messing|mess]] with!\n\nBut strange things started happening. The boss, missing his pen, actually started [[listening|listen]] to his [[employees|employee]]. The developer, without his baseball, became [[noticeably|noticeable]] calmer. \"Your [[girlfriend|girlfriend]] is a [[genius|genius]],\" one [[colleague|colleague]] told Ted.\n\n\"She's not my girlfriend,\" Ted said. \"She's my best friend's ex-[[fiancee|fiancee]].\"\n\nLily's justice system [[culminated|culminate]] when she took something from the [[CEO|CEO]] himself — a signed [[photograph|photograph]] of him with a famous architect. The CEO was [[furious|furious]]... until he realized he had been treating his [[staff|staff]] terribly. He called a meeting and actually [[apologized|apologize]].\n\n\"See?\" Lily told Ted. \"Kindergarten rules work everywhere.\"",
+  "words": {
+    "temporary": {
+      "pos": "adj.",
+      "ipa": "/ˈtem.pər.ər.i/",
+      "cn": "临时的",
+      "en": "lasting for only a short time, not permanent"
+    },
+    "firm": {
+      "pos": "n.",
+      "ipa": "/fɜːm/",
+      "cn": "公司；事务所",
+      "en": "a business or company"
+    },
+    "kindergarten": {
+      "pos": "n.",
+      "ipa": "/ˈkɪn.də.ɡɑː.tən/",
+      "cn": "幼儿园",
+      "en": "a school for very young children"
+    },
+    "office": {
+      "pos": "n.",
+      "ipa": "/ˈɒf.ɪs/",
+      "cn": "办公室",
+      "en": "a room or building where people work at desks"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fɪˈlɒs.ə.fi/",
+      "cn": "哲学；理念",
+      "en": "a system of beliefs or ideas about how to live or work"
+    },
+    "misbehave": {
+      "pos": "v.",
+      "ipa": "/ˌmɪs.bɪˈheɪv/",
+      "cn": "行为不端",
+      "en": "to behave badly or improperly"
+    },
+    "confiscate": {
+      "pos": "v.",
+      "ipa": "/ˈkɒn.fɪ.skeɪt/",
+      "cn": "没收；充公",
+      "en": "to take something away from someone as a punishment"
+    },
+    "expense": {
+      "pos": "n.",
+      "ipa": "/ɪkˈspens/",
+      "cn": "费用；花费",
+      "en": "the money you spend on something"
+    },
+    "pen": {
+      "pos": "n.",
+      "ipa": "/pen/",
+      "cn": "笔；钢笔",
+      "en": "a tool used for writing with ink"
+    },
+    "rude": {
+      "pos": "adj.",
+      "ipa": "/ruːd/",
+      "cn": "粗鲁的",
+      "en": "not polite; speaking or behaving in a way that hurts others"
+    },
+    "intern": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.tɜːn/",
+      "cn": "实习生",
+      "en": "someone who works for a short time to learn a job"
+    },
+    "developer": {
+      "pos": "n.",
+      "ipa": "/dɪˈvel.ə.pər/",
+      "cn": "开发商；开发者",
+      "en": "a company or person that builds or creates something"
+    },
+    "yell": {
+      "pos": "v.",
+      "ipa": "/jel/",
+      "cn": "吼叫；大喊",
+      "en": "to shout loudly, especially when angry"
+    },
+    "secretary": {
+      "pos": "n.",
+      "ipa": "/ˈsek.rə.tər.i/",
+      "cn": "秘书",
+      "en": "a person who helps with office work like typing and organizing"
+    },
+    "horrify": {
+      "pos": "v.",
+      "ipa": "/ˈhɒr.ɪ.faɪ/",
+      "cn": "使恐惧；使震惊",
+      "en": "to shock someone very much"
+    },
+    "career": {
+      "pos": "n.",
+      "ipa": "/kəˈrɪər/",
+      "cn": "职业；事业",
+      "en": "a job or profession you do for a long part of your life"
+    },
+    "mess with": {
+      "pos": "phr.v.",
+      "ipa": "/mes wɪð/",
+      "cn": "干扰；惹",
+      "en": "to interfere with something or cause trouble for someone"
+    },
+    "listen": {
+      "pos": "v.",
+      "ipa": "/ˈlɪs.ən/",
+      "cn": "听；倾听",
+      "en": "to pay attention to someone's words"
+    },
+    "employee": {
+      "pos": "n.",
+      "ipa": "/ɪmˈplɔɪ.iː/",
+      "cn": "雇员",
+      "en": "a person who works for a company or organization"
+    },
+    "noticeably": {
+      "pos": "adv.",
+      "ipa": "/ˈnəʊ.tɪ.sə.bli/",
+      "cn": "明显地",
+      "en": "in a way that is easy to see or notice"
+    },
+    "genius": {
+      "pos": "n.",
+      "ipa": "/ˈdʒiː.ni.əs/",
+      "cn": "天才",
+      "en": "someone with an unusually high level of intelligence or skill"
+    },
+    "colleague": {
+      "pos": "n.",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "cn": "同事",
+      "en": "a person you work with in the same place"
+    },
+    "fiancee": {
+      "pos": "n.",
+      "ipa": "/fiˈɒn.seɪ/",
+      "cn": "未婚妻",
+      "en": "a woman who is engaged to be married"
+    },
+    "CEO": {
+      "pos": "n.",
+      "ipa": "/ˌsiː.iːˈəʊ/",
+      "cn": "首席执行官",
+      "en": "the highest-ranking person in a company"
+    },
+    "photograph": {
+      "pos": "n.",
+      "ipa": "/ˈfəʊ.tə.ɡrɑːf/",
+      "cn": "照片",
+      "en": "a picture made using a camera"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "狂怒的",
+      "en": "extremely angry"
+    },
+    "staff": {
+      "pos": "n.",
+      "ipa": "/stɑːf/",
+      "cn": "全体职员",
+      "en": "all the people who work for a company"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "to say sorry for something you did wrong"
+    }
+  }
+}

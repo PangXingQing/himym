@@ -1,0 +1,122 @@
+{
+  "id": 190,
+  "title": "Knight Vision",
+  "cn": "第 6 集 · 骑士幻想",
+  "novel": "Ted had three [[prospects|prospect]] for a date to the wedding. Lily and Marshall tried to help him [[choose|choose]] the best one. They warned him to use good [[judgment|judgment]] and not pick someone [[poorly|poorly]].\n\nTed, however, [[ignored|ignore]] their advice and chose the woman who seemed the most exciting. This turned out to be a terrible [[mistake|mistake]]. The date was [[awkward|awkward]] from the start, and Ted immediately [[regretted|regret]] his choice.\n\nMeanwhile, Barney and Robin had to [[confront|confront]] their wedding minister. The minister did not approve of their lifestyle and made them feel uncomfortable. Robin was [[upset|upset]] and wanted to find a new minister, but there was very little time before the ceremony.\n\nBarney tried to [[convince|convince]] the minister that they were a good couple. He shared stories about how they met and fell in love. The minister was [[stubborn|stubborn]] at first, but eventually softened after hearing their story.\n\nMarshall [[learned|learn]] more about Daphne during their car ride. He discovered that she was not as [[annoying|annoying]] as he first thought. She was going through a difficult time and just needed someone to talk to. Marshall felt [[sympathetic|sympathetic]] toward her.\n\nTed's date ended in [[disaster|disaster]] when the woman revealed she was already engaged to someone else. Ted went back to his friends and [[admitted|admit]] he should have listened to them. They all laughed about it later.\n\nRobin and Barney managed to keep their minister after promising to [[behave|behave]] during the ceremony. The day ended with mixed results, but the group stayed [[optimistic|optimistic]] about the wedding.",
+  "words": {
+    "prospect": {
+      "pos": "n.",
+      "ipa": "/ˈprɒs.pekt/",
+      "cn": "人选",
+      "en": "She is a good prospect for the job."
+    },
+    "choose": {
+      "pos": "v.",
+      "ipa": "/tʃuːz/",
+      "cn": "选择",
+      "en": "He chose carefully."
+    },
+    "judgment": {
+      "pos": "n.",
+      "ipa": "/ˈdʒʌdʒ.mənt/",
+      "cn": "判断力",
+      "en": "She showed good judgment."
+    },
+    "poorly": {
+      "pos": "adv.",
+      "ipa": "/ˈpʊr.li/",
+      "cn": "糟糕地",
+      "en": "He performed poorly on the test."
+    },
+    "ignore": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈnɔːr/",
+      "cn": "忽视",
+      "en": "She ignored his advice."
+    },
+    "mistake": {
+      "pos": "n.",
+      "ipa": "/mɪˈsteɪk/",
+      "cn": "错误",
+      "en": "Everyone makes mistakes."
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːk.wərd/",
+      "cn": "尴尬的",
+      "en": "The situation was very awkward."
+    },
+    "regret": {
+      "pos": "v.",
+      "ipa": "/rɪˈɡret/",
+      "cn": "后悔",
+      "en": "He regretted his decision."
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "面对",
+      "en": "She confronted her fears."
+    },
+    "upset": {
+      "pos": "adj.",
+      "ipa": "/ʌpˈset/",
+      "cn": "难过的",
+      "en": "He was upset about the news."
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "She convinced him to try again."
+    },
+    "stubborn": {
+      "pos": "adj.",
+      "ipa": "/ˈstʌb.ərn/",
+      "cn": "固执的",
+      "en": "Don't be so stubborn."
+    },
+    "learn": {
+      "pos": "v.",
+      "ipa": "/lɜːrn/",
+      "cn": "得知",
+      "en": "He learned something new."
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "讨厌的",
+      "en": "The noise was annoying."
+    },
+    "sympathetic": {
+      "pos": "adj.",
+      "ipa": "/ˌsɪm.pəˈθet.ɪk/",
+      "cn": "同情的",
+      "en": "She was sympathetic to his problem."
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzæs.tər/",
+      "cn": "灾难",
+      "en": "The party was a disaster."
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "He admitted his fault."
+    },
+    "behave": {
+      "pos": "v.",
+      "ipa": "/bɪˈheɪv/",
+      "cn": "表现好",
+      "en": "Please behave at the event."
+    },
+    "optimistic": {
+      "pos": "adj.",
+      "ipa": "/ˌɒp.tɪˈmɪs.tɪk/",
+      "cn": "乐观的",
+      "en": "She stayed optimistic about the future."
+    }
+  }
+}

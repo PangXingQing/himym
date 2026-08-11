@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "hilarious",
+    "hint": "极滑稽的",
+    "phonetic": "/hɪˈler.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ obsessing over the stain.",
+    "answer": "was"
+  },
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "architect",
+    "hint": "建筑师",
+    "phonetic": "/ˈɑːr.kɪ.tekt/"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": 14,
+  "title": "Zip, Zip, Zip",
+  "cn": "第 14 集 · 别出声",
+  "novel": "Ted brought a date home. Marshall and Lily happened to be sitting on the bedroom floor, and now they were [[trapped|trap]].\n\nThey could not walk out. That would kill the mood. So they became [[hostages|hostage]] in their own flat, [[stranded|stranded]] behind a thin door.\n\nAt first it was funny. They [[whispered|whisper]], listened to the [[muffled|muffled]] voices outside, and tried very hard not to [[eavesdrop|eavesdrop]]. Two shadows made one strange [[silhouette|silhouette]] on the wall.\n\nAfter an hour, hunger arrived. After two, Marshall began to [[starve|starve]]. After three, Lily felt the terrible [[urge|urge]] that no [[blanket|blanket]] can fix: her [[bladder|bladder]] was full, and she had to [[hold it in|hold it in]].\n\nIt was pure [[agony|agony]].\n\nThey [[tiptoed|tiptoe]] towards the [[doorknob|doorknob]]. A [[floorboard|floorboard]] [[creaked|creak]] loudly. They froze, [[awkwardly|awkwardly]] balanced on one leg each, praying for [[privacy|privacy]] — the very thing they were taking from Ted.\n\nIn the end they [[sneaked|sneak]] out at two in the morning and reached the bathroom with enormous [[relief|relief]].\n\n\"Love,\" Marshall said, \"means learning to [[endure|endure]] your friends.\"",
+  "words": {
+    "trap": {"pos": "v.", "ipa": "/træp/", "cn": "困住", "en": "to keep someone in a place they cannot leave"},
+    "hostage": {"pos": "n.", "ipa": "/ˈhɒs.tɪdʒ/", "cn": "人质", "en": "a person who is kept as a prisoner"},
+    "stranded": {"pos": "adj.", "ipa": "/ˈstræn.dɪd/", "cn": "被困住无法离开的", "en": "left in a place with no way to get out"},
+    "whisper": {"pos": "v.", "ipa": "/ˈwɪs.pə/", "cn": "低声说；耳语", "en": "to speak very quietly"},
+    "muffled": {"pos": "adj.", "ipa": "/ˈmʌf.l̩d/", "cn": "沉闷不清的（声音）", "en": "not clear, because something is in the way"},
+    "eavesdrop": {"pos": "v.", "ipa": "/ˈiːvz.drɒp/", "cn": "偷听", "en": "to listen secretly to other people talking"},
+    "silhouette": {"pos": "n.", "ipa": "/ˌsɪl.uˈet/", "cn": "剪影；黑影轮廓", "en": "the dark shape of someone against a light"},
+    "starve": {"pos": "v.", "ipa": "/stɑːv/", "cn": "挨饿", "en": "to suffer because you have no food"},
+    "urge": {"pos": "n.", "ipa": "/ɜːdʒ/", "cn": "强烈的冲动/需要", "en": "a strong feeling that you must do something now"},
+    "blanket": {"pos": "n.", "ipa": "/ˈblæŋ.kɪt/", "cn": "毯子", "en": "a thick cover you put over you in bed"},
+    "bladder": {"pos": "n.", "ipa": "/ˈblæd.ə/", "cn": "膀胱", "en": "the part of your body that holds urine"},
+    "hold it in": {"pos": "phr.", "ipa": "/həʊld ɪt ɪn/", "cn": "憋住", "en": "to stop yourself from letting something out"},
+    "agony": {"pos": "n.", "ipa": "/ˈæɡ.ə.ni/", "cn": "极度痛苦", "en": "very great pain"},
+    "tiptoe": {"pos": "v.", "ipa": "/ˈtɪp.təʊ/", "cn": "踮着脚走", "en": "to walk quietly on the front part of your feet"},
+    "doorknob": {"pos": "n.", "ipa": "/ˈdɔː.nɒb/", "cn": "门把手（圆形）", "en": "the round handle you turn to open a door"},
+    "floorboard": {"pos": "n.", "ipa": "/ˈflɔː.bɔːd/", "cn": "地板条", "en": "one of the long wooden pieces that make a floor"},
+    "creak": {"pos": "v.", "ipa": "/kriːk/", "cn": "（木头）吱呀作响", "en": "to make a long high noise, like an old door or floor"},
+    "awkwardly": {"pos": "adv.", "ipa": "/ˈɔː.kwəd.li/", "cn": "笨拙地；别扭地", "en": "in a way that is not comfortable or graceful"},
+    "privacy": {"pos": "n.", "ipa": "/ˈprɪv.ə.si/", "cn": "隐私；独处空间", "en": "being alone, where others cannot watch or hear you"},
+    "sneak": {"pos": "v.", "ipa": "/sniːk/", "cn": "偷偷地走", "en": "to move somewhere secretly and quietly"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "如释重负", "en": "the good feeling when something bad or painful stops"},
+    "endure": {"pos": "v.", "ipa": "/ɪnˈdjʊə/", "cn": "忍受", "en": "to suffer something difficult without giving up"}
+  }
+}

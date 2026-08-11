@@ -1,0 +1,80 @@
+{
+  "id": 111,
+  "title": "The Wedding Bride",
+  "cn": "第 23 集 · 新娘",
+  "novel": "Ted went to the cinema and saw a movie called \"[[The Wedding Bride|The Wedding Bride]].\" To his horror, it was based on his failed relationship with Stella — written by Tony, the man who had stolen her.\n\nIn the film, the Ted character was the [[villain|villain]]: a selfish, [[neurotic|neurotic]] man who could not commit. The Tony character was a [[hero|hero]], noble and brave. Every scene [[humiliated|humiliate]] the real Ted.\n\nHe sat in the dark theater, [[cringing|cringe]] as strangers laughed at his fictional self. Marshall tried to comfort him. \"It's just a movie,\" he said.\n\n\"It's my life,\" Ted whispered, \"and they made me the [[bad guy|bad guy]].\"\n\nBarney, of course, loved it. He [[quoted|quote]] lines from the film for weeks.\n\nBut Ted found a strange [[relief|relief]] in the end. The movie was a [[distorted|distort]] version of the truth, but it let him see his story from the outside. He had made mistakes. He had been [[selfish|selfish]]. Seeing it on screen — even [[exaggerated|exaggerate]] — helped him forgive himself, and finally let Stella go.",
+  "words": {
+    "The Wedding Bride": {
+      "pos": "phr.",
+      "ipa": "/ðə ˈwed.ɪŋ braɪd/",
+      "cn": "《新娘》（电影名）",
+      "en": "a movie title in the show"
+    },
+    "villain": {
+      "pos": "n.",
+      "ipa": "/ˈvɪl.ən/",
+      "cn": "反派",
+      "en": "the bad character in a story"
+    },
+    "neurotic": {
+      "pos": "adj.",
+      "ipa": "/njʊəˈrɒt.ɪk/",
+      "cn": "神经质的",
+      "en": "anxious and easily upset"
+    },
+    "hero": {
+      "pos": "n.",
+      "ipa": "/ˈhɪə.rəʊ/",
+      "cn": "英雄",
+      "en": "the main good character in a story"
+    },
+    "humiliate": {
+      "pos": "v.",
+      "ipa": "/hjuːˈmɪl.i.eɪt/",
+      "cn": "羞辱",
+      "en": "to make someone feel ashamed"
+    },
+    "cringe": {
+      "pos": "v.",
+      "ipa": "/krɪndʒ/",
+      "cn": "尴尬得缩起来",
+      "en": "to feel embarrassed for someone"
+    },
+    "bad guy": {
+      "pos": "phr.",
+      "ipa": "/bæd ɡaɪ/",
+      "cn": "坏人",
+      "en": "the villain in a story"
+    },
+    "quote": {
+      "pos": "v.",
+      "ipa": "/kwəʊt/",
+      "cn": "引用",
+      "en": "to repeat words someone else said"
+    },
+    "relief": {
+      "pos": "n.",
+      "ipa": "/rɪˈliːf/",
+      "cn": "如释重负",
+      "en": "the good feeling when worry ends"
+    },
+    "distort": {
+      "pos": "adj.",
+      "ipa": "/dɪˈstɔː.tɪd/",
+      "cn": "歪曲的",
+      "en": "changed so it is no longer true"
+    },
+    "selfish": {
+      "pos": "adj.",
+      "ipa": "/ˈsel.fɪʃ/",
+      "cn": "自私的",
+      "en": "caring only about yourself"
+    },
+    "exaggerate": {
+      "pos": "adj.",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪ.tɪd/",
+      "cn": "夸张的",
+      "en": "made larger or worse than reality"
+    }
+  }
+}

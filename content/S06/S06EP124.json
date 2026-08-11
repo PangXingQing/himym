@@ -1,0 +1,26 @@
+{
+  "id": 124,
+  "title": "False Positive",
+  "cn": "第 12 集 · 假阳性",
+  "novel": "Marshall and Lily received [[shocking|shock]] news that Lily might be pregnant. They were [[overjoyed|overjoyed]] and started planning for the baby immediately. Marshall bought a crib, painted the nursery, and even started reading baby name books. Lily called her mother and shared the [[exciting|excite]] news. However, a follow-up test revealed that it was a false [[positive|positive]]. The pregnancy test had been wrong. Marshall and Lily were [[devastated|devastate]]. They had already let themselves dream about their future child, and now that dream was [[shattered|shatter]]. They held each other and cried in the empty nursery. Meanwhile, Robin got a new job as a morning show host. She was [[thrilled|thrill]] at first, but she quickly realized that the job required her to do [[humiliating|humiliate]] stunts and wear silly costumes. She felt like she was going [[backward|backward]] in her career. Barney, on the other hand, discovered the joy of giving on Christmas. He [[donated|donate]] a large sum of money to a charity and felt a warmth he had never [[experienced|experience]] before. He was so moved that he tried to [[replicate|replicate]] the feeling by giving even more. However, his [[generosity|generosity]] quickly got out of hand, and he ended up [[bankrupting|bankrupt]] himself. Ted tried to help his friends through their [[respective|respective]] crises. He told Marshall and Lily that they would have a baby when the time was right. He encouraged Robin to keep [[pushing|push]] forward in her career. And he helped Barney understand that giving did not mean giving everything away. By the end of the episode, everyone found a small piece of [[hope|hope]] in their difficult situations. The gang gathered at MacLaren's and toasted to the future, agreeing that even false positives could lead to [[genuine|genuine]] growth.",
+  "words": {
+    "shock": {"pos": "v.", "ipa": "/ʃɑːk/", "cn": "使震惊", "en": "to cause someone to feel very surprised"},
+    "overjoyed": {"pos": "adj.", "ipa": "/ˌoʊvərˈdʒɔɪd/", "cn": "欣喜若狂的", "en": "extremely happy about something"},
+    "excite": {"pos": "v.", "ipa": "/ɪkˈsaɪt/", "cn": "使兴奋;使激动", "en": "to make someone feel eager and happy"},
+    "positive": {"pos": "n.", "ipa": "/ˈpɑːzətɪv/", "cn": "阳性结果", "en": "a result that shows something is present"},
+    "devastate": {"pos": "v.", "ipa": "/ˈdevəsteɪt/", "cn": "使极度悲伤;摧毁", "en": "to cause someone great sadness or shock"},
+    "shatter": {"pos": "v.", "ipa": "/ˈʃætər/", "cn": "粉碎;破灭", "en": "to break suddenly into small pieces"},
+    "thrill": {"pos": "v.", "ipa": "/θrɪl/", "cn": "使激动;使兴奋", "en": "to make someone feel very excited"},
+    "humiliate": {"pos": "v.", "ipa": "/hjuːˈmɪlieɪt/", "cn": "羞辱;使丢脸", "en": "to make someone feel deeply ashamed"},
+    "backward": {"pos": "adv.", "ipa": "/ˈbækwərd/", "cn": "向后地;倒退地", "en": "in the direction behind you"},
+    "donate": {"pos": "v.", "ipa": "/ˈdoʊneɪt/", "cn": "捐赠;捐献", "en": "to give money or goods to help others"},
+    "experience": {"pos": "v.", "ipa": "/ɪkˈspɪriəns/", "cn": "经历;体验", "en": "to live through an event or feeling"},
+    "replicate": {"pos": "v.", "ipa": "/ˈreplɪkeɪt/", "cn": "复制;重现", "en": "to do or make something again in the same way"},
+    "generosity": {"pos": "n.", "ipa": "/ˌdʒenəˈrɑːsəti/", "cn": "慷慨;大方", "en": "the quality of giving freely to others"},
+    "bankrupt": {"pos": "v.", "ipa": "/ˈbæŋkrʌpt/", "cn": "使破产", "en": "to make someone unable to pay debts"},
+    "respective": {"pos": "adj.", "ipa": "/rɪˈspektɪv/", "cn": "各自的;分别的", "en": "belonging to each one separately"},
+    "push": {"pos": "v.", "ipa": "/pʊʃ/", "cn": "推动;推进", "en": "to force or encourage something forward"},
+    "hope": {"pos": "n.", "ipa": "/hoʊp/", "cn": "希望;期望", "en": "a feeling that good things will happen"},
+    "genuine": {"pos": "adj.", "ipa": "/ˈdʒenjuɪn/", "cn": "真正的;真诚的", "en": "real and honest, not fake"}
+  }
+}

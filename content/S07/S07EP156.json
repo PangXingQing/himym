@@ -1,0 +1,62 @@
+{
+  "id": 156,
+  "title": "Trilogy Time",
+  "cn": "第 20 集 · 三部曲时间",
+  "novel": "Ted, Marshall, and Barney watched Star Wars every three years and [[envisioned|envision]] their futures. It was a tradition they called Trilogy Time. Every three years, they sat down together and watched all three Star Wars movies. After watching, they each [[predicted|predict]] where they would be in three years. They looked back at their old [[predictions|prediction]] and laughed at how wrong they had been. Three years ago, Ted thought he would be married with kids. Instead, he was still single and searching for love. Marshall had predicted he would be a [[successful|successful]] [[environmental|environmental]] lawyer. He was still working at a job he hated. Barney had said he would be even more [[awesome|awesome]] than before, and he was right about that. This year, they made new [[predictions|prediction]] for the future. Ted hoped he would finally meet the woman of his dreams. Marshall wanted to be a good father to his new baby. Barney wanted his relationship with Quinn to last. Meanwhile, Barney and Quinn decided to move in together. It was a big step for Barney, who had always been afraid of [[commitment|commitment]]. Quinn helped him pack up his apartment and [[sorted|sort]] through his things. She found some of his old playbooks and laughed at his ridiculous [[schemes|scheme]]. Barney felt happy and hopeful about the future for the first time in years. He felt that things were finally going his way.",
+  "words": {
+    "envision": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvɪʒnd/",
+      "cn": "展望",
+      "en": "to imagine the future"
+    },
+    "predict": {
+      "pos": "v.",
+      "ipa": "/prɪˈdɪktɪd/",
+      "cn": "预测",
+      "en": "to say what will happen"
+    },
+    "prediction": {
+      "pos": "n.",
+      "ipa": "/prɪˈdɪkʃnz/",
+      "cn": "预测",
+      "en": "a statement about the future"
+    },
+    "successful": {
+      "pos": "adj.",
+      "ipa": "/səkˈsesfl/",
+      "cn": "成功的",
+      "en": "achieving a good result"
+    },
+    "environmental": {
+      "pos": "adj.",
+      "ipa": "/ɪnˌvaɪrənˈmentl/",
+      "cn": "环保的",
+      "en": "relating to protecting nature"
+    },
+    "awesome": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːsəm/",
+      "cn": "极好的",
+      "en": "very impressive and great"
+    },
+    "commitment": {
+      "pos": "n.",
+      "ipa": "/kəˈmɪtmənt/",
+      "cn": "承诺",
+      "en": "a promise to be faithful"
+    },
+    "sort": {
+      "pos": "v.",
+      "ipa": "/sɔːrtɪd/",
+      "cn": "整理",
+      "en": "to organize things"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːmz/",
+      "cn": "计划",
+      "en": "a clever or secret plan"
+    }
+  }
+}

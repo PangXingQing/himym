@@ -1,0 +1,104 @@
+{
+  "id": 203,
+  "title": "Vesuvius",
+  "cn": "第 19 集 · 维苏威",
+  "novel": "On the morning of the wedding, Lily and Robin had a [[fight|fight]]. Robin accused Lily of being too [[controlling|controlling]] and not respecting her decisions. Lily felt [[hurt|hurt]] and told Robin she was only trying to help. The argument [[escalated|escalate]] quickly, and soon both women were in tears.\n\nMeanwhile, Barney [[freaked|freak]] out about his wedding [[suit|suit]]. He was convinced that the suit was not perfect enough for the big day. He tried on dozens of suits and could not decide which one to wear. Ted tried to [[calm|calm]] him down, but Barney was too anxious to listen.\n\nThe gang also watched a [[forbidden|forbidden]] movie that Marshall had brought. It was a silly old film that they had promised never to watch again because it always caused arguments. Of course, watching it [[caused|cause]] exactly the kind of arguments they had expected.\n\nRobin and Lily's fight reminded everyone of the volcano Mount Vesuvius. Once it erupted, there was no stopping it. But just like a volcano, the anger eventually [[subsided|subside]]. Robin and Lily [[apologized|apologize]] to each other and [[hugged|hug]].\n\nBarney finally chose a [[classic|classic]] suit with Ted's help. It was a black suit that looked perfect on him. He felt [[confident|confident]] and ready to marry Robin. Ted told him he looked like the luckiest man in the world.\n\nAs the wedding hour approached, the gang gathered together. Despite all the [[drama|drama]] and chaos of the morning, everyone was [[excited|excite]] about the ceremony. Barney and Robin were about to take the biggest step of their lives, and their friends were there to support them every step of the way.",
+  "words": {
+    "fight": {
+      "pos": "n.",
+      "ipa": "/faɪt/",
+      "cn": "争吵",
+      "en": "They had a big fight."
+    },
+    "controlling": {
+      "pos": "adj.",
+      "ipa": "/kənˈtroʊ.lɪŋ/",
+      "cn": "控制欲强的",
+      "en": "She is too controlling."
+    },
+    "hurt": {
+      "pos": "adj.",
+      "ipa": "/hɜːrt/",
+      "cn": "受伤的",
+      "en": "She felt hurt by his words."
+    },
+    "escalate": {
+      "pos": "v.",
+      "ipa": "/ˈes.kə.leɪt/",
+      "cn": "升级",
+      "en": "The argument escalated."
+    },
+    "freak": {
+      "pos": "v.",
+      "ipa": "/friːk/",
+      "cn": "崩溃",
+      "en": "He freaked out about the test."
+    },
+    "suit": {
+      "pos": "n.",
+      "ipa": "/suːt/",
+      "cn": "西装",
+      "en": "He wore a black suit."
+    },
+    "calm": {
+      "pos": "v.",
+      "ipa": "/kɑːm/",
+      "cn": "使平静",
+      "en": "She calmed the crying baby."
+    },
+    "forbidden": {
+      "pos": "adj.",
+      "ipa": "/fərˈbɪd.ən/",
+      "cn": "被禁止的",
+      "en": "It was a forbidden topic."
+    },
+    "cause": {
+      "pos": "v.",
+      "ipa": "/kɔːz/",
+      "cn": "引起",
+      "en": "The storm caused damage."
+    },
+    "subside": {
+      "pos": "v.",
+      "ipa": "/səbˈsaɪd/",
+      "cn": "平息",
+      "en": "The rain subsided."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "She apologized for her mistake."
+    },
+    "hug": {
+      "pos": "v.",
+      "ipa": "/hʌɡ/",
+      "cn": "拥抱",
+      "en": "They hugged each other."
+    },
+    "classic": {
+      "pos": "adj.",
+      "ipa": "/ˈklæs.ɪk/",
+      "cn": "经典的",
+      "en": "It is a classic novel."
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "cn": "自信的",
+      "en": "She felt confident."
+    },
+    "drama": {
+      "pos": "n.",
+      "ipa": "/ˈdrɑː.mə/",
+      "cn": "戏剧",
+      "en": "There was too much drama."
+    },
+    "excite": {
+      "pos": "v.",
+      "ipa": "/ɪkˈsaɪt/",
+      "cn": "使兴奋",
+      "en": "The news excited everyone."
+    }
+  }
+}

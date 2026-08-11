@@ -1,0 +1,31 @@
+{
+  "id": 15,
+  "title": "Game Night",
+  "cn": "第 15 集 · 游戏之夜",
+  "novel": "Lily invented a board game in which every player must [[reveal|reveal]] one story they have never told.\n\nThey threw the [[dice|dice]]. Each [[opponent|opponent]] became [[ruthless|ruthless]]. Barney tried to [[cheat|cheat]] within four minutes.\n\nMarshall went first and told a story so [[hilarious|hilarious]] that Lily nearly fell off her chair. Robin then admitted a small [[scandal|scandal]] from her school days, and everyone began to [[tease|tease]] her until she started to [[blush|blush]].\n\nBarney did not [[exaggerate|exaggerate]] for once. He said nothing at all, which was worse.\n\nThe [[rivalry|rivalry]] turned [[brutal|brutal]]. There was [[gossip|gossip]]. There was a [[bet|bet]]. Somebody made a private [[wager|wager]] about who would [[spill the beans|spill the beans]] first.\n\nThen it was Ted's turn, and the room went quiet. He had spent years trying to [[cover up|cover up]] one very stupid year of his life. His [[reputation|reputation]] as the sensible one depended on it.\n\nHe told the truth.\n\nNobody [[mocked|mock]] him. Nobody [[judged|judge]] him. His friends did not [[betray|betray]] the secret, and by the end of the night they had all decided to [[forgive|forgive]] each other's past — mostly because everyone's past was equally [[shameful|shameful]].",
+  "words": {
+    "reveal": {"pos": "v.", "ipa": "/rɪˈviːl/", "cn": "揭露；说出（秘密）", "en": "to tell people something that was secret"},
+    "dice": {"pos": "n.", "ipa": "/daɪs/", "cn": "骰子", "en": "small cubes with dots, thrown in games"},
+    "opponent": {"pos": "n.", "ipa": "/əˈpəʊ.nənt/", "cn": "对手", "en": "the person you play or fight against"},
+    "ruthless": {"pos": "adj.", "ipa": "/ˈruːθ.ləs/", "cn": "冷酷无情的", "en": "hard and cruel; not caring about others' feelings"},
+    "cheat": {"pos": "v.", "ipa": "/tʃiːt/", "cn": "作弊", "en": "to break the rules secretly to win"},
+    "hilarious": {"pos": "adj.", "ipa": "/hɪˈleə.ri.əs/", "cn": "极其好笑的", "en": "extremely funny"},
+    "scandal": {"pos": "n.", "ipa": "/ˈskæn.dəl/", "cn": "丑闻", "en": "a shocking story that makes people talk badly about someone"},
+    "tease": {"pos": "v.", "ipa": "/tiːz/", "cn": "取笑；逗弄", "en": "to laugh at someone in a friendly or unkind way"},
+    "blush": {"pos": "v.", "ipa": "/blʌʃ/", "cn": "脸红", "en": "to become red in the face because you feel shy"},
+    "exaggerate": {"pos": "v.", "ipa": "/ɪɡˈzædʒ.ə.reɪt/", "cn": "夸大其词", "en": "to say something is bigger or better than it really is"},
+    "rivalry": {"pos": "n.", "ipa": "/ˈraɪ.vəl.ri/", "cn": "竞争；较劲", "en": "when two people always try to beat each other"},
+    "brutal": {"pos": "adj.", "ipa": "/ˈbruː.təl/", "cn": "残酷的；毫不留情的", "en": "very hard and cruel"},
+    "gossip": {"pos": "n.", "ipa": "/ˈɡɒs.ɪp/", "cn": "闲话；八卦", "en": "talk about other people's private lives"},
+    "bet": {"pos": "n.", "ipa": "/bet/", "cn": "打赌", "en": "an agreement to pay money if you guess wrong"},
+    "wager": {"pos": "n.", "ipa": "/ˈweɪ.dʒə/", "cn": "赌注（较正式）", "en": "a more formal word for a bet"},
+    "spill the beans": {"pos": "phr.", "ipa": "/spɪl ðə biːnz/", "cn": "说漏嘴；泄密", "en": "to tell a secret by accident"},
+    "cover up": {"pos": "phr.v.", "ipa": "/ˈkʌv.ər ʌp/", "cn": "掩盖（真相）", "en": "to hide something bad so nobody finds out"},
+    "reputation": {"pos": "n.", "ipa": "/ˌrep.jəˈteɪ.ʃən/", "cn": "名声", "en": "what people generally think about you"},
+    "mock": {"pos": "v.", "ipa": "/mɒk/", "cn": "嘲弄", "en": "to laugh at someone in an unkind way"},
+    "judge": {"pos": "v.", "ipa": "/dʒʌdʒ/", "cn": "评判；对……有意见", "en": "to decide that someone is bad or wrong"},
+    "betray": {"pos": "v.", "ipa": "/bɪˈtreɪ/", "cn": "背叛；泄露", "en": "to hurt someone who trusts you, for example by telling their secret"},
+    "forgive": {"pos": "v.", "ipa": "/fəˈɡɪv/", "cn": "原谅", "en": "to stop being angry with someone"},
+    "shameful": {"pos": "adj.", "ipa": "/ˈʃeɪm.fəl/", "cn": "丢人的", "en": "so bad that you should feel ashamed"}
+  }
+}

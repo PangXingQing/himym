@@ -1,0 +1,140 @@
+{
+  "id": 72,
+  "title": "Woooo!",
+  "cn": "第 8 集 · 喔喔喔！",
+  "novel": "Lily felt [[neglected|neglect]] by her friends. Everyone was busy with their own lives, and she felt [[invisible|invisible]]. Then she met a group of [[boisterous|boisterous]] women at a bar — the \"Woo Girls.\" They [[screamed|scream]] \"Woooo!\" at everything and [[celebrated|celebrate]] every moment.\n\nLily joined them and felt [[alive|alive]] again. She [[laughed|laugh]] louder than she had in months. The Woo Girls were [[obnoxious|obnoxious]] but [[enthusiastic|enthusiastic]], and Lily loved every minute.\n\nMeanwhile, Robin [[interviewed|interview]] for a new job at a morning show. The [[producer|producer]] was [[intimidating|intimidating]]. Robin felt [[nervous|nervous]] but [[determined|determined]].\n\n\"Why should we hire you?\" the producer asked.\n\nRobin took a breath. \"Because I [[refuse|refuse]] to give up.\"\n\nTed [[finished|finish]] his building design. He [[submitted|submit]] it to the city council, feeling [[proud|proud]] and [[anxious|anxious]] at the same time. Years of work had led to this moment.\n\nLily came home late, [[exhausted|exhaust]] from partying. Marshall looked at her with a [[puzzled|puzzle]] expression. \"You were out with the Woo Girls again?\"\n\n\"They make me feel young,\" Lily [[admitted|admit]].\n\nMarshall smiled. \"You don't need Woo Girls for that.\"\n\nThe next day, Robin got the job. She [[screamed|scream]] \"Woooo!\" — just once — and then laughed at herself.",
+  "words": {
+    "neglect": {
+      "pos": "v.",
+      "ipa": "/nɪˈɡlekt/",
+      "cn": "忽视",
+      "en": "to not give enough attention to someone"
+    },
+    "invisible": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈvɪz.ə.bəl/",
+      "cn": "被忽视的；看不见的",
+      "en": "feeling like nobody sees you"
+    },
+    "boisterous": {
+      "pos": "adj.",
+      "ipa": "/ˈbɔɪ.stər.əs/",
+      "cn": "喧闹的",
+      "en": "noisy, energetic, and rough"
+    },
+    "scream": {
+      "pos": "v.",
+      "ipa": "/skriːm/",
+      "cn": "尖叫",
+      "en": "to make a loud high cry"
+    },
+    "celebrate": {
+      "pos": "v.",
+      "ipa": "/ˈsel.ɪ.breɪt/",
+      "cn": "庆祝",
+      "en": "to do something enjoyable for a special day"
+    },
+    "alive": {
+      "pos": "adj.",
+      "ipa": "/əˈlaɪv/",
+      "cn": "充满活力的",
+      "en": "full of energy and life"
+    },
+    "laugh": {
+      "pos": "v.",
+      "ipa": "/lɑːf/",
+      "cn": "大笑",
+      "en": "to make sounds and movements that show joy"
+    },
+    "obnoxious": {
+      "pos": "adj.",
+      "ipa": "/əbˈnɒk.ʃəs/",
+      "cn": "令人讨厌的",
+      "en": "very unpleasant or rude"
+    },
+    "enthusiastic": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈθjuː.zi.æs.tɪk/",
+      "cn": "热情的",
+      "en": "showing a lot of excitement"
+    },
+    "interview": {
+      "pos": "v.",
+      "ipa": "/ˈɪn.tə.vjuː/",
+      "cn": "面试",
+      "en": "to have a formal meeting for a job"
+    },
+    "producer": {
+      "pos": "n.",
+      "ipa": "/prəˈdjuː.sər/",
+      "cn": "制作人",
+      "en": "the person in charge of making a show"
+    },
+    "intimidating": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈtɪm.ɪ.deɪ.tɪŋ/",
+      "cn": "令人畏惧的",
+      "en": "making you feel nervous or afraid"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜː.vəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "determined": {
+      "pos": "adj.",
+      "ipa": "/dɪˈtɜː.mɪnd/",
+      "cn": "坚定的",
+      "en": "having a firm decision"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no to something"
+    },
+    "finish": {
+      "pos": "v.",
+      "ipa": "/ˈfɪn.ɪʃ/",
+      "cn": "完成",
+      "en": "to complete something"
+    },
+    "submit": {
+      "pos": "v.",
+      "ipa": "/səbˈmɪt/",
+      "cn": "提交",
+      "en": "to give something for approval"
+    },
+    "proud": {
+      "pos": "adj.",
+      "ipa": "/praʊd/",
+      "cn": "自豪的",
+      "en": "feeling good about what you have done"
+    },
+    "anxious": {
+      "pos": "adj.",
+      "ipa": "/ˈæŋk.ʃəs/",
+      "cn": "焦虑的",
+      "en": "feeling worried about what might happen"
+    },
+    "exhaust": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzɔːst/",
+      "cn": "使筋疲力尽",
+      "en": "to make someone very tired"
+    },
+    "puzzle": {
+      "pos": "v.",
+      "ipa": "/ˈpʌz.əl/",
+      "cn": "使困惑",
+      "en": "to confuse someone"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    }
+  }
+}

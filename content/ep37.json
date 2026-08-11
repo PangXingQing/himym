@@ -1,0 +1,146 @@
+{
+  "id": 37,
+  "title": "Lucky Penny",
+  "cn": "第37集 · 幸运硬币",
+  "novel": "Ted found a [[penny|penny]] on the [[sidewalk|sidewalk]] on a Tuesday afternoon. It was [[heads-up|heads-up]], and he decided it was a [[sign|sign]]. From that moment on, [[incredible|incredible]] things started happening — he caught the subway just as the doors were closing, he found a [[vintage|vintage]] [[smoking jacket|smoking jacket]] at a [[thrift store|thrift store]], and he met a beautiful woman named [[Mary|Mary]] in line for coffee.\n\n\"This penny is [[magical|magic]],\" he told the gang. \"Everything is going my way.\"\n\nBut then things started going wrong. The [[vintage|vintage]] jacket had a [[moth|moth]] [[hole|hole]]. Mary turned out to be a [[professional|professional]] [[cuddler|cuddle]] who charged by the hour. And Ted's \"lucky\" job [[interview|interview]] was for a company that designed [[prison|prison]] cells.\n\nBarney [[snatched|snatch]] the penny and [[tossed|toss]] it into a [[fountain|fountain]]. \"There is no such thing as luck,\" he declared. \"There is only [[preparation|preparation]] meeting [[opportunity|opportunity]].\"\n\n\"That's actually a [[real|real]] quote,\" Marshall said. \"Seneca, Roman [[philosopher|philosopher]].\"\n\nBarney blinked. \"Then I [[reclaim|reclaim]] it as my own.\"\n\nTed went back to the [[fountain|fountain]] that night, searching for his penny. He did not find it. But he did find an old man sitting alone, who told him the story of how he had met his wife at that very [[fountain|fountain]] fifty years ago. \"I didn't need luck,\" the man said. \"I just needed to be here.\"\n\nTed walked home without his penny but with something better — a [[reminder|remind]] that the best things in life happen not because of luck, but because you show up.",
+  "words": {
+    "penny": {
+      "pos": "n.",
+      "ipa": "/ˈpen.i/",
+      "cn": "一美分硬币",
+      "en": "the smallest unit of money in the US and UK"
+    },
+    "sidewalk": {
+      "pos": "n.",
+      "ipa": "/ˈsaɪd.wɔːk/",
+      "cn": "人行道（美式）",
+      "en": "a path next to a road for people to walk on"
+    },
+    "heads-up": {
+      "pos": "adj.",
+      "ipa": "/ˌhedz ˈʌp/",
+      "cn": "（硬币）正面朝上的",
+      "en": "(of a coin) with the main side facing up, considered lucky"
+    },
+    "sign": {
+      "pos": "n.",
+      "ipa": "/saɪn/",
+      "cn": "迹象；征兆",
+      "en": "something that suggests something is true or will happen"
+    },
+    "incredible": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈkred.ɪ.bl̩/",
+      "cn": "难以置信的；极好的",
+      "en": "extremely good or impossible to believe"
+    },
+    "vintage": {
+      "pos": "adj.",
+      "ipa": "/ˈvɪn.tɪdʒ/",
+      "cn": "复古的；老式的",
+      "en": "relating to old, high-quality things from the past"
+    },
+    "thrift store": {
+      "pos": "n.",
+      "ipa": "/θrɪft stɔːr/",
+      "cn": "二手店；旧货店",
+      "en": "a shop that sells used items at low prices"
+    },
+    "moth": {
+      "pos": "n.",
+      "ipa": "/mɒθ/",
+      "cn": "蛀虫；蛾子",
+      "en": "a small flying insect whose larvae eat clothes"
+    },
+    "hole": {
+      "pos": "n.",
+      "ipa": "/həʊl/",
+      "cn": "洞；破洞",
+      "en": "an empty space in the surface of something"
+    },
+    "professional": {
+      "pos": "adj.",
+      "ipa": "/prəˈfeʃ.ən.əl/",
+      "cn": "专业的；职业的",
+      "en": "relating to work that requires special training"
+    },
+    "cuddler": {
+      "pos": "n.",
+      "ipa": "/ˈkʌd.lər/",
+      "cn": "拥抱者（职业拥抱师）",
+      "en": "a person paid to hug and hold people for comfort"
+    },
+    "interview": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.tə.vjuː/",
+      "cn": "面试；采访",
+      "en": "a meeting where someone asks you questions to see if you can get a job"
+    },
+    "prison": {
+      "pos": "n.",
+      "ipa": "/ˈprɪz.ən/",
+      "cn": "监狱",
+      "en": "a building where criminals are locked up"
+    },
+    "snatch": {
+      "pos": "v.",
+      "ipa": "/snætʃ/",
+      "cn": "夺走；抢走",
+      "en": "to take something away from someone quickly"
+    },
+    "toss": {
+      "pos": "v.",
+      "ipa": "/tɒs/",
+      "cn": "扔；抛",
+      "en": "to throw something carelessly or gently"
+    },
+    "fountain": {
+      "pos": "n.",
+      "ipa": "/ˈfaʊn.tɪn/",
+      "cn": "喷泉",
+      "en": "a structure that sends water up into the air"
+    },
+    "preparation": {
+      "pos": "n.",
+      "ipa": "/ˌprep.ərˈeɪ.ʃən/",
+      "cn": "准备",
+      "en": "the act of getting ready for something"
+    },
+    "opportunity": {
+      "pos": "n.",
+      "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+      "cn": "机会",
+      "en": "a chance to do something you want to do"
+    },
+    "real": {
+      "pos": "adj.",
+      "ipa": "/rɪəl/",
+      "cn": "真的；真实的",
+      "en": "not imaginary or false; actually existing"
+    },
+    "philosopher": {
+      "pos": "n.",
+      "ipa": "/fɪˈlɒs.ə.fər/",
+      "cn": "哲学家",
+      "en": "a person who studies ideas about life, knowledge, and truth"
+    },
+    "reclaim": {
+      "pos": "v.",
+      "ipa": "/rɪˈkleɪm/",
+      "cn": "收回；要求归还",
+      "en": "to say something belongs to you or is your idea"
+    },
+    "smoking jacket": {
+      "pos": "n.",
+      "ipa": "/ˈsməʊ.kɪŋ ˌdʒæk.ɪt/",
+      "cn": "吸烟装夹克（家居服）",
+      "en": "a comfortable jacket men used to wear while smoking"
+    },
+    "reminder": {
+      "pos": "n.",
+      "ipa": "/rɪˈmaɪn.dər/",
+      "cn": "提醒；提示",
+      "en": "something that helps you remember something important"
+    }
+  }
+}

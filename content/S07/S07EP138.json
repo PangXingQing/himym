@@ -1,0 +1,122 @@
+{
+  "id": 138,
+  "title": "The Naked Truth",
+  "cn": "第 2 集 · 赤裸真相",
+  "novel": "Marshall [[worried|worry]] that some old [[videos|video]] from his past might ruin his chances of getting his dream job. He had been [[wild|wild]] in college and done some embarrassing things on camera. He and Ted searched [[frantically|frantically]] to find the tapes before anyone else could see them. Meanwhile, Ted could not [[decide|decide]] who to bring to the Architects Ball. He had met two different girls and [[attracted|attract]] both of them. Ted [[weighed|weigh]] the [[pros|pro]] and cons of each girl carefully. One was smart and [[elegant|elegant]], while the other was fun and [[spontaneous|spontaneous]]. Ted [[struggled|struggle]] with the [[decision|decision]] for days. He asked his friends for advice, but they all had different [[opinions|opinion]]. Marshall finally [[discovered|discover]] the old tape and watched it with horror. It was just as [[embarrassing|embarrassing]] as he remembered. He [[practically|practically]] begged his friends to help him destroy it. In the end, Marshall faced his potential employers and told the truth about his past. To his surprise, they were [[impressed|impress]] by his honesty. Ted eventually chose a girl for the ball, but things did not go as [[planned|plan]]. The evening turned into a [[disaster|disaster]] when he accidentally called her by the wrong name.",
+  "words": {
+    "worry": {
+      "pos": "v.",
+      "ipa": "/ˈwʌri/",
+      "cn": "担心",
+      "en": "to feel anxious about something"
+    },
+    "video": {
+      "pos": "n.",
+      "ipa": "/ˈvɪdioʊ/",
+      "cn": "视频",
+      "en": "a recording of moving pictures"
+    },
+    "wild": {
+      "pos": "adj.",
+      "ipa": "/waɪld/",
+      "cn": "狂野的",
+      "en": "behaving in an uncontrolled way"
+    },
+    "frantically": {
+      "pos": "adv.",
+      "ipa": "/ˈfræntɪkli/",
+      "cn": "疯狂地",
+      "en": "in a hurried and worried way"
+    },
+    "decide": {
+      "pos": "v.",
+      "ipa": "/dɪˈsaɪd/",
+      "cn": "决定",
+      "en": "to make a choice about something"
+    },
+    "attract": {
+      "pos": "v.",
+      "ipa": "/əˈtrækt/",
+      "cn": "吸引",
+      "en": "to make someone interested"
+    },
+    "weigh": {
+      "pos": "v.",
+      "ipa": "/weɪ/",
+      "cn": "权衡",
+      "en": "to think carefully about something"
+    },
+    "pro": {
+      "pos": "n.",
+      "ipa": "/proʊ/",
+      "cn": "好处",
+      "en": "an advantage of something"
+    },
+    "elegant": {
+      "pos": "adj.",
+      "ipa": "/ˈelɪɡənt/",
+      "cn": "优雅的",
+      "en": "graceful and stylish in appearance"
+    },
+    "spontaneous": {
+      "pos": "adj.",
+      "ipa": "/spɑːnˈteɪniəs/",
+      "cn": "自发的",
+      "en": "doing things without planning"
+    },
+    "struggle": {
+      "pos": "v.",
+      "ipa": "/ˈstrʌɡl/",
+      "cn": "挣扎",
+      "en": "to try hard to do something difficult"
+    },
+    "decision": {
+      "pos": "n.",
+      "ipa": "/dɪˈsɪʒn/",
+      "cn": "决定",
+      "en": "a choice you make about something"
+    },
+    "opinion": {
+      "pos": "n.",
+      "ipa": "/əˈpɪnjən/",
+      "cn": "意见",
+      "en": "what you think about something"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌvər/",
+      "cn": "发现",
+      "en": "to find something for the first time"
+    },
+    "embarrassing": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈbærəsɪŋ/",
+      "cn": "尴尬的",
+      "en": "making you feel ashamed"
+    },
+    "practically": {
+      "pos": "adv.",
+      "ipa": "/ˈpræktɪkli/",
+      "cn": "几乎",
+      "en": "almost or very nearly"
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈpres/",
+      "cn": "留下印象",
+      "en": "to make someone feel admiration"
+    },
+    "plan": {
+      "pos": "v.",
+      "ipa": "/plæn/",
+      "cn": "计划",
+      "en": "to think about and decide in advance"
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzæstər/",
+      "cn": "灾难",
+      "en": "something that causes great harm"
+    }
+  }
+}

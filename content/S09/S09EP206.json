@@ -1,0 +1,104 @@
+{
+  "id": 206,
+  "title": "The End of the Aisle",
+  "cn": "第 22 集 · 走廊尽头",
+  "novel": "As the wedding ceremony approached, both Barney and Robin experienced severe [[panic|panic]] attacks. Robin sat in her dressing room, [[trembling|tremble]] with [[fear|fear]]. She was not sure she could go through with it. What if she was making the biggest [[mistake|mistake]] of her life?\n\nBarney was equally [[terrified|terrify]]. He paced back and forth in his room, unable to put on his tie. He kept thinking about all the ways the marriage could fail. Ted found him and tried to [[encourage|encourage]] him.\n\nTed told Barney that being [[scared|scared]] was normal. He said that the best things in life often required [[courage|courage]]. Barney listened and slowly began to calm down. He put on his tie and looked at himself in the mirror. He saw a man who was ready to make a [[commitment|commitment]].\n\nMeanwhile, Marshall and Lily decided to [[rewrite|rewrite]] their own wedding [[vows|vow]]. They had been married for years, but the events of the weekend made them realize they wanted to express their love in a new way. They sat together and wrote [[heartfelt|heartfelt]] promises to each other.\n\nMarshall told Lily that she was his best friend and the love of his life. Lily told Marshall that he was the most [[devoted|devote]] father and husband she had ever known. They were both moved to tears.\n\nRobin finally found her courage. She walked out of her dressing room and stood at the end of the [[aisle|aisle]]. Barney stood at the other end, waiting for her. When their eyes met, all the fear disappeared. They knew they were making the right choice.\n\nThe ceremony began as the sun set over the ocean. The gang watched with tears in their eyes as Barney and Robin exchanged their vows. It was the [[beginning|beginning]] of a new [[chapter|chapter]] for all of them.",
+  "words": {
+    "panic": {
+      "pos": "n.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌",
+      "en": "She had a panic attack."
+    },
+    "tremble": {
+      "pos": "v.",
+      "ipa": "/ˈtrem.bəl/",
+      "cn": "颤抖",
+      "en": "He trembled with fear."
+    },
+    "fear": {
+      "pos": "n.",
+      "ipa": "/fɪr/",
+      "cn": "恐惧",
+      "en": "She overcame her fear."
+    },
+    "mistake": {
+      "pos": "n.",
+      "ipa": "/mɪˈsteɪk/",
+      "cn": "错误",
+      "en": "Everyone makes mistakes."
+    },
+    "terrify": {
+      "pos": "v.",
+      "ipa": "/ˈter.ɪ.faɪ/",
+      "cn": "恐惧",
+      "en": "The storm terrified the children."
+    },
+    "encourage": {
+      "pos": "v.",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "cn": "鼓励",
+      "en": "She encouraged him to try again."
+    },
+    "scared": {
+      "pos": "adj.",
+      "ipa": "/skerd/",
+      "cn": "害怕的",
+      "en": "He was scared of the dark."
+    },
+    "courage": {
+      "pos": "n.",
+      "ipa": "/ˈkʌr.ɪdʒ/",
+      "cn": "勇气",
+      "en": "She showed great courage."
+    },
+    "commitment": {
+      "pos": "n.",
+      "ipa": "/kəˈmɪt.mənt/",
+      "cn": "承诺",
+      "en": "Marriage is a big commitment."
+    },
+    "rewrite": {
+      "pos": "v.",
+      "ipa": "/ˌriːˈraɪt/",
+      "cn": "重写",
+      "en": "She rewrote the essay."
+    },
+    "vow": {
+      "pos": "n.",
+      "ipa": "/vaʊ/",
+      "cn": "誓言",
+      "en": "They exchanged their vows."
+    },
+    "heartfelt": {
+      "pos": "adj.",
+      "ipa": "/ˈhɑːrt.felt/",
+      "cn": "真诚的",
+      "en": "She wrote a heartfelt letter."
+    },
+    "devote": {
+      "pos": "adj.",
+      "ipa": "/dɪˈvoʊt/",
+      "cn": "忠诚的",
+      "en": "He is a devoted father."
+    },
+    "aisle": {
+      "pos": "n.",
+      "ipa": "/aɪl/",
+      "cn": "走道",
+      "en": "She walked down the aisle."
+    },
+    "beginning": {
+      "pos": "n.",
+      "ipa": "/bɪˈɡɪn.ɪŋ/",
+      "cn": "开始",
+      "en": "It was the beginning of a new life."
+    },
+    "chapter": {
+      "pos": "n.",
+      "ipa": "/ˈtʃæp.tər/",
+      "cn": "篇章",
+      "en": "This is a new chapter in her life."
+    }
+  }
+}

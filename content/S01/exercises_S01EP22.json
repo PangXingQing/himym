@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "courage",
+    "hint": "勇气",
+    "phonetic": "/ˈkʌr.ɪdʒ/"
+  },
+  {
+    "type": "spelling",
+    "word": "forecast",
+    "hint": "天气预报",
+    "phonetic": "/ˈfɔː.kɑːst/"
+  },
+  {
+    "type": "spelling",
+    "word": "shelter",
+    "hint": "避雨处；庇护所",
+    "phonetic": "/ˈʃel.tə/"
+  },
+  {
+    "type": "spelling",
+    "word": "plea",
+    "hint": "恳求",
+    "phonetic": "/pliː/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "In the forecast, the sky __________ clear — his worst nightmare.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "What a desperate plan Ted __________ up with!",
+    "answer": "came"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Why not __________ her how you really feel?",
+    "answer": "tell"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She can't have __________ what he was about to say.",
+    "answer": "known"
+  }
+]

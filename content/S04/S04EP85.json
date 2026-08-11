@@ -1,0 +1,134 @@
+{
+  "id": 85,
+  "title": "The Three Days Rule",
+  "cn": "第 21 集 · 三天规则",
+  "novel": "Ted and Barney [[debated|debate]] the \"three days rule.\" The rule said you must wait three days before calling a woman after getting her number. Ted thought it was [[outdated|outdated]]. Barney thought it was [[sacred|sacred]].\n\nTed met a woman named Holly and got her number. He wanted to call immediately. \"The three days rule is [[ridiculous|ridiculous]],\" he said.\n\nBarney was [[horrified|horrify]]. \"You can't break the three days rule! It's [[tradition|tradition]]!\"\n\nSo Ted [[compromised|compromise]]. He wouldn't call — he would text. But Marshall [[intercepted|intercept]] the texts. He started [[pretending|pretend]] to be Holly, texting Ted flirty messages.\n\nTed was [[thrilled|thrill]]. \"She's so into me,\" he told the gang. He had no idea he was texting Marshall.\n\nMarshall felt [[guilty|guilty]] but also [[amused|amuse]]. He [[escalated|escalate]] the flirting, making Ted increasingly [[confident|confident]] and [[ridiculous|ridiculous]].\n\nFinally, Ted [[arranged|arrange]] a date with \"Holly.\" When the real Holly showed up, she had no idea what Ted was talking about. \"I never texted you,\" she said.\n\nTed was [[confused|confuse]]. Then Marshall [[confessed|confess]].\n\n\"It was me,\" Marshall said, [[hanging|hang]] his head.\n\nTed was [[furious|furious]]. \"You [[pretended|pretend]] to be a girl?!\"\n\n\"It was Barney's idea,\" Marshall [[blamed|blame]].\n\nBarney [[shrugged|shrug]]. \"The three days rule exists for a reason.\"",
+  "words": {
+    "debate": {
+      "pos": "v.",
+      "ipa": "/dɪˈbeɪt/",
+      "cn": "辩论",
+      "en": "to discuss something formally"
+    },
+    "outdated": {
+      "pos": "adj.",
+      "ipa": "/ˌaʊtˈdeɪ.tɪd/",
+      "cn": "过时的",
+      "en": "no longer useful or modern"
+    },
+    "sacred": {
+      "pos": "adj.",
+      "ipa": "/ˈseɪ.krɪd/",
+      "cn": "神圣的",
+      "en": "very important and respected"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "very silly and unreasonable"
+    },
+    "horrify": {
+      "pos": "v.",
+      "ipa": "/ˈhɒr.ɪ.faɪ/",
+      "cn": "使惊恐",
+      "en": "to make someone feel very shocked"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "cn": "传统",
+      "en": "something done for a long time"
+    },
+    "compromise": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "妥协",
+      "en": "to reach agreement by giving up something"
+    },
+    "intercept": {
+      "pos": "v.",
+      "ipa": "/ˌɪn.təˈsept/",
+      "cn": "拦截",
+      "en": "to stop something before it reaches its target"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true"
+    },
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪl/",
+      "cn": "使兴奋",
+      "en": "to make someone very excited"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "amuse": {
+      "pos": "v.",
+      "ipa": "/əˈmjuːz/",
+      "cn": "逗乐",
+      "en": "to make someone laugh"
+    },
+    "escalate": {
+      "pos": "v.",
+      "ipa": "/ˈes.kə.leɪt/",
+      "cn": "升级",
+      "en": "to make something bigger or more intense"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "cn": "自信的",
+      "en": "feeling sure about yourself"
+    },
+    "arrange": {
+      "pos": "v.",
+      "ipa": "/əˈreɪndʒ/",
+      "cn": "安排",
+      "en": "to plan or organize something"
+    },
+    "confuse": {
+      "pos": "v.",
+      "ipa": "/kənˈfjuːz/",
+      "cn": "使困惑",
+      "en": "to make someone not understand"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to tell the truth about something"
+    },
+    "hang": {
+      "pos": "v.",
+      "ipa": "/hæŋ/",
+      "cn": "低垂",
+      "en": "to let your head go down in shame"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "暴怒的",
+      "en": "very angry"
+    },
+    "blame": {
+      "pos": "v.",
+      "ipa": "/bleɪm/",
+      "cn": "归咎于",
+      "en": "to say someone is responsible for something bad"
+    },
+    "shrug": {
+      "pos": "v.",
+      "ipa": "/ʃrʌɡ/",
+      "cn": "耸肩",
+      "en": "to raise your shoulders to show you don't care"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "title": "Pilot",
+  "cn": "第 1 集 · 一切的开始",
+  "novel": "Ted was an [[architect|architect]] in New York. He drew tall towers all day, yet his own life still felt like an empty room.\n\nOne evening his best friend Marshall [[knelt|kneel]] down on the kitchen floor and [[proposed|propose]] to Lily. The small ring [[sparkled|sparkle]]. Lily cried. Ted clapped, smiled, and felt a warm, painful [[envy|envy]]. He was a [[bachelor|bachelor]], and that night the word sounded like a [[curse|curse]].\n\n\"Maybe [[destiny|destiny]] needs a push,\" he said at the bar. Barney laughed. \"[[Desperate|desperate]] men tell [[awkward|awkward]] jokes.\"\n\nThen Robin walked in, wet from the rain. Ted [[stole a glance|steal a glance]], [[rehearsed|rehearse]] three clever sentences in his head, walked over, and [[blurted out|blurt out]] the [[cheesiest|cheesy]] line of his life: \"You look like the last page of a book I want to read.\"\n\nOn an [[impulse|impulse]] she said yes to dinner.\n\nLater they stood on a cold [[rooftop|rooftop]]. Below them the traffic [[flickered|flicker]] like a slow river of stars, and on the wet [[pavement|pavement]] a stranger sang badly. Ted [[confessed|confess]] that he was a [[hopeless romantic|hopeless romantic]] who wanted the whole story on the first night.\n\n\"Slow down,\" Robin said.\n\nHe never did. But he decided to [[take a shot at|take a shot at]] love — and that one decision took him twenty-five years to explain.",
+  "words": {
+    "architect": {"pos": "n.", "ipa": "/ˈɑː.kɪ.tekt/", "cn": "建筑师；设计者", "en": "a person whose job is to design buildings"},
+    "kneel": {"pos": "v.", "ipa": "/niːl/", "cn": "跪下（过去式 knelt）", "en": "to go down so that your knees touch the ground"},
+    "propose": {"pos": "v.", "ipa": "/prəˈpəʊz/", "cn": "求婚；提议", "en": "to ask someone to marry you"},
+    "sparkle": {"pos": "v.", "ipa": "/ˈspɑː.kl̩/", "cn": "闪闪发光", "en": "to shine with small bright points of light"},
+    "envy": {"pos": "n./v.", "ipa": "/ˈen.vi/", "cn": "羡慕；嫉妒", "en": "the sad feeling you get when someone else has what you want"},
+    "bachelor": {"pos": "n.", "ipa": "/ˈbætʃ.ə.lə/", "cn": "单身男子", "en": "a man who is not married"},
+    "curse": {"pos": "n.", "ipa": "/kɜːs/", "cn": "诅咒；祸根", "en": "bad luck that seems to come from magic words"},
+    "destiny": {"pos": "n.", "ipa": "/ˈdes.tɪ.ni/", "cn": "命运", "en": "the things that will happen to you in the future, which you cannot change"},
+    "desperate": {"pos": "adj.", "ipa": "/ˈdes.pər.ət/", "cn": "绝望的；不顾一切的", "en": "wanting something so much that you will try anything"},
+    "awkward": {"pos": "adj.", "ipa": "/ˈɔː.kwəd/", "cn": "尴尬的；笨拙的", "en": "making people feel shy or uncomfortable"},
+    "steal a glance": {"pos": "phr.", "ipa": "/stiːl ə ɡlɑːns/", "cn": "偷看一眼", "en": "to look at someone quickly so that they do not notice"},
+    "rehearse": {"pos": "v.", "ipa": "/rɪˈhɜːs/", "cn": "排练；预演", "en": "to practise something before you do it in front of others"},
+    "blurt out": {"pos": "phr.v.", "ipa": "/blɜːt aʊt/", "cn": "脱口而出", "en": "to say something suddenly, without thinking first"},
+    "cheesy": {"pos": "adj.", "ipa": "/ˈtʃiː.zi/", "cn": "俗气的；肉麻的", "en": "silly and not cool, but in a funny way"},
+    "impulse": {"pos": "n.", "ipa": "/ˈɪm.pʌls/", "cn": "冲动", "en": "a sudden wish to do something without planning"},
+    "rooftop": {"pos": "n.", "ipa": "/ˈruːf.tɒp/", "cn": "屋顶（平台）", "en": "the top of a building, where you can stand"},
+    "flicker": {"pos": "v.", "ipa": "/ˈflɪk.ə/", "cn": "闪烁；忽明忽暗", "en": "to shine in a weak way that keeps stopping and starting"},
+    "pavement": {"pos": "n.", "ipa": "/ˈpeɪv.mənt/", "cn": "（英）人行道", "en": "the hard path at the side of a road, for people walking"},
+    "confess": {"pos": "v.", "ipa": "/kənˈfes/", "cn": "坦白；承认", "en": "to tell someone a truth that you feel shy or sorry about"},
+    "hopeless romantic": {"pos": "phr.", "ipa": "/ˈhəʊp.ləs rəʊˈmæn.tɪk/", "cn": "无可救药的浪漫主义者", "en": "a person who always believes in perfect love, even when it is silly"},
+    "take a shot at": {"pos": "phr.", "ipa": "/teɪk ə ʃɒt æt/", "cn": "试一试；尝试", "en": "to try to do something, even if you may fail"}
+  }
+}

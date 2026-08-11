@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had never seen the video.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had met him in Argentina.",
+    "answer": "She"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "tension",
+    "hint": "紧张",
+    "phonetic": "/ˈten.ʃən/"
+  }
+]

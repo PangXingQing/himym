@@ -1,0 +1,50 @@
+{
+  "id": 166,
+  "title": "Splitsville",
+  "cn": "第 6 集 · 分手镇",
+  "novel": "Robin [[hesitated|hesitate]] to break up with Nick. She knew the relationship was not working, but she could not bring herself to end it. Nick was a sweet guy, but he was not very smart. Robin felt [[guilty|guilty]] about wanting to leave him. She kept putting off the breakup because she did not want to hurt his feelings. Barney took matters into his own hands and decided to help Robin. He came up with a plan to make Nick break up with her instead. Barney tried to make Robin look bad in front of Nick. He told Nick things about Robin that would make him angry. However, his plan [[backfired|backfire]] when Nick just became more [[confused|confuse]]. Robin was angry at Barney for [[interfering|interfere]] in her life. She told him she could handle it herself. But when she tried to talk to Nick, she lost her nerve again. Finally, Robin gathered her courage and told Nick the truth. She said she was not happy and wanted to end the relationship. Nick was sad but [[accepted|accept]] her decision. Meanwhile, Lily and Marshall wanted some private time together. They had been so busy with the baby that they had not had a moment to themselves. They tried to find time alone but kept getting [[interrupted|interrupt]] by their friends and family. They finally managed to sneak away for a quiet evening together.",
+  "words": {
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhezɪteɪtɪd/",
+      "cn": "犹豫",
+      "en": "to be unsure about doing something"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪlti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪərd/",
+      "cn": "适得其反",
+      "en": "to have the opposite result"
+    },
+    "confuse": {
+      "pos": "v.",
+      "ipa": "/kənˈfjuːzd/",
+      "cn": "使困惑",
+      "en": "to make unclear in the mind"
+    },
+    "interfere": {
+      "pos": "v.",
+      "ipa": "/ˌɪntərˈfɪrɪŋ/",
+      "cn": "干涉",
+      "en": "to get involved in others' business"
+    },
+    "accept": {
+      "pos": "v.",
+      "ipa": "/əkˈseptɪd/",
+      "cn": "接受",
+      "en": "to agree to take something"
+    },
+    "interrupt": {
+      "pos": "v.",
+      "ipa": "/ˌɪntəˈrʌptɪd/",
+      "cn": "打断",
+      "en": "to stop someone from doing something"
+    }
+  }
+}

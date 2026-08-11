@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "follow",
+    "hint": "跟随；跟踪",
+    "phonetic": "/ˈfɒl.əʊ/"
+  },
+  {
+    "type": "spelling",
+    "word": "dumpster",
+    "hint": "大垃圾箱",
+    "phonetic": "/ˈdʌmp.stər/"
+  },
+  {
+    "type": "spelling",
+    "word": "announce",
+    "hint": "宣布；宣告",
+    "phonetic": "/əˈnaʊns/"
+  },
+  {
+    "type": "spelling",
+    "word": "unromantic",
+    "hint": "不浪漫的",
+    "phonetic": "/ˌʌn.rəʊˈmæn.tɪk/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "No matter __________ happened, Robin would support her sister.",
+    "answer": "what"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ city wasn't supposed to look beautiful — but it did.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Whatever __________ decide, I'm here for you.",
+    "answer": "you"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ the smelly alleyway behind the dumpster became romantic.",
+    "answer": "Even"
+  }
+]

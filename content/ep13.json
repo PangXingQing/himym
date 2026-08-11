@@ -1,0 +1,29 @@
+{
+  "id": 13,
+  "title": "Drumroll, Please",
+  "cn": "第 13 集 · 请击鼓",
+  "novel": "There was a [[drumroll|drumroll]] from the little band, a moment of [[suspense|suspense]] — and then Ted saw her across the room.\n\nThe [[chemistry|chemistry]] was instant and [[mutual|mutual]]. They began to [[flirt|flirt]] badly and happily. She [[giggled|giggle]] at his worst joke. They [[whirled|whirl]] around the floor until both of them were [[breathless|breathless]] and slightly [[dizzy|dizzy]].\n\nOn a [[whim|whim]] they [[slipped away|slip away]] to the garden. He knew nothing about her: no job, no story, no name. She stayed [[anonymous|anonymous]] on purpose, and that only fed his [[curiosity|curiosity]].\n\n\"Ask me later,\" she said, and gave him a [[glimpse|glimpse]] of a smile that felt like a [[riddle|riddle]].\n\nA [[cautious|cautious]] man would have asked at once. Ted let the moment [[linger|linger]] instead, full of [[delight|delight]], sure that time was on his side.\n\nThen her friends called her; a car door closed; a quick [[farewell|farewell]] through the window.\n\nShe was gone before he could [[unmask|unmask]] her [[identity|identity]].\n\nFor weeks he searched. He learned an old lesson the hard way: magic is lovely, but a name is useful.",
+  "words": {
+    "drumroll": {"pos": "n.", "ipa": "/ˈdrʌm.rəʊl/", "cn": "鼓点（宣布大事前的连击）", "en": "a fast rolling sound on a drum, played before big news"},
+    "suspense": {"pos": "n.", "ipa": "/səˈspens/", "cn": "悬念；紧张的等待", "en": "the excited feeling of waiting to find out what happens"},
+    "chemistry": {"pos": "n.", "ipa": "/ˈkem.ɪ.stri/", "cn": "（人与人之间的）来电、化学反应", "en": "a strong natural liking between two people"},
+    "mutual": {"pos": "adj.", "ipa": "/ˈmjuː.tʃu.əl/", "cn": "相互的；彼此都有的", "en": "felt or done by both people"},
+    "flirt": {"pos": "v.", "ipa": "/flɜːt/", "cn": "调情；打情骂俏", "en": "to talk in a playful way to show you like someone"},
+    "giggle": {"pos": "v.", "ipa": "/ˈɡɪɡ.l̩/", "cn": "咯咯地笑", "en": "to laugh in a quiet, silly way"},
+    "whirl": {"pos": "v.", "ipa": "/wɜːl/", "cn": "旋转", "en": "to turn round and round very fast"},
+    "breathless": {"pos": "adj.", "ipa": "/ˈbreθ.ləs/", "cn": "上气不接下气的", "en": "having trouble breathing after moving fast"},
+    "dizzy": {"pos": "adj.", "ipa": "/ˈdɪz.i/", "cn": "头晕的", "en": "feeling that everything around you is turning"},
+    "whim": {"pos": "n.", "ipa": "/wɪm/", "cn": "一时兴起的念头", "en": "a sudden idea to do something for no good reason"},
+    "slip away": {"pos": "phr.v.", "ipa": "/slɪp əˈweɪ/", "cn": "悄悄溜走", "en": "to leave quietly, without being noticed"},
+    "anonymous": {"pos": "adj.", "ipa": "/əˈnɒn.ɪ.məs/", "cn": "匿名的；不透露姓名的", "en": "with a name that is not known"},
+    "curiosity": {"pos": "n.", "ipa": "/ˌkjʊə.riˈɒs.ə.ti/", "cn": "好奇心", "en": "the wish to know more about something"},
+    "glimpse": {"pos": "n.", "ipa": "/ɡlɪmps/", "cn": "一瞥；短暂一见", "en": "a very quick look at something"},
+    "riddle": {"pos": "n.", "ipa": "/ˈrɪd.l̩/", "cn": "谜语；难解之谜", "en": "a puzzle with a clever answer"},
+    "cautious": {"pos": "adj.", "ipa": "/ˈkɔː.ʃəs/", "cn": "谨慎的", "en": "careful, because something could go wrong"},
+    "linger": {"pos": "v.", "ipa": "/ˈlɪŋ.ɡə/", "cn": "逗留；缠绵不去", "en": "to stay a little longer than you should"},
+    "delight": {"pos": "n.", "ipa": "/dɪˈlaɪt/", "cn": "喜悦", "en": "a feeling of great happiness"},
+    "farewell": {"pos": "n.", "ipa": "/ˌfeəˈwel/", "cn": "告别", "en": "the act of saying goodbye"},
+    "unmask": {"pos": "v.", "ipa": "/ʌnˈmɑːsk/", "cn": "揭开面具；揭露真面目", "en": "to show who someone really is"},
+    "identity": {"pos": "n.", "ipa": "/aɪˈden.tə.ti/", "cn": "身份", "en": "who a person is"}
+  }
+}

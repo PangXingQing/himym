@@ -1,0 +1,50 @@
+{
+  "id": 181,
+  "title": "Romeward Bound",
+  "cn": "第 21 集 · 通往罗马",
+  "novel": "The Captain asked Lily to move to Rome for a year. He wanted Lily to work as his art consultant in Italy. Lily was [[thrilled|thrill]] by the opportunity. She had always dreamed of living in Europe and working with art. However, she was worried about how Marshall would react. She feared that Marshall would [[resent|resent]] her for taking the job. Lily knew that Marshall had his own career and roots in New York. She did not want to ask him to give up everything for her dream. She kept the offer a secret from Marshall for days. She talked to Ted about her [[dilemma|dilemma]]. Ted told her that she needed to be honest with Marshall. He said that a good marriage was built on communication. Lily finally told Marshall about the Rome offer. To her surprise, Marshall was excited. He said he would love to live in Rome for a year. He said it would be a great [[adventure|adventure]] for their family. Lily was [[relieved|relieve]] and happy. Meanwhile, Ted and Barney were [[obsessed|obsess]] with a girl in a puffy coat. They had seen her at MacLaren's bar and could not figure out who she was. She was always wearing a big puffy coat that hid her face. They tried everything to get a look at her face. They sent drinks to her table and tried to talk to her. But she always left before they could see her clearly. It became a running [[joke|joke]] between them.",
+  "words": {
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪld/",
+      "cn": "使兴奋",
+      "en": "to make someone very excited"
+    },
+    "resent": {
+      "pos": "v.",
+      "ipa": "/rɪˈzent/",
+      "cn": "怨恨",
+      "en": "to feel angry about something"
+    },
+    "dilemma": {
+      "pos": "n.",
+      "ipa": "/dɪˈlemə/",
+      "cn": "困境",
+      "en": "a difficult choice to make"
+    },
+    "adventure": {
+      "pos": "n.",
+      "ipa": "/ədˈventʃər/",
+      "cn": "冒险",
+      "en": "an exciting experience"
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːvd/",
+      "cn": "使宽慰",
+      "en": "to make less worried"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈsest/",
+      "cn": "痴迷",
+      "en": "to think about constantly"
+    },
+    "joke": {
+      "pos": "n.",
+      "ipa": "/dʒoʊk/",
+      "cn": "笑话",
+      "en": "something funny between people"
+    }
+  }
+}

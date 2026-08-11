@@ -1,0 +1,28 @@
+{
+  "id": 117,
+  "title": "Architect of Destruction",
+  "cn": "第 5 集 · 毁灭建筑师",
+  "novel": "Ted was [[thrilled|thrill]] when he was chosen to design the new GNB headquarters. It was the biggest project of his career. However, everything changed when he met Zoey, a [[passionate|passionate]] woman who was determined to save the Arcadian, a historic building that would be [[demolished|demolish]] to make room for the new tower. Zoey [[protested|protest]] outside the construction site with a megaphone and a group of [[supporters|supporter]]. She told Ted that the Arcadian was a [[treasure|treasure]] of New York City and that tearing it down would be a [[tragedy|tragedy]]. Ted felt [[conflicted|conflict]] for the first time. He admired Zoey's [[dedication|dedication]] and found himself drawn to her energy. He started to question whether he could design a building that would [[destroy|destroy]] something so important. Barney, on the other hand, was [[furious|furious]]. He told Ted that the GNB project was worth millions and that he should not let a [[protester|protester]] change his mind. Ted and Barney had a heated argument about [[preservation|preservation]] versus progress. Ted [[researched|research]] the Arcadian's history and discovered that it was indeed an architectural [[gem|gem]]. He felt even more [[uncertain|uncertain]] about his role in the project. Zoey invited Ted to join her group, but he [[hesitated|hesitate]]. He knew that accepting would mean [[betraying|betray]] his client and his career. The episode ended with Ted standing in front of the Arcadian, staring up at its old stone facade, torn between his [[ambition|ambition]] and his [[conscience|conscience]].",
+  "words": {
+    "thrill": {"pos": "v.", "ipa": "/θrɪl/", "cn": "使激动;使兴奋", "en": "to make someone feel very excited"},
+    "passionate": {"pos": "adj.", "ipa": "/ˈpæʃənət/", "cn": "热情的;热烈的", "en": "having very strong feelings about something"},
+    "demolish": {"pos": "v.", "ipa": "/dɪˈmɑːlɪʃ/", "cn": "拆除;摧毁", "en": "to completely destroy a building"},
+    "protest": {"pos": "v.", "ipa": "/prəˈtest/", "cn": "抗议;反对", "en": "to say or show that you disagree with something"},
+    "supporter": {"pos": "n.", "ipa": "/səˈpɔːrtər/", "cn": "支持者;拥护者", "en": "a person who agrees with and helps someone"},
+    "treasure": {"pos": "n.", "ipa": "/ˈtreʒər/", "cn": "珍宝;宝贵之物", "en": "something that is very valuable"},
+    "tragedy": {"pos": "n.", "ipa": "/ˈtrædʒədi/", "cn": "悲剧;不幸", "en": "a very sad event that causes suffering"},
+    "conflict": {"pos": "v.", "ipa": "/kənˈflɪkt/", "cn": "冲突;矛盾", "en": "to feel torn between two choices"},
+    "dedication": {"pos": "n.", "ipa": "/ˌdedɪˈkeɪʃ.ən/", "cn": "奉献;致力", "en": "the quality of working hard at something"},
+    "destroy": {"pos": "v.", "ipa": "/dɪˈstrɔɪ/", "cn": "破坏;毁灭", "en": "to damage something so it no longer exists"},
+    "furious": {"pos": "adj.", "ipa": "/ˈfjʊriəs/", "cn": "狂怒的;暴怒的", "en": "extremely angry about something"},
+    "protester": {"pos": "n.", "ipa": "/prəˈtestər/", "cn": "抗议者;示威者", "en": "a person who shows public disagreement"},
+    "preservation": {"pos": "n.", "ipa": "/ˌprezərˈveɪʃ.ən/", "cn": "保护;保存", "en": "the act of keeping something safe from harm"},
+    "research": {"pos": "v.", "ipa": "/rɪˈsɜːrtʃ/", "cn": "研究;调查", "en": "to study something carefully to learn facts"},
+    "gem": {"pos": "n.", "ipa": "/dʒem/", "cn": "宝石;珍品", "en": "something that is very special and valuable"},
+    "uncertain": {"pos": "adj.", "ipa": "/ʌnˈsɜːrtən/", "cn": "不确定的;犹豫的", "en": "not sure about what will happen"},
+    "hesitate": {"pos": "v.", "ipa": "/ˈhezɪteɪt/", "cn": "犹豫;踌躇", "en": "to pause before doing something"},
+    "ambition": {"pos": "n.", "ipa": "/æmˈbɪʃ.ən/", "cn": "雄心;抱负", "en": "a strong desire to achieve something"},
+    "conscience": {"pos": "n.", "ipa": "/ˈkɑːnʃəns/", "cn": "良心;道德感", "en": "your sense of what is right and wrong"},
+    "betray": {"pos": "v.", "ipa": "/bɪˈtreɪ/", "cn": "背叛;出卖", "en": "to hurt someone who trusts you"}
+  }
+}

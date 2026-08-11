@@ -1,0 +1,110 @@
+{
+  "id": 205,
+  "title": "Gary Blauman",
+  "cn": "第 21 集 · 加里·布劳曼",
+  "novel": "Gary Blauman [[showed|show]] up at the wedding uninvited. Nobody was particularly happy to see him. Gary was a former [[coworker|coworker]] who had a habit of being [[awkward|awkward]] and [[annoying|annoying]] in social situations.\n\nThe gang [[recalled|recall]] their past [[encounters|encounter]] with Gary. Ted remembered the time Gary had stolen his lunch from the office fridge. Robin thought about when Gary had [[interrupted|interrupt]] her news report by walking into the frame. Barney recalled how Gary had once [[ruined|ruin]] a magic trick by revealing how it was done.\n\nDespite their [[complaints|complain]], the gang noticed that Gary was actually being helpful at the wedding. He [[guided|guide]] elderly guests to their seats, helped serve drinks, and even [[repaired|repair]] a broken sound system. They started to see him in a different light.\n\nTed [[approached|approach]] Gary and asked why he had come to the wedding. Gary explained that he had always looked up to the group. He said they were the coolest people he had ever known, and he just wanted to be part of their world, even if only for one day.\n\nThe gang felt [[touched|touch]] by Gary's words. They realized that they had been too quick to judge him. Barney, who had been the most [[critical|critical]] of Gary, shook his hand and thanked him for his help.\n\nAs the wedding continued, Gary [[blended|blend]] in with the other guests. He danced with enthusiasm and made everyone laugh with his [[quirky|quirky]] jokes. By the end of the night, the gang agreed that Gary Blauman was not so bad after all. Sometimes, the most [[unexpected|unexpected]] people can surprise you in the most wonderful ways.",
+  "words": {
+    "show": {
+      "pos": "v.",
+      "ipa": "/ʃoʊ/",
+      "cn": "出现",
+      "en": "He showed up at the party."
+    },
+    "coworker": {
+      "pos": "n.",
+      "ipa": "/ˈkoʊˌwɜːrkər/",
+      "cn": "同事",
+      "en": "She eats lunch with her coworkers."
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːk.wərd/",
+      "cn": "尴尬的",
+      "en": "The meeting was awkward."
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "讨厌的",
+      "en": "His habit was annoying."
+    },
+    "recall": {
+      "pos": "v.",
+      "ipa": "/rɪˈkɔːl/",
+      "cn": "回忆",
+      "en": "She recalled the happy memory."
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "相遇",
+      "en": "Their encounter was brief."
+    },
+    "interrupt": {
+      "pos": "v.",
+      "ipa": "/ˌɪn.təˈrʌpt/",
+      "cn": "打断",
+      "en": "He interrupted the speaker."
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁掉",
+      "en": "The rain ruined the picnic."
+    },
+    "complain": {
+      "pos": "n.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "She has many complaints."
+    },
+    "guide": {
+      "pos": "v.",
+      "ipa": "/ɡaɪd/",
+      "cn": "引导",
+      "en": "He guided the tourists through the museum."
+    },
+    "repair": {
+      "pos": "v.",
+      "ipa": "/rɪˈper/",
+      "cn": "修理",
+      "en": "She repaired the broken chair."
+    },
+    "approach": {
+      "pos": "v.",
+      "ipa": "/əˈproʊtʃ/",
+      "cn": "接近",
+      "en": "He approached the door."
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃ/",
+      "cn": "打动",
+      "en": "The story touched her heart."
+    },
+    "critical": {
+      "pos": "adj.",
+      "ipa": "/ˈkrɪt.ɪ.kəl/",
+      "cn": "批评的",
+      "en": "She was critical of his work."
+    },
+    "blend": {
+      "pos": "v.",
+      "ipa": "/blend/",
+      "cn": "融入",
+      "en": "He blended into the crowd."
+    },
+    "quirky": {
+      "pos": "adj.",
+      "ipa": "/ˈkwɜːr.ki/",
+      "cn": "古怪的",
+      "en": "She has a quirky sense of humor."
+    },
+    "unexpected": {
+      "pos": "adj.",
+      "ipa": "/ˌʌn.ɪkˈspek.tɪd/",
+      "cn": "意想不到的",
+      "en": "The ending was unexpected."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 178,
+  "title": "Weekend at Barney's",
+  "cn": "第 18 集 · 巴尼的周末",
+  "novel": "Ted and Jeanette finally broke up for good. Ted was relieved but also felt sad about the end of the relationship. He had hoped things would work out, but Jeanette was too [[unstable|unstable]]. After the breakup, Jeanette [[destroyed|destroy]] many of Ted's belongings in a fit of rage. She broke his furniture and tore up his books. Ted was left with a messy apartment and a broken heart. Barney saw this as an [[opportunity|opportunity]] to help Ted get back on his feet. He used the playbook, which Robin thought had been destroyed. Barney had secretly kept a copy and pulled it out for Ted. He told Ted they would go on a series of adventures to help him forget about Jeanette. Robin was angry when she found out Barney had kept the playbook. She felt [[betrayed|betray]] because Barney had promised to get rid of it. Meanwhile, Marshall got noticed at an art gallery. He had gone to see an exhibition and struck up a conversation with the gallery owner. The owner was impressed by Marshall's knowledge of art and invited him to a special event. Marshall was [[flattered|flatter]] and excited about the opportunity. He told Lily about it, and she was happy for him. Ted went along with Barney's plans and had some wild adventures. He realized that moving on from Jeanette was easier than he thought. With his friends by his side, he knew he would be fine.",
+  "words": {
+    "unstable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈsteɪbl/",
+      "cn": "不稳定的",
+      "en": "likely to change suddenly"
+    },
+    "destroy": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrɔɪd/",
+      "cn": "破坏",
+      "en": "to break or damage completely"
+    },
+    "opportunity": {
+      "pos": "n.",
+      "ipa": "/ˌɑːpərˈtuːnəti/",
+      "cn": "机会",
+      "en": "a chance to do something"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪd/",
+      "cn": "背叛",
+      "en": "to break someone's trust"
+    },
+    "flatter": {
+      "pos": "v.",
+      "ipa": "/ˈflætərd/",
+      "cn": "使受宠若惊",
+      "en": "to make someone feel honored"
+    }
+  }
+}

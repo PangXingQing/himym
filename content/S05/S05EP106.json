@@ -1,0 +1,92 @@
+{
+  "id": 106,
+  "title": "Say Cheese",
+  "cn": "第 18 集 · 说茄子",
+  "novel": "Lily discovered a [[photograph|photograph]] Ted had hidden for years. In it, her face was [[contorted|contort]] into an awful [[grimace|grimace]]. She looked, Marshall kindly said, like a [[gargoyle|gargoyle]].\n\n\"[[Delete|delete]] it,\" Lily demanded.\n\nTed refused. \"It's honest,\" he said. \"It's the real you.\"\n\nLily was [[furious|furious]]. She made it her mission to take a [[flattering|flattering]] photo of Ted — one so [[embarrassing|embarrassing]] that he would beg her to delete it.\n\nThe war of cameras [[escalated|escalate]]. They snapped photos at every meal, every yawn, every blink. Marshall's friend, who loved the camera a little too much, visited and made everything worse.\n\nFinally Lily [[captured|capture]] the perfect shot: Ted mid-sneeze, eyes closed, mouth open. She held it up, [[triumphant|triumphant]].\n\nTed stared at it, then burst out laughing. \"We're both [[ridiculous|ridiculous]],\" he said.\n\nLily agreed. She deleted both photos that night. Some [[memories|memory]], they decided, were better kept in the heart than on a [[screen|screen]].",
+  "words": {
+    "photograph": {
+      "pos": "n.",
+      "ipa": "/ˈfəʊ.tə.ɡrɑːf/",
+      "cn": "照片",
+      "en": "a picture made with a camera"
+    },
+    "contort": {
+      "pos": "v.",
+      "ipa": "/kənˈtɔːt/",
+      "cn": "扭曲",
+      "en": "to twist out of shape"
+    },
+    "grimace": {
+      "pos": "n.",
+      "ipa": "/ɡrɪˈmeɪs/",
+      "cn": "怪相",
+      "en": "an ugly twist of the face"
+    },
+    "gargoyle": {
+      "pos": "n.",
+      "ipa": "/ˈɡɑː.ɡɔɪl/",
+      "cn": "石像鬼",
+      "en": "an ugly stone face on a building"
+    },
+    "delete": {
+      "pos": "v.",
+      "ipa": "/dɪˈliːt/",
+      "cn": "删除",
+      "en": "to remove something completely"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "狂怒的",
+      "en": "extremely angry"
+    },
+    "flattering": {
+      "pos": "adj.",
+      "ipa": "/ˈflæt.ər.ɪŋ/",
+      "cn": "衬托人的",
+      "en": "making someone look good"
+    },
+    "embarrassing": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈbær.ə.sɪŋ/",
+      "cn": "令人尴尬的",
+      "en": "making you feel shy or ashamed"
+    },
+    "escalate": {
+      "pos": "v.",
+      "ipa": "/ˈes.kə.leɪt/",
+      "cn": "升级",
+      "en": "to become more serious or intense"
+    },
+    "capture": {
+      "pos": "v.",
+      "ipa": "/ˈkæp.tʃər/",
+      "cn": "拍下；捕捉",
+      "en": "to record an image on camera"
+    },
+    "triumphant": {
+      "pos": "adj.",
+      "ipa": "/traɪˈʌmf.ənt/",
+      "cn": "胜利的",
+      "en": "showing joy at having won"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "very silly or unreasonable"
+    },
+    "memory": {
+      "pos": "n.",
+      "ipa": "/ˈmem.ə.ri/",
+      "cn": "回忆",
+      "en": "something you remember"
+    },
+    "screen": {
+      "pos": "n.",
+      "ipa": "/skriːn/",
+      "cn": "屏幕",
+      "en": "the flat surface of a camera or phone"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 171,
+  "title": "The Final Page (1)",
+  "cn": "第 11 集 · 最后一页（上）",
+  "novel": "Barney told Ted that he [[planned|plan]] to [[propose|propose]] to Patrice. Ted was completely [[shocked|shock]] by the news. He could not believe that Barney wanted to marry Patrice. Ted debated whether he should tell Robin about Barney's plan. He felt torn between his loyalty to Barney and his friendship with Robin. He knew that Robin still had feelings for Barney. Ted went back and forth about what to do. He talked to Marshall and Lily about the situation. They both agreed that Ted was in a difficult position. Marshall said Ted should tell Robin because she deserved to know. Lily said Ted should respect Barney's wishes and keep quiet. Ted [[struggled|struggle]] with the decision for days. He could not sleep or focus on anything else. Meanwhile, Robin noticed that something was bothering Ted. She asked him repeatedly what was wrong, but Ted tried to [[avoid|avoid]] the topic. He changed the subject every time Robin brought it up. Finally, Ted could not keep the secret anymore. He took Robin aside and told her that Barney was going to propose to Patrice. Robin was [[devastated|devastate]] by the news. She tried to hide her feelings but could not stop her tears. Ted felt terrible for breaking the news but believed it was the right thing to do. Robin thanked him for telling her the truth.",
+  "words": {
+    "plan": {
+      "pos": "v.",
+      "ipa": "/plænd/",
+      "cn": "计划",
+      "en": "to decide what you will do"
+    },
+    "propose": {
+      "pos": "v.",
+      "ipa": "/prəˈpoʊz/",
+      "cn": "求婚",
+      "en": "to ask someone to marry you"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːkt/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "avoid": {
+      "pos": "v.",
+      "ipa": "/əˈvɔɪd/",
+      "cn": "回避",
+      "en": "to stay away from something"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "cn": "使崩溃",
+      "en": "to destroy emotionally"
+    },
+    "struggle": {
+      "pos": "v.",
+      "ipa": "/ˈstrʌɡld/",
+      "cn": "挣扎",
+      "en": "to try hard to decide"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "brother",
+    "hint": "兄弟",
+    "phonetic": "/ˈbrʌð.ər/"
+  },
+  {
+    "type": "spelling",
+    "word": "smile",
+    "hint": "微笑",
+    "phonetic": "/smaɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "obsess",
+    "hint": "痴迷；沉迷",
+    "phonetic": "/əbˈses/"
+  },
+  {
+    "type": "spelling",
+    "word": "excuse",
+    "hint": "原谅；请求离开",
+    "phonetic": "/ɪkˈskjuːz/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It __________ everything that Barney feared.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "James will be getting married __________ month.",
+    "answer": "next"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted __________ the situation heartbreaking.",
+    "answer": "found"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He chose a __________ bus, of all vehicles.",
+    "answer": "school"
+  }
+]

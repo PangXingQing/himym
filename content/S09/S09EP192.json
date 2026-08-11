@@ -1,0 +1,104 @@
+{
+  "id": 192,
+  "title": "The Lighthouse",
+  "cn": "第 8 集 · 灯塔",
+  "novel": "The [[conflict|conflict]] between Robin and Loretta [[escalated|escalate]] during the weekend. They argued about recipes, family traditions, and even the wedding decorations. Barney was [[stuck|stuck]] in the middle and did not know how to make peace between them.\n\nLoretta [[challenged|challenge]] Robin to a cooking competition. Robin, who was terrible at cooking, was [[nervous|nervous]] but accepted the challenge. She secretly [[practiced|practice]] making a simple dish in the hotel kitchen.\n\nBarney tried to [[mediate|mediate]] between the two women. He told each of them privately that they were the most important woman in his life. This [[strategy|strategy]] only made things worse when they both found out what he had said.\n\nMeanwhile, Marshall and Daphne [[discovered|discover]] a [[stowaway|stowaway]] on their journey. A young man had hidden in their car at a gas station. They were [[shocked|shock]] but felt sorry for him. They agreed to give him a ride to the next town.\n\nTed visited a [[lighthouse|lighthouse]] near the hotel. The view from the top was [[breathtaking|breathtaking]]. He stood there looking at the ocean, thinking about his future. A woman appeared at the lighthouse, carrying a yellow umbrella. Ted did not know it yet, but this was the woman he would eventually marry.\n\nBack at the hotel, the cooking competition ended in a [[tie|tie]]. Both Robin and Loretta made decent dishes, and the judges could not choose a winner. They [[agreed|agree]] to a truce, at least for the moment.\n\nBarney was [[relieved|relieve]] that the fighting was over. The group enjoyed a peaceful evening by the beach, watching the sun set over the water.",
+  "words": {
+    "conflict": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.flɪkt/",
+      "cn": "冲突",
+      "en": "They had a conflict over money."
+    },
+    "escalate": {
+      "pos": "v.",
+      "ipa": "/ˈes.kə.leɪt/",
+      "cn": "升级",
+      "en": "The argument escalated quickly."
+    },
+    "stuck": {
+      "pos": "adj.",
+      "ipa": "/stʌk/",
+      "cn": "卡住的",
+      "en": "He was stuck in traffic."
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "She challenged him to a race."
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːr.vəs/",
+      "cn": "紧张的",
+      "en": "He felt nervous before the speech."
+    },
+    "practice": {
+      "pos": "v.",
+      "ipa": "/ˈpræk.tɪs/",
+      "cn": "练习",
+      "en": "She practiced the piano every day."
+    },
+    "mediate": {
+      "pos": "v.",
+      "ipa": "/ˈmiː.di.eɪt/",
+      "cn": "调解",
+      "en": "He mediated the dispute."
+    },
+    "strategy": {
+      "pos": "n.",
+      "ipa": "/ˈstræt.ə.dʒi/",
+      "cn": "策略",
+      "en": "The strategy worked well."
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "They discovered a new restaurant."
+    },
+    "stowaway": {
+      "pos": "n.",
+      "ipa": "/ˈstoʊ.ə.weɪ/",
+      "cn": "偷渡者",
+      "en": "The stowaway was found on the ship."
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɒk/",
+      "cn": "震惊",
+      "en": "The news shocked everyone."
+    },
+    "lighthouse": {
+      "pos": "n.",
+      "ipa": "/ˈlaɪt.haʊs/",
+      "cn": "灯塔",
+      "en": "The lighthouse stood on the cliff."
+    },
+    "breathtaking": {
+      "pos": "adj.",
+      "ipa": "/ˈbreθ.teɪ.kɪŋ/",
+      "cn": "壮观的",
+      "en": "The view was breathtaking."
+    },
+    "tie": {
+      "pos": "n.",
+      "ipa": "/taɪ/",
+      "cn": "平局",
+      "en": "The game ended in a tie."
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "They agreed to stop fighting."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "She was relieved to hear the news."
+    }
+  }
+}

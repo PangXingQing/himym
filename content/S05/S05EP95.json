@@ -1,0 +1,92 @@
+{
+  "id": 95,
+  "title": "The Rough Patch",
+  "cn": "第 7 集 · 低谷期",
+  "novel": "Barney and Robin had been together for months, and the [[spark|spark]] was gone. They bickered over small things. They stopped laughing. They had hit a [[rough patch|rough patch]].\n\nTed and Marshall [[hatched|hatch]] a plan. They would play [[matchmaker|matchmaker]] and set each of them up with someone new, hoping the [[jealousy|jealousy]] would [[force|force]] a confession.\n\nBut the plan [[backfired|backfire]]. Barney went on a date and liked it. Robin did the same. Neither seemed [[miserable|miserable]] enough to stop.\n\nFinally Ted sat them down. \"You're making each other [[unhappy|unhappy]],\" he said. \"Maybe you should [[break up|break up]].\"\n\nThe words hung in the air. Barney and Robin looked at each other, and for a moment the old [[tenderness|tenderness]] flickered. Then they both [[nodded|nod]].\n\n\"We're better as friends,\" Robin said quietly.\n\nThey [[agreed|agree]] to end it before they grew to hate each other. Some loves, Ted realized, were not meant to last — but they were [[meant|mean]] to teach you something before they let you go.",
+  "words": {
+    "spark": {
+      "pos": "n.",
+      "ipa": "/spɑːk/",
+      "cn": "火花；激情",
+      "en": "a feeling of excitement between two people"
+    },
+    "rough patch": {
+      "pos": "phr.",
+      "ipa": "/rʌf pætʃ/",
+      "cn": "困难时期",
+      "en": "a difficult period in a relationship"
+    },
+    "hatch": {
+      "pos": "v.",
+      "ipa": "/hætʃ/",
+      "cn": "策划（阴谋）",
+      "en": "to make a plan, often in secret"
+    },
+    "matchmaker": {
+      "pos": "n.",
+      "ipa": "/ˈmætʃ.meɪ.kər/",
+      "cn": "媒人",
+      "en": "a person who tries to bring two people together"
+    },
+    "jealousy": {
+      "pos": "n.",
+      "ipa": "/ˈdel.ə.si/",
+      "cn": "嫉妒",
+      "en": "the angry feeling when someone you like is with another"
+    },
+    "force": {
+      "pos": "v.",
+      "ipa": "/fɔːs/",
+      "cn": "迫使",
+      "en": "to make someone do something"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪər/",
+      "cn": "适得其反",
+      "en": "to have the opposite result to what you wanted"
+    },
+    "miserable": {
+      "pos": "adj.",
+      "ipa": "/ˈmɪz.rə.bəl/",
+      "cn": "痛苦的",
+      "en": "very unhappy"
+    },
+    "unhappy": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈhæp.i/",
+      "cn": "不快乐的",
+      "en": "sad or not pleased"
+    },
+    "break up": {
+      "pos": "phr.v.",
+      "ipa": "/breɪk ʌp/",
+      "cn": "分手",
+      "en": "to end a romantic relationship"
+    },
+    "tenderness": {
+      "pos": "n.",
+      "ipa": "/ˈten.dər.nəs/",
+      "cn": "温柔",
+      "en": "gentle and loving feelings"
+    },
+    "nod": {
+      "pos": "v.",
+      "ipa": "/nɒd/",
+      "cn": "点头",
+      "en": "to move your head up and down to say yes"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to have the same opinion as someone"
+    },
+    "mean": {
+      "pos": "v.",
+      "ipa": "/miːn/",
+      "cn": "意欲；注定",
+      "en": "to intend or be destined to do something"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 158,
+  "title": "Good Crazy",
+  "cn": "第 22 集 · 好的疯狂",
+  "novel": "Marshall panicked about the baby at his shower. He was [[overwhelmed|overwhelm]] by all the gifts and advice from friends and family. He started to worry that he was not ready to be a father. He read too many parenting books and became [[anxious|anxious]] about every little thing. Lily told him he was experiencing good crazy, a normal kind of worry for new parents. Meanwhile, Ted and Robin came to terms with their relationship. They had a long talk about their feelings and where they stood. Ted [[admitted|admit]] that he still had feelings for Robin, but he accepted that they could only be friends. Robin was [[grateful|grateful]] for his honesty and said she valued their friendship above all else. They agreed to put the past behind them and move forward. Barney took Marshall on a road trip to help him relax before the baby arrived. They drove for hours and talked about life, marriage, and fatherhood. Barney gave Marshall some [[surprisingly|surprise]] good advice about being a parent. He said the most important thing was to love your child unconditionally. Marshall felt much better after the trip. He [[realized|realize]] that being a parent was not about being perfect. It was about loving your child and doing your best. He went home and told Lily that he was ready for the baby. Lily smiled and said she never had any doubts about him.",
+  "words": {
+    "overwhelm": {
+      "pos": "v.",
+      "ipa": "/ˌoʊvərˈwelmd/",
+      "cn": "压倒",
+      "en": "to affect someone very strongly"
+    },
+    "anxious": {
+      "pos": "adj.",
+      "ipa": "/ˈæŋkʃəs/",
+      "cn": "焦虑的",
+      "en": "feeling worried and nervous"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪtɪd/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪtfl/",
+      "cn": "感激的",
+      "en": "feeling thankful for something"
+    },
+    "surprise": {
+      "pos": "adv.",
+      "ipa": "/sərˈpraɪzɪŋli/",
+      "cn": "出人意料地",
+      "en": "in an unexpected way"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪzd/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    }
+  }
+}

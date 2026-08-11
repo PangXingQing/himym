@@ -1,0 +1,56 @@
+{
+  "id": 170,
+  "title": "The Over-Correction",
+  "cn": "第 10 集 · 过度纠正",
+  "novel": "Robin was [[suspicious|suspicious]] of Barney's relationship with Patrice. Barney had started dating Patrice, who was Robin's coworker and friend. Robin could not understand why Barney would date someone so different from his usual type. She [[suspected|suspect]] that Barney was trying to make her [[jealous|jealous]]. Robin started [[investigating|investigate]] the relationship. She followed Barney and Patrice around the city. She tried to find evidence that the relationship was fake. However, everything she saw seemed [[genuine|genuine]]. Barney and Patrice appeared to be truly happy together. Robin felt confused and hurt. Meanwhile, Marshall discovered that his mother was moving on [[romantically|romantic]] after his father's death. She had started dating a man she met at church. Marshall was [[shocked|shock]] and did not know how to feel about it. He felt like his mother was [[betraying|betray]] his father's memory. He was angry and confused. Lily tried to help Marshall understand that his mother deserved to be happy. She said it was natural for people to move on after losing a loved one. Marshall eventually accepted that his mother was allowed to find love again. He met her new boyfriend and was surprised to find that he was a kind and decent man. Robin continued to watch Barney and Patrice, convinced that something was not right. She was determined to find out the truth about their relationship.",
+  "words": {
+    "suspicious": {
+      "pos": "adj.",
+      "ipa": "/səˈspɪʃəs/",
+      "cn": "可疑的",
+      "en": "feeling that something is wrong"
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/səˈspektɪd/",
+      "cn": "怀疑",
+      "en": "to think something is true"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒeləs/",
+      "cn": "嫉妒的",
+      "en": "wanting what others have"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvestɪɡeɪtɪŋ/",
+      "cn": "调查",
+      "en": "to examine something carefully"
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒenjuɪn/",
+      "cn": "真诚的",
+      "en": "real and honest"
+    },
+    "romantic": {
+      "pos": "adv.",
+      "ipa": "/roʊˈmæntɪkli/",
+      "cn": "浪漫地",
+      "en": "in a romantic way"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːkt/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪɪŋ/",
+      "cn": "背叛",
+      "en": "to be unfaithful to someone"
+    }
+  }
+}

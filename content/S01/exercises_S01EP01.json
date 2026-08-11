@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "envy",
+    "hint": "羡慕；嫉妒",
+    "phonetic": "/ˈen.vi/"
+  },
+  {
+    "type": "spelling",
+    "word": "desperate",
+    "hint": "绝望的；不顾一切的",
+    "phonetic": "/ˈdes.pər.ət/"
+  },
+  {
+    "type": "spelling",
+    "word": "curse",
+    "hint": "诅咒；祸根",
+    "phonetic": "/kɜːs/"
+  },
+  {
+    "type": "spelling",
+    "word": "kneel",
+    "hint": "跪下（过去式 knelt）",
+    "phonetic": "/niːl/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "His __________ was pounding as he rehearsed.",
+    "answer": "heart"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ about having dinner before confessing forever?",
+    "answer": "What"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ not take a risk? Destiny never knocks twice.",
+    "answer": "Why"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He was __________ shy to confess his real feelings.",
+    "answer": "too"
+  }
+]

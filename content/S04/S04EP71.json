@@ -1,0 +1,134 @@
+{
+  "id": 71,
+  "title": "Not a Father's Day",
+  "cn": "第 7 集 · 非父亲节",
+  "novel": "Marshall and Lily [[panicked|panic]]. They thought Lily might be [[pregnant|pregnant]], and they were not ready. Marshall [[agonized|agonize]] over the responsibility. Lily [[doubted|doubt]] her own [[maturity|maturity]].\n\n\"Are we ready for this?\" Marshall asked, pacing the room.\n\n\"I don't know,\" Lily [[whispered|whisper]].\n\nThe test was [[negative|negative]]. Relief and [[disappointment|disappointment]] mixed together in a confusing wave. They realized they needed more time to [[prepare|prepare]].\n\nMeanwhile, Barney [[invented|invent]] a holiday called \"Not a Father's Day.\" He [[celebrated|celebrate]] the freedom of men without children. He bought [[t-shirts|t-shirt]] that read \"No Kids\" and threw a wild party.\n\n\"This is [[liberating|liberate]],\" Barney [[declared|declare]]. \"No [[diapers|diaper]], no [[screaming|scream]] babies, no [[sacrifices|sacrifice]].\"\n\nMarshall went to Barney's party and tried to enjoy the freedom. But he could not stop thinking about having a family someday. \"I want kids,\" he [[admitted|admit]] to Barney.\n\nBarney [[scoffed|scoff]]. \"You're [[insane|insane]].\"\n\nBut later that night, Barney held a tiny [[t-shirt|t-shirt]] he had bought as a joke. He stared at it for a long time. Something [[stirred|stir]] inside him — a feeling he would never [[admit|admit]] to anyone.\n\nMarshall went home and held Lily's hand. \"When the time is right,\" he said.\n\nShe nodded. \"We'll know.\"",
+  "words": {
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌",
+      "en": "to suddenly feel very afraid"
+    },
+    "pregnant": {
+      "pos": "adj.",
+      "ipa": "/ˈpreɡ.nənt/",
+      "cn": "怀孕的",
+      "en": "having a baby growing inside"
+    },
+    "agonize": {
+      "pos": "v.",
+      "ipa": "/ˈæɡ.ə.naɪz/",
+      "cn": "苦恼；纠结",
+      "en": "to spend a long time worrying"
+    },
+    "doubt": {
+      "pos": "v.",
+      "ipa": "/daʊt/",
+      "cn": "怀疑",
+      "en": "to not feel certain about something"
+    },
+    "maturity": {
+      "pos": "n.",
+      "ipa": "/məˈtʃʊə.rə.ti/",
+      "cn": "成熟",
+      "en": "the quality of being fully grown in mind"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "negative": {
+      "pos": "adj.",
+      "ipa": "/ˈneɡ.ə.tɪv/",
+      "cn": "阴性的；否定的",
+      "en": "showing that something is not present"
+    },
+    "disappointment": {
+      "pos": "n.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt.mənt/",
+      "cn": "失望",
+      "en": "the sad feeling when something is not as good as hoped"
+    },
+    "prepare": {
+      "pos": "v.",
+      "ipa": "/prɪˈpeər/",
+      "cn": "准备",
+      "en": "to get ready for something"
+    },
+    "invent": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvent/",
+      "cn": "发明；编造",
+      "en": "to make or think of something new"
+    },
+    "celebrate": {
+      "pos": "v.",
+      "ipa": "/ˈsel.ɪ.breɪt/",
+      "cn": "庆祝",
+      "en": "to do something enjoyable for a special day"
+    },
+    "t-shirt": {
+      "pos": "n.",
+      "ipa": "/ˈtiː.ʃɜːt/",
+      "cn": "T恤衫",
+      "en": "a simple cotton shirt with short sleeves"
+    },
+    "liberate": {
+      "pos": "v.",
+      "ipa": "/ˈlɪb.ə.reɪt/",
+      "cn": "解放",
+      "en": "to free someone from control"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "diaper": {
+      "pos": "n.",
+      "ipa": "/ˈdaɪ.ə.pər/",
+      "cn": "尿布",
+      "en": "a piece of cloth for a baby's bottom"
+    },
+    "scream": {
+      "pos": "v.",
+      "ipa": "/skriːm/",
+      "cn": "尖叫",
+      "en": "to make a loud high cry"
+    },
+    "sacrifice": {
+      "pos": "n.",
+      "ipa": "/ˈsæk.rɪ.faɪs/",
+      "cn": "牺牲",
+      "en": "giving up something important for someone else"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    },
+    "scoff": {
+      "pos": "v.",
+      "ipa": "/skɒf/",
+      "cn": "嘲笑",
+      "en": "to laugh at something in a rude way"
+    },
+    "insane": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈseɪn/",
+      "cn": "疯狂的",
+      "en": "completely crazy"
+    },
+    "stir": {
+      "pos": "v.",
+      "ipa": "/stɜːr/",
+      "cn": "搅动；萌动",
+      "en": "to cause a feeling to begin"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "relieved",
+    "hint": "松了一口气的",
+    "phonetic": "/rɪˈliːvd/"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  },
+  {
+    "type": "spelling",
+    "word": "guilty",
+    "hint": "内疚的",
+    "phonetic": "/ˈɡɪl.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "anxious",
+    "hint": "焦虑的",
+    "phonetic": "/ˈæŋk.ʃəs/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The __________ backfired on him.",
+    "answer": "scheme"
+  },
+  {
+    "type": "spelling",
+    "word": "mortified",
+    "hint": "极为尴尬的",
+    "phonetic": "/ˈmɔːr.tɪ.faɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  }
+]

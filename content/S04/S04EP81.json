@@ -1,0 +1,122 @@
+{
+  "id": 81,
+  "title": "The Front Porch",
+  "cn": "第 17 集 · 前廊",
+  "novel": "Ted [[discovered|discover]] a shocking truth. Lily had been [[sabotaging|sabotage]] his relationships for years. She would find faults in his girlfriends and quietly [[manipulate|manipulate]] Ted into breaking up with them.\n\n\"You did what?!\" Ted [[exploded|explode]].\n\nLily was [[defensive|defensive]]. \"I was protecting you,\" she [[claimed|claim]]. \"They weren't good enough for you.\"\n\nThe [[revelation|revelation]] [[shattered|shatter]] Ted's trust. He felt [[betrayed|betray]] by one of his closest friends. \"How could you make my decisions for me?\" he asked.\n\nMarshall was caught in the middle. He knew about Lily's [[interference|interference]] but had stayed silent. \"I didn't want to [[upset|upset]] either of you,\" he [[admitted|admit]].\n\nLily [[explained|explain]] her [[philosophy|philosophy]]. \"I picture us old, sitting on the front porch together. If I can't picture your girlfriend on that porch, she doesn't belong.\"\n\nTed was [[stunned|stun]]. \"That's not your choice to make.\"\n\nThe gang argued for hours. Robin said Lily was [[controlling|control]]. Barney said she was [[brilliant|brilliant]]. Marshall said nothing.\n\nFinally, Lily [[apologized|apologize]]. \"I'm sorry. I should have let you make your own mistakes.\"\n\nTed [[forgave|forgive]] her — slowly. But the front porch test would never feel the same again.",
+  "words": {
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something out"
+    },
+    "sabotage": {
+      "pos": "v.",
+      "ipa": "/ˈsæb.ə.tɑːʒ/",
+      "cn": "暗中破坏",
+      "en": "to deliberately ruin something"
+    },
+    "manipulate": {
+      "pos": "v.",
+      "ipa": "/məˈnɪp.jə.leɪt/",
+      "cn": "操纵",
+      "en": "to control someone secretly"
+    },
+    "explode": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspləʊd/",
+      "cn": "爆发",
+      "en": "to suddenly express strong anger"
+    },
+    "defensive": {
+      "pos": "adj.",
+      "ipa": "/dɪˈfen.sɪv/",
+      "cn": "防御的",
+      "en": "protecting yourself from criticism"
+    },
+    "claim": {
+      "pos": "v.",
+      "ipa": "/kleɪm/",
+      "cn": "声称",
+      "en": "to say something is true"
+    },
+    "revelation": {
+      "pos": "n.",
+      "ipa": "/ˌrev.əˈleɪ.ʃən/",
+      "cn": "揭露",
+      "en": "a surprising truth that is revealed"
+    },
+    "shatter": {
+      "pos": "v.",
+      "ipa": "/ˈʃæt.ər/",
+      "cn": "粉碎",
+      "en": "to break completely"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪ/",
+      "cn": "背叛",
+      "en": "to break someone's trust"
+    },
+    "interference": {
+      "pos": "n.",
+      "ipa": "/ˌɪn.təˈfɪə.rəns/",
+      "cn": "干涉",
+      "en": "getting involved in someone else's business"
+    },
+    "upset": {
+      "pos": "v.",
+      "ipa": "/ʌpˈset/",
+      "cn": "使不安",
+      "en": "to make someone feel sad or worried"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make something clear"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fəˈlɒs.ə.fi/",
+      "cn": "理念",
+      "en": "a way of thinking about things"
+    },
+    "stun": {
+      "pos": "v.",
+      "ipa": "/stʌn/",
+      "cn": "使震惊",
+      "en": "to surprise someone very much"
+    },
+    "control": {
+      "pos": "v.",
+      "ipa": "/kənˈtrəʊl/",
+      "cn": "控制",
+      "en": "to have power over someone"
+    },
+    "brilliant": {
+      "pos": "adj.",
+      "ipa": "/ˈbrɪl.i.ənt/",
+      "cn": "天才的",
+      "en": "very clever or impressive"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "to say you are sorry"
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fəˈɡɪv/",
+      "cn": "原谅",
+      "en": "to stop being angry at someone"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 46,
+  "title": "We're Not from Here",
+  "cn": "第 2 集 · 我们不是本地人",
+  "novel": "Ted and Barney [[pretended|pretend]] to be [[tourists|tourist]] from out of town. They [[faked|fake]] [[foreign|foreign]] [[accents|accent]] and [[convinced|convince]] two women they were visiting New York. The [[scheme|scheme]] worked — until it didn't.\n\nBarney [[declared|declare]] that women loved a man with a [[mysterious|mysterious]] past. Ted felt [[ridiculous|ridiculous]], but he played along. They [[deceived|deceive]] their dates for an entire evening.\n\nMeanwhile, Lily and Marshall met with a [[financial|financial]] [[advisor|advisor]]. The numbers were [[grim|grim]]. Marshall tried to [[adjust|adjust]] to reality.\n\nRobin [[struggled|struggle]] to [[adapt|adapt]] to Gael's [[lifestyle|lifestyle]]. His [[carefree|carefree]] attitude [[clashed|clash]] with her ambitious nature.\n\nBy midnight, the lie collapsed. The women discovered the truth and left. Ted realized that [[pretending|pretend]] to be someone else never ended well.",
+  "words": {
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装；伪装",
+      "en": "to act as if something is true when not"
+    },
+    "tourist": {
+      "pos": "n.",
+      "ipa": "/ˈtʊə.rɪst/",
+      "cn": "游客；观光者",
+      "en": "someone who travels for pleasure"
+    },
+    "fake": {
+      "pos": "v.",
+      "ipa": "/feɪk/",
+      "cn": "伪造；假装",
+      "en": "to make something seem real when not"
+    },
+    "foreign": {
+      "pos": "adj.",
+      "ipa": "/ˈfɒr.ən/",
+      "cn": "外国的",
+      "en": "belonging to another country"
+    },
+    "accent": {
+      "pos": "n.",
+      "ipa": "/ˈæk.sənt/",
+      "cn": "口音",
+      "en": "the way people speak in an area"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服；使确信",
+      "en": "to make someone believe something"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "计划；阴谋",
+      "en": "a clever plan to get what you want"
+    },
+    "mysterious": {
+      "pos": "adj.",
+      "ipa": "/mɪˈstɪə.ri.əs/",
+      "cn": "神秘的",
+      "en": "difficult to understand or explain"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒谬的",
+      "en": "very silly or unreasonable"
+    },
+    "deceive": {
+      "pos": "v.",
+      "ipa": "/dɪˈsiːv/",
+      "cn": "欺骗；蒙蔽",
+      "en": "to make someone believe false things"
+    },
+    "financial": {
+      "pos": "adj.",
+      "ipa": "/faɪˈnæn.ʃəl/",
+      "cn": "财务的",
+      "en": "related to money management"
+    },
+    "advisor": {
+      "pos": "n.",
+      "ipa": "/ədˈvaɪ.zə/",
+      "cn": "顾问",
+      "en": "someone whose job is to give advice"
+    },
+    "grim": {
+      "pos": "adj.",
+      "ipa": "/ɡrɪm/",
+      "cn": "严峻的",
+      "en": "worrying and without hope"
+    },
+    "adjust": {
+      "pos": "v.",
+      "ipa": "/əˈdʒʌst/",
+      "cn": "适应；调整",
+      "en": "to change to fit a new situation"
+    },
+    "adapt": {
+      "pos": "v.",
+      "ipa": "/əˈdæpt/",
+      "cn": "适应",
+      "en": "to change behavior for a new situation"
+    },
+    "lifestyle": {
+      "pos": "n.",
+      "ipa": "/ˈlaɪf.staɪl/",
+      "cn": "生活方式",
+      "en": "the way a person lives"
+    },
+    "carefree": {
+      "pos": "adj.",
+      "ipa": "/ˈkeə.friː/",
+      "cn": "无忧无虑的",
+      "en": "having no worries"
+    },
+    "clash": {
+      "pos": "v.",
+      "ipa": "/klæʃ/",
+      "cn": "冲突",
+      "en": "to disagree or conflict"
+    },
+    "struggle": {
+      "pos": "v.",
+      "ipa": "/ˈstrʌɡ.əl/",
+      "cn": "挣扎；努力",
+      "en": "to try hard despite difficulty"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布；断言",
+      "en": "to say something firmly"
+    }
+  }
+}

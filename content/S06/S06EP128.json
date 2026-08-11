@@ -1,0 +1,26 @@
+{
+  "id": 128,
+  "title": "Desperation Day",
+  "cn": "第 16 集 · 绝望之日",
+  "novel": "Barney [[declared|declare]] February 13th as Desperation Day. According to his theory, the night before Valentine's Day was the time when [[desperate|desperate]] women would do anything to find a date for the holiday. Barney [[planned|plan]] to take full advantage of this situation. He dressed in his best suit and headed to MacLaren's with a [[strategy|strategy]] in mind. He approached women with [[cheesy|cheesy]] pick-up lines and exaggerated compliments. To his surprise, many of them were not desperate at all. They saw right through his [[charade|charade]] and turned him down. Barney was [[bewildered|bewilder]] by the rejection. Meanwhile, Lily decided to surprise Marshall for Valentine's Day. She [[secretly|secret]] booked a romantic weekend at a bed and breakfast in the countryside. Marshall, not knowing about Lily's plan, had also arranged a [[surprise|surprise]] of his own. He had ordered a custom-made [[chocolate|chocolate]] sculpture of their faces. When they both revealed their plans, they laughed and agreed to [[combine|combine]] their surprises into one perfect getaway. Robin, who was single, felt [[lonely|lonely]] on Desperation Day. She tried to convince herself that she did not need a date for Valentine's Day, but deep down she missed being in a [[relationship|relationship]]. Ted told her that being alone was not the same as being [[lonely|lonely]], and that she should enjoy her [[independence|independence]]. Robin appreciated his words but still felt a [[pang|pang]] of sadness when she saw couples holding hands on the street. By the end of the episode, Barney managed to find one woman who was truly [[desperate|desperate]] enough to fall for his tricks. But when she started talking about their future together after just one drink, Barney [[panicked|panic]] and ran out of the bar. The gang laughed at his [[predicament|predicament]], and everyone agreed that love could not be [[forced|force]].",
+  "words": {
+    "declare": {"pos": "v.", "ipa": "/dɪˈkler/", "cn": "宣布;宣称", "en": "to say something officially and publicly"},
+    "desperate": {"pos": "adj.", "ipa": "/ˈdespərət/", "cn": "绝望的;拼命的", "en": "needing something very badly"},
+    "plan": {"pos": "v.", "ipa": "/plæn/", "cn": "计划;打算", "en": "to decide what you will do in the future"},
+    "strategy": {"pos": "n.", "ipa": "/ˈstrætədʒi/", "cn": "策略;计策", "en": "a plan designed to achieve a goal"},
+    "cheesy": {"pos": "adj.", "ipa": "/ˈtʃiːzi/", "cn": "俗气的;老套的", "en": "trying to be charming but seeming cheap"},
+    "charade": {"pos": "n.", "ipa": "/ʃəˈreɪd/", "cn": "伪装;做戏", "en": "an act of pretending something is real"},
+    "bewilder": {"pos": "v.", "ipa": "/bɪˈwɪldər/", "cn": "使迷惑;使困惑", "en": "to confuse someone completely"},
+    "secret": {"pos": "adv.", "ipa": "/ˈsiːkrɪtli/", "cn": "秘密地;偷偷地", "en": "in a way that others do not know about"},
+    "surprise": {"pos": "n.", "ipa": "/sərˈpraɪz/", "cn": "惊喜;意外", "en": "something unexpected that causes amazement"},
+    "chocolate": {"pos": "n.", "ipa": "/ˈtʃɑːkələt/", "cn": "巧克力", "en": "a sweet brown food made from cacao"},
+    "combine": {"pos": "v.", "ipa": "/kəmˈbaɪn/", "cn": "结合;联合", "en": "to mix or join two things together"},
+    "lonely": {"pos": "adj.", "ipa": "/ˈloʊnli/", "cn": "孤独的;寂寞的", "en": "feeling sad because you are alone"},
+    "relationship": {"pos": "n.", "ipa": "/rɪˈleɪʃənʃɪp/", "cn": "关系;恋爱关系", "en": "a romantic connection between two people"},
+    "independence": {"pos": "n.", "ipa": "/ˌɪndɪˈpendəns/", "cn": "独立;自主", "en": "freedom to live without depending on others"},
+    "pang": {"pos": "n.", "ipa": "/pæŋ/", "cn": "一阵剧痛;突然的悲伤", "en": "a sudden sharp feeling of emotion or pain"},
+    "panic": {"pos": "v.", "ipa": "/ˈpænɪk/", "cn": "恐慌;惊慌失措", "en": "to feel sudden fear and act without thinking"},
+    "predicament": {"pos": "n.", "ipa": "/prɪˈdɪkəmənt/", "cn": "困境;窘境", "en": "a difficult or unpleasant situation"},
+    "force": {"pos": "v.", "ipa": "/fɔːrs/", "cn": "强迫;迫使", "en": "to make someone do something against their will"}
+  }
+}

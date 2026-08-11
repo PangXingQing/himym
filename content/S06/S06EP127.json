@@ -1,0 +1,24 @@
+{
+  "id": 127,
+  "title": "Oh Honey",
+  "cn": "第 15 集 · 哦,亲爱的",
+  "novel": "Zoey decided to fix Ted up with her [[cousin|cousin]], a woman known as Honey. Honey was [[sweet|sweet]] but incredibly naive. She believed everything people told her and never seemed to [[question|question]] anything. The gang started calling her Oh Honey because they felt both [[affection|affection]] and pity for her. Ted went on a date with Honey but could not stop thinking about Zoey. He [[pretended|pretend]] to be interested in Honey's stories, but his mind was [[elsewhere|elsewhere]]. Meanwhile, the gang pieced together the story of how Ted and Zoey had been spending time together. They used Honey as a sounding board, and she [[innocently|innocent]] revealed details that Ted had been hiding. It became clear that Ted had developed strong feelings for Zoey. The gang confronted Ted and told him he needed to be honest with himself. Ted had an [[epiphany|epiphany]] about his true feelings for Zoey. He realized that he was in love with her and that he had been for some time. The [[realization|realization]] hit him like a wave. He knew that loving a married woman was [[wrong|wrong]], but he could not help how he felt. He decided to [[confess|confess]] his feelings to Zoey, even though it might ruin their friendship. Zoey listened to Ted's confession with tears in her eyes. She [[admitted|admit]] that she felt the same way. They agreed to be together, but only after Zoey had officially [[separated|separate]] from The Captain. Honey, meanwhile, went on a date with Barney, who tried to [[deceive|deceive]] her with his usual tricks. But Honey was so innocent that she actually saw through his [[nonsense|nonsense]] and called him out on it. Barney was stunned and [[intrigued|intrigue]]. For the first time, he wondered if a woman like Honey might be exactly what he needed.",
+  "words": {
+    "cousin": {"pos": "n.", "ipa": "/ˈkʌzn/", "cn": "堂表兄弟姐妹", "en": "a child of your aunt or uncle"},
+    "sweet": {"pos": "adj.", "ipa": "/swiːt/", "cn": "甜美的;温柔的", "en": "kind and gentle in a pleasant way"},
+    "question": {"pos": "v.", "ipa": "/ˈkwestʃən/", "cn": "质疑;提问", "en": "to express doubt about something"},
+    "affection": {"pos": "n.", "ipa": "/əˈfekʃ.ən/", "cn": "喜爱;感情", "en": "a feeling of liking and caring for someone"},
+    "pretend": {"pos": "v.", "ipa": "/prɪˈtend/", "cn": "假装;伪装", "en": "to act as if something is true when it is not"},
+    "elsewhere": {"pos": "adv.", "ipa": "/ˌelsˈwer/", "cn": "在别处;到别处", "en": "in or to another place"},
+    "innocent": {"pos": "adv.", "ipa": "/ˈɪnəsntli/", "cn": "天真地;无辜地", "en": "in a way that shows no awareness of harm"},
+    "epiphany": {"pos": "n.", "ipa": "/ɪˈpɪfəni/", "cn": "顿悟;突然领悟", "en": "a sudden moment of understanding"},
+    "realization": {"pos": "n.", "ipa": "/ˌriːələˈzeɪʃ.ən/", "cn": "认识;领悟", "en": "the moment you understand something clearly"},
+    "wrong": {"pos": "adj.", "ipa": "/rɔːŋ/", "cn": "错误的;不对的", "en": "not correct or not morally right"},
+    "confess": {"pos": "v.", "ipa": "/kənˈfes/", "cn": "坦白;承认", "en": "to admit something you have been hiding"},
+    "admit": {"pos": "v.", "ipa": "/ədˈmɪt/", "cn": "承认;供认", "en": "to agree that something is true"},
+    "separate": {"pos": "v.", "ipa": "/ˈsepəreɪt/", "cn": "分开;分离", "en": "to move apart or end a relationship"},
+    "deceive": {"pos": "v.", "ipa": "/dɪˈsiːv/", "cn": "欺骗;蒙蔽", "en": "to make someone believe something false"},
+    "nonsense": {"pos": "n.", "ipa": "/ˈnɑːnsens/", "cn": "胡说;废话", "en": "words or ideas that are silly or untrue"},
+    "intrigue": {"pos": "v.", "ipa": "/ɪnˈtriːɡ/", "cn": "引起兴趣;迷住", "en": "to make someone very curious and interested"}
+  }
+}

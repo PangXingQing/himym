@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "mortified",
+    "hint": "极为尴尬的",
+    "phonetic": "/ˈmɔːr.tɪ.faɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Despite __________ rain, they went.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Despite __________ tired, she helped.",
+    "answer": "being"
+  },
+  {
+    "type": "spelling",
+    "word": "networking",
+    "hint": "人脉",
+    "phonetic": "/ˈnet.wɜːr.kɪŋ/"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  }
+]

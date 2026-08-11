@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "propose",
+    "hint": "求婚",
+    "phonetic": "/prəˈpoʊz/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "spelling",
+    "word": "jealousy",
+    "hint": "嫉妒",
+    "phonetic": "/ˈdʒel.ə.si/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She saw __________ his lies.",
+    "answer": "through"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I can see through __________ act.",
+    "answer": "your"
+  },
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  }
+]

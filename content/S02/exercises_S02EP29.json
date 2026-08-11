@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "plant",
+    "hint": "植物",
+    "phonetic": "/plɑːnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "snap",
+    "hint": "崩溃；突然爆发",
+    "phonetic": "/snæp/"
+  },
+  {
+    "type": "spelling",
+    "word": "coffee shop",
+    "hint": "咖啡店",
+    "phonetic": "/ˈkɒf.i ʃɒp/"
+  },
+  {
+    "type": "spelling",
+    "word": "believe",
+    "hint": "相信",
+    "phonetic": "/bɪˈliːv/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I absolutely refuse to be __________ Swarley.",
+    "answer": "called"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ guy sitting next to me is a baker.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Chloe demanded that her cat be __________ like a pharaoh.",
+    "answer": "treated"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Chloe, a baker with __________ on her cheeks and a smile making Ted forget his own name.",
+    "answer": "flour"
+  }
+]

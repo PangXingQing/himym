@@ -1,0 +1,29 @@
+{
+  "id": 11,
+  "title": "The Limo",
+  "cn": "第 11 集 · 加长轿车",
+  "novel": "For New Year's Eve, Ted hired a white [[limousine|limousine]] and made a [[schedule|schedule]] of five parties.\n\nThe [[chauffeur|chauffeur]] was a calm man named Ranjit who had seen every kind of foolish night. Barney opened the [[champagne|champagne]] and made a [[toast|toast]]. Somebody put on a terrible [[mixtape|mixtape]] and refused to change it.\n\nParty one was empty. Party two had been cancelled. [[En route|en route]] to party three they hit a [[traffic jam|traffic jam]] so long that Ranjit took a [[detour|detour]] through streets full of [[honking|honk]] taxis. A drunk man leaned on their [[bumper|bumper]]; snow melted on the [[windscreen|windscreen]].\n\nInside, six people sat [[cramped|cramped]] together, standing up through the [[sunroof|sunroof]] to shout at the cold city.\n\nAt 11:58 they were still on the road. The [[countdown|countdown]] began somewhere far away. There were no [[fireworks|fireworks]] above them, only a red light and the smell of wet coats.\n\nIt should have been an [[anticlimax|anticlimax]]. But at [[midnight|midnight]], sitting by the [[curb|curb]] with people he loved, Ted made only one New Year's [[resolution|resolution]]: to stop [[wasting|waste]] time hunting for a better party than the one he was already in.",
+  "words": {
+    "limousine": {"pos": "n.", "ipa": "/ˈlɪm.ə.ziːn/", "cn": "加长豪华轿车（简称 limo）", "en": "a very long expensive car with a driver"},
+    "schedule": {"pos": "n.", "ipa": "/ˈʃedʒ.uːl/", "cn": "日程安排", "en": "a plan of what you will do and when"},
+    "chauffeur": {"pos": "n.", "ipa": "/ˈʃəʊ.fə/", "cn": "私人司机", "en": "a person whose job is to drive someone in a car"},
+    "champagne": {"pos": "n.", "ipa": "/ʃæmˈpeɪn/", "cn": "香槟酒", "en": "an expensive white wine with bubbles, drunk to celebrate"},
+    "toast": {"pos": "n.", "ipa": "/təʊst/", "cn": "祝酒；干杯词", "en": "when people lift their glasses and wish someone well"},
+    "mixtape": {"pos": "n.", "ipa": "/ˈmɪks.teɪp/", "cn": "自选歌曲合辑", "en": "a collection of songs someone chose and put together"},
+    "en route": {"pos": "phr.", "ipa": "/ˌɒn ˈruːt/", "cn": "在途中（法语借词）", "en": "on the way to a place"},
+    "traffic jam": {"pos": "n.", "ipa": "/ˈtræf.ɪk dʒæm/", "cn": "交通堵塞", "en": "a long line of cars that cannot move"},
+    "detour": {"pos": "n.", "ipa": "/ˈdiː.tʊə/", "cn": "绕道；改道", "en": "a longer road you take because the usual one is blocked"},
+    "honk": {"pos": "v.", "ipa": "/hɒŋk/", "cn": "按喇叭", "en": "to make a loud sound with a car horn"},
+    "bumper": {"pos": "n.", "ipa": "/ˈbʌm.pə/", "cn": "（汽车）保险杠", "en": "the bar at the front or back of a car that takes small hits"},
+    "windscreen": {"pos": "n.", "ipa": "/ˈwɪnd.skriːn/", "cn": "（英）挡风玻璃", "en": "the big glass window at the front of a car"},
+    "cramped": {"pos": "adj.", "ipa": "/kræmpt/", "cn": "拥挤狭小的", "en": "with too little space to move"},
+    "sunroof": {"pos": "n.", "ipa": "/ˈsʌn.ruːf/", "cn": "（汽车）天窗", "en": "a window in the roof of a car that opens"},
+    "countdown": {"pos": "n.", "ipa": "/ˈkaʊnt.daʊn/", "cn": "倒计时", "en": "counting backwards to zero before something happens"},
+    "fireworks": {"pos": "n.", "ipa": "/ˈfaɪə.wɜːks/", "cn": "烟花", "en": "things that explode in the sky with colour and noise"},
+    "anticlimax": {"pos": "n.", "ipa": "/ˌæn.tiˈklaɪ.mæks/", "cn": "虎头蛇尾；扫兴的结局", "en": "a disappointing end after you expected something exciting"},
+    "midnight": {"pos": "n.", "ipa": "/ˈmɪd.naɪt/", "cn": "午夜十二点", "en": "twelve o'clock at night"},
+    "curb": {"pos": "n.", "ipa": "/kɜːb/", "cn": "路缘石（英式 kerb）", "en": "the raised edge between the road and the pavement"},
+    "resolution": {"pos": "n.", "ipa": "/ˌrez.əˈluː.ʃən/", "cn": "决心；新年愿望", "en": "a firm promise you make to yourself to do better"},
+    "waste": {"pos": "v.", "ipa": "/weɪst/", "cn": "浪费", "en": "to use time or money badly, for nothing"}
+  }
+}

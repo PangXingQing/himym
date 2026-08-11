@@ -1,0 +1,68 @@
+{
+  "id": 169,
+  "title": "Lobster Crawl",
+  "cn": "第 9 集 · 龙虾爬行",
+  "novel": "Robin was [[determined|determine]] to get Barney back. She could not stop thinking about him and knew they belonged together. She came up with a plan to make Barney [[jealous|jealous]]. She started dating other men and made sure Barney saw her with them. However, Barney did not seem to care. He was too busy with his new [[scheme|scheme]] to meet women. Robin became more and more [[frustrated|frustrate]] with each failed attempt. Meanwhile, Ted filled in as Marvin's nanny when Mickey was unavailable. He took care of the baby and discovered that he actually [[enjoyed|enjoy]] it. Ted was surprised by how much he liked taking care of a child. He started to think more seriously about having a family of his own. However, Marshall and Lily noticed that Ted was using the baby to avoid dealing with his own life. He was spending all his time with Marvin instead of going on dates or working on his career. Marshall [[confronted|confront]] Ted about this. He told Ted that while they appreciated his help, he needed to focus on his own life. Ted was [[defensive|defensive]] at first but eventually admitted that Marshall was right. He was using the baby as an [[excuse|excuse]] to avoid putting himself out there. Robin continued her attempts to win Barney back. She even tried to make him [[jealous|jealous]] by [[crawling|crawl]] after him like a lobster, which was a [[bizarre|bizarre]] strategy that did not work.",
+  "words": {
+    "determine": {
+      "pos": "v.",
+      "ipa": "/dɪˈtɜːrmɪnd/",
+      "cn": "决心",
+      "en": "to firmly decide something"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒeləs/",
+      "cn": "嫉妒的",
+      "en": "wanting what others have"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "计划",
+      "en": "a clever or secret plan"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "cn": "使沮丧",
+      "en": "to make someone feel upset"
+    },
+    "enjoy": {
+      "pos": "v.",
+      "ipa": "/ɪnˈdʒɔɪd/",
+      "cn": "享受",
+      "en": "to get pleasure from something"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌntɪd/",
+      "cn": "面对",
+      "en": "to deal with directly"
+    },
+    "defensive": {
+      "pos": "adj.",
+      "ipa": "/dɪˈfensɪv/",
+      "cn": "防御的",
+      "en": "protecting yourself from criticism"
+    },
+    "excuse": {
+      "pos": "n.",
+      "ipa": "/ɪkˈskjuːz/",
+      "cn": "借口",
+      "en": "a reason to avoid something"
+    },
+    "crawl": {
+      "pos": "v.",
+      "ipa": "/krɔːlɪŋ/",
+      "cn": "爬行",
+      "en": "to move on hands and knees"
+    },
+    "bizarre": {
+      "pos": "adj.",
+      "ipa": "/bɪˈzɑːr/",
+      "cn": "古怪的",
+      "en": "very strange or unusual"
+    }
+  }
+}

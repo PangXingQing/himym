@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "jealousy",
+    "hint": "嫉妒",
+    "phonetic": "/ˈdʒel.ə.si/"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted turned __________ the job.",
+    "answer": "down"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ down his invitation.",
+    "answer": "turned"
+  },
+  {
+    "type": "spelling",
+    "word": "propose",
+    "hint": "求婚",
+    "phonetic": "/prəˈpoʊz/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  }
+]

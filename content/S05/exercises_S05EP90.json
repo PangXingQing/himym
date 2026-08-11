@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "architect",
+    "hint": "建筑师",
+    "phonetic": "/ˈɑːr.kɪ.tekt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The scheme __________ on him.",
+    "answer": "backfired"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  }
+]

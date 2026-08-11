@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ up liking the job.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ on after the breakup.",
+    "answer": "moved"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's time to __________ on.",
+    "answer": "move"
+  }
+]

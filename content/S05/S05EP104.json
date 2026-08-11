@@ -1,0 +1,92 @@
+{
+  "id": 104,
+  "title": "Hooked",
+  "cn": "第 16 集 · 上钩",
+  "novel": "Ted dated a woman named Tiffany who kept him \"[[on the hook|on the hook]].\" She called only when she needed something, then [[vanished|vanish]] again. Ted waited by the phone like a [[faithful|faithful]] dog.\n\n\"She's [[stringing|string]] you along,\" Barney said. \"Cut the [[line|line]].\"\n\nBut Ted could not. Every smile from Tiffany felt like a [[promise|promise]], even when it led nowhere.\n\nThe gang shared their own [[hook|hook]] stories. Marshall had once loved a [[lamp|lamp]] more than reason. Robin had waited years for a man who never called.\n\nLily, the most [[sensible|sensible]] of them all, sat Ted down. \"You [[deserve|deserve]] someone who calls back,\" she said. \"Not someone who keeps you in a jar.\"\n\nThe words [[struck|strike]] him. That night Ted stopped waiting. He deleted Tiffany's number and walked out into the cold air, feeling [[lighter|light]] than he had in months. Some [[obsessions|obsession]], he realized, only held you because you [[refused|refuse]] to let them go.",
+  "words": {
+    "on the hook": {
+      "pos": "phr.",
+      "ipa": "/ɒn ðə hʊk/",
+      "cn": "被吊着胃口",
+      "en": "kept waiting by someone who will not commit"
+    },
+    "vanish": {
+      "pos": "v.",
+      "ipa": "/ˈvæn.ɪʃ/",
+      "cn": "消失",
+      "en": "to disappear suddenly"
+    },
+    "faithful": {
+      "pos": "adj.",
+      "ipa": "/ˈfeɪθ.fəl/",
+      "cn": "忠诚的",
+      "en": "staying true to someone"
+    },
+    "string": {
+      "pos": "v.",
+      "ipa": "/strɪŋ/",
+      "cn": "牵着走",
+      "en": "to keep someone hoping for something you won't give"
+    },
+    "line": {
+      "pos": "n.",
+      "ipa": "/laɪn/",
+      "cn": "线；钓线",
+      "en": "a long thin piece used to catch fish"
+    },
+    "promise": {
+      "pos": "n.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺",
+      "en": "a sign that something good will happen"
+    },
+    "hook": {
+      "pos": "n.",
+      "ipa": "/hʊk/",
+      "cn": "钩子",
+      "en": "a curved piece of metal that catches things"
+    },
+    "lamp": {
+      "pos": "n.",
+      "ipa": "/læmp/",
+      "cn": "台灯",
+      "en": "a device that gives light"
+    },
+    "sensible": {
+      "pos": "adj.",
+      "ipa": "/ˈsen.sə.bəl/",
+      "cn": "明智的",
+      "en": "showing good judgment"
+    },
+    "deserve": {
+      "pos": "v.",
+      "ipa": "/dɪˈzɜːv/",
+      "cn": "值得",
+      "en": "to have earned something good"
+    },
+    "strike": {
+      "pos": "v.",
+      "ipa": "/straɪk/",
+      "cn": "打动；使想到",
+      "en": "to have a strong effect on someone"
+    },
+    "light": {
+      "pos": "adj.",
+      "ipa": "/laɪt/",
+      "cn": "轻松的",
+      "en": "free from worry or weight"
+    },
+    "obsession": {
+      "pos": "n.",
+      "ipa": "/əbˈseʃ.ən/",
+      "cn": "痴迷",
+      "en": "something you cannot stop thinking about"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say you will not do something"
+    }
+  }
+}

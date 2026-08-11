@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "faded",
+    "hint": "褪色的",
+    "phonetic": "/ˈfeɪ.dɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "second chance",
+    "hint": "第二次机会",
+    "phonetic": "/ˈsek.ənd tʃɑːns/"
+  },
+  {
+    "type": "spelling",
+    "word": "spark",
+    "hint": "火花；来电的感觉",
+    "phonetic": "/spɑːk/"
+  },
+  {
+    "type": "spelling",
+    "word": "fade",
+    "hint": "逐渐消失；褪去",
+    "phonetic": "/feɪd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "That line __________ one of the most famous moments.",
+    "answer": "became"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted came across an __________ red shirt in his wardrobe.",
+    "answer": "old"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "This was one of the best __________ of Ted's life.",
+    "answer": "nights"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "There was a coffee stain on __________ sleeve.",
+    "answer": "one"
+  }
+]

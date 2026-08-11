@@ -1,0 +1,176 @@
+{
+  "id": 73,
+  "title": "The Naked Man",
+  "cn": "第 9 集 · 裸男",
+  "novel": "The gang [[discovered|discover]] a [[bold|bold]] dating technique called \"The Naked Man.\" The idea was simple: when your date left the room, you [[stripped|strip]] naked and waited. [[Surprisingly|surprising]], it worked two out of three times.\n\nBarney was [[thrilled|thrill]]. \"This is [[genius|genius]],\" he [[declared|declare]]. He wanted to try it immediately. Ted was [[skeptical|skeptical]] but [[intrigued|intrigue]].\n\nMitch, the man who [[invented|invent]] the technique, explained his [[philosophy|philosophy]]. \"It shows [[confidence|confidence]]. It says, 'This is who I am.'\"\n\nRobin went on a date with Mitch. When she stepped out to answer a phone call, she returned to find him naked on her couch. She was [[stunned|stun]], then [[amused|amuse]], then [[horrified|horrify]].\n\n\"Really?\" she said.\n\n\"Really,\" Mitch said [[calmly|calmly]].\n\nMeanwhile, Lily and Marshall felt their [[romance|romance]] had become [[stale|stale]]. They tried to [[rekindle|rekindle]] the [[spark|spark]]. Marshall planned a [[surprise|surprise]] dinner, but Lily fell asleep on the couch. Marshall felt [[defeated|defeat]].\n\n\"We need to try harder,\" Lily said the next morning.\n\nThey [[attempted|attempt]] date night again — this time at a [[fancy|fancy]] restaurant. Halfway through dinner, Marshall [[knocked|knock]] over a glass of wine. They both laughed. The [[awkwardness|awkwardness]] broke the ice, and they felt [[connected|connect]] again.\n\nRobin, meanwhile, [[rejected|reject]] Mitch. \"The Naked Man doesn't work on me,\" she said firmly.",
+  "words": {
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something for the first time"
+    },
+    "bold": {
+      "pos": "adj.",
+      "ipa": "/bəʊld/",
+      "cn": "大胆的",
+      "en": "brave and not afraid of taking risks"
+    },
+    "strip": {
+      "pos": "v.",
+      "ipa": "/strɪp/",
+      "cn": "脱去衣服",
+      "en": "to take off your clothes"
+    },
+    "surprising": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪ.zɪŋ/",
+      "cn": "令人惊讶的",
+      "en": "unexpected and hard to believe"
+    },
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪl/",
+      "cn": "使兴奋",
+      "en": "to make someone very excited"
+    },
+    "genius": {
+      "pos": "n.",
+      "ipa": "/ˈdʒiː.ni.əs/",
+      "cn": "天才",
+      "en": "someone who is very smart or a brilliant idea"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣称",
+      "en": "to say something officially"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "cn": "怀疑的",
+      "en": "doubting that something is true"
+    },
+    "intrigue": {
+      "pos": "v.",
+      "ipa": "/ɪnˈtriːɡ/",
+      "cn": "引起好奇",
+      "en": "to make someone very curious"
+    },
+    "invent": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvent/",
+      "cn": "发明",
+      "en": "to make or think of something new"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fəˈlɒs.ə.fi/",
+      "cn": "理念；哲学",
+      "en": "a way of thinking about life"
+    },
+    "confidence": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "cn": "自信",
+      "en": "belief in your own abilities"
+    },
+    "stun": {
+      "pos": "v.",
+      "ipa": "/stʌn/",
+      "cn": "使震惊",
+      "en": "to surprise someone so much they cannot react"
+    },
+    "amuse": {
+      "pos": "v.",
+      "ipa": "/əˈmjuːz/",
+      "cn": "逗乐",
+      "en": "to make someone laugh or smile"
+    },
+    "horrify": {
+      "pos": "v.",
+      "ipa": "/ˈhɒr.ɪ.faɪ/",
+      "cn": "使惊恐",
+      "en": "to make someone feel very shocked"
+    },
+    "calmly": {
+      "pos": "adv.",
+      "ipa": "/ˈkɑːm.li/",
+      "cn": "平静地",
+      "en": "in a quiet and relaxed way"
+    },
+    "romance": {
+      "pos": "n.",
+      "ipa": "/rəʊˈmæns/",
+      "cn": "浪漫",
+      "en": "the feeling of being in love"
+    },
+    "stale": {
+      "pos": "adj.",
+      "ipa": "/steɪl/",
+      "cn": "陈腐的；没新意的",
+      "en": "no longer fresh or interesting"
+    },
+    "rekindle": {
+      "pos": "v.",
+      "ipa": "/ˌriːˈkɪn.dəl/",
+      "cn": "重新点燃",
+      "en": "to bring back a feeling again"
+    },
+    "spark": {
+      "pos": "n.",
+      "ipa": "/spɑːk/",
+      "cn": "火花",
+      "en": "a small flash of feeling or energy"
+    },
+    "surprise": {
+      "pos": "n.",
+      "ipa": "/səˈpraɪz/",
+      "cn": "惊喜",
+      "en": "something unexpected and often pleasant"
+    },
+    "defeat": {
+      "pos": "v.",
+      "ipa": "/dɪˈfiːt/",
+      "cn": "使挫败",
+      "en": "to make someone feel they have lost"
+    },
+    "attempt": {
+      "pos": "v.",
+      "ipa": "/əˈtempt/",
+      "cn": "尝试",
+      "en": "to try to do something"
+    },
+    "fancy": {
+      "pos": "adj.",
+      "ipa": "/ˈfæn.si/",
+      "cn": "高档的",
+      "en": "expensive and stylish"
+    },
+    "knock": {
+      "pos": "v.",
+      "ipa": "/nɒk/",
+      "cn": "碰倒",
+      "en": "to hit something by accident"
+    },
+    "awkwardness": {
+      "pos": "n.",
+      "ipa": "/ˈɔː.kwəd.nəs/",
+      "cn": "尴尬",
+      "en": "the feeling of being uncomfortable"
+    },
+    "connect": {
+      "pos": "v.",
+      "ipa": "/kəˈnekt/",
+      "cn": "连接；产生共鸣",
+      "en": "to feel close to someone"
+    },
+    "reject": {
+      "pos": "v.",
+      "ipa": "/rɪˈdʒekt/",
+      "cn": "拒绝",
+      "en": "to say no to someone"
+    }
+  }
+}

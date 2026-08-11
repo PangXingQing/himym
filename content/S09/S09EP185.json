@@ -1,0 +1,104 @@
+{
+  "id": 185,
+  "title": "The Locket",
+  "cn": "第 1 集 · 挂坠盒",
+  "novel": "On a warm Friday morning, the group began their [[journey|journey]] to Farhampton for Robin and Barney's wedding weekend. Ted drove with Lily, while Marshall was still traveling from Minnesota with his baby son Marvin.\n\nOn the way, Robin and Barney [[discovered|discover]] a startling family secret. They found out that they were [[distant|distant]] cousins, which caused them both to feel very [[anxious|anxious]]. However, they soon realized that the family connection was so far apart that it did not matter.\n\nMeanwhile, Marshall's trip was [[altered|alter]] by something he saw online. He had to change his plans and travel with a woman named Daphne, who was [[annoying|annoying]] and difficult to deal with. The long car ride tested his patience.\n\nAt the Farhampton Inn, Lily [[confronted|confront]] Ted about his feelings for Robin. She noticed that Ted still kept a [[locket|locket]] that he had planned to give to Robin years ago. Lily told Ted that he needed to let go of his past feelings and [[move|move]] on with his life.\n\nTed [[promised|promise]] Lily that he would [[behave|behave]] himself during the wedding weekend. He [[decided|decide]] that after the wedding, he would move to Chicago to start fresh. Lily was [[relieved|relieve]] to hear this.\n\nRobin was worried that she had lost her grandmother's locket. She had [[hidden|hide]] it carefully but could not remember where. The locket would soon [[reveal|reveal]] a deeper meaning. Barney tried to help her find it, but the locket remained a [[mystery|mystery]] as the wedding weekend began.",
+  "words": {
+    "journey": {
+      "pos": "n.",
+      "ipa": "/ˈdʒɜːr.ni/",
+      "cn": "旅程",
+      "en": "They started their journey early in the morning."
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "Scientists discover new things every day."
+    },
+    "distant": {
+      "pos": "adj.",
+      "ipa": "/ˈdɪs.tənt/",
+      "cn": "遥远的",
+      "en": "He has a distant relative in another country."
+    },
+    "anxious": {
+      "pos": "adj.",
+      "ipa": "/ˈæŋk.ʃəs/",
+      "cn": "焦虑的",
+      "en": "She felt anxious before the big exam."
+    },
+    "alter": {
+      "pos": "v.",
+      "ipa": "/ˈɔːl.tər/",
+      "cn": "改变",
+      "en": "The rain altered our plans for the day."
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "讨厌的",
+      "en": "The loud noise was very annoying."
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "对质",
+      "en": "She had to confront her friend about the problem."
+    },
+    "locket": {
+      "pos": "n.",
+      "ipa": "/ˈlɒk.ɪt/",
+      "cn": "挂坠盒",
+      "en": "She wore a silver locket around her neck."
+    },
+    "move": {
+      "pos": "v.",
+      "ipa": "/muːv/",
+      "cn": "前进",
+      "en": "It is time to move on with your life."
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺",
+      "en": "He promised to help his friend."
+    },
+    "behave": {
+      "pos": "v.",
+      "ipa": "/bɪˈheɪv/",
+      "cn": "表现",
+      "en": "Please behave yourself at the party."
+    },
+    "decide": {
+      "pos": "v.",
+      "ipa": "/dɪˈsaɪd/",
+      "cn": "决定",
+      "en": "She decided to study abroad."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "The good news relieved her worries."
+    },
+    "hide": {
+      "pos": "v.",
+      "ipa": "/haɪd/",
+      "cn": "隐藏",
+      "en": "He hid the gift under the bed."
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "The letter revealed a big secret."
+    },
+    "mystery": {
+      "pos": "n.",
+      "ipa": "/ˈmɪs.tər.i/",
+      "cn": "谜",
+      "en": "The missing key remained a mystery."
+    }
+  }
+}

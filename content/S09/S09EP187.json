@@ -1,0 +1,98 @@
+{
+  "id": 187,
+  "title": "Last Time in New York",
+  "cn": "第 3 集 · 最后一次在纽约",
+  "novel": "Lily [[discovered|discover]] that Ted had a [[list|list]] of things he wanted to do before [[moving|move]] to Chicago. The list included visiting his favorite restaurants, saying goodbye to old friends, and walking through Central Park one last time.\n\nTed explained that he wanted to [[complete|complete]] everything on the list before leaving New York forever. He felt [[nostalgic|nostalgic]] about the city where he had spent so many wonderful years. Lily offered to help him finish the list.\n\nMeanwhile, Robin and Barney [[realized|realize]] that they had very little time left before their [[relatives|relative]] arrived for the wedding. They wanted to [[spend|spend]] their final hours of peace doing something special together. They decided to have a quiet dinner and talk about their future.\n\nBarney [[admitted|admit]] that he was going to miss his old life as a single man. Robin laughed and said she would miss her freedom too. But they both agreed that being together was more [[precious|precious]] than anything else.\n\nTed and Lily went through the list together. They [[visited|visit]] Ted's favorite bookstore, ate at a diner they loved, and sat on their old apartment steps. Ted felt a wave of [[sadness|sadness]] as he [[recalled|recall]] all the memories they had shared.\n\nLily told Ted that he should not have any [[regrets|regret]] about leaving. She said that Chicago would bring new adventures and new friends. Ted smiled and thanked her for being such a good friend. They promised to [[cherish|cherish]] every memory they had made in New York.",
+  "words": {
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "She discovered an old photo in the drawer."
+    },
+    "list": {
+      "pos": "n.",
+      "ipa": "/lɪst/",
+      "cn": "清单",
+      "en": "He made a list of things to buy."
+    },
+    "move": {
+      "pos": "v.",
+      "ipa": "/muːv/",
+      "cn": "搬家",
+      "en": "They moved to a new city last summer."
+    },
+    "complete": {
+      "pos": "v.",
+      "ipa": "/kəmˈpliːt/",
+      "cn": "完成",
+      "en": "She completed the project on time."
+    },
+    "nostalgic": {
+      "pos": "adj.",
+      "ipa": "/nɑːˈstældʒɪk/",
+      "cn": "怀旧的",
+      "en": "The old song made him feel nostalgic."
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪəl.aɪz/",
+      "cn": "意识到",
+      "en": "He realized he was lost."
+    },
+    "relative": {
+      "pos": "n.",
+      "ipa": "/ˈrel.ə.tɪv/",
+      "cn": "亲戚",
+      "en": "Many relatives came to the wedding."
+    },
+    "spend": {
+      "pos": "v.",
+      "ipa": "/spend/",
+      "cn": "度过",
+      "en": "They spent the weekend at the beach."
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "He admitted his mistake to the teacher."
+    },
+    "precious": {
+      "pos": "adj.",
+      "ipa": "/ˈpreʃ.əs/",
+      "cn": "珍贵的",
+      "en": "Time with family is precious."
+    },
+    "visit": {
+      "pos": "v.",
+      "ipa": "/ˈvɪz.ɪt/",
+      "cn": "拜访",
+      "en": "We visited our grandparents last Sunday."
+    },
+    "sadness": {
+      "pos": "n.",
+      "ipa": "/ˈsæd.nəs/",
+      "cn": "悲伤",
+      "en": "She felt sadness when her friend moved away."
+    },
+    "recall": {
+      "pos": "v.",
+      "ipa": "/rɪˈkɔːl/",
+      "cn": "回忆",
+      "en": "He recalled the happy days of his childhood."
+    },
+    "regret": {
+      "pos": "n.",
+      "ipa": "/rɪˈɡret/",
+      "cn": "遗憾",
+      "en": "She had no regrets about her decision."
+    },
+    "cherish": {
+      "pos": "v.",
+      "ipa": "/ˈtʃer.ɪʃ/",
+      "cn": "珍惜",
+      "en": "We should cherish every moment together."
+    }
+  }
+}

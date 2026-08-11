@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "ambition",
+    "hint": "抱负",
+    "phonetic": "/æmˈbɪʃ.ən/"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "architect",
+    "hint": "建筑师",
+    "phonetic": "/ˈɑːr.kɪ.tekt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had met him in Argentina.",
+    "answer": "She"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They had never seen __________ video.",
+    "answer": "the"
+  },
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "id": 41,
+  "title": "Bachelor Party",
+  "cn": "第41集 · 单身派对",
+  "novel": "Marshall's [[bachelor|bachelor]] party was supposed to be [[epic|epic]]. Barney had planned everything: [[cigars|cigar]], [[steaks|steak]], and a [[limousine|limousine]] to [[Atlantic City|Atlantic City]]. But when the limo [[arrived|arrive]], it was not a limo. It was a [[school bus|school bus]] painted black.\n\n\"I may have [[overspent|overspend]] on the cigars,\" Barney [[admitted|admit]].\n\nMeanwhile, Lily's [[bachelorette|bachelorette]] party was not going much better. Robin had organized a [[tasteful|tasteful]] dinner at a nice restaurant, but Lily's [[grandmother|grandmother]] had other ideas. She [[ordered|order]] a [[stripper|stripper]] — who turned out to be the same guy who had been at Lily's [[bridal|bridal]] [[shower|shower]], her [[engagement|engagement]] party, and [[somehow|somehow]] her [[kindergarten|kindergarten]] [[graduation|graduation]].\n\n\"Is there an event in my life he hasn't been at?\" Lily [[wondered|wonder]].\n\nThe bachelor party [[derailed|derail]] further when Marshall [[confessed|confess]] to Ted that he was [[terrified|terrify]] — not of marrying Lily, but of the [[ceremony|ceremony]] itself. \"What if I [[trip|trip]] walking down the [[aisle|aisle]]? What if I [[forget|forget]] my [[vows|vow]]? What if my [[voice|voice]] [[cracks|crack]]?\"\n\n\"Marshall,\" Ted said, putting his hand on his friend's shoulder, \"you [[survived|survive]] Lily leaving for San Francisco. You [[survived|survive]] six months without her. A wedding ceremony is nothing.\"\n\nMarshall took a deep breath. \"You're right.\" Then Barney, who had disappeared for twenty minutes, returned wearing a [[gorilla|gorilla]] suit. \"For the [[entertainment|entertainment]]!\" he explained. \"They were out of [[magicians|magician]].\"\n\nIt was not the bachelor party anyone [[expected|expect]]. It was better.",
+  "words": {
+    "bachelor": {
+      "pos": "n.",
+      "ipa": "/ˈbætʃ.ə.lər/",
+      "cn": "单身汉",
+      "en": "a man who is not married; especially one about to get married"
+    },
+    "epic": {
+      "pos": "adj.",
+      "ipa": "/ˈep.ɪk/",
+      "cn": "史诗般的；极棒的",
+      "en": "extremely large, impressive, or exciting"
+    },
+    "cigar": {
+      "pos": "n.",
+      "ipa": "/sɪˈɡɑːr/",
+      "cn": "雪茄",
+      "en": "a thick roll of tobacco leaves for smoking"
+    },
+    "steak": {
+      "pos": "n.",
+      "ipa": "/steɪk/",
+      "cn": "牛排",
+      "en": "a thick flat piece of meat, usually beef"
+    },
+    "limousine": {
+      "pos": "n.",
+      "ipa": "/ˌlɪm.əˈziːn/",
+      "cn": "豪华轿车",
+      "en": "a large expensive car, often with a driver"
+    },
+    "arrive": {
+      "pos": "v.",
+      "ipa": "/əˈraɪv/",
+      "cn": "到达",
+      "en": "to reach a place at the end of a journey"
+    },
+    "school bus": {
+      "pos": "n.",
+      "ipa": "/skuːl bʌs/",
+      "cn": "校车",
+      "en": "a large yellow vehicle that takes children to and from school"
+    },
+    "overspend": {
+      "pos": "v.",
+      "ipa": "/ˌəʊ.vəˈspend/",
+      "cn": "超支；花太多",
+      "en": "to spend more money than you intended or can afford"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to say that something is true, especially something you are not proud of"
+    },
+    "bachelorette": {
+      "pos": "n.",
+      "ipa": "/ˌbætʃ.əl.əˈret/",
+      "cn": "准新娘的单身派对",
+      "en": "a party for a woman about to get married with her female friends"
+    },
+    "tasteful": {
+      "pos": "adj.",
+      "ipa": "/ˈteɪst.fəl/",
+      "cn": "有品味的；雅致的",
+      "en": "showing good judgment in style or quality"
+    },
+    "grandmother": {
+      "pos": "n.",
+      "ipa": "/ˈɡrænˌmʌð.ər/",
+      "cn": "祖母；外祖母",
+      "en": "the mother of your mother or father"
+    },
+    "order": {
+      "pos": "v.",
+      "ipa": "/ˈɔː.dər/",
+      "cn": "订购；点（菜）",
+      "en": "to ask for goods or services to be delivered"
+    },
+    "stripper": {
+      "pos": "n.",
+      "ipa": "/ˈstrɪp.ər/",
+      "cn": "脱衣舞者",
+      "en": "a performer who takes off their clothes to music"
+    },
+    "bridal": {
+      "pos": "adj.",
+      "ipa": "/ˈbraɪ.dəl/",
+      "cn": "新娘的；婚礼的",
+      "en": "relating to a bride or a wedding"
+    },
+    "shower": {
+      "pos": "n.",
+      "ipa": "/ˈʃaʊ.ər/",
+      "cn": "送礼会（尤指婚礼送礼会）",
+      "en": "a party where gifts are given for a wedding or baby"
+    },
+    "somehow": {
+      "pos": "adv.",
+      "ipa": "/ˈsʌm.haʊ/",
+      "cn": "不知怎的；以某种方式",
+      "en": "in a way that is not known or certain"
+    },
+    "graduation": {
+      "pos": "n.",
+      "ipa": "/ˌɡrædʒ.uˈeɪ.ʃən/",
+      "cn": "毕业典礼",
+      "en": "a ceremony where you receive a degree or diploma"
+    },
+    "wonder": {
+      "pos": "v.",
+      "ipa": "/ˈwʌn.dər/",
+      "cn": "想知道；琢磨",
+      "en": "to want to know something or to think about it"
+    },
+    "derail": {
+      "pos": "v.",
+      "ipa": "/dɪˈreɪl/",
+      "cn": "脱轨；使偏离",
+      "en": "to cause something to go wrong or off course"
+    },
+    "ceremony": {
+      "pos": "n.",
+      "ipa": "/ˈser.ɪ.mə.ni/",
+      "cn": "典礼；仪式",
+      "en": "a formal public event, especially a wedding or graduation"
+    },
+    "trip": {
+      "pos": "v.",
+      "ipa": "/trɪp/",
+      "cn": "绊倒；摔倒",
+      "en": "to catch your foot on something and fall"
+    },
+    "aisle": {
+      "pos": "n.",
+      "ipa": "/aɪl/",
+      "cn": "通道；过道",
+      "en": "a passage between rows, especially in a church for weddings"
+    },
+    "forget": {
+      "pos": "v.",
+      "ipa": "/fəˈɡet/",
+      "cn": "忘记",
+      "en": "to fail to remember something"
+    },
+    "vow": {
+      "pos": "n.",
+      "ipa": "/vaʊ/",
+      "cn": "誓言；婚誓",
+      "en": "a serious promise, especially one made at a wedding"
+    },
+    "voice": {
+      "pos": "n.",
+      "ipa": "/vɔɪs/",
+      "cn": "声音；嗓音",
+      "en": "the sounds you make when you speak or sing"
+    },
+    "survive": {
+      "pos": "v.",
+      "ipa": "/səˈvaɪv/",
+      "cn": "幸存；挺过",
+      "en": "to continue to live or exist after a difficult experience"
+    },
+    "gorilla": {
+      "pos": "n.",
+      "ipa": "/ɡəˈrɪl.ə/",
+      "cn": "大猩猩",
+      "en": "a very large powerful ape from Africa"
+    },
+    "magician": {
+      "pos": "n.",
+      "ipa": "/məˈdʒɪʃ.ən/",
+      "cn": "魔术师",
+      "en": "a performer who does magic tricks"
+    },
+    "expect": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspekt/",
+      "cn": "预期；期望",
+      "en": "to think that something will happen or be a certain way"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had met him in Argentina.",
+    "answer": "She"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They had __________ seen the video.",
+    "answer": "never"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  }
+]

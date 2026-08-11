@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "persistent",
+    "hint": "坚持的",
+    "phonetic": "/pərˈsɪs.tənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ scheme backfired on him.",
+    "answer": "The"
+  },
+  {
+    "type": "spelling",
+    "word": "reluctant",
+    "hint": "不情愿的",
+    "phonetic": "/rɪˈlʌk.tənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "spontaneous",
+    "hint": "自发的",
+    "phonetic": "/spɑːnˈteɪ.ni.əs/"
+  }
+]

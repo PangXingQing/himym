@@ -1,0 +1,134 @@
+{
+  "id": 24,
+  "title": "The Scorpion and the Toad",
+  "cn": "第24集 · 蝎子与蟾蜍",
+  "novel": "Lily came back to New York. She stood at the apartment door, her suitcase [[trembling|tremble]] in her hand. \"I made a [[mistake|mistake]],\" she [[whispered|whisper]]. Marshall opened the door and froze. He had [[fantasized|fantasize]] about this moment for weeks, but now that it was real, he felt nothing but [[numbness|numb]].\n\nTed told Marshall to be [[cautious|cautious]]. \"She broke your heart,\" he [[reminded|remind]]. Barney told the story of the [[scorpion|scorpion]] and the [[toad|toad]] — the scorpion stings because it's in its [[nature|nature]]. \"Some people just sting,\" Barney said.\n\nBut Lily was [[determined|determine]] to win Marshall back. She cooked his favorite [[lasagna|lasagna]], cleaned the apartment, and even [[endured|endure]] Barney's [[insults|insult]]. Marshall watched her with a [[mixture|mixture]] of love and [[suspicion|suspicion]].\n\nOne night, Lily sat on the [[couch|couch]] and said, \"I know I hurt you. I don't [[deserve|deserve]] a second chance. But I will spend the rest of my life trying to earn one.\" Her voice [[cracked|crack]].\n\nMarshall was silent for a long time. Then he said, \"I'm not ready to [[forgive|forgive]] you yet. But I'm not ready to let you go either.\" It wasn't a happy ending — not yet — but it was a [[beginning|beginning]].",
+  "words": {
+    "tremble": {
+      "pos": "v.",
+      "ipa": "/ˈtrem.bl̩/",
+      "cn": "颤抖；发抖",
+      "en": "to shake slightly, especially because you are nervous or scared"
+    },
+    "mistake": {
+      "pos": "n.",
+      "ipa": "/mɪˈsteɪk/",
+      "cn": "错误",
+      "en": "something that you do that is not right"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低声说；耳语",
+      "en": "to speak very quietly so that only someone close can hear"
+    },
+    "fantasize": {
+      "pos": "v.",
+      "ipa": "/ˈfæn.tə.saɪz/",
+      "cn": "幻想；想象",
+      "en": "to think about something very pleasant that is unlikely to happen"
+    },
+    "numb": {
+      "pos": "adj.",
+      "ipa": "/nʌm/",
+      "cn": "麻木的",
+      "en": "unable to feel anything; emotionally frozen"
+    },
+    "cautious": {
+      "pos": "adj.",
+      "ipa": "/ˈkɔː.ʃəs/",
+      "cn": "谨慎的；小心的",
+      "en": "careful to avoid danger or risk"
+    },
+    "remind": {
+      "pos": "v.",
+      "ipa": "/rɪˈmaɪnd/",
+      "cn": "提醒",
+      "en": "to help someone remember something"
+    },
+    "scorpion": {
+      "pos": "n.",
+      "ipa": "/ˈskɔː.pi.ən/",
+      "cn": "蝎子",
+      "en": "a small creature with a poisonous tail that curves over its back"
+    },
+    "toad": {
+      "pos": "n.",
+      "ipa": "/təʊd/",
+      "cn": "蟾蜍",
+      "en": "an animal like a frog with drier, rougher skin"
+    },
+    "nature": {
+      "pos": "n.",
+      "ipa": "/ˈneɪ.tʃər/",
+      "cn": "本性；天性",
+      "en": "a person's basic character or the basic quality of something"
+    },
+    "determine": {
+      "pos": "v.",
+      "ipa": "/dɪˈtɜː.mɪn/",
+      "cn": "下定决心",
+      "en": "to decide firmly to do something"
+    },
+    "lasagna": {
+      "pos": "n.",
+      "ipa": "/ləˈzæn.jə/",
+      "cn": "千层面",
+      "en": "an Italian dish of flat pasta with meat, cheese and sauce"
+    },
+    "endure": {
+      "pos": "v.",
+      "ipa": "/ɪnˈdʒʊər/",
+      "cn": "忍受；忍耐",
+      "en": "to suffer something painful or difficult without complaining"
+    },
+    "insult": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.sʌlt/",
+      "cn": "侮辱；冒犯",
+      "en": "a rude remark that hurts someone's feelings"
+    },
+    "mixture": {
+      "pos": "n.",
+      "ipa": "/ˈmɪks.tʃər/",
+      "cn": "混合；混杂",
+      "en": "a combination of different things or feelings"
+    },
+    "suspicion": {
+      "pos": "n.",
+      "ipa": "/səˈspɪʃ.ən/",
+      "cn": "怀疑；疑心",
+      "en": "a feeling that someone has done something wrong"
+    },
+    "couch": {
+      "pos": "n.",
+      "ipa": "/kaʊtʃ/",
+      "cn": "沙发（美式）",
+      "en": "a long comfortable seat for two or more people"
+    },
+    "deserve": {
+      "pos": "v.",
+      "ipa": "/dɪˈzɜːv/",
+      "cn": "值得；应得",
+      "en": "to have earned something because of your actions or qualities"
+    },
+    "crack": {
+      "pos": "v.",
+      "ipa": "/kræk/",
+      "cn": "破裂；变嘶哑",
+      "en": "to break; (of voice) to sound rough and uncontrolled"
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fəˈɡɪv/",
+      "cn": "原谅；宽恕",
+      "en": "to stop being angry with someone who has done something wrong"
+    },
+    "beginning": {
+      "pos": "n.",
+      "ipa": "/bɪˈɡɪn.ɪŋ/",
+      "cn": "开始；开端",
+      "en": "the start of something"
+    }
+  }
+}

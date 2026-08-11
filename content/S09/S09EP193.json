@@ -1,0 +1,110 @@
+{
+  "id": 193,
+  "title": "Platonish",
+  "cn": "第 9 集 · 柏拉图式",
+  "novel": "In a [[flashback|flashback]] to earlier that year, the gang sat at their usual booth in MacLaren's bar. They [[pondered|ponder]] the complicated love [[triangle|triangle]] between Ted, Robin, and Barney. Ted insisted that his relationship with Robin was purely [[platonic|platonic]], but his friends were not convinced.\n\nLily and Robin made a bet with Barney. They [[challenged|challenge]] him to [[approach|approach]] a woman at the bar and get her phone number. Barney, who was always [[confident|confident]], accepted the [[dare|dare]] without hesitation.\n\nBarney tried his usual [[techniques|technique]] to impress the woman, but she was not interested. She [[refused|refuse]] to give him her number. This was [[unusual|unusual]] for Barney, who rarely failed at picking up women.\n\nLily told Barney to try being [[genuine|genuine]] instead of using his normal tricks. Barney [[struggled|struggle]] with this advice. He was not used to being honest about his feelings with strangers.\n\nRobin watched from across the bar and felt [[conflicted|conflict]] about her own feelings. She wondered if she was making the right choice by marrying Barney. She still cared about Ted, but she loved Barney in a different way.\n\nBarney eventually [[abandoned|abandon]] his attempts to get the phone number. He sat back down with his friends and told them that he did not need to pick up women anymore because he was getting married. This [[surprised|surprise]] everyone, including Barney himself.\n\nThe flashback ended with the group toasting to the future. Ted raised his glass and said he was happy for Robin and Barney. Deep down, however, he still carried a small flame for Robin that he could not completely [[extinguish|extinguish]].",
+  "words": {
+    "flashback": {
+      "pos": "n.",
+      "ipa": "/ˈflæʃ.bæk/",
+      "cn": "闪回",
+      "en": "The movie used a flashback to show the past."
+    },
+    "ponder": {
+      "pos": "v.",
+      "ipa": "/ˈpɒn.dər/",
+      "cn": "沉思",
+      "en": "He pondered the question carefully."
+    },
+    "triangle": {
+      "pos": "n.",
+      "ipa": "/ˈtraɪ.æŋ.ɡəl/",
+      "cn": "三角关系",
+      "en": "They were caught in a love triangle."
+    },
+    "platonic": {
+      "pos": "adj.",
+      "ipa": "/pləˈtɒn.ɪk/",
+      "cn": "柏拉图式的",
+      "en": "They had a platonic friendship."
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "She challenged him to try harder."
+    },
+    "approach": {
+      "pos": "v.",
+      "ipa": "/əˈproʊtʃ/",
+      "cn": "接近",
+      "en": "He approached the door slowly."
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "cn": "自信的",
+      "en": "She felt confident about the test."
+    },
+    "dare": {
+      "pos": "n.",
+      "ipa": "/der/",
+      "cn": "挑战",
+      "en": "He took the dare without fear."
+    },
+    "technique": {
+      "pos": "n.",
+      "ipa": "/tekˈniːk/",
+      "cn": "技巧",
+      "en": "She learned a new painting technique."
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "He refused to answer the question."
+    },
+    "unusual": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈjuː.ʒu.əl/",
+      "cn": "不寻常的",
+      "en": "It was unusual for him to be late."
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "cn": "真诚的",
+      "en": "She gave a genuine smile."
+    },
+    "struggle": {
+      "pos": "v.",
+      "ipa": "/ˈstrʌɡ.əl/",
+      "cn": "挣扎",
+      "en": "He struggled with the decision."
+    },
+    "conflict": {
+      "pos": "v.",
+      "ipa": "/kənˈflɪkt/",
+      "cn": "纠结",
+      "en": "She felt conflicted about the choice."
+    },
+    "abandon": {
+      "pos": "v.",
+      "ipa": "/əˈbæn.dən/",
+      "cn": "放弃",
+      "en": "They abandoned the plan."
+    },
+    "surprise": {
+      "pos": "v.",
+      "ipa": "/sərˈpraɪz/",
+      "cn": "使惊讶",
+      "en": "The gift surprised her."
+    },
+    "extinguish": {
+      "pos": "v.",
+      "ipa": "/ɪkˈstɪŋ.ɡwɪʃ/",
+      "cn": "熄灭",
+      "en": "He extinguished the candle."
+    }
+  }
+}

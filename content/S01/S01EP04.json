@@ -1,0 +1,29 @@
+{
+  "id": 4,
+  "title": "Return of the Shirt",
+  "cn": "第 4 集 · 那件旧衬衫",
+  "novel": "At the back of his [[wardrobe|wardrobe]], behind a [[dusty|dusty]] box, Ted found a [[faded|faded]] red shirt with a torn [[collar|collar]], a coffee [[stain|stain]] on one [[sleeve|sleeve]], and a small hole made by a [[moth|moth]].\n\nHe put it on. Suddenly he felt a wave of [[nostalgia|nostalgia]].\n\n\"Good shirts deserve a [[second chance|second chance]],\" he announced. \"And so do good girlfriends.\"\n\nLily warned him not to [[dig up|dig up]] the past. Ted was too [[sentimental|sentimental]] to listen. He opened a [[drawer|drawer]], found an old phone number, [[hesitated|hesitate]] for a second, and called his [[ex|ex]].\n\nHer name was Natalie. She agreed to meet.\n\nDinner was strange and sweet. For twenty minutes the old [[spark|spark]] came back to life. Ted tried to [[revive|revive]] a joke from years ago; she laughed too late, and he [[cringed|cringe]].\n\nThen he remembered why it had ended, and she remembered too. Some [[reunions|reunion]] are [[doomed|doomed]] before the first drink.\n\nWalking home, Ted felt the memory [[fade|fade]] softly, like the colour of the shirt.\n\nHe kept the shirt anyway. Not everything old must be [[thrown away|throw away]] — but not everything old should be worn in public, either.",
+  "words": {
+    "wardrobe": {"pos": "n.", "ipa": "/ˈwɔː.drəʊb/", "cn": "衣柜", "en": "a tall cupboard where you keep your clothes"},
+    "dusty": {"pos": "adj.", "ipa": "/ˈdʌs.ti/", "cn": "满是灰尘的", "en": "covered with fine grey dirt"},
+    "faded": {"pos": "adj.", "ipa": "/ˈfeɪ.dɪd/", "cn": "褪色的", "en": "with colour that has become weak and pale"},
+    "collar": {"pos": "n.", "ipa": "/ˈkɒl.ə/", "cn": "衣领", "en": "the part of a shirt that goes round your neck"},
+    "stain": {"pos": "n.", "ipa": "/steɪn/", "cn": "污渍", "en": "a dirty mark that is hard to wash off"},
+    "sleeve": {"pos": "n.", "ipa": "/sliːv/", "cn": "袖子", "en": "the part of clothing that covers your arm"},
+    "moth": {"pos": "n.", "ipa": "/mɒθ/", "cn": "蛾子（会咬衣服）", "en": "an insect like a butterfly that flies at night and eats cloth"},
+    "nostalgia": {"pos": "n.", "ipa": "/nɒsˈtæl.dʒə/", "cn": "怀旧之情", "en": "a happy but slightly sad feeling about the past"},
+    "second chance": {"pos": "phr.", "ipa": "/ˈsek.ənd tʃɑːns/", "cn": "第二次机会", "en": "another chance to do something better"},
+    "dig up": {"pos": "phr.v.", "ipa": "/dɪɡ ʌp/", "cn": "翻出（旧事）", "en": "to find old things or old facts that were hidden"},
+    "sentimental": {"pos": "adj.", "ipa": "/ˌsen.tɪˈmen.təl/", "cn": "多愁善感的", "en": "showing soft feelings about love or the past, sometimes too much"},
+    "drawer": {"pos": "n.", "ipa": "/drɔː/", "cn": "抽屉", "en": "a box inside a desk that you pull out"},
+    "hesitate": {"pos": "v.", "ipa": "/ˈhez.ɪ.teɪt/", "cn": "犹豫", "en": "to stop for a moment because you are not sure"},
+    "ex": {"pos": "n.", "ipa": "/eks/", "cn": "前任（男/女友）", "en": "a person you used to love, but not now"},
+    "spark": {"pos": "n.", "ipa": "/spɑːk/", "cn": "火花；来电的感觉", "en": "a small bright feeling of excitement between two people"},
+    "revive": {"pos": "v.", "ipa": "/rɪˈvaɪv/", "cn": "使复活；重新启用", "en": "to bring something back to life or back into use"},
+    "cringe": {"pos": "v.", "ipa": "/krɪndʒ/", "cn": "（尴尬得）想找地缝钻", "en": "to feel so ashamed that your body almost pulls back"},
+    "reunion": {"pos": "n.", "ipa": "/ˌriːˈjuː.ni.ən/", "cn": "重聚", "en": "a meeting of people who have not seen each other for a long time"},
+    "doomed": {"pos": "adj.", "ipa": "/duːmd/", "cn": "注定失败的", "en": "certain to fail or end badly"},
+    "fade": {"pos": "v.", "ipa": "/feɪd/", "cn": "逐渐消失；褪去", "en": "to slowly become weaker or less clear"},
+    "throw away": {"pos": "phr.v.", "ipa": "/θrəʊ əˈweɪ/", "cn": "扔掉", "en": "to put something in the bin because you do not want it"}
+  }
+}

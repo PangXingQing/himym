@@ -1,0 +1,29 @@
+{
+  "id": 21,
+  "title": "Milk",
+  "cn": "第 21 集 · 牛奶",
+  "novel": "Ted was about to turn twenty-eight, and he was staring into his fridge at a [[carton|carton]] of milk.\n\nThe [[expiry date|expiry date]] was one day after his birthday. He [[sniffed|sniff]] it. Not [[sour|sour]] yet. Not ready to [[curdle|curdle]] or [[spoil|spoil]] — but soon.\n\nIt felt like an [[omen|omen]].\n\nSomeone had offered to introduce him to a woman who seemed, on paper, absolutely right. He had ten hours to decide, and he began to [[procrastinate|procrastinate]] at once, treating the [[deadline|deadline]] as a suggestion.\n\nHis old life was safe. Meeting her meant leaving his [[comfort zone|comfort zone]] and taking a real [[leap of faith|leap of faith]].\n\nSo he sat with his [[doubt|doubt]], feeling [[anxious|anxious]], making [[sensible|sensible]] lists. Marshall said the [[sensible|sensible]] choice was often the [[mediocre|mediocre]] one. Lily said turning twenty-eight was a [[milestone|milestone]], not a warning.\n\nAt the last hour Ted got [[cold feet|cold feet]] and almost [[backed out|back out]]. He wrote a message to [[postpone|postpone]] everything by a month, then deleted it.\n\nHe was tired of waiting to [[settle down|settle down]] safely. Life, he decided, is a [[gamble|gamble]] with an [[expiry date|expiry date]].\n\nHe poured the milk away and went out.",
+  "words": {
+    "carton": {"pos": "n.", "ipa": "/ˈkɑː.tən/", "cn": "（纸盒装的）一盒", "en": "a box made of thick paper, for milk or juice"},
+    "expiry date": {"pos": "n.", "ipa": "/ɪkˈspaɪə.ri deɪt/", "cn": "保质期截止日（美式 expiration date）", "en": "the last day on which food is safe to eat"},
+    "sniff": {"pos": "v.", "ipa": "/snɪf/", "cn": "闻一闻", "en": "to breathe in through your nose to smell something"},
+    "sour": {"pos": "adj.", "ipa": "/saʊə/", "cn": "酸的；（奶）馊了的", "en": "having a sharp bad taste, like old milk"},
+    "curdle": {"pos": "v.", "ipa": "/ˈkɜː.dl̩/", "cn": "（奶）结块变质", "en": "when milk goes bad and becomes lumpy"},
+    "spoil": {"pos": "v.", "ipa": "/spɔɪl/", "cn": "变质；坏掉", "en": "when food becomes too old to eat"},
+    "omen": {"pos": "n.", "ipa": "/ˈəʊ.mən/", "cn": "预兆", "en": "a sign that something good or bad will happen"},
+    "procrastinate": {"pos": "v.", "ipa": "/prəʊˈkræs.tɪ.neɪt/", "cn": "拖延", "en": "to keep putting off something you should do now"},
+    "deadline": {"pos": "n.", "ipa": "/ˈded.laɪn/", "cn": "最后期限", "en": "the last time by which something must be done"},
+    "comfort zone": {"pos": "n.", "ipa": "/ˈkʌm.fət zəʊn/", "cn": "舒适区", "en": "the safe situation you know well and do not want to leave"},
+    "leap of faith": {"pos": "n.", "ipa": "/liːp əv feɪθ/", "cn": "信念之跃；冒险一搏", "en": "doing something risky because you believe it will work"},
+    "doubt": {"pos": "n.", "ipa": "/daʊt/", "cn": "疑虑（b 不发音）", "en": "the feeling of not being sure"},
+    "anxious": {"pos": "adj.", "ipa": "/ˈæŋk.ʃəs/", "cn": "焦虑不安的", "en": "worried and nervous"},
+    "sensible": {"pos": "adj.", "ipa": "/ˈsen.sə.bl̩/", "cn": "明智稳妥的", "en": "showing good, careful thinking"},
+    "mediocre": {"pos": "adj.", "ipa": "/ˌmiː.diˈəʊ.kə/", "cn": "平庸的", "en": "not bad, but not good either; just ordinary"},
+    "milestone": {"pos": "n.", "ipa": "/ˈmaɪl.stəʊn/", "cn": "里程碑（重要节点）", "en": "an important point in your life"},
+    "cold feet": {"pos": "phr.", "ipa": "/kəʊld fiːt/", "cn": "临阵退缩；打退堂鼓", "en": "sudden fear that stops you doing what you planned"},
+    "back out": {"pos": "phr.v.", "ipa": "/bæk aʊt/", "cn": "反悔；退出", "en": "to decide not to do something you promised"},
+    "postpone": {"pos": "v.", "ipa": "/pəʊstˈpəʊn/", "cn": "推迟", "en": "to move something to a later time"},
+    "settle down": {"pos": "phr.v.", "ipa": "/ˈset.l̩ daʊn/", "cn": "安定下来（成家）", "en": "to start a calm, steady life in one place"},
+    "gamble": {"pos": "n.", "ipa": "/ˈɡæm.bl̩/", "cn": "赌博；冒险之举", "en": "a risky action that may win or lose"}
+  }
+}

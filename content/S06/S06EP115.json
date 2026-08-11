@@ -1,0 +1,27 @@
+{
+  "id": 115,
+  "title": "Unfinished",
+  "cn": "第 3 集 · 未完成",
+  "novel": "Barney decided to use his best [[tactics|tactic]] to woo Ted into designing the new GNB building. He treated Ted like a woman he was trying to [[impress|impress]] at a bar. He sent Ted flowers, [[complimented|compliment]] his work, and even showed up at his apartment with wine. Ted was [[amused|amuse]] by the whole thing but also [[tempted|tempt]] by the offer. The building project was a huge [[opportunity|opportunity]] for his career. Meanwhile, Robin was [[struggling|struggle]] with her feelings for Don. Late one night, she [[drunk-dialed|drunk-dial]] him and left a [[rambling|rambling]] message on his voicemail. The next morning, she [[regretted|regret]] it immediately. She felt [[embarrassed|embarrass]] and begged her friends to help her [[retrieve|retrieve]] the message before Don could hear it. Ted told Barney that he would accept the GNB project, but only if he could design it his own way. Barney [[agreed|agree]] without hesitation. He knew that once Ted was [[hooked|hook]], the deal was as good as done. Robin eventually learned that Don had already heard the message. To her surprise, he thought it was funny and not at all [[pathetic|pathetic]]. She felt a small sense of [[relief|relief]], though she knew she needed to move on. The gang met at MacLaren's that evening and [[celebrated|celebrate]] Ted's new project. Barney raised his glass and declared that he was the greatest wingman in the history of [[architecture|architecture]]. Everyone laughed, and for once, the evening felt [[peaceful|peaceful]].",
+  "words": {
+    "tactic": {"pos": "n.", "ipa": "/ˈtæktɪk/", "cn": "策略;战术", "en": "a method used to achieve a goal"},
+    "impress": {"pos": "v.", "ipa": "/ɪmˈpres/", "cn": "给…留下深刻印象", "en": "to make someone admire you"},
+    "compliment": {"pos": "v.", "ipa": "/ˈkɑːmplɪment/", "cn": "称赞;赞美", "en": "to say nice things about someone"},
+    "amuse": {"pos": "v.", "ipa": "/əˈmjuːz/", "cn": "逗乐;使开心", "en": "to make someone laugh or smile"},
+    "tempt": {"pos": "v.", "ipa": "/tempt/", "cn": "引诱;吸引", "en": "to make someone want to do something"},
+    "opportunity": {"pos": "n.", "ipa": "/ˌɑːpərˈtuːnəti/", "cn": "机会;时机", "en": "a chance to do something good"},
+    "struggle": {"pos": "v.", "ipa": "/ˈstrʌɡəl/", "cn": "挣扎;努力", "en": "to try very hard to do something"},
+    "drunk-dial": {"pos": "v.", "ipa": "/drʌŋkˈdaɪəl/", "cn": "醉后打电话", "en": "to call someone while drunk"},
+    "rambling": {"pos": "adj.", "ipa": "/ˈræmblɪŋ/", "cn": "漫无边际的;絮叨的", "en": "going on and on without clear direction"},
+    "regret": {"pos": "v.", "ipa": "/rɪˈɡret/", "cn": "后悔;遗憾", "en": "to feel bad about something you did"},
+    "embarrass": {"pos": "v.", "ipa": "/ɪmˈbærəs/", "cn": "使尴尬;使难堪", "en": "to make someone feel uncomfortable"},
+    "retrieve": {"pos": "v.", "ipa": "/rɪˈtriːv/", "cn": "取回;检索", "en": "to get something back from somewhere"},
+    "agree": {"pos": "v.", "ipa": "/əˈɡriː/", "cn": "同意;赞成", "en": "to have the same opinion as someone"},
+    "hook": {"pos": "v.", "ipa": "/hʊk/", "cn": "钩住;吸引住", "en": "to catch or attract someone's interest"},
+    "pathetic": {"pos": "adj.", "ipa": "/pəˈθetɪk/", "cn": "可悲的;可怜的", "en": "causing feelings of sadness or pity"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "宽慰;解脱", "en": "a feeling of comfort after worry ends"},
+    "celebrate": {"pos": "v.", "ipa": "/ˈselɪbreɪt/", "cn": "庆祝;庆贺", "en": "to do something special for a happy event"},
+    "architecture": {"pos": "n.", "ipa": "/ˈɑːrkɪtektʃər/", "cn": "建筑学;建筑风格", "en": "the art of designing buildings"},
+    "peaceful": {"pos": "adj.", "ipa": "/ˈpiːsfəl/", "cn": "和平的;宁静的", "en": "calm and quiet without trouble"}
+  }
+}

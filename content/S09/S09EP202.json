@@ -1,0 +1,98 @@
+{
+  "id": 202,
+  "title": "Rally",
+  "cn": "第 18 集 · 振作",
+  "novel": "On the morning of his wedding, Barney woke up with the worst [[hangover|hangover]] of his life. He was [[barely|barely]] able to open his eyes. His head was pounding, and he felt [[terrible|terrible]]. The wedding was just hours away.\n\nThe gang immediately went into [[action|action]]. They remembered that Barney had once created the Stinson Hangover Fixer Elixir, a secret [[recipe|recipe]] that could [[cure|cure]] any hangover. They began searching for the [[ingredients|ingredient]] listed on Barney's old notes.\n\nTed was sent to find a special type of grease from a local diner. Robin had to [[track|track]] down some raw eggs. Marshall and Lily went to find a bizarre combination of items that included hot sauce and a piece of pizza.\n\nThe search was [[chaotic|chaotic]]. Each person encountered [[hilarious|hilarious]] obstacles along the way. Ted got into an argument with a diner cook. Robin accidentally broke a carton of eggs. Marshall and Lily got lost on their way to the pizza shop.\n\nMeanwhile, Barney was getting worse. He [[begged|beg]] someone to just cancel the wedding. He said he could not possibly get married feeling this way. The gang refused to give up on him.\n\nThey finally [[assembled|assemble]] all the ingredients and mixed them together. The resulting drink looked and smelled [[disgusting|disgusting]]. Barney forced himself to drink it, and within minutes, he started to feel better.\n\nBarney [[recovered|recover]] just in time to get dressed for the ceremony. He thanked his friends for their effort and told them they were the best friends anyone could ask for. The gang was [[relieved|relieve]] that the crisis was over, and the wedding could proceed as planned.",
+  "words": {
+    "hangover": {
+      "pos": "n.",
+      "ipa": "/ˈhæŋ.oʊ.vər/",
+      "cn": "宿醉",
+      "en": "He had a terrible hangover."
+    },
+    "barely": {
+      "pos": "adv.",
+      "ipa": "/ˈber.li/",
+      "cn": "几乎不",
+      "en": "She could barely walk."
+    },
+    "terrible": {
+      "pos": "adj.",
+      "ipa": "/ˈter.ə.bəl/",
+      "cn": "糟糕的",
+      "en": "The food was terrible."
+    },
+    "action": {
+      "pos": "n.",
+      "ipa": "/ˈæk.ʃən/",
+      "cn": "行动",
+      "en": "They took action immediately."
+    },
+    "recipe": {
+      "pos": "n.",
+      "ipa": "/ˈres.ə.pi/",
+      "cn": "食谱",
+      "en": "She followed the recipe carefully."
+    },
+    "cure": {
+      "pos": "v.",
+      "ipa": "/kjʊr/",
+      "cn": "治愈",
+      "en": "The medicine cured his illness."
+    },
+    "ingredient": {
+      "pos": "n.",
+      "ipa": "/ɪnˈɡriː.di.ənt/",
+      "cn": "配料",
+      "en": "The soup has five ingredients."
+    },
+    "track": {
+      "pos": "v.",
+      "ipa": "/træk/",
+      "cn": "追踪",
+      "en": "She tracked down the rare book."
+    },
+    "chaotic": {
+      "pos": "adj.",
+      "ipa": "/keɪˈɒt.ɪk/",
+      "cn": "混乱的",
+      "en": "The scene was chaotic."
+    },
+    "hilarious": {
+      "pos": "adj.",
+      "ipa": "/hɪˈler.i.əs/",
+      "cn": "搞笑的",
+      "en": "The movie was hilarious."
+    },
+    "beg": {
+      "pos": "v.",
+      "ipa": "/beɡ/",
+      "cn": "恳求",
+      "en": "He begged for forgiveness."
+    },
+    "assemble": {
+      "pos": "v.",
+      "ipa": "/əˈsem.bəl/",
+      "cn": "组装",
+      "en": "They assembled the team."
+    },
+    "disgusting": {
+      "pos": "adj.",
+      "ipa": "/dɪsˈɡʌs.tɪŋ/",
+      "cn": "恶心的",
+      "en": "The smell was disgusting."
+    },
+    "recover": {
+      "pos": "v.",
+      "ipa": "/rɪˈkʌv.ər/",
+      "cn": "恢复",
+      "en": "He recovered from his illness."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "She was relieved to hear the news."
+    }
+  }
+}

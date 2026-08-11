@@ -1,0 +1,104 @@
+{
+  "id": 110,
+  "title": "Robots Versus Wrestlers",
+  "cn": "第 22 集 · 机器人对阵摔跤手",
+  "novel": "Ted threw his annual party, and this year's theme was \"[[Robots|robot]] Versus [[Wrestlers|wrestler]].\" Half the guests came as machines, half as muscled fighters, and the two sides [[clashed|clash]] on the dance floor.\n\nA deeper [[debate|debate]] raged in the kitchen. Was [[high culture|high culture]] — opera, poetry, fine wine — better than [[low culture|low culture]]? Or was a good wrestling match just as [[valid|valid]] as a symphony?\n\nTed argued for the [[intellectual|intellectual]] side. Marshall, wearing a robot helmet, [[defended|defend]] the joy of simple things. Robin said both were [[ridiculous|ridiculous]]. Barney, in a tuxedo, declared that suits [[transcended|transcend]] all culture.\n\nLily watched the [[chaos|chaos]] and laughed. \"Why does it have to be one or the other?\" she said. \"A person can love Shakespeare and a [[flashy|flashy]] robot fight.\"\n\nThe room fell quiet. She was right, of course. The best evenings, Ted realized, held both — the [[sophisticated|sophisticated]] and the silly, the [[profound|profound]] and the [[absurd|absurd]], all dancing together under the same roof.",
+  "words": {
+    "robot": {
+      "pos": "n.",
+      "ipa": "/ˈrəʊ.bɒt/",
+      "cn": "机器人",
+      "en": "a machine that can move and do tasks"
+    },
+    "wrestler": {
+      "pos": "n.",
+      "ipa": "/ˈres.lər/",
+      "cn": "摔跤手",
+      "en": "a person who fights in a wrestling match"
+    },
+    "clash": {
+      "pos": "v.",
+      "ipa": "/klæʃ/",
+      "cn": "冲突",
+      "en": "to fight or argue against another side"
+    },
+    "debate": {
+      "pos": "n.",
+      "ipa": "/dɪˈbeɪt/",
+      "cn": "辩论",
+      "en": "a discussion where people argue sides"
+    },
+    "high culture": {
+      "pos": "phr.",
+      "ipa": "/haɪ ˈkʌl.tʃər/",
+      "cn": "高雅文化",
+      "en": "art and ideas valued as refined"
+    },
+    "low culture": {
+      "pos": "phr.",
+      "ipa": "/ləʊ ˈkʌl.tʃər/",
+      "cn": "通俗文化",
+      "en": "popular entertainment seen as simple"
+    },
+    "valid": {
+      "pos": "adj.",
+      "ipa": "/ˈvæl.ɪd/",
+      "cn": "正当的",
+      "en": "fair and based on good reasons"
+    },
+    "intellectual": {
+      "pos": "adj.",
+      "ipa": "/ˌɪn.təˈlek.tʃu.əl/",
+      "cn": "智力的",
+      "en": "connected with serious thinking"
+    },
+    "defend": {
+      "pos": "v.",
+      "ipa": "/dɪˈfend/",
+      "cn": "辩护",
+      "en": "to speak in support of something"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "very silly or unreasonable"
+    },
+    "transcend": {
+      "pos": "v.",
+      "ipa": "/trænˈsend/",
+      "cn": "超越",
+      "en": "to rise above limits"
+    },
+    "chaos": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪ.ɒs/",
+      "cn": "混乱",
+      "en": "a state of total disorder"
+    },
+    "flashy": {
+      "pos": "adj.",
+      "ipa": "/ˈflæʃ.i/",
+      "cn": "花哨的",
+      "en": "big and bright to attract attention"
+    },
+    "sophisticated": {
+      "pos": "adj.",
+      "ipa": "/səˈfɪs.tɪ.keɪ.tɪd/",
+      "cn": "精致的",
+      "en": "refined and knowing about culture"
+    },
+    "profound": {
+      "pos": "adj.",
+      "ipa": "/prəˈfaʊnd/",
+      "cn": "深刻的",
+      "en": "showing deep thought or feeling"
+    },
+    "absurd": {
+      "pos": "adj.",
+      "ipa": "/əbˈsɜːd/",
+      "cn": "荒谬的",
+      "en": "completely unreasonable or silly"
+    }
+  }
+}

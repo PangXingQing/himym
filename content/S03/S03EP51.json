@@ -1,0 +1,128 @@
+{
+  "id": 51,
+  "title": "Dowisetrepla",
+  "cn": "第 7 集 · 下风向",
+  "novel": "Marshall and Lily decided to buy an [[apartment|apartment]] in Dowisetrepla. The name sounded fancy until they learned it meant \"[[Downwind|downwind]] of the [[Sewage|sewage]] [[Treatment|treatment]] [[Plant|plant]].\"\n\nLily had [[concealed|conceal]] her [[debt|debt]] from Marshall. When the bank [[revealed|reveal]] her poor credit, the [[mortgage|mortgage]] was [[denied|deny]]. Marshall was [[devastated|devastate]]. \"How could you [[hide|hide]] this?\" he [[demanded|demand]].\n\nThe apartment had a terrible [[smell|smell]] that [[lingered|linger]] in every room. No [[candles|candle]] could [[mask|mask]] it. The [[location|location]] was [[downwind|downwind]] of the plant.\n\nBarney [[mocked|mock]] them [[relentlessly|relentlessly]]. In the end, Marshall forgave Lily. They kept the apartment. Some investments were not about money but about building a life — even with a permanent bad smell.",
+  "words": {
+    "apartment": {
+      "pos": "n.",
+      "ipa": "/əˈpɑːt.mənt/",
+      "cn": "公寓",
+      "en": "a set of rooms for living"
+    },
+    "downwind": {
+      "pos": "adv.",
+      "ipa": "/ˌdaʊnˈwɪnd/",
+      "cn": "在下风头",
+      "en": "in the wind's direction"
+    },
+    "sewage": {
+      "pos": "n.",
+      "ipa": "/ˈsuː.ɪdʒ/",
+      "cn": "污水",
+      "en": "waste in pipes"
+    },
+    "treatment": {
+      "pos": "n.",
+      "ipa": "/ˈtriːt.mənt/",
+      "cn": "处理",
+      "en": "the process of cleaning"
+    },
+    "plant": {
+      "pos": "n.",
+      "ipa": "/plɑːnt/",
+      "cn": "工厂",
+      "en": "a factory facility"
+    },
+    "conceal": {
+      "pos": "v.",
+      "ipa": "/kənˈsiːl/",
+      "cn": "隐藏",
+      "en": "to hide carefully"
+    },
+    "debt": {
+      "pos": "n.",
+      "ipa": "/det/",
+      "cn": "债务",
+      "en": "money you owe"
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "to make known"
+    },
+    "mortgage": {
+      "pos": "n.",
+      "ipa": "/ˈmɔː.ɡɪdʒ/",
+      "cn": "房贷",
+      "en": "a loan to buy a house"
+    },
+    "deny": {
+      "pos": "v.",
+      "ipa": "/dɪˈnaɪ/",
+      "cn": "拒绝",
+      "en": "to refuse to allow"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdev.ə.steɪt/",
+      "cn": "使崩溃",
+      "en": "to make very upset"
+    },
+    "hide": {
+      "pos": "v.",
+      "ipa": "/haɪd/",
+      "cn": "隐藏",
+      "en": "to keep secret"
+    },
+    "demand": {
+      "pos": "v.",
+      "ipa": "/dɪˈmɑːnd/",
+      "cn": "质问",
+      "en": "to ask firmly"
+    },
+    "smell": {
+      "pos": "n.",
+      "ipa": "/smel/",
+      "cn": "气味",
+      "en": "something noticed through nose"
+    },
+    "linger": {
+      "pos": "v.",
+      "ipa": "/ˈlɪŋ.ɡə/",
+      "cn": "停留",
+      "en": "to stay longer than expected"
+    },
+    "candle": {
+      "pos": "n.",
+      "ipa": "/ˈkæn.dəl/",
+      "cn": "蜡烛",
+      "en": "wax stick that burns"
+    },
+    "mask": {
+      "pos": "v.",
+      "ipa": "/mɑːsk/",
+      "cn": "掩盖",
+      "en": "to hide by covering"
+    },
+    "location": {
+      "pos": "n.",
+      "ipa": "/ləʊˈkeɪ.ʃən/",
+      "cn": "位置",
+      "en": "where something is"
+    },
+    "mock": {
+      "pos": "v.",
+      "ipa": "/mɒk/",
+      "cn": "嘲笑",
+      "en": "to laugh unkindly"
+    },
+    "relentlessly": {
+      "pos": "adv.",
+      "ipa": "/rɪˈlent.ləs.li/",
+      "cn": "不停地",
+      "en": "without stopping"
+    }
+  }
+}

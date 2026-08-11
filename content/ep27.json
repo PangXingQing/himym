@@ -1,0 +1,122 @@
+{
+  "id": 27,
+  "title": "World's Greatest Couple",
+  "cn": "第27集 · 世界最佳情侣",
+  "novel": "Lily was [[crashing|crash]] on Ted and Marshall's couch, and she was [[desperate|desperate]] to feel like a [[functional|function]] human again. One night, she [[bumped|bump]] into Barney at a [[gallery|gallery]] opening. \"What are you doing here?\" she asked. \"I'm here for the free [[champagne|champagne]],\" he said. \"Same,\" she admitted.\n\nThey fell into an easy [[rhythm|rhythm]] — going to events together, [[criticizing|criticize]] other people's [[relationships|relationship]], and pretending to be a [[couple|couple]] so they could get into [[exclusive|exclusive]] parties. \"We're the world's greatest fake couple,\" Barney [[declared|declare]].\n\nBut when Barney's [[apartment|apartment]] was being [[fumigated|fumigate]], Lily invited him to stay at her [[sublet|sublet]]. In the middle of the night, Barney woke up in a [[panic|panic]]. \"I think I have feelings,\" he [[gasped|gasp]]. Lily laughed so hard she nearly fell off the bed. \"Barney, you don't have feelings. You have a [[spreadsheet|spreadsheet]] of women's names.\"\n\n\"But I do,\" he [[insisted|insist]]. \"For who?\" Lily asked. Barney paused. \"For... you and Marshall. I want you two back together.\" Lily's smile [[faded|fade]]. \"You actually care,\" she said.\n\n\"Don't tell anyone,\" Barney said. \"I have a [[reputation|reputation]] to [[maintain|maintain]].\"",
+  "words": {
+    "crash": {
+      "pos": "v.",
+      "ipa": "/kræʃ/",
+      "cn": "借宿；碰撞",
+      "en": "to stay at someone's place temporarily; to hit something violently"
+    },
+    "functional": {
+      "pos": "adj.",
+      "ipa": "/ˈfʌŋk.ʃən.əl/",
+      "cn": "正常运作的",
+      "en": "working correctly and able to do what it's supposed to"
+    },
+    "bump into": {
+      "pos": "phr.v.",
+      "ipa": "/bʌmp ˈɪn.tuː/",
+      "cn": "偶然遇见",
+      "en": "to meet someone you know without planning to"
+    },
+    "gallery": {
+      "pos": "n.",
+      "ipa": "/ˈɡæl.ər.i/",
+      "cn": "画廊；美术馆",
+      "en": "a place where paintings and art are shown"
+    },
+    "champagne": {
+      "pos": "n.",
+      "ipa": "/ʃæmˈpeɪn/",
+      "cn": "香槟酒",
+      "en": "an expensive French white wine with bubbles"
+    },
+    "rhythm": {
+      "pos": "n.",
+      "ipa": "/ˈrɪð.əm/",
+      "cn": "节奏；规律",
+      "en": "a regular pattern of sounds, movements, or events"
+    },
+    "criticize": {
+      "pos": "v.",
+      "ipa": "/ˈkrɪt.ɪ.saɪz/",
+      "cn": "批评；挑剔",
+      "en": "to say what you think is bad about someone or something"
+    },
+    "relationship": {
+      "pos": "n.",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "cn": "关系；恋爱关系",
+      "en": "the way two people feel and behave toward each other"
+    },
+    "exclusive": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈskluː.sɪv/",
+      "cn": "高级的；排外的",
+      "en": "limited to a particular group; expensive and fashionable"
+    },
+    "apartment": {
+      "pos": "n.",
+      "ipa": "/əˈpɑːt.mənt/",
+      "cn": "公寓",
+      "en": "a set of rooms for living in, usually on one floor"
+    },
+    "fumigate": {
+      "pos": "v.",
+      "ipa": "/ˈfjuː.mɪ.ɡeɪt/",
+      "cn": "熏蒸消毒",
+      "en": "to use chemicals to kill insects or infections in a building"
+    },
+    "sublet": {
+      "pos": "n.",
+      "ipa": "/ˈsʌb.let/",
+      "cn": "转租房",
+      "en": "an apartment rented from someone who is already renting it"
+    },
+    "panic": {
+      "pos": "n.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌；惊慌",
+      "en": "a sudden strong feeling of fear that stops clear thinking"
+    },
+    "gasp": {
+      "pos": "v.",
+      "ipa": "/ɡɑːsp/",
+      "cn": "喘气；倒吸一口气",
+      "en": "to take a quick deep breath, especially from surprise or shock"
+    },
+    "spreadsheet": {
+      "pos": "n.",
+      "ipa": "/ˈspred.ʃiːt/",
+      "cn": "电子表格",
+      "en": "a computer file with rows and columns for organizing information"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持说；强调",
+      "en": "to say firmly that something is true, even if others doubt it"
+    },
+    "fade": {
+      "pos": "v.",
+      "ipa": "/feɪd/",
+      "cn": "逐渐消失；褪去",
+      "en": "to slowly become weaker or disappear"
+    },
+    "reputation": {
+      "pos": "n.",
+      "ipa": "/ˌrep.juˈteɪ.ʃən/",
+      "cn": "名声；声誉",
+      "en": "what people generally think or say about someone"
+    },
+    "maintain": {
+      "pos": "v.",
+      "ipa": "/meɪnˈteɪn/",
+      "cn": "保持；维护",
+      "en": "to keep something in good condition or continue having it"
+    }
+  }
+}

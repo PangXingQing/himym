@@ -1,0 +1,31 @@
+{
+  "id": 18,
+  "title": "Nothing Good Happens After 2 A.M.",
+  "cn": "第 18 集 · 凌晨两点之后",
+  "novel": "Lily had a rule, and she [[warned|warn]] Ted about it often: nothing good ever happens after two in the morning.\n\nThat night [[insomnia|insomnia]] kept him awake. The street below was [[deserted|deserted]]; a single [[streetlamp|streetlamp]] buzzed. The whole city had settled into a heavy [[stillness|stillness]].\n\nAt 2:07 his phone [[buzzed|buzz]]. A [[murmur|murmur]] of a voice, a girl from long ago, asking to come over.\n\nHe knew the [[temptation|temptation]] was a trap. He also knew he had almost no [[self-control|self-control]] left at that hour. [[Drowsy|drowsy]] and warm, he began to [[rationalise|rationalise]] it: they were only going to talk.\n\nEvery bad decision needs a good [[excuse|excuse]]. Ted found three.\n\nHe stood in the empty [[corridor|corridor]] waiting for the [[doorbell|doorbell]], at a quiet [[crossroads|crossroads]] between the person he was and the person he wanted to be. His [[judgment|judgment]] was gone. Only [[weakness|weakness]] and a soft [[haze|haze]] of hope remained.\n\nHe could not [[resist|resist]].\n\nThe [[consequence|consequence]] arrived at [[dawn|dawn]], as it always does: grey light, a cold flat, and a slow, [[inevitable|inevitable]] feeling of being [[ashamed|ashamed]].\n\nLily's rule, it turned out, was science.",
+  "words": {
+    "warn": {"pos": "v.", "ipa": "/wɔːn/", "cn": "警告", "en": "to tell someone about a danger before it happens"},
+    "insomnia": {"pos": "n.", "ipa": "/ɪnˈsɒm.ni.ə/", "cn": "失眠", "en": "the problem of not being able to sleep"},
+    "deserted": {"pos": "adj.", "ipa": "/dɪˈzɜː.tɪd/", "cn": "空无一人的", "en": "empty, with no people at all"},
+    "streetlamp": {"pos": "n.", "ipa": "/ˈstriːt.læmp/", "cn": "路灯", "en": "a tall light at the side of a road"},
+    "stillness": {"pos": "n.", "ipa": "/ˈstɪl.nəs/", "cn": "寂静；静止", "en": "complete quiet, with nothing moving"},
+    "buzz": {"pos": "v.", "ipa": "/bʌz/", "cn": "嗡嗡响；（手机）震动", "en": "to make a low humming sound, like a bee or a phone"},
+    "murmur": {"pos": "n.", "ipa": "/ˈmɜː.mə/", "cn": "低语声", "en": "a soft, low sound of talking"},
+    "temptation": {"pos": "n.", "ipa": "/tempˈteɪ.ʃən/", "cn": "诱惑", "en": "a strong wish to do something you know is wrong"},
+    "self-control": {"pos": "n.", "ipa": "/ˌself.kənˈtrəʊl/", "cn": "自控力", "en": "the power to stop yourself doing what you should not do"},
+    "drowsy": {"pos": "adj.", "ipa": "/ˈdraʊ.zi/", "cn": "昏昏欲睡的", "en": "sleepy and slow"},
+    "rationalise": {"pos": "v.", "ipa": "/ˈræʃ.ən.əl.aɪz/", "cn": "为（错事）找理由（美式 rationalize）", "en": "to give clever reasons for something you know is wrong"},
+    "excuse": {"pos": "n.", "ipa": "/ɪkˈskjuːs/", "cn": "借口", "en": "a reason you give to make a mistake sound acceptable"},
+    "corridor": {"pos": "n.", "ipa": "/ˈkɒr.ɪ.dɔː/", "cn": "走廊", "en": "a long narrow passage inside a building"},
+    "doorbell": {"pos": "n.", "ipa": "/ˈdɔː.bel/", "cn": "门铃", "en": "the button outside a door that rings inside"},
+    "crossroads": {"pos": "n.", "ipa": "/ˈkrɒs.rəʊdz/", "cn": "十字路口；人生的抉择点", "en": "a point where you must choose which way to go"},
+    "judgment": {"pos": "n.", "ipa": "/ˈdʒʌdʒ.mənt/", "cn": "判断力", "en": "the ability to make good decisions"},
+    "weakness": {"pos": "n.", "ipa": "/ˈwiːk.nəs/", "cn": "弱点；软弱", "en": "a fault in your character that makes you fail"},
+    "haze": {"pos": "n.", "ipa": "/heɪz/", "cn": "薄雾；（头脑）迷糊", "en": "thin mist; or a state where you cannot think clearly"},
+    "resist": {"pos": "v.", "ipa": "/rɪˈzɪst/", "cn": "抵抗；忍住不做", "en": "to stop yourself from doing something you want"},
+    "consequence": {"pos": "n.", "ipa": "/ˈkɒn.sɪ.kwəns/", "cn": "后果", "en": "what happens as a result of what you did"},
+    "dawn": {"pos": "n.", "ipa": "/dɔːn/", "cn": "黎明", "en": "the time when the sun first comes up"},
+    "inevitable": {"pos": "adj.", "ipa": "/ɪˈnev.ɪ.tə.bl̩/", "cn": "不可避免的", "en": "certain to happen; impossible to stop"},
+    "ashamed": {"pos": "adj.", "ipa": "/əˈʃeɪmd/", "cn": "羞愧的", "en": "feeling bad because you did something wrong"}
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 194,
+  "title": "Mom and Dad",
+  "cn": "第 10 集 · 妈妈和爸爸",
+  "novel": "Barney's father, Jerome, [[arrived|arrive]] at the Farhampton Inn for the wedding. Barney had a complicated relationship with his father, who had been [[absent|absent]] for most of his childhood. Seeing Jerome again brought up many [[emotions|emotion]] for Barney.\n\nBarney [[devised|devise]] a [[scheme|scheme]] to get his parents back together. He believed that if he could create the right [[circumstances|circumstance]], his mother Loretta and his father Jerome would [[reunite|reunite]]. He planned a series of [[encounters|encounter]] between them, hoping old feelings would return.\n\nHis plan [[involved|involve]] booking them in adjacent hotel rooms and arranging for them to bump into each other at the hotel restaurant. He even [[hired|hire]] a musician to play their favorite song. Loretta and Jerome were [[surprised|surprise]] by the coincidences but did not seem interested in getting back together.\n\nMeanwhile, Ted was [[convinced|convince]] that someone had [[framed|frame]] him. He found embarrassing items in his hotel room that he did not put there. He [[suspected|suspect]] that Barney was playing a trick on him.\n\nTed [[investigated|investigate]] the matter and discovered that a hotel employee had mistaken his room for someone else's. He felt [[foolish|foolish]] for jumping to conclusions. He [[apologized|apologize]] to Barney for blaming him.\n\nBarney's scheme to reunite his parents ultimately [[failed|fail]]. Loretta told him that she and Jerome were happy with their separate lives. She [[explained|explain]] that sometimes the past should stay in the past. Barney was [[disappointed|disappoint]] but accepted the truth. He realized that what mattered most was the future he was building with Robin.",
+  "words": {
+    "arrive": {
+      "pos": "v.",
+      "ipa": "/əˈraɪv/",
+      "cn": "到达",
+      "en": "They arrived at the hotel late."
+    },
+    "absent": {
+      "pos": "adj.",
+      "ipa": "/ˈæb.sənt/",
+      "cn": "缺席的",
+      "en": "He was absent from school."
+    },
+    "emotion": {
+      "pos": "n.",
+      "ipa": "/ɪˈmoʊ.ʃən/",
+      "cn": "情感",
+      "en": "She showed no emotion."
+    },
+    "devise": {
+      "pos": "v.",
+      "ipa": "/dɪˈvaɪz/",
+      "cn": "策划",
+      "en": "He devised a clever plan."
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "计划",
+      "en": "They uncovered a secret scheme."
+    },
+    "circumstance": {
+      "pos": "n.",
+      "ipa": "/ˈsɜːr.kəm.stæns/",
+      "cn": "条件",
+      "en": "Under the circumstances, he did well."
+    },
+    "reunite": {
+      "pos": "v.",
+      "ipa": "/ˌriː.juːˈnaɪt/",
+      "cn": "重聚",
+      "en": "The family reunited after years apart."
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "相遇",
+      "en": "Their first encounter was awkward."
+    },
+    "involve": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvɒlv/",
+      "cn": "涉及",
+      "en": "The job involves travel."
+    },
+    "hire": {
+      "pos": "v.",
+      "ipa": "/ˈhaɪər/",
+      "cn": "雇佣",
+      "en": "They hired a new assistant."
+    },
+    "surprise": {
+      "pos": "v.",
+      "ipa": "/sərˈpraɪz/",
+      "cn": "使惊讶",
+      "en": "The results surprised everyone."
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "确信",
+      "en": "She convinced him to change his mind."
+    },
+    "frame": {
+      "pos": "v.",
+      "ipa": "/freɪm/",
+      "cn": "陷害",
+      "en": "He was framed for the crime."
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/ˈsʌs.pekt/",
+      "cn": "怀疑",
+      "en": "She suspected him of lying."
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+      "cn": "调查",
+      "en": "The police investigated the case."
+    },
+    "foolish": {
+      "pos": "adj.",
+      "ipa": "/ˈfuː.lɪʃ/",
+      "cn": "愚蠢的",
+      "en": "It was a foolish mistake."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "He apologized to his teacher."
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "The plan failed completely."
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "She explained the rules."
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt/",
+      "cn": "失望",
+      "en": "The movie disappointed him."
+    }
+  }
+}

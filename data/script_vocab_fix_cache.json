@@ -1,0 +1,403 @@
+{
+  "olives": {
+    "ipa": "",
+    "en": "A tree, Olea europaea, cultivated since ancient times in the Mediterranean for its fruit and the oil obtained from it.",
+    "pos": "noun"
+  },
+  "smurf": {},
+  "surprises": {
+    "ipa": "",
+    "en": "Something unexpected.",
+    "pos": "noun"
+  },
+  "jackass": {
+    "ipa": "",
+    "en": "A male donkey",
+    "pos": "noun"
+  },
+  "casually": {
+    "ipa": "",
+    "en": "In a casual manner.",
+    "pos": "adverb"
+  },
+  "twenty-five": {},
+  "etcetera": {},
+  "statutes": {
+    "ipa": "",
+    "en": "Written law, as laid down by the legislature.",
+    "pos": "noun"
+  },
+  "legendary": {
+    "ipa": "",
+    "en": "A collection of legends, in particular of lives of saints.",
+    "pos": "noun"
+  },
+  "phone-five": {},
+  "businessmen": {
+    "ipa": "",
+    "en": "A man in business, one who works at a commercial institution.",
+    "pos": "noun"
+  },
+  "jfk": {},
+  "bourbon": {
+    "ipa": "",
+    "en": "A whiskey distilled from a mixture of grains in which at least 51% is corn, aged in charred, new oak barrels. Made in the United States.",
+    "pos": "noun"
+  },
+  "clich": {},
+  "vip": {},
+  "tannins": {
+    "ipa": "",
+    "en": "Tannic acid or any of its derivatives.",
+    "pos": "noun"
+  },
+  "grownup": {
+    "ipa": "",
+    "en": "An adult (used especially by children).",
+    "pos": "noun"
+  },
+  "fianc": {},
+  "cutlet": {
+    "ipa": "",
+    "en": "A thin slice of meat, usually fried.",
+    "pos": "noun"
+  },
+  "ext": {
+    "ipa": "",
+    "en": "Exterior (describing the location of a shot in a film script, etc.)",
+    "pos": "noun"
+  },
+  "rooftop": {
+    "ipa": "",
+    "en": "(somewhat formal) The area atop a roof.",
+    "pos": "noun"
+  },
+  "costumes": {
+    "ipa": "",
+    "en": "A style of dress, including garments, accessories and hairstyle, especially as characteristic of a particular country, period or people.",
+    "pos": "noun"
+  },
+  "penguins": {
+    "ipa": "",
+    "en": "Any of several flightless sea birds, of order Sphenisciformes, found in the Southern Hemisphere, marked by their usual upright stance, walking on short legs, and (generally) their stark black and white plumage.",
+    "pos": "noun"
+  },
+  "bonnie": {
+    "ipa": "",
+    "en": "Merry; happy.",
+    "pos": "adjective"
+  },
+  "cockroach": {
+    "ipa": "",
+    "en": "A black or brown straight-winged insect of the order Blattodea.",
+    "pos": "noun"
+  },
+  "cockamouse": {},
+  "phonies": {
+    "ipa": "",
+    "en": "A person who assumes an identity or quality other than their own.",
+    "pos": "noun"
+  },
+  "overthink": {
+    "ipa": "",
+    "en": "To think about; think over",
+    "pos": "verb"
+  },
+  "coffeemaker": {
+    "ipa": "",
+    "en": "Any of several different types of kitchen apparatus used to brew and filter coffee.",
+    "pos": "noun"
+  },
+  "hell": {},
+  "roommates": {
+    "ipa": "",
+    "en": "A person with whom one shares a room, as at university etc.",
+    "pos": "noun"
+  },
+  "soul-mate": {},
+  "wakes": {
+    "ipa": "",
+    "en": "The act of waking, or state of being awake.",
+    "pos": "noun"
+  },
+  "baskiceball": {},
+  "mushrooms": {
+    "ipa": "",
+    "en": "Any of the fleshy fruiting bodies of fungi typically produced above ground on soil or on their food sources (such as decaying wood).",
+    "pos": "noun"
+  },
+  "underpants": {
+    "ipa": "",
+    "en": "Underwear covering the genitalia and often buttocks, usually going no higher than the navel.",
+    "pos": "noun"
+  },
+  "dorko": {},
+  "urination": {
+    "ipa": "",
+    "en": "The process of passing urine, that is, of eliminating liquid waste from the body.",
+    "pos": "noun"
+  },
+  "ralphed": {
+    "ipa": "",
+    "en": "To vomit.",
+    "pos": "verb"
+  },
+  "shots": {
+    "ipa": "",
+    "en": "The result of launching a projectile or bullet.",
+    "pos": "noun"
+  },
+  "ninety-three": {},
+  "half-boob": {},
+  "hauntingly": {
+    "ipa": "",
+    "en": "In a haunting manner.",
+    "pos": "adverb"
+  },
+  "circuits": {
+    "ipa": "",
+    "en": "The act of moving or revolving around, or as in a circle or orbit; a revolution",
+    "pos": "noun"
+  },
+  "jammed": {
+    "ipa": "",
+    "en": "To get something stuck in a confined space.",
+    "pos": "verb"
+  },
+  "sucked": {
+    "ipa": "",
+    "en": "To use the mouth and lips to pull in (a liquid, especially milk from the breast).",
+    "pos": "verb"
+  },
+  "sifted": {
+    "ipa": "",
+    "en": "Having undergone sifting.",
+    "pos": "adjective"
+  },
+  "narrowed": {
+    "ipa": "",
+    "en": "To reduce in width or extent; to contract.",
+    "pos": "verb"
+  },
+  "submissions": {
+    "ipa": "",
+    "en": "The act of submitting or yielding; surrender.",
+    "pos": "noun"
+  },
+  "cranberries": {
+    "ipa": "",
+    "en": "A shrub belonging to the section Vaccinium sect. Oxycoccus of the genus Vaccinium.",
+    "pos": "noun"
+  },
+  "bridesmaids": {
+    "ipa": "",
+    "en": "A woman who attends a bride during her wedding ceremony, as part of the main wedding party.",
+    "pos": "noun"
+  },
+  "hotter": {
+    "ipa": "",
+    "en": "(of an object) Having a high temperature.",
+    "pos": "adjective"
+  },
+  "attractiveness": {
+    "ipa": "",
+    "en": "The state of being attractive or engaging.",
+    "pos": "noun"
+  },
+  "tap-dance": {
+    "ipa": "",
+    "en": "To perform a tap dance",
+    "pos": "verb"
+  },
+  "appartment": {},
+  "re-return": {},
+  "humiliating": {
+    "ipa": "",
+    "en": "To injure the dignity and self-respect of.",
+    "pos": "verb"
+  },
+  "i-i": {},
+  "boyfriends": {
+    "ipa": "",
+    "en": "A male partner in an unmarried romantic relationship.",
+    "pos": "noun"
+  },
+  "coffeehouse": {
+    "ipa": "",
+    "en": "An establishment where coffee is served to clients; a café.",
+    "pos": "noun"
+  },
+  "nailed": {
+    "ipa": "",
+    "en": "To fix (an object) to another object using a nail.",
+    "pos": "verb"
+  },
+  "unbeatable": {
+    "ipa": "",
+    "en": "Someone or something that can't be beaten",
+    "pos": "noun"
+  },
+  "coloring": {
+    "ipa": "",
+    "en": "To give something color.",
+    "pos": "verb"
+  },
+  "three-way": {
+    "ipa": "",
+    "en": "Sexual activity involving three persons; a threesome; a ménage à trois.",
+    "pos": "noun"
+  },
+  "long-distance": {
+    "ipa": "",
+    "en": "Over a great length or distance.",
+    "pos": "adjective"
+  },
+  "motivational": {
+    "ipa": "",
+    "en": "Tending or intended to motivate.",
+    "pos": "adjective"
+  },
+  "jerks": {
+    "ipa": "",
+    "en": "A sudden, often uncontrolled movement, especially of the body.",
+    "pos": "noun"
+  },
+  "reporter": {
+    "ipa": "/ɹɪˈpɔɹtɚ/",
+    "en": "Someone or something that reports.",
+    "pos": "noun"
+  },
+  "lonely": {
+    "ipa": "/ˈloʊnli/",
+    "en": "Unhappy because of feeling isolated from contact with other people.",
+    "pos": "adjective"
+  },
+  "cats": {
+    "ipa": "/kæts/",
+    "en": "An animal of the family Felidae:",
+    "pos": "noun"
+  },
+  "juicer": {
+    "ipa": "/ˈdʒusɚ/",
+    "en": "A manual or electrical device used for rendering the juice of fruits or vegetables.",
+    "pos": "noun"
+  },
+  "supposed": {
+    "ipa": "/spoʊst/",
+    "en": "To take for granted; to conclude, with less than absolute supporting data; to believe.",
+    "pos": "verb"
+  },
+  "lie": {
+    "ipa": "/laɪ̯/",
+    "en": "The terrain and conditions surrounding the ball before it is struck.",
+    "pos": "noun"
+  },
+  "four-way": {},
+  "pretending": {
+    "ipa": "",
+    "en": "To claim, to allege, especially when falsely or as a form of deliberate deception.",
+    "pos": "verb"
+  },
+  "fellowhip": {},
+  "prostitution": {
+    "ipa": "",
+    "en": "Engaging in sexual activity with another person for pay.",
+    "pos": "noun"
+  },
+  "locker": {
+    "ipa": "",
+    "en": "A type of storage compartment with a lock, usually used to store clothing, equipment, or books.",
+    "pos": "noun"
+  },
+  "invitations": {
+    "ipa": "",
+    "en": "The act of inviting; solicitation; the requesting of a person's company.",
+    "pos": "noun"
+  },
+  "rocking": {
+    "ipa": "",
+    "en": "To move gently back and forth.",
+    "pos": "verb"
+  },
+  "audition": {
+    "ipa": "",
+    "en": "A performance, by an aspiring performer, to demonstrate suitability or talent.",
+    "pos": "noun"
+  },
+  "someday": {
+    "ipa": "",
+    "en": "Sometime; at some unspecified time in the future.",
+    "pos": "adverb"
+  },
+  "highlights": {
+    "ipa": "",
+    "en": "An area or a spot in a drawing, painting, or photograph that is strongly illuminated.",
+    "pos": "noun"
+  },
+  "pickup": {
+    "ipa": "",
+    "en": "An electronic device for detecting sound, vibration, etc., such as one fitted to an electric guitar or record player.",
+    "pos": "noun"
+  },
+  "kids--": {},
+  "crossword": {
+    "ipa": "",
+    "en": "(games, puzzles) A word puzzle in which interlocking words are entered usually horizontally and vertically into a grid based on clues given for each word.",
+    "pos": "noun"
+  },
+  "quartet": {
+    "ipa": "",
+    "en": "A music composition in four parts, each performed by a single voice or instrument.",
+    "pos": "noun"
+  },
+  "awesome": {
+    "ipa": "/ˈɔs.əm/",
+    "en": "Short for awesomeness: the quality, state, or essence of being awesome.",
+    "pos": "noun"
+  },
+  "fellowship": {
+    "ipa": "/ˈfɛloʊʃɪp/",
+    "en": "A company of people that share the same interest or aim.",
+    "pos": "noun"
+  },
+  "anymore": {
+    "ipa": "/ˌɛ.niˈmɔɹ/",
+    "en": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+    "pos": "adverb"
+  },
+  "meant": {
+    "ipa": "/ˈmɛnt/",
+    "en": "To intend.",
+    "pos": "verb"
+  },
+  "roof": {
+    "ipa": "/ɹuːf/",
+    "en": "The external covering at the top of a building.",
+    "pos": "noun"
+  },
+  "forbid": {
+    "ipa": "/fɚˈbɪd/",
+    "en": "To disallow; to proscribe.",
+    "pos": "verb"
+  },
+  "butter": {
+    "ipa": "/ˈbʊtə/",
+    "en": "A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk).",
+    "pos": "noun"
+  },
+  "slap": {
+    "ipa": "",
+    "en": "A blow, especially one given with the open hand, or with something broad and flat.",
+    "pos": "noun"
+  },
+  "coworkers": {
+    "ipa": "",
+    "en": "Somebody with whom one works.",
+    "pos": "noun"
+  },
+  "weenie": {
+    "ipa": "",
+    "en": "Someone weak and unimportant.",
+    "pos": "noun"
+  }
+}

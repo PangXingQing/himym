@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "forgive",
+    "hint": "原谅；宽恕",
+    "phonetic": "/fəˈɡɪv/"
+  },
+  {
+    "type": "spelling",
+    "word": "deserve",
+    "hint": "值得；应得",
+    "phonetic": "/dɪˈzɜːv/"
+  },
+  {
+    "type": "spelling",
+    "word": "mistake",
+    "hint": "错误",
+    "phonetic": "/mɪˈsteɪk/"
+  },
+  {
+    "type": "spelling",
+    "word": "scorpion",
+    "hint": "蝎子",
+    "phonetic": "/ˈskɔː.pi.ən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He wasn't __________ to talk about it yet.",
+    "answer": "ready"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall spent weeks sitting on __________ couch.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She spent hours __________ to cook his favorite lasagna.",
+    "answer": "trying"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ whispered, 'I am sorry.' → Lily whispered she was sorry.",
+    "answer": "Lily"
+  }
+]

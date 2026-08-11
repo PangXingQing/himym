@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "apologize",
+    "hint": "道歉",
+    "phonetic": "/əˈpɒl.ə.dʒaɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "kindergarten",
+    "hint": "幼儿园",
+    "phonetic": "/ˈkɪn.də.ɡɑː.tən/"
+  },
+  {
+    "type": "spelling",
+    "word": "firm",
+    "hint": "公司；事务所",
+    "phonetic": "/fɜːm/"
+  },
+  {
+    "type": "spelling",
+    "word": "rude",
+    "hint": "粗鲁的",
+    "phonetic": "/ruːd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The developer became noticeably calmer __________ his baseball.",
+    "answer": "without"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "While __________ was working at the firm, Ted was terrified for his career.",
+    "answer": "Lily"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He did __________ apologize until he lost his precious photograph.",
+    "answer": "not"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "When the __________ realized his mistakes, he apologized.",
+    "answer": "CEO"
+  }
+]

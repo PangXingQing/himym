@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ pretended to be tourists.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found himself __________ of her.",
+    "answer": "thinking"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  }
+]

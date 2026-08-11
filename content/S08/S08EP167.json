@@ -1,0 +1,80 @@
+{
+  "id": 167,
+  "title": "The Stamp Tramp",
+  "cn": "第 7 集 · 印章浪子",
+  "novel": "Marshall [[recommended|recommend]] his old friend Brad for a job at his law firm. He vouched for Brad and said he was a good worker. Marshall felt [[confident|confident]] that Brad would do well. However, things went terribly [[wrong|wrong]]. Brad showed up to the interview [[unprepared|unprepared]] and acted [[unprofessionally|unprofessional]]. He made a bad impression on everyone at the firm. Marshall was [[embarrassed|embarrass]] and felt responsible for Brad's behavior. He tried to [[apologize|apologize]] to his boss, but the damage was done. Marshall learned that vouching for someone was a serious responsibility. Meanwhile, Robin helped Barney return to the strip club. Barney had been [[banned|ban]] from the club after an [[incident|incident]] with Quinn. Robin used her connections to get Barney back in. She talked to the manager and [[convinced|convince]] him to give Barney another chance. Barney was [[grateful|grateful]] to Robin for helping him. He said he owed her a big favor. Robin told him not to worry about it and said that was what friends were for. The two shared a moment of genuine friendship that made Robin feel happy. She realized that she and Barney could be good friends, even if they were not together romantically. Marshall eventually confronted Brad about his behavior and told him he had [[disappointed|disappoint]] him. Brad apologized and promised to do better next time.",
+  "words": {
+    "recommend": {
+      "pos": "v.",
+      "ipa": "/ˌrekəˈmendɪd/",
+      "cn": "推荐",
+      "en": "to suggest someone for a job"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "cn": "自信的",
+      "en": "sure about something"
+    },
+    "wrong": {
+      "pos": "adv.",
+      "ipa": "/rɔːŋ/",
+      "cn": "出问题地",
+      "en": "in a bad or incorrect way"
+    },
+    "unprepared": {
+      "pos": "adj.",
+      "ipa": "/ˌʌnprɪˈperd/",
+      "cn": "未准备的",
+      "en": "not ready for something"
+    },
+    "unprofessional": {
+      "pos": "adv.",
+      "ipa": "/ˌʌnprəˈfeʃənəli/",
+      "cn": "不专业地",
+      "en": "not acting properly at work"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbærəst/",
+      "cn": "使尴尬",
+      "en": "to make someone feel ashamed"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɑːlədʒaɪzd/",
+      "cn": "道歉",
+      "en": "to say sorry for something"
+    },
+    "ban": {
+      "pos": "v.",
+      "ipa": "/bænd/",
+      "cn": "禁止入内",
+      "en": "to not allow someone to enter"
+    },
+    "incident": {
+      "pos": "n.",
+      "ipa": "/ˈɪnsɪdənt/",
+      "cn": "事件",
+      "en": "an event or occurrence"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪnst/",
+      "cn": "说服",
+      "en": "to make someone believe"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪtfl/",
+      "cn": "感激的",
+      "en": "feeling thankful for something"
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "cn": "使失望",
+      "en": "to let someone down"
+    }
+  }
+}

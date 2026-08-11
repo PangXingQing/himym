@@ -1,0 +1,128 @@
+{
+  "id": 58,
+  "title": "The Bracket",
+  "cn": "第 14 集 · 对阵表",
+  "novel": "Barney created a 64-woman March Madness [[bracket|bracket]] to find who was [[sabotaging|sabotage]] his love life. \"Someone is [[ruining|ruin]] my [[reputation|reputation]],\" he [[declared|declare]].\n\nHe [[tracked|track]] down [[suspects|suspect]] and [[investigated|investigate]] each one. Some women [[laughed|laugh]]. Others [[slapped|slap]] him. The [[mystery|mystery]] deepened.\n\n\"This is [[karma|karma]],\" Robin [[observed|observe]]. \"You treated women badly, and now it's coming back.\"\n\nBarney [[refused|refuse]] to believe it. He [[narrowed|narrow]] the [[bracket|bracket]] to four women. Each had a reason to hate him.\n\nAt the final [[round|round]], Barney [[confronted|confront]] the winner. It was a woman he had [[forgotten|forget]] entirely. She had [[plotted|plot]] [[revenge|revenge]] for years.\n\n\"You don't even remember me,\" she said. Barney realized that [[karma|karma]] was real, and it had a memory longer than his.",
+  "words": {
+    "bracket": {
+      "pos": "n.",
+      "ipa": "/ˈbræk.ɪt/",
+      "cn": "对阵表",
+      "en": "a chart showing tournament matchups"
+    },
+    "sabotage": {
+      "pos": "v.",
+      "ipa": "/ˈsæb.ə.tɑːʒ/",
+      "cn": "蓄意破坏",
+      "en": "to deliberately ruin"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁坏",
+      "en": "to destroy completely"
+    },
+    "reputation": {
+      "pos": "n.",
+      "ipa": "/ˌrep.jəˈteɪ.ʃən/",
+      "cn": "名声",
+      "en": "what people think of someone"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "track": {
+      "pos": "v.",
+      "ipa": "/træk/",
+      "cn": "追踪",
+      "en": "to follow and find"
+    },
+    "suspect": {
+      "pos": "n.",
+      "ipa": "/ˈsʌs.pekt/",
+      "cn": "嫌疑人",
+      "en": "someone thought to be guilty"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+      "cn": "调查",
+      "en": "to examine to find truth"
+    },
+    "laugh": {
+      "pos": "v.",
+      "ipa": "/lɑːf/",
+      "cn": "笑",
+      "en": "to make sounds showing amusement"
+    },
+    "slap": {
+      "pos": "v.",
+      "ipa": "/slæp/",
+      "cn": "打耳光",
+      "en": "to hit with the palm"
+    },
+    "mystery": {
+      "pos": "n.",
+      "ipa": "/ˈmɪs.tər.i/",
+      "cn": "谜",
+      "en": "something unknown"
+    },
+    "karma": {
+      "pos": "n.",
+      "ipa": "/ˈkɑː.mə/",
+      "cn": "因果报应",
+      "en": "good/bad actions returning to you"
+    },
+    "observe": {
+      "pos": "v.",
+      "ipa": "/əbˈzɜːv/",
+      "cn": "评论",
+      "en": "to comment on"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no"
+    },
+    "narrow": {
+      "pos": "v.",
+      "ipa": "/ˈnær.əʊ/",
+      "cn": "缩小",
+      "en": "to make smaller in range"
+    },
+    "round": {
+      "pos": "n.",
+      "ipa": "/raʊnd/",
+      "cn": "轮次",
+      "en": "a stage in a competition"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "当面对质",
+      "en": "to face someone directly"
+    },
+    "forget": {
+      "pos": "v.",
+      "ipa": "/fəˈɡet/",
+      "cn": "忘记",
+      "en": "to lose memory of"
+    },
+    "plot": {
+      "pos": "v.",
+      "ipa": "/plɒt/",
+      "cn": "密谋",
+      "en": "to plan secretly"
+    },
+    "revenge": {
+      "pos": "n.",
+      "ipa": "/rɪˈvendʒ/",
+      "cn": "报复",
+      "en": "harm done in return"
+    }
+  }
+}

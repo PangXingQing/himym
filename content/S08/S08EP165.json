@@ -1,0 +1,74 @@
+{
+  "id": 165,
+  "title": "The Autumn of Break-Ups",
+  "cn": "第 5 集 · 分手之秋",
+  "novel": "Ted and Victoria had to choose their next step in their relationship. They had been together for a while and things were getting serious. Victoria wanted Ted to make a [[commitment|commitment]] to her. She felt that their relationship was not moving forward. Ted was [[hesitant|hesitant]] because he was still thinking about Robin. He knew it was not fair to Victoria to keep her waiting. They had a long conversation about their future together. Victoria told Ted that she needed to know where they stood. Ted finally [[admitted|admit]] that he was not ready to fully commit. Victoria was [[disappointed|disappoint]] but said she understood. They decided to end their relationship [[amicably|amicable]]. Meanwhile, Robin worried about Barney choosing a dog as his wingman. Barney had gotten a dog and started bringing it to bars to attract women. Robin was [[jealous|jealous]] because she still had feelings for Barney. She tried to [[discourage|discourage]] him from using the dog as a [[tool|tool]] for picking up women. She said it was [[cruel|cruel]] to use an animal for personal gain. Barney [[ignored|ignore]] her complaints and continued his scheme. Robin finally told Barney how she felt about the dog and about him. Barney was [[surprised|surprised]] by her honesty and started to rethink his approach.",
+  "words": {
+    "commitment": {
+      "pos": "n.",
+      "ipa": "/kəˈmɪtmənt/",
+      "cn": "承诺",
+      "en": "a promise to be faithful"
+    },
+    "hesitant": {
+      "pos": "adj.",
+      "ipa": "/ˈhezɪtənt/",
+      "cn": "犹豫的",
+      "en": "unsure about doing something"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪtɪd/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "cn": "使失望",
+      "en": "to feel sad when let down"
+    },
+    "amicable": {
+      "pos": "adv.",
+      "ipa": "/ˈæmɪkəbli/",
+      "cn": "友好地",
+      "en": "in a friendly manner"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒeləs/",
+      "cn": "嫉妒的",
+      "en": "wanting what others have"
+    },
+    "discourage": {
+      "pos": "v.",
+      "ipa": "/dɪsˈkɜːrɪdʒ/",
+      "cn": "劝阻",
+      "en": "to make someone less confident"
+    },
+    "tool": {
+      "pos": "n.",
+      "ipa": "/tuːl/",
+      "cn": "工具",
+      "en": "something used to achieve a goal"
+    },
+    "cruel": {
+      "pos": "adj.",
+      "ipa": "/ˈkruːəl/",
+      "cn": "残忍的",
+      "en": "causing pain to others"
+    },
+    "ignore": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈnɔːrd/",
+      "cn": "无视",
+      "en": "to pay no attention"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    }
+  }
+}

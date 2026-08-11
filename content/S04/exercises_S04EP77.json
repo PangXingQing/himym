@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "anxious",
+    "hint": "焦虑的",
+    "phonetic": "/ˈæŋk.ʃəs/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ the rain, they went.",
+    "answer": "Despite"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ being tired, she helped.",
+    "answer": "Despite"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "mortified",
+    "hint": "极为尴尬的",
+    "phonetic": "/ˈmɔːr.tɪ.faɪd/"
+  }
+]

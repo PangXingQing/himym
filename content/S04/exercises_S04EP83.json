@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Despite being tired, __________ helped.",
+    "answer": "she"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ the rain, they went.",
+    "answer": "Despite"
+  },
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "mortified",
+    "hint": "极为尴尬的",
+    "phonetic": "/ˈmɔːr.tɪ.faɪd/"
+  }
+]

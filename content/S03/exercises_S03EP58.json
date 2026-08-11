@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Trust, __________ broken, is hard to rebuild.",
+    "answer": "once"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "spelling",
+    "word": "crush",
+    "hint": "暗恋",
+    "phonetic": "/krʌʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  }
+]

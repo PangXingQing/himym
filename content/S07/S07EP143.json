@@ -1,0 +1,152 @@
+{
+  "id": 143,
+  "title": "Noretta",
+  "cn": "第 7 集 · 诺蕾塔",
+  "novel": "The gang made a [[disturbing|disturb]] [[discovery|discovery]] about their romantic [[partners|partner]]. They [[realized|realize]] that each person's partner reminded them of one of their parents. This [[revelation|revelation]] [[shocked|shock]] everyone and made them feel very [[uncomfortable|uncomfortable]]. Barney and Nora [[planned|plan]] a [[romantic|romantic]] evening together. Barney wanted everything to be [[perfect|perfect]] for their special night. He [[reserved|reserve]] a nice table at an expensive restaurant. He even bought flowers and a small [[gift|gift]]. However, the [[revelation|revelation]] about parents kept [[bothering|bother]] him during the date. He could not stop thinking about the fact that Nora [[reminded|remind]] him of his mother. Nora noticed that Barney was acting [[strangely|strange]] and asked if something was wrong. Barney tried to [[deny|deny]] it, but his [[behavior|behavior]] was clearly [[affected|affect]]. Marshall and Lily also had an [[awkward|awkward]] conversation about this [[realization|realize]]. They laughed about it but also felt a bit weird. Ted tried to [[comfort|comfort]] the group by saying that people naturally look for [[familiar|familiar]] [[qualities|quality]] in partners. He said it was a common [[psychological|psychological]] [[phenomenon|phenomenon]]. The gang eventually decided to just laugh about it and move on. They agreed that love was complicated and sometimes unexplainable.",
+  "words": {
+    "disturb": {
+      "pos": "v.",
+      "ipa": "/dɪˈstɜːrb/",
+      "cn": "打扰",
+      "en": "to make someone feel worried"
+    },
+    "discovery": {
+      "pos": "n.",
+      "ipa": "/dɪˈskʌvəri/",
+      "cn": "发现",
+      "en": "finding something for the first time"
+    },
+    "partner": {
+      "pos": "n.",
+      "ipa": "/ˈpɑːrtnər/",
+      "cn": "伴侣",
+      "en": "a person you are in a relationship with"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪz/",
+      "cn": "意识到",
+      "en": "to become aware of something"
+    },
+    "revelation": {
+      "pos": "n.",
+      "ipa": "/ˌrevəˈleɪʃn/",
+      "cn": "揭露",
+      "en": "a surprising new fact"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːk/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "uncomfortable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈkʌmftəbl/",
+      "cn": "不舒服的",
+      "en": "feeling uneasy or awkward"
+    },
+    "plan": {
+      "pos": "v.",
+      "ipa": "/plæn/",
+      "cn": "计划",
+      "en": "to decide what you will do"
+    },
+    "romantic": {
+      "pos": "adj.",
+      "ipa": "/roʊˈmæntɪk/",
+      "cn": "浪漫的",
+      "en": "showing love and affection"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws or mistakes"
+    },
+    "reserve": {
+      "pos": "v.",
+      "ipa": "/rɪˈzɜːrv/",
+      "cn": "预订",
+      "en": "to keep something for later use"
+    },
+    "gift": {
+      "pos": "n.",
+      "ipa": "/ɡɪft/",
+      "cn": "礼物",
+      "en": "something given to someone"
+    },
+    "bother": {
+      "pos": "v.",
+      "ipa": "/ˈbɑːðər/",
+      "cn": "困扰",
+      "en": "to annoy or worry someone"
+    },
+    "remind": {
+      "pos": "v.",
+      "ipa": "/rɪˈmaɪnd/",
+      "cn": "提醒",
+      "en": "to cause someone to remember"
+    },
+    "strange": {
+      "pos": "adv.",
+      "ipa": "/streɪndʒli/",
+      "cn": "奇怪地",
+      "en": "in an unusual way"
+    },
+    "deny": {
+      "pos": "v.",
+      "ipa": "/dɪˈnaɪ/",
+      "cn": "否认",
+      "en": "to say something is not true"
+    },
+    "behavior": {
+      "pos": "n.",
+      "ipa": "/bɪˈheɪvjər/",
+      "cn": "行为",
+      "en": "the way someone acts"
+    },
+    "affect": {
+      "pos": "v.",
+      "ipa": "/əˈfekt/",
+      "cn": "影响",
+      "en": "to change or influence something"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːkwərd/",
+      "cn": "尴尬的",
+      "en": "making you feel embarrassed"
+    },
+    "comfort": {
+      "pos": "v.",
+      "ipa": "/ˈkʌmfərt/",
+      "cn": "安慰",
+      "en": "to make someone feel better"
+    },
+    "familiar": {
+      "pos": "adj.",
+      "ipa": "/fəˈmɪliər/",
+      "cn": "熟悉的",
+      "en": "well known to you"
+    },
+    "quality": {
+      "pos": "n.",
+      "ipa": "/ˈkwɑːləti/",
+      "cn": "品质",
+      "en": "a good characteristic of someone"
+    },
+    "psychological": {
+      "pos": "adj.",
+      "ipa": "/ˌsaɪkəˈlɑːdʒɪkl/",
+      "cn": "心理的",
+      "en": "relating to the mind"
+    },
+    "phenomenon": {
+      "pos": "n.",
+      "ipa": "/fəˈnɑːmɪnən/",
+      "cn": "现象",
+      "en": "something that can be observed"
+    }
+  }
+}

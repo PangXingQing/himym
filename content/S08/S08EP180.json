@@ -1,0 +1,50 @@
+{
+  "id": 180,
+  "title": "The Time Travelers",
+  "cn": "第 20 集 · 时间旅行者",
+  "novel": "Future versions of Ted and Barney tried to [[convince|convince]] Ted to go out. Ted was sitting alone in his apartment when future Ted and future Barney appeared. They told him that he should go to a party that night. They said it would be a night to remember. Present Ted was [[skeptical|skeptical]] and did not want to go. He felt tired and preferred to stay home. But future Ted and future Barney kept pushing him. They brought more future versions of themselves to [[persuade|persuade]] him. The apartment became crowded with different versions of Ted and Barney from various points in the future. Meanwhile, Marshall challenged Robin to a dance-off. They were at MacLaren's bar and got into a debate about who was the better dancer. Marshall said he had moves that Robin could not match. Robin disagreed and said she was a much better dancer. They decided to settle it with a competition. They cleared the floor and started dancing. The crowd gathered around to watch. Marshall's moves were [[surprisingly|surprise]] good. He had practiced in secret and pulled out some [[impressive|impress]] steps. Robin was [[determined|determine]] to win and gave it everything she had. The crowd cheered for both of them. In the end, they called it a tie and laughed about the whole thing. Ted finally agreed to go out after his future selves convinced him. He realized that staying home would mean missing out on life. The night turned out to be [[unforgettable|unforgettable]].",
+  "words": {
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "to make someone believe something"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskeptɪkl/",
+      "cn": "怀疑的",
+      "en": "not easily convinced"
+    },
+    "persuade": {
+      "pos": "v.",
+      "ipa": "/pərˈsweɪd/",
+      "cn": "劝说",
+      "en": "to talk someone into doing"
+    },
+    "surprise": {
+      "pos": "adv.",
+      "ipa": "/sərˈpraɪzɪŋli/",
+      "cn": "出人意料地",
+      "en": "in an unexpected way"
+    },
+    "impress": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈpresɪv/",
+      "cn": "令人印象深刻的",
+      "en": "making you feel admiration"
+    },
+    "determine": {
+      "pos": "adj.",
+      "ipa": "/dɪˈtɜːrmɪnd/",
+      "cn": "坚定的",
+      "en": "firmly deciding to do something"
+    },
+    "unforgettable": {
+      "pos": "adj.",
+      "ipa": "/ˌʌnfərˈɡetəbl/",
+      "cn": "难忘的",
+      "en": "impossible to forget"
+    }
+  }
+}

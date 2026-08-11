@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "title": "Belly Full of Turkey",
+  "cn": "第 9 集 · 装满火鸡的肚子",
+  "novel": "Thanksgiving arrived, and Marshall took Lily home to meet the [[in-laws|in-laws]].\n\nHis mother had [[roasted|roast]] a bird the size of a dog. There was [[stuffing|stuffing]], brown [[gravy|gravy]], and a [[greasy|greasy]] pile of potatoes. It was a proper [[feast|feast]]. Lily smiled politely through one long [[awkward silence|awkward silence]] after another, then asked for [[seconds|seconds]] to make everyone happy.\n\nBy nine o'clock she had lost her [[appetite|appetite]], [[unbuttoned|unbutton]] her jeans under the table, and started to [[doze off|doze off]] on the sofa. Marshall said the family [[tradition|tradition]] was simple: eat until you cannot move, then take a [[nap|nap]].\n\nBack in the city, Ted spent the day in a [[soup kitchen|soup kitchen]]. He signed up as a [[volunteer|volunteer]] for a small [[charity|charity]] and served hot food to [[homeless|homeless]] people all afternoon. The cook was rude; the guests were [[generous|generous]] with their thanks.\n\nIt was [[humble|humble]] work, and Ted felt strangely [[grateful|grateful]] for it.\n\nThat night, [[stuffed|stuffed]] and sleepy, everyone counted their [[blessings|blessing]]. Nobody said anything wise. They simply [[overate|overeat]] together, which is what families do.",
+  "words": {
+    "in-laws": {"pos": "n.", "ipa": "/ˈɪn.lɔːz/", "cn": "姻亲（公婆、岳父母等）", "en": "the family of your husband or wife"},
+    "roast": {"pos": "v.", "ipa": "/rəʊst/", "cn": "烤（肉）", "en": "to cook meat in an oven"},
+    "stuffing": {"pos": "n.", "ipa": "/ˈstʌf.ɪŋ/", "cn": "（塞入禽类的）填料", "en": "a soft mix of bread and herbs cooked inside a bird"},
+    "gravy": {"pos": "n.", "ipa": "/ˈɡreɪ.vi/", "cn": "肉汁；肉汤汁", "en": "a brown sauce made from the juice of cooked meat"},
+    "greasy": {"pos": "adj.", "ipa": "/ˈɡriː.si/", "cn": "油腻的", "en": "covered in oil or fat"},
+    "feast": {"pos": "n.", "ipa": "/fiːst/", "cn": "盛宴", "en": "a big special meal for many people"},
+    "awkward silence": {"pos": "phr.", "ipa": "/ˈɔː.kwəd ˈsaɪ.ləns/", "cn": "尴尬的沉默", "en": "a quiet moment when nobody knows what to say"},
+    "seconds": {"pos": "n.", "ipa": "/ˈsek.əndz/", "cn": "（饭菜的）第二份", "en": "a second plate of the same food"},
+    "appetite": {"pos": "n.", "ipa": "/ˈæp.ɪ.taɪt/", "cn": "胃口；食欲", "en": "the feeling of wanting to eat"},
+    "unbutton": {"pos": "v.", "ipa": "/ʌnˈbʌt.ən/", "cn": "解开纽扣", "en": "to open the buttons of clothes"},
+    "doze off": {"pos": "phr.v.", "ipa": "/dəʊz ɒf/", "cn": "打瞌睡；迷迷糊糊睡着", "en": "to fall asleep slowly, without meaning to"},
+    "tradition": {"pos": "n.", "ipa": "/trəˈdɪʃ.ən/", "cn": "传统", "en": "something a family or country has done for many years"},
+    "nap": {"pos": "n.", "ipa": "/næp/", "cn": "小睡", "en": "a short sleep in the day"},
+    "soup kitchen": {"pos": "n.", "ipa": "/suːp ˈkɪtʃ.ɪn/", "cn": "（给穷人的）救济食堂", "en": "a place that gives free food to poor people"},
+    "volunteer": {"pos": "n.", "ipa": "/ˌvɒl.ənˈtɪə/", "cn": "志愿者", "en": "a person who works to help others without pay"},
+    "charity": {"pos": "n.", "ipa": "/ˈtʃær.ə.ti/", "cn": "慈善机构", "en": "an organisation that helps people in need"},
+    "homeless": {"pos": "adj.", "ipa": "/ˈhəʊm.ləs/", "cn": "无家可归的", "en": "having no place to live"},
+    "generous": {"pos": "adj.", "ipa": "/ˈdʒen.ər.əs/", "cn": "慷慨的；大方的", "en": "happy to give time, money or kind words"},
+    "humble": {"pos": "adj.", "ipa": "/ˈhʌm.bl̩/", "cn": "谦卑的；卑微的", "en": "simple and not proud"},
+    "grateful": {"pos": "adj.", "ipa": "/ˈɡreɪt.fəl/", "cn": "心怀感激的", "en": "feeling thankful for something good"},
+    "stuffed": {"pos": "adj.", "ipa": "/stʌft/", "cn": "吃撑了的", "en": "so full of food that you cannot eat more"},
+    "blessing": {"pos": "n.", "ipa": "/ˈbles.ɪŋ/", "cn": "福气；值得感恩的事", "en": "a good thing in your life that you are thankful for"},
+    "overeat": {"pos": "v.", "ipa": "/ˌəʊ.vəˈriːt/", "cn": "吃得过多", "en": "to eat more than you need"}
+  }
+}

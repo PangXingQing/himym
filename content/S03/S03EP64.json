@@ -1,0 +1,128 @@
+{
+  "id": 64,
+  "title": "Miracles",
+  "cn": "第 20 集 · 奇迹",
+  "novel": "After a [[taxi|taxi]] [[accident|accident]], Ted [[believed|believe]] in [[miracles|miracle]]. \"We [[survived|survive]],\" he [[whispered|whisper]]. \"That's a miracle.\"\n\nBarney tried to [[debunk|debunk]] the idea. \"There are no miracles,\" he [[declared|declare]]. \"Only [[statistics|statistics]] and [[luck|luck]].\"\n\nBut Barney himself was in a [[near-death|near-death]] experience. A bus had nearly hit him. He walked away [[unscathed|unscathed]]. For one [[brief|brief]] moment, even Barney [[wondered|wonder]].\n\nMarshall and Lily felt [[grateful|grateful]] for every moment. Robin [[realized|realize]] how much Ted [[meant|mean]] to her. The group gathered at MacLaren's, [[closer|close]] than ever.\n\n\"Maybe miracles aren't about [[surviving|survive]],\" Ted said, [[raising|raise]] his glass. \"Maybe they're about the people who are still here.\"\n\nBarney [[rolled|roll]] his eyes. But he clinked his glass anyway. Friendship, Ted [[realized|realize]], was the real [[miracle|miracle]].",
+  "words": {
+    "taxi": {
+      "pos": "n.",
+      "ipa": "/ˈtæk.si/",
+      "cn": "出租车",
+      "en": "a car you pay to ride in"
+    },
+    "accident": {
+      "pos": "n.",
+      "ipa": "/ˈæk.sɪ.dənt/",
+      "cn": "事故",
+      "en": "an unexpected bad event"
+    },
+    "believe": {
+      "pos": "v.",
+      "ipa": "/bɪˈliːv/",
+      "cn": "相信",
+      "en": "to think something is true"
+    },
+    "miracle": {
+      "pos": "n.",
+      "ipa": "/ˈmɪr.ə.kəl/",
+      "cn": "奇迹",
+      "en": "a very surprising good event"
+    },
+    "survive": {
+      "pos": "v.",
+      "ipa": "/səˈvaɪv/",
+      "cn": "幸存",
+      "en": "to stay alive"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pə/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "debunk": {
+      "pos": "v.",
+      "ipa": "/ˌdiːˈbʌŋk/",
+      "cn": "揭穿",
+      "en": "to prove something false"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "statistics": {
+      "pos": "n.",
+      "ipa": "/stəˈtɪs.tɪks/",
+      "cn": "统计数据",
+      "en": "numbers showing patterns"
+    },
+    "luck": {
+      "pos": "n.",
+      "ipa": "/lʌk/",
+      "cn": "运气",
+      "en": "good things by chance"
+    },
+    "near-death": {
+      "pos": "adj.",
+      "ipa": "/ˌnɪəˈdeθ/",
+      "cn": "濒死的",
+      "en": "almost causing death"
+    },
+    "unscathed": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈskeɪðd/",
+      "cn": "毫发无伤的",
+      "en": "without any injury"
+    },
+    "brief": {
+      "pos": "adj.",
+      "ipa": "/briːf/",
+      "cn": "短暂的",
+      "en": "lasting a short time"
+    },
+    "wonder": {
+      "pos": "v.",
+      "ipa": "/ˈwʌn.də/",
+      "cn": "想知道",
+      "en": "to think curiously"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "feeling thankful"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "mean": {
+      "pos": "v.",
+      "ipa": "/miːn/",
+      "cn": "意味着",
+      "en": "to be important to someone"
+    },
+    "close": {
+      "pos": "adj.",
+      "ipa": "/kləʊs/",
+      "cn": "亲密的",
+      "en": "near in relationship"
+    },
+    "raise": {
+      "pos": "v.",
+      "ipa": "/reɪz/",
+      "cn": "举起",
+      "en": "to lift up"
+    },
+    "roll": {
+      "pos": "v.",
+      "ipa": "/rəʊl/",
+      "cn": "翻（白眼）",
+      "en": "to move in a circle"
+    }
+  }
+}

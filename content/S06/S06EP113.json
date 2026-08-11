@@ -1,0 +1,29 @@
+{
+  "id": 113,
+  "title": "Big Days",
+  "cn": "第 1 集 · 重大日子",
+  "novel": "It was a big day at MacLaren's bar. Ted and Barney [[argued|argue]] over who had [[dibs|dibs]] on a pretty girl sitting by the window. Barney [[claimed|claim]] he saw her first, but Ted [[insisted|insist]] that he had already [[approached|approach]] her with a smile. The two friends [[nearly|nearly]] came to blows before they realized the girl had already left. Meanwhile, Cindy returned to the bar. She was Ted's ex-girlfriend and also the [[roommate|roommate]] of Ted's future wife. Ted did not know this yet, of course. He felt [[awkward|awkward]] seeing her again, but they exchanged a [[polite|polite]] greeting. Robin sat in the corner, looking [[miserable|miserable]]. She was [[heartbroken|heartbroken]] over Don, who had left her for a job in Chicago. Her friends tried to [[comfort|comfort]] her, but she [[refused|refuse]] to talk about her feelings. She simply [[stared|stare]] at her drink and sighed. Marshall, on the other hand, was full of [[enthusiasm|enthusiasm]]. He [[announced|announce]] to the group that he and Lily wanted to start a family. Lily [[blushed|blush]] but nodded in agreement. They had been [[discussing|discuss]] the idea for weeks and finally felt [[ready|ready]]. Ted smiled at his friends and realized that even though his own love life was [[complicated|complicate]], the people around him were moving forward. It was indeed a day of big moments and even bigger [[decisions|decision]].",
+  "words": {
+    "argue": {"pos": "v.", "ipa": "/ˈɑːr.ɡjuː/", "cn": "争论;辩论", "en": "to disagree with someone in words"},
+    "dibs": {"pos": "n.", "ipa": "/dɪbz/", "cn": "优先权;优先要求", "en": "a claim on something before others"},
+    "claim": {"pos": "v.", "ipa": "/kleɪm/", "cn": "声称;主张", "en": "to say that something is true"},
+    "insist": {"pos": "v.", "ipa": "/ɪnˈsɪst/", "cn": "坚持;强调", "en": "to demand something firmly"},
+    "approach": {"pos": "v.", "ipa": "/əˈproʊtʃ/", "cn": "接近;靠近", "en": "to move closer to someone or something"},
+    "nearly": {"pos": "adv.", "ipa": "/ˈnɪr.li/", "cn": "几乎;差不多", "en": "almost but not quite"},
+    "roommate": {"pos": "n.", "ipa": "/ˈruːm.meɪt/", "cn": "室友", "en": "a person who shares a room or apartment"},
+    "awkward": {"pos": "adj.", "ipa": "/ˈɔːk.wərd/", "cn": "尴尬的;笨拙的", "en": "feeling uncomfortable or embarrassed"},
+    "polite": {"pos": "adj.", "ipa": "/pəˈlaɪt/", "cn": "礼貌的;客气的", "en": "showing good manners toward others"},
+    "miserable": {"pos": "adj.", "ipa": "/ˈmɪz.ər.ə.bəl/", "cn": "痛苦的;悲惨的", "en": "very unhappy or uncomfortable"},
+    "heartbroken": {"pos": "adj.", "ipa": "/ˈhɑːrt.broʊ.kən/", "cn": "心碎的;极其悲伤的", "en": "feeling extremely sad because of love"},
+    "comfort": {"pos": "v.", "ipa": "/ˈkʌmfərt/", "cn": "安慰;抚慰", "en": "to make someone feel less sad"},
+    "refuse": {"pos": "v.", "ipa": "/rɪˈfjuːz/", "cn": "拒绝;回绝", "en": "to say no to something"},
+    "stare": {"pos": "v.", "ipa": "/ster/", "cn": "凝视;盯着看", "en": "to look at something for a long time"},
+    "enthusiasm": {"pos": "n.", "ipa": "/ɪnˈθuː.zi.æz.əm/", "cn": "热情;热心", "en": "a strong feeling of excitement and interest"},
+    "announce": {"pos": "v.", "ipa": "/əˈnaʊns/", "cn": "宣布;宣告", "en": "to tell people about something publicly"},
+    "blush": {"pos": "v.", "ipa": "/blʌʃ/", "cn": "脸红;羞愧", "en": "to become red in the face from emotion"},
+    "discuss": {"pos": "v.", "ipa": "/dɪˈskʌs/", "cn": "讨论;商议", "en": "to talk about something with someone"},
+    "ready": {"pos": "adj.", "ipa": "/ˈredi/", "cn": "准备好的", "en": "prepared and willing to do something"},
+    "complicate": {"pos": "v.", "ipa": "/ˈkɑːmplɪkeɪt/", "cn": "使复杂化", "en": "to make something more difficult to deal with"},
+    "decision": {"pos": "n.", "ipa": "/dɪˈsɪʒ.ən/", "cn": "决定;抉择", "en": "a choice that you make about something"}
+  }
+}

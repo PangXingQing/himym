@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "offend",
+    "hint": "冒犯；得罪",
+    "phonetic": "/əˈfend/"
+  },
+  {
+    "type": "spelling",
+    "word": "escort",
+    "hint": "陪同者；男伴",
+    "phonetic": "/ˈes.kɔːt/"
+  },
+  {
+    "type": "spelling",
+    "word": "punch",
+    "hint": "一拳",
+    "phonetic": "/pʌntʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "paralegal",
+    "hint": "律师助理",
+    "phonetic": "/ˌpær.əˈliː.ɡəl/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The dinner, which __________ supposed to be formal, turned awkward.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ got caught in the rain.",
+    "answer": "Ted"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall and __________ got married.",
+    "answer": "Lily"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Standing on the rooftop, Ted __________ down at the city.",
+    "answer": "looked"
+  }
+]

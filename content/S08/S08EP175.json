@@ -1,0 +1,56 @@
+{
+  "id": 175,
+  "title": "P.S. I Love You",
+  "cn": "第 15 集 · 附注：我爱你",
+  "novel": "Barney [[uncovered|uncover]] a hidden episode of a show called Underneath the Tunes that featured Robin. The show revealed that Robin had been a Canadian pop star in her youth. She had a hit song called Let's Go to the Mall that was very popular in Canada. Barney was [[amazed|amaze]] by this discovery and could not stop laughing. He teased Robin about her pop star past for days. Robin was [[embarrassed|embarrass]] and tried to [[deny|deny]] everything. She said the show was exaggerated and that she was not really a pop star. However, the evidence was clear. There were music videos and magazine articles about her singing career. Meanwhile, Marshall and Lily suspected that Ted's new girlfriend was a stalker. They had noticed some [[suspicious|suspicious]] behavior from her. She seemed to know too much about Ted's past and his friends. She would show up at places Ted was without being invited. Marshall and Lily decided to [[investigate|investigate]] the situation. They followed her around and found that she had been keeping a scrapbook of Ted's life. They were [[alarmed|alarm]] by what they found. They told Ted about their [[concerns|concern]] and showed him the evidence. Ted was shocked and did not want to believe it at first. He eventually realized that his friends were right and ended the relationship. Robin finally admitted to Barney that she had been a pop star. She told him the whole story about her time in Canada.",
+  "words": {
+    "uncover": {
+      "pos": "v.",
+      "ipa": "/ʌnˈkʌvərd/",
+      "cn": "揭露",
+      "en": "to discover something hidden"
+    },
+    "amaze": {
+      "pos": "v.",
+      "ipa": "/əˈmeɪzd/",
+      "cn": "使惊讶",
+      "en": "to surprise someone greatly"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbærəst/",
+      "cn": "使尴尬",
+      "en": "to make someone feel ashamed"
+    },
+    "deny": {
+      "pos": "v.",
+      "ipa": "/dɪˈnaɪ/",
+      "cn": "否认",
+      "en": "to say something is not true"
+    },
+    "suspicious": {
+      "pos": "adj.",
+      "ipa": "/səˈspɪʃəs/",
+      "cn": "可疑的",
+      "en": "making you feel distrust"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvestɪɡeɪtɪd/",
+      "cn": "调查",
+      "en": "to examine something carefully"
+    },
+    "alarm": {
+      "pos": "v.",
+      "ipa": "/əˈlɑːrmd/",
+      "cn": "使警觉",
+      "en": "to make someone worried"
+    },
+    "concern": {
+      "pos": "n.",
+      "ipa": "/kənˈsɜːrnz/",
+      "cn": "担忧",
+      "en": "a feeling of worry"
+    }
+  }
+}

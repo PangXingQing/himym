@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "tension",
+    "hint": "紧张",
+    "phonetic": "/ˈten.ʃən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's __________ to move on.",
+    "answer": "time"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ up liking the job.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She moved on after __________ breakup.",
+    "answer": "the"
+  }
+]

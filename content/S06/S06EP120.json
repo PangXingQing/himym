@@ -1,0 +1,28 @@
+{
+  "id": 120,
+  "title": "Natural History",
+  "cn": "第 8 集 · 自然历史",
+  "novel": "The gang attended a [[black-tie|black-tie]] fundraiser at the Natural History Museum. Everyone dressed in [[elegant|elegant]] gowns and suits. Ted was looking forward to a [[sophisticated|sophisticate]] evening, but things quickly became [[complicated|complicate]]. He ran into Zoey at the event and was [[surprised|surprise]] to learn that she was married. Her husband was a wealthy man known as The Captain, famous for his [[collection|collection]] of rare paintings and his [[eccentric|eccentric]] personality. Ted felt [[uncomfortable|uncomfortable]] because he had been developing feelings for Zoey without knowing she had a husband. The Captain was friendly but [[intimidating|intimidate]]. He shook Ted's hand with a grip that was a little too firm and told him about his [[passion|passion]] for hunting and art. Meanwhile, Barney and Robin explored the museum exhibits. Barney tried to [[impress|impress]] Robin with facts about dinosaurs, but most of what he said was [[inaccurate|inaccurate]]. Robin laughed and corrected him, and for a moment they seemed close again. Marshall and Lily wandered through the [[magnificent|magnificent]] halls, marveling at the giant dinosaur skeletons and the [[stunning|stunning]] gemstone displays. Ted eventually had a private conversation with Zoey. She told him that her marriage was [[strained|strain]] and that she felt [[trapped|trap]] in her life. Ted listened carefully but kept his distance. He knew that getting involved with a married woman would be a [[mistake|mistake]]. The evening ended with the gang standing under the giant blue whale model, looking up in [[awe|awe]]. It had been a night of [[revelation|revelation]], and Ted realized that his feelings for Zoey were more [[dangerous|dangerous]] than he had thought.",
+  "words": {
+    "black-tie": {"pos": "adj.", "ipa": "/ˌblækˈtaɪ/", "cn": "正式的;需穿礼服的", "en": "requiring formal evening clothes"},
+    "elegant": {"pos": "adj.", "ipa": "/ˈelɪɡənt/", "cn": "优雅的;高雅的", "en": "graceful and stylish in appearance"},
+    "sophisticate": {"pos": "v.", "ipa": "/səˈfɪstɪkeɪt/", "cn": "使复杂;使精致", "en": "to make something more refined or complex"},
+    "complicate": {"pos": "v.", "ipa": "/ˈkɑːmplɪkeɪt/", "cn": "使复杂化", "en": "to make something harder to understand"},
+    "surprise": {"pos": "v.", "ipa": "/sərˈpraɪz/", "cn": "使惊讶;使意外", "en": "to cause someone to feel amazed"},
+    "collection": {"pos": "n.", "ipa": "/kəˈlekʃ.ən/", "cn": "收藏;收集品", "en": "a group of things gathered together"},
+    "eccentric": {"pos": "adj.", "ipa": "/ɪkˈsentrɪk/", "cn": "古怪的;异乎寻常的", "en": "behaving in an unusual or odd way"},
+    "uncomfortable": {"pos": "adj.", "ipa": "/ʌnˈkʌmfərtəbl/", "cn": "不舒服的;不自在的", "en": "not feeling relaxed or at ease"},
+    "intimidate": {"pos": "v.", "ipa": "/ɪnˈtɪmɪdeɪt/", "cn": "恐吓;威慑", "en": "to make someone feel afraid or nervous"},
+    "passion": {"pos": "n.", "ipa": "/ˈpæʃ.ən/", "cn": "热情;酷爱", "en": "a very strong feeling of love or interest"},
+    "impress": {"pos": "v.", "ipa": "/ɪmˈpres/", "cn": "给…留下印象", "en": "to make someone admire you"},
+    "inaccurate": {"pos": "adj.", "ipa": "/ɪnˈækjərət/", "cn": "不准确的;有误的", "en": "not correct or exact"},
+    "magnificent": {"pos": "adj.", "ipa": "/mæɡˈnɪfɪsnt/", "cn": "壮丽的;宏伟的", "en": "very beautiful and impressive"},
+    "stunning": {"pos": "adj.", "ipa": "/ˈstʌnɪŋ/", "cn": "极好的;令人惊叹的", "en": "extremely beautiful or impressive"},
+    "strain": {"pos": "v.", "ipa": "/streɪn/", "cn": "使紧张;拉紧", "en": "to put pressure on a relationship"},
+    "trap": {"pos": "v.", "ipa": "/træp/", "cn": "困住;使陷入", "en": "to keep someone in a place they cannot leave"},
+    "mistake": {"pos": "n.", "ipa": "/mɪˈsteɪk/", "cn": "错误;过失", "en": "something you do that is not correct"},
+    "awe": {"pos": "n.", "ipa": "/ɔː/", "cn": "敬畏;惊叹", "en": "a feeling of great respect and wonder"},
+    "revelation": {"pos": "n.", "ipa": "/ˌrevəˈleɪʃ.ən/", "cn": "揭露;惊人发现", "en": "a surprising thing that is revealed"},
+    "dangerous": {"pos": "adj.", "ipa": "/ˈdeɪndʒərəs/", "cn": "危险的;不安全的", "en": "likely to cause harm or injury"}
+  }
+}

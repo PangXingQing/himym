@@ -1,0 +1,128 @@
+{
+  "id": 48,
+  "title": "Little Boys",
+  "cn": "第 4 集 · 小男孩",
+  "novel": "Robin started dating a [[single father|single father]], but she quickly discovered she did not like [[kids|kid]]. His son [[annoyed|annoy]] her with endless questions and [[sticky|sticky]] fingers. She felt [[guilty|guilty]] but [[honest|honest]] — motherhood was not her [[destiny|destiny]].\n\nBarney [[attempted|attempt]] to teach a boy his [[pickup|pickup]] [[techniques|technique]]. \"[[Challenge|challenge]] her,\" Barney said. The boy [[delivered|deliver]] the line. A woman [[giggled|giggle]].\n\nLily [[investigated|investigate]] Robin's [[crush|crush]] and found a [[pattern|pattern]]. \"You always [[pick|pick]] the [[rebel|rebel]],\" Lily [[observed|observe]].\n\nIn the end, Robin [[broke up|break up]] with the single father. She admitted she was not ready for the responsibility. Some people needed to find themselves before they could find anyone else.",
+  "words": {
+    "single father": {
+      "pos": "phr.",
+      "ipa": "/ˈsɪŋ.ɡəl ˈfɑː.ðə/",
+      "cn": "单亲父亲",
+      "en": "a man who raises a child alone"
+    },
+    "kid": {
+      "pos": "n.",
+      "ipa": "/kɪd/",
+      "cn": "小孩",
+      "en": "a child"
+    },
+    "annoy": {
+      "pos": "v.",
+      "ipa": "/əˈnɔɪ/",
+      "cn": "惹烦",
+      "en": "to make someone angry"
+    },
+    "sticky": {
+      "pos": "adj.",
+      "ipa": "/ˈstɪk.i/",
+      "cn": "黏的",
+      "en": "covered in something that sticks"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "有罪感的",
+      "en": "feeling bad about what you did"
+    },
+    "honest": {
+      "pos": "adj.",
+      "ipa": "/ˈɒn.ɪst/",
+      "cn": "诚实的",
+      "en": "telling the truth"
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tɪ.ni/",
+      "cn": "命运",
+      "en": "things that will happen to you"
+    },
+    "attempt": {
+      "pos": "v.",
+      "ipa": "/əˈtempt/",
+      "cn": "尝试",
+      "en": "to try to do something"
+    },
+    "pickup": {
+      "pos": "n.",
+      "ipa": "/ˈpɪk.ʌp/",
+      "cn": "搭讪",
+      "en": "a remark to start a conversation"
+    },
+    "technique": {
+      "pos": "n.",
+      "ipa": "/tekˈniːk/",
+      "cn": "技巧",
+      "en": "a way of doing something"
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "to question or test someone"
+    },
+    "deliver": {
+      "pos": "v.",
+      "ipa": "/dɪˈlɪv.ə/",
+      "cn": "说出",
+      "en": "to say something in a planned way"
+    },
+    "giggle": {
+      "pos": "v.",
+      "ipa": "/ˈɡɪɡ.əl/",
+      "cn": "咯咯笑",
+      "en": "to laugh quietly and silly"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+      "cn": "调查",
+      "en": "to examine to find truth"
+    },
+    "crush": {
+      "pos": "n.",
+      "ipa": "/krʌʃ/",
+      "cn": "暗恋对象",
+      "en": "a strong feeling of liking someone"
+    },
+    "pattern": {
+      "pos": "n.",
+      "ipa": "/ˈpæt.ən/",
+      "cn": "模式",
+      "en": "something that repeats regularly"
+    },
+    "pick": {
+      "pos": "v.",
+      "ipa": "/pɪk/",
+      "cn": "选择",
+      "en": "to choose someone"
+    },
+    "rebel": {
+      "pos": "n.",
+      "ipa": "/ˈreb.əl/",
+      "cn": "叛逆者",
+      "en": "someone who fights rules"
+    },
+    "observe": {
+      "pos": "v.",
+      "ipa": "/əbˈzɜːv/",
+      "cn": "观察",
+      "en": "to notice something"
+    },
+    "break up": {
+      "pos": "phr.v.",
+      "ipa": "/breɪk ʌp/",
+      "cn": "分手",
+      "en": "to end a relationship"
+    }
+  }
+}

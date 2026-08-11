@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She saw through __________ lies.",
+    "answer": "his"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I __________ see through your act.",
+    "answer": "can"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  }
+]

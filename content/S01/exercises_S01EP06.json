@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "numb",
+    "hint": "麻木的；冻僵的",
+    "phonetic": "/nʌm/"
+  },
+  {
+    "type": "spelling",
+    "word": "stubbornly",
+    "hint": "固执地",
+    "phonetic": "/ˈstʌb.ən.li/"
+  },
+  {
+    "type": "spelling",
+    "word": "vanish",
+    "hint": "突然消失",
+    "phonetic": "/ˈvæn.ɪʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "destination",
+    "hint": "目的地",
+    "phonetic": "/ˌdes.tɪˈneɪ.ʃən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted must have __________ incredibly nervous.",
+    "answer": "been"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ memory was too vivid to forget.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ where she came from.",
+    "answer": "wondered"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "By __________ time the night ended, everything had changed.",
+    "answer": "the"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "pee",
+    "hint": "小便；尿尿",
+    "phonetic": "/piː/"
+  },
+  {
+    "type": "spelling",
+    "word": "nightmare",
+    "hint": "噩梦；可怕的事",
+    "phonetic": "/ˈnaɪt.meər/"
+  },
+  {
+    "type": "spelling",
+    "word": "chew",
+    "hint": "咀嚼；咬",
+    "phonetic": "/tʃuː/"
+  },
+  {
+    "type": "spelling",
+    "word": "cheer",
+    "hint": "欢呼；快乐",
+    "phonetic": "/tʃɪər/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The worst part was not the mess __________ the fear it wouldn't work.",
+    "answer": "but"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Robin forgot to mention that she had __________ dogs.",
+    "answer": "five"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The disaster was not a tragedy but the __________ nightmare.",
+    "answer": "best"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ never forgot meeting Robin for the first time.",
+    "answer": "Ted"
+  }
+]

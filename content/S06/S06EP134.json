@@ -1,0 +1,31 @@
+{
+  "id": 134,
+  "title": "The Perfect Cocktail",
+  "cn": "第 22 集 · 完美鸡尾酒",
+  "novel": "Marshall and Barney were [[feuding|feud]] because Marshall had quit GNB and Barney felt [[abandoned|abandon]]. Their friendship was on the line. Robin and Lily decided to [[intervene|intervene]] by finding the perfect cocktail that would force the two men to make up. They believed that different drinks had different effects on people's [[personalities|personality]]. They started [[experimenting|experiment]] with various combinations of alcohol. Beer made Marshall [[sentimental|sentimental]] and Barney [[lazy|lazy]]. Wine made them both [[philosophical|philosophical]] but also sleepy. Whiskey made Barney [[aggressive|aggressive]] and Marshall [[teary|teary]]. Tequila made them both [[reckless|reckless]] and [[unpredictable|unpredictable]]. After many failed attempts, Robin and Lily discovered that a specific [[blend|blend]] of cocktails could bring out the best in both men. The perfect cocktail made Marshall brave enough to [[apologize|apologize]] and Barney honest enough to admit he missed his friend. Meanwhile, Ted planned a romantic weekend with Zoey. He had [[reserved|reserve]] a cabin in the woods and prepared a [[picnic|picnic]] basket filled with their favorite foods. However, the trip was [[jeopardized|jeopardize]] when Ted realized that Zoey was still [[secretly|secret]] fighting to save the Arcadian building. He felt that she was not being completely [[honest|honest]] with him about her intentions. Ted confronted Zoey about her secret campaign, and they had a [[heated|heated]] argument in the car. Zoey told Ted that she was fighting for what she believed in, and Ted told Zoey that their relationship could not survive if they were on opposite sides of every issue. They [[agreed|agree]] to try one last weekend together before making any final decisions. Back at the bar, Marshall and Barney drank the perfect cocktail and [[reconciled|reconcile]]. They hugged and promised to never let work come between them again. The gang raised their glasses and toasted to [[friendship|friendship]], the only thing stronger than any cocktail.",
+  "words": {
+    "feud": {"pos": "v.", "ipa": "/fjuːd/", "cn": "长期不和;结怨", "en": "to have a long and bitter argument"},
+    "abandon": {"pos": "v.", "ipa": "/əˈbændən/", "cn": "抛弃;遗弃", "en": "to leave someone when they need you"},
+    "intervene": {"pos": "v.", "ipa": "/ˌɪntərˈviːn/", "cn": "介入;干预", "en": "to get involved in a situation to help"},
+    "personality": {"pos": "n.", "ipa": "/ˌpɜːrsənˈæləti/", "cn": "性格;个性", "en": "the character and qualities of a person"},
+    "experiment": {"pos": "v.", "ipa": "/ɪkˈsperɪment/", "cn": "实验;试验", "en": "to try something to see what happens"},
+    "sentimental": {"pos": "adj.", "ipa": "/ˌsentɪˈmentl/", "cn": "感伤的;多愁善感的", "en": "having tender feelings about memories"},
+    "lazy": {"pos": "adj.", "ipa": "/ˈleɪzi/", "cn": "懒惰的;懒散的", "en": "not willing to work or use energy"},
+    "philosophical": {"pos": "adj.", "ipa": "/ˌfɪləˈsɑːfɪkl/", "cn": "富有哲理的;达观的", "en": "thinking deeply about life and meaning"},
+    "aggressive": {"pos": "adj.", "ipa": "/əˈɡresɪv/", "cn": "好斗的;攻击性的", "en": "behaving in an angry or forceful way"},
+    "teary": {"pos": "adj.", "ipa": "/ˈtɪri/", "cn": "泪汪汪的;爱哭的", "en": "having tears in the eyes from emotion"},
+    "reckless": {"pos": "adj.", "ipa": "/ˈrekləs/", "cn": "鲁莽的;不顾后果的", "en": "doing things without thinking of danger"},
+    "unpredictable": {"pos": "adj.", "ipa": "/ˌʌnprɪˈdɪktəbl/", "cn": "不可预测的;善变的", "en": "changing in a way you cannot expect"},
+    "blend": {"pos": "n.", "ipa": "/blend/", "cn": "混合;混合物", "en": "a mixture of different things together"},
+    "apologize": {"pos": "v.", "ipa": "/əˈpɑːlədʒaɪz/", "cn": "道歉;认错", "en": "to say sorry for something you did wrong"},
+    "reserve": {"pos": "v.", "ipa": "/rɪˈzɜːrv/", "cn": "预订;保留", "en": "to arrange for something to be kept for you"},
+    "picnic": {"pos": "n.", "ipa": "/ˈpɪknɪk/", "cn": "野餐", "en": "a meal eaten outdoors, usually in a park"},
+    "jeopardize": {"pos": "v.", "ipa": "/ˈdʒepərdaɪz/", "cn": "危及;损害", "en": "to put something in danger of being lost"},
+    "secret": {"pos": "adv.", "ipa": "/ˈsiːkrɪtli/", "cn": "秘密地;暗中地", "en": "in a way that others do not know about"},
+    "honest": {"pos": "adj.", "ipa": "/ˈɑːnɪst/", "cn": "诚实的;坦率的", "en": "telling the truth and not lying"},
+    "heated": {"pos": "adj.", "ipa": "/ˈhiːtɪd/", "cn": "激烈的; heated", "en": "showing strong emotion or anger"},
+    "agree": {"pos": "v.", "ipa": "/əˈɡriː/", "cn": "同意;达成一致", "en": "to have the same opinion as someone"},
+    "reconcile": {"pos": "v.", "ipa": "/ˈrekənsaɪl/", "cn": "和解;和好", "en": "to become friends again after a fight"},
+    "friendship": {"pos": "n.", "ipa": "/ˈfrendʃɪp/", "cn": "友谊;友情", "en": "the relationship between friends"}
+  }
+}

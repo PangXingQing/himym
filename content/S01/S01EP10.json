@@ -1,0 +1,32 @@
+{
+  "id": 10,
+  "title": "The Pineapple Incident",
+  "cn": "第 10 集 · 菠萝事件",
+  "novel": "Ted woke up with a terrible [[hangover|hangover]], a [[mysterious|mysterious]] [[pineapple|pineapple]] on his bedside table, and a [[sprained|sprain]] [[ankle|ankle]].\n\nHe could not [[recall|recall]] anything after the fifth drink. The night was a total [[blackout|blackout]]. Only [[fragments|fragment]] remained: a [[vague|vague]] memory of a [[dare|dare]], the sound of laughing, someone shouting his name.\n\nHe [[groaned|groan]] and tried to [[piece together|piece together]] the [[evidence|evidence]]. A [[bruise|bruise]] on his elbow. A pair of [[crutches|crutches]] by the door. A phone full of [[embarrassing|embarrassing]] messages.\n\nBarney, the only [[witness|witness]], [[denied|deny]] everything with a smile that proved he was lying.\n\nOne by one the [[clues|clue]] came back. Ted had [[stumbled|stumble]] out of the bar, climbed a fence, and stolen a fruit from a shop display because a stranger said he would not [[dare|dare]].\n\nThe worst part was not the [[confusion|confusion]]. It was the [[voicemail|voicemail]] he had left for a girl at 3 a.m., in which he [[apologised|apologise]] for a crime he could not remember [[committing|commit]].\n\nHe ate the pineapple for breakfast. It was, he admitted, delicious.",
+  "words": {
+    "hangover": {"pos": "n.", "ipa": "/ˈhæŋ.əʊ.və/", "cn": "宿醉（第二天的头痛难受）", "en": "the sick, sore feeling the day after drinking too much"},
+    "mysterious": {"pos": "adj.", "ipa": "/mɪˈstɪə.ri.əs/", "cn": "神秘的；莫名其妙的", "en": "strange and impossible to explain"},
+    "pineapple": {"pos": "n.", "ipa": "/ˈpaɪn.æp.l̩/", "cn": "菠萝", "en": "a large sweet yellow fruit with a rough skin"},
+    "sprain": {"pos": "v.", "ipa": "/spreɪn/", "cn": "扭伤", "en": "to hurt a joint by twisting it badly"},
+    "ankle": {"pos": "n.", "ipa": "/ˈæŋ.kl̩/", "cn": "脚踝", "en": "the joint between your foot and your leg"},
+    "recall": {"pos": "v.", "ipa": "/rɪˈkɔːl/", "cn": "回忆起", "en": "to remember something"},
+    "blackout": {"pos": "n.", "ipa": "/ˈblæk.aʊt/", "cn": "断片；短暂失忆", "en": "a time you cannot remember at all"},
+    "fragment": {"pos": "n.", "ipa": "/ˈfræɡ.mənt/", "cn": "碎片；片段", "en": "a small broken piece of something"},
+    "vague": {"pos": "adj.", "ipa": "/veɪɡ/", "cn": "模糊的；含糊的", "en": "not clear or exact"},
+    "dare": {"pos": "n./v.", "ipa": "/deə/", "cn": "激将；打赌不敢做的事；胆敢", "en": "to be brave enough to do something; or a challenge to do it"},
+    "groan": {"pos": "v.", "ipa": "/ɡrəʊn/", "cn": "呻吟；哼哼", "en": "to make a long low sound because you feel bad"},
+    "piece together": {"pos": "phr.v.", "ipa": "/piːs təˈɡeð.ə/", "cn": "拼凑（真相）", "en": "to put small facts together to understand what happened"},
+    "evidence": {"pos": "n.", "ipa": "/ˈev.ɪ.dəns/", "cn": "证据", "en": "facts or things that show what is true"},
+    "bruise": {"pos": "n.", "ipa": "/bruːz/", "cn": "淤青", "en": "a blue or purple mark on your skin after a hit"},
+    "crutches": {"pos": "n.", "ipa": "/ˈkrʌtʃ.ɪz/", "cn": "拐杖", "en": "sticks you put under your arms to help you walk"},
+    "embarrassing": {"pos": "adj.", "ipa": "/ɪmˈbær.ə.sɪŋ/", "cn": "令人难堪的", "en": "making you feel shy and silly"},
+    "witness": {"pos": "n.", "ipa": "/ˈwɪt.nəs/", "cn": "目击者", "en": "a person who saw what happened"},
+    "deny": {"pos": "v.", "ipa": "/dɪˈnaɪ/", "cn": "否认", "en": "to say that something is not true"},
+    "clue": {"pos": "n.", "ipa": "/kluː/", "cn": "线索", "en": "a small fact that helps you find the answer"},
+    "stumble": {"pos": "v.", "ipa": "/ˈstʌm.bl̩/", "cn": "跌跌撞撞；绊倒", "en": "to walk badly and almost fall"},
+    "confusion": {"pos": "n.", "ipa": "/kənˈfjuː.ʒən/", "cn": "困惑；混乱", "en": "the feeling of not understanding what is happening"},
+    "voicemail": {"pos": "n.", "ipa": "/ˈvɔɪs.meɪl/", "cn": "语音留言", "en": "a spoken message you leave on someone's phone"},
+    "apologise": {"pos": "v.", "ipa": "/əˈpɒl.ə.dʒaɪz/", "cn": "道歉（美式 apologize）", "en": "to say sorry"},
+    "commit": {"pos": "v.", "ipa": "/kəˈmɪt/", "cn": "犯（罪、错）", "en": "to do something wrong or illegal"}
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "compromise",
+    "hint": "妥协",
+    "phonetic": "/ˈkɑːm.prə.maɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The criticism __________ him down.",
+    "answer": "wore"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ wore down his resistance.",
+    "answer": "She"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "id": 44,
+  "title": "Something Blue",
+  "cn": "第44集 · 蓝色的东西",
+  "novel": "The wedding was over, the [[confetti|confetti]] had been [[swept|sweep]] away, and Ted and Robin sat alone at a [[table|table]] in the [[empty|empty]] reception hall. The music had stopped. The lights were low. And between them hung a [[silence|silence]] they had been [[avoiding|avoid]] for months.\n\n\"We need to talk,\" Robin said.\n\nTed nodded. He had known this moment was coming since the day they [[moved|move]] in together. They loved each other — they really did — but love was not always enough. Robin wanted to see the world, to live in [[Argentina|Argentina]] and [[Japan|Japan]] and places Ted could not [[pronounce|pronounce]]. Ted wanted a family, a house in the [[suburbs|suburb]], a life that looked like the one his parents had — only happier.\n\n\"We want different things,\" Ted said. \"And that's nobody's [[fault|fault]].\"\n\n\"It's no one's fault,\" Robin repeated, tears [[streaming|stream]] down her cheeks. \"So why does it feel so [[awful|awful]]?\"\n\nThey sat together for a long time, not speaking, just [[holding|hold]] hands. At some point, Marshall came in and saw them and quietly backed out. Lily [[brought|bring]] them a [[plate|plate]] of leftover cake. Barney stood in the doorway for a full minute before walking away without saying a word.\n\n\"I don't want to lose you,\" Robin said.\n\n\"You won't,\" Ted promised. \"We'll just be... different. Friend-shaped, instead of love-shaped.\"\n\nRobin laughed through her tears. \"That's the dumbest thing you've ever said.\"\n\n\"I know,\" Ted said. \"I'm a [[mess|mess]].\"\n\nThey broke up at the wedding of their best friends, on what should have been the happiest day of the year. And somehow it was still beautiful — because sometimes the end of something is also the beginning of something else. Ted did not know it yet, but the woman he would eventually marry was at that wedding too. She was carrying a yellow [[umbrella|umbrella]], and she was standing just outside, in the rain.",
+  "words": {
+    "confetti": {
+      "pos": "n.",
+      "ipa": "/kənˈfet.i/",
+      "cn": "五彩纸屑",
+      "en": "small pieces of colored paper thrown at celebrations"
+    },
+    "sweep": {
+      "pos": "v.",
+      "ipa": "/swiːp/",
+      "cn": "扫；清扫",
+      "en": "to clean a floor or surface using a brush"
+    },
+    "table": {
+      "pos": "n.",
+      "ipa": "/ˈteɪ.bl̩/",
+      "cn": "桌子",
+      "en": "a piece of furniture with a flat top supported by legs"
+    },
+    "empty": {
+      "pos": "adj.",
+      "ipa": "/ˈemp.ti/",
+      "cn": "空的",
+      "en": "containing nothing or nobody"
+    },
+    "Argentina": {
+      "pos": "n.",
+      "ipa": "/ˌɑː.dʒənˈtiː.nə/",
+      "cn": "阿根廷",
+      "en": "a country in South America"
+    },
+    "Japan": {
+      "pos": "n.",
+      "ipa": "/dʒəˈpæn/",
+      "cn": "日本",
+      "en": "a country in East Asia made up of islands"
+    },
+    "pronounce": {
+      "pos": "v.",
+      "ipa": "/prəˈnaʊns/",
+      "cn": "发音；念出",
+      "en": "to say a word or letter in a particular way"
+    },
+    "suburb": {
+      "pos": "n.",
+      "ipa": "/ˈsʌb.ɜːb/",
+      "cn": "郊区",
+      "en": "an area on the edge of a city where many people live"
+    },
+    "fault": {
+      "pos": "n.",
+      "ipa": "/fɒlt/",
+      "cn": "错误；过错",
+      "en": "responsibility for something bad that happened"
+    },
+    "stream": {
+      "pos": "v.",
+      "ipa": "/striːm/",
+      "cn": "流；涌出",
+      "en": "to flow continuously, especially tears or a liquid"
+    },
+    "awful": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.fəl/",
+      "cn": "极坏的；糟透的",
+      "en": "extremely bad or unpleasant"
+    },
+    "plate": {
+      "pos": "n.",
+      "ipa": "/pleɪt/",
+      "cn": "盘子",
+      "en": "a flat dish for serving food"
+    },
+    "mess": {
+      "pos": "n.",
+      "ipa": "/mes/",
+      "cn": "混乱；一塌糊涂",
+      "en": "a dirty or untidy state; a person in a confused emotional state"
+    },
+    "umbrella": {
+      "pos": "n.",
+      "ipa": "/ʌmˈbrel.ə/",
+      "cn": "雨伞",
+      "en": "a foldable cover to protect you from rain"
+    },
+    "move": {
+      "pos": "v.",
+      "ipa": "/muːv/",
+      "cn": "移动；搬家",
+      "en": "to change your home; to change position"
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺；保证",
+      "en": "to say firmly that you will do something"
+    },
+    "bring": {
+      "pos": "v.",
+      "ipa": "/brɪŋ/",
+      "cn": "带来",
+      "en": "to carry something to a place or person"
+    },
+    "hold hands": {
+      "pos": "phr.",
+      "ipa": "/həʊld hændz/",
+      "cn": "牵手",
+      "en": "to hold each other's hand, especially as a sign of affection"
+    }
+  }
+}

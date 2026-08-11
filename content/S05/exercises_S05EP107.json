@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "propose",
+    "hint": "求婚",
+    "phonetic": "/prəˈpoʊz/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "soulmate",
+    "hint": "灵魂伴侣",
+    "phonetic": "/ˈsoʊl.meɪt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The __________ backfired on him.",
+    "answer": "scheme"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  },
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "detour",
+    "hint": "绕道；改道",
+    "phonetic": "/ˈdiː.tʊə/"
+  },
+  {
+    "type": "spelling",
+    "word": "chauffeur",
+    "hint": "私人司机",
+    "phonetic": "/ˈʃəʊ.fə/"
+  },
+  {
+    "type": "spelling",
+    "word": "sunroof",
+    "hint": "（汽车）天窗",
+    "phonetic": "/ˈsʌn.ruːf/"
+  },
+  {
+    "type": "spelling",
+    "word": "bumper",
+    "hint": "（汽车）保险杠",
+    "phonetic": "/ˈbʌm.pə/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted explained that he had planned __________ parties.",
+    "answer": "five"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ he should have let destiny do its work.",
+    "answer": "Maybe"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It __________ brave of Ted to confess on the first night.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "\"I have a __________ of five parties,\" Ted said.",
+    "answer": "schedule"
+  }
+]

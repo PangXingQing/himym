@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "spelling",
+    "word": "jealousy",
+    "hint": "嫉妒",
+    "phonetic": "/ˈdʒel.ə.si/"
+  },
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ down his resistance.",
+    "answer": "wore"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ criticism wore him down.",
+    "answer": "The"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "soulmate",
+    "hint": "灵魂伴侣",
+    "phonetic": "/ˈsoʊl.meɪt/"
+  }
+]

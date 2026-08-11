@@ -1,0 +1,86 @@
+{
+  "id": 100,
+  "title": "Girls Versus Suits",
+  "cn": "第 12 集 · 女孩对阵西装",
+  "novel": "Ted met a woman named Jen who hated men in suits. Barney, who lived in suits, was [[offended|offend]]. \"Suits are [[sacred|sacred]],\" he said. \"They are the armor of [[civilization|civilization]].\"\n\nA war began. Barney [[recruited|recruit]] the whole bar into a [[musical|musical]] number about suits. Ted tried to hide his own [[secret|secret]] love of fine jackets.\n\nMeanwhile, Ted pursued Jen, hoping his [[casual|casual]] style would win her. But she saw through him. \"You're just like your friend,\" she said. \"You love suits too.\"\n\nTed [[confessed|confess]]. She was right.\n\nIn the end, the musical erupted — a [[legendary|legendary]] [[chorus|chorus]] of dancers in sharp suits, twirling under golden lights. Even Jen had to admit it was [[magnificent|magnificent]].\n\nBarney smiled, [[triumphant|triumphant]]. \"Suits,\" he declared, \"always win.\" Ted laughed and put on his jacket. Some [[battles|battle]], he realized, were worth losing — especially when the other side looked that good.",
+  "words": {
+    "offend": {
+      "pos": "v.",
+      "ipa": "/əˈfend/",
+      "cn": "冒犯",
+      "en": "to make someone feel upset or angry"
+    },
+    "sacred": {
+      "pos": "adj.",
+      "ipa": "/ˈseɪ.krɪd/",
+      "cn": "神圣的",
+      "en": "very important and treated with respect"
+    },
+    "civilization": {
+      "pos": "n.",
+      "ipa": "/ˌsɪv.əl.aɪˈzeɪ.ʃən/",
+      "cn": "文明",
+      "en": "an advanced human society"
+    },
+    "recruit": {
+      "pos": "v.",
+      "ipa": "/rɪˈkruːt/",
+      "cn": "招募",
+      "en": "to find people to join a group"
+    },
+    "musical": {
+      "pos": "n.",
+      "ipa": "/ˈmjuː.zɪ.kəl/",
+      "cn": "音乐剧",
+      "en": "a play with singing and dancing"
+    },
+    "secret": {
+      "pos": "adj.",
+      "ipa": "/ˈsiː.krət/",
+      "cn": "秘密的",
+      "en": "kept hidden from others"
+    },
+    "casual": {
+      "pos": "adj.",
+      "ipa": "/ˈkæʒ.u.əl/",
+      "cn": "随意的",
+      "en": "relaxed and not formal"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to admit something you tried to hide"
+    },
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒ.ən.dər.i/",
+      "cn": "传奇般的",
+      "en": "famous and talked about for a long time"
+    },
+    "chorus": {
+      "pos": "n.",
+      "ipa": "/ˈkɔː.rəs/",
+      "cn": "合唱；歌舞队",
+      "en": "a group of singers or dancers acting together"
+    },
+    "magnificent": {
+      "pos": "adj.",
+      "ipa": "/mæɡˈnɪf.ɪ.sənt/",
+      "cn": "壮丽的",
+      "en": "very impressive and beautiful"
+    },
+    "triumphant": {
+      "pos": "adj.",
+      "ipa": "/traɪˈʌmf.ənt/",
+      "cn": "胜利的",
+      "en": "showing joy at having won"
+    },
+    "battle": {
+      "pos": "n.",
+      "ipa": "/ˈbæt.əl/",
+      "cn": "战斗",
+      "en": "a fight or struggle"
+    }
+  }
+}

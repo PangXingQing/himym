@@ -1,0 +1,146 @@
+{
+  "id": 40,
+  "title": "Moving Day",
+  "cn": "第40集 · 搬家日",
+  "novel": "Ted and Robin had been dating for nearly a year, and it was time for the [[big|big]] step. \"Let's move in together,\" Ted said. Robin's smile [[froze|freeze]] for just a [[fraction|fraction]] of a second. \"Absolutely!\" she said. But her voice was a little too high, a little too [[cheerful|cheer]].\n\nMarshall and Lily were [[thrilled|thrill]] to have the apartment to themselves again. \"Finally, no more Ted!\" Marshall said, then caught himself. \"I mean... we'll miss you, [[buddy|buddy]].\"\n\nThe move was a [[disaster|disaster]]. Ted's [[furniture|furniture]] was too big for Robin's apartment. Robin's five dogs — yes, five — [[hated|hate]] Ted. One of them [[chewed|chew]] through Ted's favorite [[pillow|pillow]]. Another one [[peed|pee]] on his box of [[childhood|childhood]] [[photographs|photograph]].\n\n\"You have five dogs,\" Ted said slowly. \"I forgot to [[mention|mention]] that,\" Robin said. \"You really did.\"\n\nBut the hardest part was the [[realization|realize]] that living together was not just about [[sharing|share]] space. It was about [[discovering|discover]] all the little things you did not know about each other — like the fact that Robin [[sang|sing]] \"We [[Built|Build]] This City\" every single morning at 6 AM, or that Ted [[organized|organize]] his [[cereal|cereal]] boxes by [[alphabetical|alphabet]] order.\n\nOn the [[third|third]] night, they sat on the floor surrounded by boxes and laughed until they cried. \"This is a [[nightmare|nightmare]],\" Robin said. \"The best nightmare,\" Ted replied. Because moving in together was not the end of the [[honeymoon|honeymoon]] phase. It was the beginning of something even better — the [[messy|mess]], [[beautiful|beautiful]] truth of two people who chose each other, dogs and all.",
+  "words": {
+    "fraction": {
+      "pos": "n.",
+      "ipa": "/ˈfræk.ʃən/",
+      "cn": "一小部分；瞬间",
+      "en": "a very small part or amount of something"
+    },
+    "cheer": {
+      "pos": "n.",
+      "ipa": "/tʃɪər/",
+      "cn": "欢呼；快乐",
+      "en": "a feeling of happiness and confidence"
+    },
+    "buddy": {
+      "pos": "n.",
+      "ipa": "/ˈbʌd.i/",
+      "cn": "哥们；朋友",
+      "en": "a friend; an informal name for a male friend"
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzɑː.stər/",
+      "cn": "灾难",
+      "en": "a very bad event causing harm or complete failure"
+    },
+    "furniture": {
+      "pos": "n.",
+      "ipa": "/ˈfɜː.nɪ.tʃər/",
+      "cn": "家具",
+      "en": "items like tables, chairs, and beds used in a room"
+    },
+    "hate": {
+      "pos": "v.",
+      "ipa": "/heɪt/",
+      "cn": "憎恨；极不喜欢",
+      "en": "to dislike someone or something very much"
+    },
+    "chew": {
+      "pos": "v.",
+      "ipa": "/tʃuː/",
+      "cn": "咀嚼；咬",
+      "en": "to crush food with your teeth; to bite something repeatedly"
+    },
+    "pillow": {
+      "pos": "n.",
+      "ipa": "/ˈpɪl.əʊ/",
+      "cn": "枕头",
+      "en": "a soft object you rest your head on in bed"
+    },
+    "pee": {
+      "pos": "v.",
+      "ipa": "/piː/",
+      "cn": "小便；尿尿",
+      "en": "(informal) to urinate"
+    },
+    "childhood": {
+      "pos": "n.",
+      "ipa": "/ˈtʃaɪld.hʊd/",
+      "cn": "童年",
+      "en": "the time when you are a child"
+    },
+    "mention": {
+      "pos": "v.",
+      "ipa": "/ˈmen.ʃən/",
+      "cn": "提到；说起",
+      "en": "to briefly talk about something"
+    },
+    "realization": {
+      "pos": "n.",
+      "ipa": "/ˌrɪə.laɪˈzeɪ.ʃən/",
+      "cn": "认识；领悟",
+      "en": "the moment when you understand something clearly"
+    },
+    "share": {
+      "pos": "v.",
+      "ipa": "/ʃeər/",
+      "cn": "分享；共用",
+      "en": "to use or have something together with others"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find or learn something for the first time"
+    },
+    "sing": {
+      "pos": "v.",
+      "ipa": "/sɪŋ/",
+      "cn": "唱歌",
+      "en": "to make musical sounds with your voice"
+    },
+    "organize": {
+      "pos": "v.",
+      "ipa": "/ˈɔː.ɡən.aɪz/",
+      "cn": "整理；组织",
+      "en": "to arrange things in a neat and ordered way"
+    },
+    "cereal": {
+      "pos": "n.",
+      "ipa": "/ˈsɪə.ri.əl/",
+      "cn": "麦片；谷类早餐",
+      "en": "a breakfast food made from grains, often eaten with milk"
+    },
+    "alphabetical": {
+      "pos": "adj.",
+      "ipa": "/ˌæl.fəˈbet.ɪ.kəl/",
+      "cn": "按字母顺序的",
+      "en": "arranged in the order of letters from A to Z"
+    },
+    "third": {
+      "pos": "num.",
+      "ipa": "/θɜːd/",
+      "cn": "第三",
+      "en": "number three in order"
+    },
+    "nightmare": {
+      "pos": "n.",
+      "ipa": "/ˈnaɪt.meər/",
+      "cn": "噩梦；可怕的事",
+      "en": "a very frightening dream; a terrible experience"
+    },
+    "honeymoon": {
+      "pos": "n.",
+      "ipa": "/ˈhʌn.i.muːn/",
+      "cn": "蜜月；甜蜜期",
+      "en": "a holiday taken by a couple after their wedding; an early happy period"
+    },
+    "messy": {
+      "pos": "adj.",
+      "ipa": "/ˈmes.i/",
+      "cn": "凌乱的；混乱的",
+      "en": "untidy, dirty, or complicated"
+    },
+    "beautiful": {
+      "pos": "adj.",
+      "ipa": "/ˈbjuː.tɪ.fəl/",
+      "cn": "美丽的；美好的",
+      "en": "very pleasing to see, hear, or experience"
+    }
+  }
+}

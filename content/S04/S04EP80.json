@@ -1,0 +1,188 @@
+{
+  "id": 80,
+  "title": "Sorry, Bro",
+  "cn": "第 16 集 · 抱歉，兄弟",
+  "novel": "Ted's college girlfriend Karen [[returned|return]] to his life. She was [[pretentious|pretentious]], [[critical|critical]], and everyone hated her. But Ted was [[blinded|blind]] by [[nostalgia|nostalgia]].\n\n\"She's different now,\" Ted [[insisted|insist]]. She was not.\n\nKaren [[complained|complain]] about everything — the apartment, the food, Ted's friends. She called Marshall's pants \"[[pathetic|pathetic]].\" Marshall was [[offended|offend]].\n\n\"Those are my [[favorite|favorite]] pants!\" he [[protested|protest]].\n\nMeanwhile, Barney lost his [[mojo|mojo]]. He could not pick up women. Every line [[failed|fail]]. He felt [[insecure|insecure]] and [[vulnerable|vulnerable]] for the first time.\n\n\"What's happening to me?\" Barney [[whispered|whisper]].\n\nRobin tried to [[encourage|encourage]] him. \"You're just in a [[slump|slump]]. Everyone has them.\"\n\nBut Barney was [[convinced|convince]] he had lost his [[touch|touch]]. He tried increasingly [[desperate|desperate]] [[schemes|scheme]], all of which [[backfired|backfire]].\n\nTed finally [[realized|realize]] Karen had not changed. She still [[manipulated|manipulate]] him, still [[belittled|belittle]] his friends. He broke up with her.\n\n\"Sorry, bro,\" Barney said, patting Ted's back. \"Some people never change.\"\n\n\"Yeah,\" Ted [[sighed|sigh]]. \"I should have known.\"\n\nThat night, Barney tried one more time at the bar. A woman smiled at him. His [[confidence|confidence]] [[flickered|flicker]] back to life. Maybe his mojo was not gone — just [[resting|rest]].",
+  "words": {
+    "return": {
+      "pos": "v.",
+      "ipa": "/rɪˈtɜːn/",
+      "cn": "回来",
+      "en": "to come back"
+    },
+    "pretentious": {
+      "pos": "adj.",
+      "ipa": "/prɪˈten.ʃəs/",
+      "cn": "做作的",
+      "en": "trying to seem more important than you are"
+    },
+    "critical": {
+      "pos": "adj.",
+      "ipa": "/ˈkrɪt.ɪ.kəl/",
+      "cn": "挑剔的",
+      "en": "finding fault with everything"
+    },
+    "blind": {
+      "pos": "v.",
+      "ipa": "/blaɪnd/",
+      "cn": "蒙蔽",
+      "en": "to make someone unable to see the truth"
+    },
+    "nostalgia": {
+      "pos": "n.",
+      "ipa": "/nɒsˈtæl.dʒə/",
+      "cn": "怀旧",
+      "en": "a warm feeling about the past"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly that something is true"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "to say you are not satisfied"
+    },
+    "pathetic": {
+      "pos": "adj.",
+      "ipa": "/pəˈθet.ɪk/",
+      "cn": "可悲的",
+      "en": "making you feel pity or sadness"
+    },
+    "offend": {
+      "pos": "v.",
+      "ipa": "/əˈfend/",
+      "cn": "冒犯",
+      "en": "to make someone feel upset or angry"
+    },
+    "favorite": {
+      "pos": "adj.",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "cn": "最喜欢的",
+      "en": "liked more than any other"
+    },
+    "protest": {
+      "pos": "v.",
+      "ipa": "/prəˈtest/",
+      "cn": "抗议",
+      "en": "to say you disagree strongly"
+    },
+    "mojo": {
+      "pos": "n.",
+      "ipa": "/ˈməʊ.dʒəʊ/",
+      "cn": "魅力；魔力",
+      "en": "a special quality that attracts people"
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "to not succeed"
+    },
+    "insecure": {
+      "pos": "adj.",
+      "ipa": "/ˌɪn.sɪˈkjʊər/",
+      "cn": "不自信的",
+      "en": "not feeling confident"
+    },
+    "vulnerable": {
+      "pos": "adj.",
+      "ipa": "/ˈvʌl.nər.ə.bəl/",
+      "cn": "脆弱的",
+      "en": "easy to hurt"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "encourage": {
+      "pos": "v.",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "cn": "鼓励",
+      "en": "to give someone confidence"
+    },
+    "slump": {
+      "pos": "n.",
+      "ipa": "/slʌmp/",
+      "cn": "低谷",
+      "en": "a period when you do badly"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "使确信",
+      "en": "to make someone believe something"
+    },
+    "touch": {
+      "pos": "n.",
+      "ipa": "/tʌtʃ/",
+      "cn": "触觉；天赋",
+      "en": "a special ability or skill"
+    },
+    "desperate": {
+      "pos": "adj.",
+      "ipa": "/ˈdes.pər.ət/",
+      "cn": "绝望的",
+      "en": "wanting something so much you try anything"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "诡计",
+      "en": "a clever plan, often dishonest"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪər/",
+      "cn": "适得其反",
+      "en": "to have the opposite effect"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand something suddenly"
+    },
+    "manipulate": {
+      "pos": "v.",
+      "ipa": "/məˈnɪp.jə.leɪt/",
+      "cn": "操纵",
+      "en": "to control someone for your own purpose"
+    },
+    "belittle": {
+      "pos": "v.",
+      "ipa": "/bɪˈlɪt.əl/",
+      "cn": "贬低",
+      "en": "to make someone feel unimportant"
+    },
+    "sigh": {
+      "pos": "v.",
+      "ipa": "/saɪ/",
+      "cn": "叹气",
+      "en": "to breathe out slowly showing sadness"
+    },
+    "confidence": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "cn": "自信",
+      "en": "belief in yourself"
+    },
+    "flicker": {
+      "pos": "v.",
+      "ipa": "/ˈflɪk.ər/",
+      "cn": "闪烁",
+      "en": "to appear and disappear quickly"
+    },
+    "rest": {
+      "pos": "v.",
+      "ipa": "/rest/",
+      "cn": "休息",
+      "en": "to relax and not work"
+    }
+  }
+}

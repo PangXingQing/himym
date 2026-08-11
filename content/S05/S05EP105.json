@@ -1,0 +1,98 @@
+{
+  "id": 105,
+  "title": "Of Course",
+  "cn": "第 17 集 · 当然",
+  "novel": "Robin began dating a man named Don. She tried to act [[casual|casual]], but her smile betrayed her. She was [[genuinely|genuine]] happy for the first time in months.\n\nBarney, however, could not let it go. He was too [[competitive|competitive]] and too [[jealous|jealous]] to quit. He [[schemed|scheme]] to break them up, [[recruiting|recruit]] old flames and inventing lies. Each plan [[collapsed|collapse]].\n\nRobin discovered the plots and [[confronted|confront]] Barney. \"Why can't you let me be happy?\" she asked.\n\nBarney could not [[confess|confess]] the truth. The real reason — that he still cared — was too [[fragile|fragile]] to say out loud.\n\nTo [[deflect|deflect]] attention, Robin wrote a silly song about Canada and performed it at the bar. The gang laughed until they cried. Even Don, watching from a corner, had to admit she was [[charming|charm]].\n\nBarney watched with [[regret|regret]], but said nothing. Some [[admissions|admission]], Ted sighed, stayed [[unspoken|unspoken]] not because they were false, but because they were too true.",
+  "words": {
+    "casual": {
+      "pos": "adj.",
+      "ipa": "/ˈkæʒ.u.əl/",
+      "cn": "随意的",
+      "en": "relaxed and not serious"
+    },
+    "genuine": {
+      "pos": "adv.",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "cn": "真诚地",
+      "en": "truly and honestly"
+    },
+    "competitive": {
+      "pos": "adj.",
+      "ipa": "/kəmˈpet.ɪ.tɪv/",
+      "cn": "好胜的",
+      "en": "wanting very much to win"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdel.əs/",
+      "cn": "嫉妒的",
+      "en": "angry that someone you like is with another"
+    },
+    "scheme": {
+      "pos": "v.",
+      "ipa": "/skiːm/",
+      "cn": "密谋",
+      "en": "to make a secret plan"
+    },
+    "recruit": {
+      "pos": "v.",
+      "ipa": "/rɪˈkruːt/",
+      "cn": "招募",
+      "en": "to find people to join a plan"
+    },
+    "collapse": {
+      "pos": "v.",
+      "ipa": "/kəˈlæps/",
+      "cn": "失败；崩溃",
+      "en": "to fail completely"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "当面质问",
+      "en": "to face someone and challenge them"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to admit something hidden"
+    },
+    "fragile": {
+      "pos": "adj.",
+      "ipa": "/ˈfrædʒ.aɪl/",
+      "cn": "脆弱的",
+      "en": "easily broken, especially feelings"
+    },
+    "deflect": {
+      "pos": "v.",
+      "ipa": "/dɪˈflekt/",
+      "cn": "转移",
+      "en": "to turn attention away from something"
+    },
+    "charm": {
+      "pos": "adj.",
+      "ipa": "/tʃɑːm/",
+      "cn": "迷人的",
+      "en": "pleasing and attractive"
+    },
+    "regret": {
+      "pos": "n.",
+      "ipa": "/rɪˈɡret/",
+      "cn": "遗憾",
+      "en": "a sad feeling about something you did"
+    },
+    "admission": {
+      "pos": "n.",
+      "ipa": "/ədˈmɪʃ.ən/",
+      "cn": "承认",
+      "en": "a statement that admits something"
+    },
+    "unspoken": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈspəʊ.kən/",
+      "cn": "未说出口的",
+      "en": "not said, though felt"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I can see through __________ act.",
+    "answer": "your"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She saw through __________ lies.",
+    "answer": "his"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "id": 140,
+  "title": "The Stinson Missile Crisis",
+  "cn": "第 4 集 · 斯廷森导弹危机",
+  "novel": "Robin [[attacked|attack]] a girl who tried to ruin Barney's [[relationship|relationship]] with Nora. Her anger got her into [[trouble|trouble]], and she was forced to go to therapy. She sat in the therapist's office and felt [[reluctant|reluctant]] to talk about her feelings. The therapist asked her many questions, but Robin tried to [[avoid|avoid]] answering them honestly. She [[pretended|pretend]] that everything was fine, but deep down she knew it was not. Meanwhile, Ted got too [[involved|involve]] in Lily's [[pregnancy|pregnancy]]. He tried to help with every detail, from buying baby clothes to [[decorating|decorate]] the nursery. Lily [[appreciated|appreciate]] his help but also felt a bit [[overwhelmed|overwhelm]] by his enthusiasm. Ted read many books about babies and [[pregnancy|pregnancy]]. He wanted to be the best friend possible to Marshall and Lily. Marshall found Ted's behavior both [[touching|touching]] and slightly [[unusual|unusual]]. Robin finally [[opened|open]] up to her therapist about why she hit the girl. She [[admitted|admit]] that she still had [[feelings|feeling]] for Barney. The therapist [[suggested|suggest]] that Robin needed to face her emotions. Robin [[realized|realize]] that running away from her feelings would not help her. She decided to be more honest with herself and the people around her.",
+  "words": {
+    "attack": {
+      "pos": "v.",
+      "ipa": "/əˈtæk/",
+      "cn": "攻击",
+      "en": "to use physical force against someone"
+    },
+    "relationship": {
+      "pos": "n.",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "cn": "关系",
+      "en": "a connection between people"
+    },
+    "trouble": {
+      "pos": "n.",
+      "ipa": "/ˈtrʌbl/",
+      "cn": "麻烦",
+      "en": "problems or difficulties"
+    },
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌktənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "avoid": {
+      "pos": "v.",
+      "ipa": "/əˈvɔɪd/",
+      "cn": "避免",
+      "en": "to stay away from something"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true"
+    },
+    "involve": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvɑːlv/",
+      "cn": "参与",
+      "en": "to be part of something"
+    },
+    "pregnancy": {
+      "pos": "n.",
+      "ipa": "/ˈpreɡnənsi/",
+      "cn": "怀孕",
+      "en": "the state of being pregnant"
+    },
+    "decorate": {
+      "pos": "v.",
+      "ipa": "/ˈdekəreɪt/",
+      "cn": "装饰",
+      "en": "to make something look attractive"
+    },
+    "appreciate": {
+      "pos": "v.",
+      "ipa": "/əˈpriːʃieɪt/",
+      "cn": "感激",
+      "en": "to value something highly"
+    },
+    "overwhelm": {
+      "pos": "v.",
+      "ipa": "/ˌoʊvərˈwelm/",
+      "cn": "不知所措",
+      "en": "to affect someone very strongly"
+    },
+    "touching": {
+      "pos": "adj.",
+      "ipa": "/ˈtʌtʃɪŋ/",
+      "cn": "感人的",
+      "en": "making you feel emotional"
+    },
+    "unusual": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈjuːʒuəl/",
+      "cn": "不寻常的",
+      "en": "not normal or expected"
+    },
+    "open": {
+      "pos": "v.",
+      "ipa": "/ˈoʊpən/",
+      "cn": "敞开心扉",
+      "en": "to talk freely about feelings"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "feeling": {
+      "pos": "n.",
+      "ipa": "/ˈfiːlɪŋ/",
+      "cn": "感情",
+      "en": "an emotional state or reaction"
+    },
+    "suggest": {
+      "pos": "v.",
+      "ipa": "/səˈdʒest/",
+      "cn": "建议",
+      "en": "to propose an idea for someone"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪz/",
+      "cn": "意识到",
+      "en": "to become aware of something"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": 92,
+  "title": "The Sexless Innkeeper",
+  "cn": "第 4 集 · 无性旅馆老板",
+  "novel": "Marshall and Lily wanted to be the [[fun couple|fun couple]] everyone loved. They invited Ted, Barney, and Robin to a [[poetry|poetry]] night at their apartment, complete with cheap wine and [[candles|candle]].\n\nThe evening was a [[disaster|disaster]]. Marshall read a poem so [[embarrassing|embarrassing]] that Ted [[pretended|pretend]] to fall asleep. Robin [[yawned|yawn]] openly. Barney escaped through the window.\n\n\"We're not fun,\" Lily [[admitted|admit]] sadly. \"We're [[boring|boring]].\"\n\nMeanwhile, Barney dated a woman who only wanted to [[cuddle|cuddle]]. She refused every [[advance|advance]] he made. \"I just want to hold you,\" she said.\n\nBarney felt [[trapped|trapped]]. He was, as Ted joked, a \"[[sexless|sexless]] [[innkeeper|innkeeper]],\" forced to host a guest who would never leave.\n\nIn the end, both couples learned a lesson. Marshall and Lily accepted that their kind of fun was quiet and small. And Barney, for once, simply held the woman's hand and said nothing — a [[miracle|miracle]] the gang would talk about for weeks.",
+  "words": {
+    "fun couple": {
+      "pos": "phr.",
+      "ipa": "/fʌn ˈkʌp.əl/",
+      "cn": "有趣的一对",
+      "en": "a pair of partners who are lively and amusing"
+    },
+    "poetry": {
+      "pos": "n.",
+      "ipa": "/ˈpəʊ.ɪ.tri/",
+      "cn": "诗歌",
+      "en": "poems written as art"
+    },
+    "candle": {
+      "pos": "n.",
+      "ipa": "/ˈkæn.dəl/",
+      "cn": "蜡烛",
+      "en": "a stick of wax with a string that burns to give light"
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzɑː.stər/",
+      "cn": "灾难",
+      "en": "an event that causes great harm or failure"
+    },
+    "embarrassing": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈbær.ə.sɪŋ/",
+      "cn": "令人尴尬的",
+      "en": "making you feel shy or ashamed"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "yawn": {
+      "pos": "v.",
+      "ipa": "/jɔːn/",
+      "cn": "打哈欠",
+      "en": "to open your mouth wide when you are tired"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    },
+    "boring": {
+      "pos": "adj.",
+      "ipa": "/ˈbɔː.rɪŋ/",
+      "cn": "无聊的",
+      "en": "not interesting at all"
+    },
+    "cuddle": {
+      "pos": "v.",
+      "ipa": "/ˈkʌd.əl/",
+      "cn": "依偎；拥抱",
+      "en": "to hold someone close to show love"
+    },
+    "advance": {
+      "pos": "n.",
+      "ipa": "/ədˈvɑːns/",
+      "cn": "主动示好；接近",
+      "en": "an attempt to start a romantic relationship"
+    },
+    "trapped": {
+      "pos": "adj.",
+      "ipa": "/træpt/",
+      "cn": "被困住的",
+      "en": "unable to escape from a situation"
+    },
+    "sexless": {
+      "pos": "adj.",
+      "ipa": "/ˈseks.ləs/",
+      "cn": "无性的",
+      "en": "having no sexual activity"
+    },
+    "innkeeper": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.kiː.pər/",
+      "cn": "客栈老板",
+      "en": "a person who owns or runs an inn"
+    },
+    "miracle": {
+      "pos": "n.",
+      "ipa": "/ˈmɪr.ə.kəl/",
+      "cn": "奇迹",
+      "en": "a very surprising and lucky event"
+    }
+  }
+}

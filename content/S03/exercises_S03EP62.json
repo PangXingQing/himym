@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "spelling",
+    "word": "soulmate",
+    "hint": "灵魂伴侣",
+    "phonetic": "/ˈsoʊl.meɪt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They __________ to be tourists.",
+    "answer": "pretended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found himself __________ of her.",
+    "answer": "thinking"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ pretended to be interested.",
+    "answer": "She"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  }
+]

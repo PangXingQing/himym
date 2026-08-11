@@ -1,0 +1,92 @@
+{
+  "id": 188,
+  "title": "The Broken Code",
+  "cn": "第 4 集 · 破碎的准则",
+  "novel": "Barney was [[angry|angry]] at Ted because he discovered that Ted still had feelings for Robin. He felt that Ted had broken the [[code|code]] of [[friendship|friendship]]. According to this unwritten code, a friend should never have romantic feelings for his best friend's wife.\n\nBarney tried to [[discuss|discuss]] the issue with Ted, but the conversation quickly turned into an argument. Ted [[apologized|apologize]] and explained that he could not control his emotions. He promised that he would never act on those feelings.\n\nMeanwhile, Marshall [[joined|join]] the wedding events through a video call. He had been [[appointed|appoint]] as a judge recently, and he could not leave Minnesota yet. He watched the events on his computer screen and tried to participate as much as possible.\n\nLily [[realized|realize]] something important during the weekend. She noticed that Robin did not have any close female friends. In fact, Lily was Robin's [[only|only]] girlfriend. This made Lily feel special, but also a little [[guilty|guilty]] because she had not been as close to Robin as she should have been.\n\nBarney eventually decided to [[forgive|forgive]] Ted. He understood that Ted was trying his best to [[behave|behave]] properly. The two friends shook hands and agreed to put the issue behind them.\n\nRobin was [[relieved|relieve]] that the conflict was over. She told Barney that she loved him and only him. The group came together again, ready to face the rest of the wedding weekend as a united team. Ted felt [[honest|honest]] about his feelings for the first time.",
+  "words": {
+    "angry": {
+      "pos": "adj.",
+      "ipa": "/ˈæŋ.ɡri/",
+      "cn": "生气的",
+      "en": "She was angry at her brother for lying."
+    },
+    "code": {
+      "pos": "n.",
+      "ipa": "/koʊd/",
+      "cn": "准则",
+      "en": "They followed a strict code of honor."
+    },
+    "friendship": {
+      "pos": "n.",
+      "ipa": "/ˈfrend.ʃɪp/",
+      "cn": "友谊",
+      "en": "Their friendship lasted for many years."
+    },
+    "discuss": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌs/",
+      "cn": "讨论",
+      "en": "Let's discuss the plan tomorrow."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "He apologized for being late."
+    },
+    "join": {
+      "pos": "v.",
+      "ipa": "/dʒɔɪn/",
+      "cn": "加入",
+      "en": "She joined the club last month."
+    },
+    "appoint": {
+      "pos": "v.",
+      "ipa": "/əˈpɔɪnt/",
+      "cn": "任命",
+      "en": "He was appointed as the new manager."
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪəl.aɪz/",
+      "cn": "意识到",
+      "en": "She realized her mistake too late."
+    },
+    "only": {
+      "pos": "adj.",
+      "ipa": "/ˈoʊn.li/",
+      "cn": "唯一的",
+      "en": "He was the only child in the family."
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "She felt guilty about forgetting his birthday."
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fərˈɡɪv/",
+      "cn": "原谅",
+      "en": "He forgave his friend for the mistake."
+    },
+    "behave": {
+      "pos": "v.",
+      "ipa": "/bɪˈheɪv/",
+      "cn": "表现",
+      "en": "The children behaved well at school."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "The good news relieved everyone."
+    },
+    "honest": {
+      "pos": "adj.",
+      "ipa": "/ˈɒn.ɪst/",
+      "cn": "诚实的",
+      "en": "He was honest about his feelings."
+    }
+  }
+}

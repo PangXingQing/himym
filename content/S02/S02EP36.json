@@ -1,0 +1,158 @@
+{
+  "id": 36,
+  "title": "Monday Night Football",
+  "cn": "第36集 · 周一足球夜",
+  "novel": "It was [[Super Bowl|Super Bowl]] Sunday, and the gang had a [[tradition|tradition]] — they all watched the game together at MacLaren's. But this year, everyone had other [[plans|plan]]. Robin had to [[work|work]] the late [[shift|shift]]. Marshall and Lily had a [[couples|couple]] [[therapy|therapy]] [[session|session]]. Barney had a [[date|date]] he could not [[cancel|cancel]].\n\n\"This is the first time in seven years we're not watching together!\" Ted [[complained|complain]]. He decided to [[record|record]] the game and watch it alone the next day, [[avoiding|avoid]] all [[spoilers|spoiler]] for twenty-four hours.\n\nThis was nearly [[impossible|impossible]] in New York. Everywhere Ted went, people were [[screaming|scream]] about the game. He walked past a [[sports|sport]] bar and had to [[physically|physical]] [[plug|plug]] his ears. A [[stranger|strange]] on the [[subway|subway]] started to tell him the score and Ted literally ran away.\n\nBut when he finally sat down to watch the recorded game, he felt [[lonely|lonely]]. The [[excitement|excite]] was not just about the game — it was about being together. The [[cheering|cheer]], the [[arguments|argument]] about which team was better, Barney's [[ridiculous|ridiculous]] [[bets|bet]] — that was the point.\n\nOne by one, his friends [[appeared|appear]] at the door. Robin had [[swapped|swap]] her shift. Marshall and Lily had [[rescheduled|reschedule]] therapy. Even Barney had [[dumped|dump]] his date. \"We couldn't let you watch alone,\" Lily said.\n\nThey watched the game together — a day late, but exactly right.",
+  "words": {
+    "Super Bowl": {
+      "pos": "n.",
+      "ipa": "/ˈsuː.pər bəʊl/",
+      "cn": "超级碗（美国橄榄球决赛）",
+      "en": "the championship game of American football"
+    },
+    "plan": {
+      "pos": "n.",
+      "ipa": "/plæn/",
+      "cn": "计划；安排",
+      "en": "something you have decided to do"
+    },
+    "shift": {
+      "pos": "n.",
+      "ipa": "/ʃɪft/",
+      "cn": "轮班；班次",
+      "en": "a period of time when you work"
+    },
+    "therapy": {
+      "pos": "n.",
+      "ipa": "/ˈθer.ə.pi/",
+      "cn": "治疗；疗法",
+      "en": "treatment to help with psychological or emotional problems"
+    },
+    "session": {
+      "pos": "n.",
+      "ipa": "/ˈseʃ.ən/",
+      "cn": "一次（治疗/会议）",
+      "en": "a single period spent doing a particular activity"
+    },
+    "date": {
+      "pos": "n.",
+      "ipa": "/deɪt/",
+      "cn": "约会；约会对象",
+      "en": "a romantic meeting with someone"
+    },
+    "cancel": {
+      "pos": "v.",
+      "ipa": "/ˈkæn.səl/",
+      "cn": "取消",
+      "en": "to decide that a planned event will not happen"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "to say that you are not happy about something"
+    },
+    "record": {
+      "pos": "v.",
+      "ipa": "/rɪˈkɔːd/",
+      "cn": "录制；记录",
+      "en": "to store sounds or pictures so that you can watch them later"
+    },
+    "avoid": {
+      "pos": "v.",
+      "ipa": "/əˈvɔɪd/",
+      "cn": "避免；避开",
+      "en": "to stay away from someone or something"
+    },
+    "spoiler": {
+      "pos": "n.",
+      "ipa": "/ˈspɔɪ.lər/",
+      "cn": "剧透；扫兴的信息",
+      "en": "information that tells you what happens in a movie or game before you watch it"
+    },
+    "impossible": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈpɒs.ə.bl̩/",
+      "cn": "不可能的",
+      "en": "cannot happen or be done"
+    },
+    "scream": {
+      "pos": "v.",
+      "ipa": "/skriːm/",
+      "cn": "尖叫",
+      "en": "to shout in a loud high voice, especially from excitement or fear"
+    },
+    "sports": {
+      "pos": "n.",
+      "ipa": "/spɔːts/",
+      "cn": "体育；运动",
+      "en": "games and competitions involving physical activities"
+    },
+    "plug": {
+      "pos": "v.",
+      "ipa": "/plʌɡ/",
+      "cn": "堵住；塞住",
+      "en": "to block a hole; to fill a gap"
+    },
+    "stranger": {
+      "pos": "n.",
+      "ipa": "/ˈstreɪn.dʒər/",
+      "cn": "陌生人",
+      "en": "a person you do not know"
+    },
+    "subway": {
+      "pos": "n.",
+      "ipa": "/ˈsʌb.weɪ/",
+      "cn": "地铁（美式）",
+      "en": "an underground railway system in a city"
+    },
+    "lonely": {
+      "pos": "adj.",
+      "ipa": "/ˈləʊn.li/",
+      "cn": "孤独的",
+      "en": "sad because you are alone and have no one to talk to"
+    },
+    "excite": {
+      "pos": "v.",
+      "ipa": "/ɪkˈsaɪt/",
+      "cn": "使兴奋；使激动",
+      "en": "to make someone feel happy and full of energy"
+    },
+    "cheer": {
+      "pos": "v.",
+      "ipa": "/tʃɪər/",
+      "cn": "欢呼；喝彩",
+      "en": "to shout loudly to show support or happiness"
+    },
+    "argument": {
+      "pos": "n.",
+      "ipa": "/ˈɑːɡ.jə.mənt/",
+      "cn": "争论；争吵",
+      "en": "an angry discussion between people who disagree"
+    },
+    "appear": {
+      "pos": "v.",
+      "ipa": "/əˈpɪər/",
+      "cn": "出现；露面",
+      "en": "to start to be seen or to arrive"
+    },
+    "swap": {
+      "pos": "v.",
+      "ipa": "/swɒp/",
+      "cn": "交换；调换",
+      "en": "to exchange one thing for another"
+    },
+    "reschedule": {
+      "pos": "v.",
+      "ipa": "/ˌriːˈʃed.juːl/",
+      "cn": "重新安排",
+      "en": "to arrange for something to happen at a different time"
+    },
+    "dump": {
+      "pos": "v.",
+      "ipa": "/dʌmp/",
+      "cn": "甩掉；抛弃",
+      "en": "to end a relationship with someone suddenly"
+    }
+  }
+}

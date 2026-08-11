@@ -1,0 +1,122 @@
+{
+  "id": 52,
+  "title": "Spoiler Alert",
+  "cn": "第 8 集 · 剧透预警",
+  "novel": "A [[spoiler|spoiler]] alert swept through the group as everyone discovered each other's [[annoying|annoying]] [[habits|habit]]. Ted couldn't stop [[correcting|correct]] people's [[grammar|grammar]]. \"It's 'whom,' not 'who,'\" he would say, and everyone would [[cringe|cringe]].\n\nLily [[chewed|chew]] her food [[loudly|loudly]]. Marshall [[sang|sing]] everything he did. \"I'm getting the mail~\" he would [[chant|chant]].\n\nRobin said \"[[literally|literally]]\" when she meant figuratively. Barney used too many [[catchphrases|catchphrase]]. Each discovery was a [[shock|shock]]. \"How did I never [[notice|notice]] this?\" Ted asked.\n\nThe habits [[bothered|bother]] them at first, but they [[realized|realize]] something important: the people you love were full of [[flaws|flaw]]. You either [[accepted|accept]] them or let them [[ruin|ruin]] everything. They chose to accept.",
+  "words": {
+    "spoiler": {
+      "pos": "n.",
+      "ipa": "/ˈspɔɪl.ə/",
+      "cn": "剧透",
+      "en": "information that ruins a surprise"
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "惹人烦的",
+      "en": "making you slightly angry"
+    },
+    "habit": {
+      "pos": "n.",
+      "ipa": "/ˈhæb.ɪt/",
+      "cn": "习惯",
+      "en": "something you do regularly"
+    },
+    "correct": {
+      "pos": "v.",
+      "ipa": "/kəˈrekt/",
+      "cn": "纠正",
+      "en": "to fix mistakes"
+    },
+    "grammar": {
+      "pos": "n.",
+      "ipa": "/ˈɡræm.ə/",
+      "cn": "语法",
+      "en": "rules of a language"
+    },
+    "cringe": {
+      "pos": "v.",
+      "ipa": "/krɪndʒ/",
+      "cn": "尴尬",
+      "en": "to feel embarrassed"
+    },
+    "chew": {
+      "pos": "v.",
+      "ipa": "/tʃuː/",
+      "cn": "咀嚼",
+      "en": "to crush food with teeth"
+    },
+    "loudly": {
+      "pos": "adv.",
+      "ipa": "/ˈlaʊd.li/",
+      "cn": "大声地",
+      "en": "with a lot of noise"
+    },
+    "sing": {
+      "pos": "v.",
+      "ipa": "/sɪŋ/",
+      "cn": "唱歌",
+      "en": "to make music with voice"
+    },
+    "chant": {
+      "pos": "v.",
+      "ipa": "/tʃɑːnt/",
+      "cn": "吟唱",
+      "en": "to repeat words in rhythm"
+    },
+    "literally": {
+      "pos": "adv.",
+      "ipa": "/ˈlɪt.ər.əl.i/",
+      "cn": "字面上地",
+      "en": "exactly as words mean"
+    },
+    "catchphrase": {
+      "pos": "n.",
+      "ipa": "/ˈkætʃ.freɪz/",
+      "cn": "口头禅",
+      "en": "a phrase said again and again"
+    },
+    "shock": {
+      "pos": "n.",
+      "ipa": "/ʃɒk/",
+      "cn": "震惊",
+      "en": "a strong feeling of surprise"
+    },
+    "notice": {
+      "pos": "v.",
+      "ipa": "/ˈnəʊ.tɪs/",
+      "cn": "注意到",
+      "en": "to become aware of"
+    },
+    "bother": {
+      "pos": "v.",
+      "ipa": "/ˈbɒð.ə/",
+      "cn": "烦扰",
+      "en": "to make annoyed"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "flaw": {
+      "pos": "n.",
+      "ipa": "/flɔː/",
+      "cn": "缺点",
+      "en": "a fault in character"
+    },
+    "accept": {
+      "pos": "v.",
+      "ipa": "/əkˈsept/",
+      "cn": "接受",
+      "en": "to agree to live with"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁坏",
+      "en": "to destroy completely"
+    }
+  }
+}

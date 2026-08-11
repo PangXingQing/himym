@@ -1,0 +1,164 @@
+{
+  "id": 23,
+  "title": "Where Were We?",
+  "cn": "第23集 · 你在哪？",
+  "novel": "Marshall was [[devastated|devastate]] after Lily left for San Francisco. Every morning he [[stared|stare]] at the empty side of the bed, his heart [[aching|ache]] like an old [[wound|wound]]. Ted and Robin had become a couple, and everywhere Marshall looked, he saw [[romance|romance]] he could not have.\n\nBarney decided the best [[remedy|remedy]] for a broken heart was a [[strip|strip]] club. \"Nothing [[cures|cure]] sadness like [[distraction|distraction]],\" he [[declared|declare]]. He [[dragged|drag]] Marshall to every [[entertainment|entertainment]] venue in the city, believing that [[naked|naked]] [[enthusiasm|enthusiasm]] would fix everything.\n\nMeanwhile, Ted discovered that living with a [[heartbroken|heartbroken]] roommate was like sharing a room with a [[ghost|ghost]]. Marshall left [[pathetic|pathetic]] notes around the apartment: \"Gone to find my [[dignity|dignity].\"\n\nRobin tried to [[comfort|comfort]] Ted. \"He needs time,\" she said. But Barney had other plans. He took Marshall to a [[casino|casino]], a [[comedy|comedy]] club, and finally introduced him to a woman named [[Chloe|Chloe]]. For a [[fleeting|fleet]] moment, Marshall almost smiled.\n\nBut when he came home that night, he found one of Lily's old [[sweaters|sweater]] under the pillow. He [[held|hold]] it to his face and [[wept|weep]]. Some wounds, Ted [[realized|realize]], needed more than [[distraction|distraction]] to heal.",
+  "words": {
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdev.ə.steɪt/",
+      "cn": "摧毁；使崩溃",
+      "en": "to make someone feel very shocked and upset"
+    },
+    "stare": {
+      "pos": "v.",
+      "ipa": "/steər/",
+      "cn": "凝视；盯着看",
+      "en": "to look at something for a long time without moving"
+    },
+    "ache": {
+      "pos": "v.",
+      "ipa": "/eɪk/",
+      "cn": "疼痛；渴望",
+      "en": "to feel a continuous pain that is unpleasant but not very strong"
+    },
+    "wound": {
+      "pos": "n.",
+      "ipa": "/wuːnd/",
+      "cn": "伤口；创伤",
+      "en": "an injury to part of your body or feelings"
+    },
+    "romance": {
+      "pos": "n.",
+      "ipa": "/rəʊˈmæns/",
+      "cn": "浪漫；恋爱",
+      "en": "a love story; the feeling of being in love"
+    },
+    "remedy": {
+      "pos": "n.",
+      "ipa": "/ˈrem.ə.di/",
+      "cn": "补救办法；疗法",
+      "en": "a way of dealing with a problem or curing an illness"
+    },
+    "strip": {
+      "pos": "n.",
+      "ipa": "/strɪp/",
+      "cn": "脱衣舞（俱乐部）",
+      "en": "a place where dancers remove their clothes to entertain"
+    },
+    "cure": {
+      "pos": "v.",
+      "ipa": "/kjʊər/",
+      "cn": "治愈；解决",
+      "en": "to make someone healthy again after an illness"
+    },
+    "distraction": {
+      "pos": "n.",
+      "ipa": "/dɪˈstræk.ʃən/",
+      "cn": "分散注意；消遣",
+      "en": "something that takes your attention away from what you're doing"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布；宣称",
+      "en": "to say something officially or in a confident way"
+    },
+    "drag": {
+      "pos": "v.",
+      "ipa": "/dræɡ/",
+      "cn": "拖；拽",
+      "en": "to pull something or someone with difficulty"
+    },
+    "entertainment": {
+      "pos": "n.",
+      "ipa": "/ˌen.təˈteɪn.mənt/",
+      "cn": "娱乐",
+      "en": "shows, music, films etc. that people enjoy watching"
+    },
+    "naked": {
+      "pos": "adj.",
+      "ipa": "/ˈneɪ.kɪd/",
+      "cn": "裸体的；赤裸的",
+      "en": "not wearing any clothes"
+    },
+    "enthusiasm": {
+      "pos": "n.",
+      "ipa": "/ɪnˈθjuː.zi.æz.əm/",
+      "cn": "热情；热心",
+      "en": "a strong feeling of excitement and interest"
+    },
+    "heartbroken": {
+      "pos": "adj.",
+      "ipa": "/ˈhɑːt.brəʊ.kən/",
+      "cn": "心碎的",
+      "en": "very sad because someone you love has left you"
+    },
+    "ghost": {
+      "pos": "n.",
+      "ipa": "/ɡəʊst/",
+      "cn": "鬼魂；影子",
+      "en": "the spirit of a dead person; someone who seems barely present"
+    },
+    "pathetic": {
+      "pos": "adj.",
+      "ipa": "/pəˈθet.ɪk/",
+      "cn": "可怜的；可悲的",
+      "en": "making you feel pity or sadness"
+    },
+    "dignity": {
+      "pos": "n.",
+      "ipa": "/ˈdɪɡ.nə.ti/",
+      "cn": "尊严",
+      "en": "a calm and serious quality that earns respect"
+    },
+    "comfort": {
+      "pos": "v.",
+      "ipa": "/ˈkʌm.fət/",
+      "cn": "安慰",
+      "en": "to make someone feel less sad or worried"
+    },
+    "casino": {
+      "pos": "n.",
+      "ipa": "/kəˈsiː.nəʊ/",
+      "cn": "赌场",
+      "en": "a place where people go to gamble"
+    },
+    "comedy": {
+      "pos": "n.",
+      "ipa": "/ˈkɒm.ə.di/",
+      "cn": "喜剧",
+      "en": "entertainment that is funny and makes people laugh"
+    },
+    "fleeting": {
+      "pos": "adj.",
+      "ipa": "/ˈfliː.tɪŋ/",
+      "cn": "短暂的；飞逝的",
+      "en": "lasting for only a very short time"
+    },
+    "sweater": {
+      "pos": "n.",
+      "ipa": "/ˈswet.ər/",
+      "cn": "毛衣",
+      "en": "a warm piece of clothing worn on the upper body"
+    },
+    "hold": {
+      "pos": "v.",
+      "ipa": "/həʊld/",
+      "cn": "握着；抱住",
+      "en": "to have something in your hand or arms"
+    },
+    "weep": {
+      "pos": "v.",
+      "ipa": "/wiːp/",
+      "cn": "哭泣；流泪",
+      "en": "to cry, especially because you feel very sad"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到；明白",
+      "en": "to understand a fact or situation, sometimes suddenly"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": 161,
+  "title": "Farhampton",
+  "cn": "第 1 集 · 法汉普顿",
+  "novel": "Robin felt [[anxious|anxious]] on her wedding day. She sat alone in a room and tried to [[calm|calm]] her nerves. She wondered if she was making the right decision. Ted came to check on her and tried to [[reassure|reassure]] her. He told her that Barney loved her and that everything would be fine. Robin [[appreciated|appreciate]] Ted's words but still felt [[uneasy|uneasy]]. Meanwhile, Ted recounted the story of leaving Victoria's fiancé a note. He had driven off with Victoria after she left her fiancé at the altar. Ted felt [[guilty|guilty]] about it but believed it was the right thing to do. He had written a note explaining everything and left it at the fiancé's door. The fiancé had called Ted and was furious. Ted tried to [[apologize|apologize]] but the man would not listen. Ted [[realized|realize]] that his actions had consequences. He wondered if he was making the same mistake Barney was about to make. Barney, meanwhile, was [[confident|confident]] about the wedding. He dressed in his best suit and [[practiced|practice]] his vows. He told Ted he had never been more sure of anything in his life. Robin finally took a deep breath and decided to go through with the wedding. She told herself that Barney was the one she wanted to spend her life with. The gang [[gathered|gather]] together, ready for the big day.",
+  "words": {
+    "anxious": {
+      "pos": "adj.",
+      "ipa": "/ˈæŋkʃəs/",
+      "cn": "焦虑的",
+      "en": "feeling worried and nervous"
+    },
+    "calm": {
+      "pos": "v.",
+      "ipa": "/kɑːm/",
+      "cn": "使平静",
+      "en": "to make someone less worried"
+    },
+    "reassure": {
+      "pos": "v.",
+      "ipa": "/ˌriːəˈʃʊr/",
+      "cn": "使安心",
+      "en": "to make someone feel less worried"
+    },
+    "appreciate": {
+      "pos": "v.",
+      "ipa": "/əˈpriːʃieɪtɪd/",
+      "cn": "感激",
+      "en": "to value something highly"
+    },
+    "uneasy": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈiːzi/",
+      "cn": "不安的",
+      "en": "feeling worried or uncertain"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪlti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "cn": "道歉",
+      "en": "to say sorry for something"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪzd/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "cn": "自信的",
+      "en": "sure about your decision"
+    },
+    "practice": {
+      "pos": "v.",
+      "ipa": "/ˈpræktɪst/",
+      "cn": "练习",
+      "en": "to do something repeatedly"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæðərd/",
+      "cn": "聚集",
+      "en": "to come together"
+    }
+  }
+}

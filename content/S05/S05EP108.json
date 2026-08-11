@@ -1,0 +1,86 @@
+{
+  "id": 108,
+  "title": "Home Wreckers",
+  "cn": "第 20 集 · 房屋破坏者",
+  "novel": "Ted bought a house. It was, everyone agreed, a [[wreck|wreck]] — a [[fixer-upper|fixer-upper]] that looked more like a [[bargain|bargain]] gone wrong. The roof leaked, the floors creaked, and something lived in the walls.\n\n\"You [[overpaid|overpay]],\" Barney said. \"Tear it down and start again.\"\n\nBut Ted saw [[potential|potential]]. He would [[renovate|renovate]] it with his own hands, turn it into a home worth keeping.\n\nMeanwhile, Robin and Don grew [[serious|serious]]. They shared coffee at five in the morning, laughed over bad news, and forgot to be [[rivals|rival]]. Robin was, for once, not pretending.\n\nTed's mother announced she was marrying her [[longtime|longtime]] friend. Ted felt a strange [[mixture|mixture]] of joy and [[loss|loss]]. The parent he had known was becoming someone new.\n\nHe stood in the [[gutted|gut]] living room, dust in his hair, and smiled. Some things fell apart so better things could be built. His mother had found love. Robin had found a partner. And Ted, surrounded by [[rubble|rubble]], had found a project that might one day become a home.",
+  "words": {
+    "wreck": {
+      "pos": "n.",
+      "ipa": "/rek/",
+      "cn": "破烂物；废墟",
+      "en": "something badly damaged"
+    },
+    "fixer-upper": {
+      "pos": "n.",
+      "ipa": "/ˈfɪk.sər.ʌp.ər/",
+      "cn": "待修缮的房子",
+      "en": "a cheap house needing repairs"
+    },
+    "bargain": {
+      "pos": "n.",
+      "ipa": "/ˈbɑː.ɡɪn/",
+      "cn": "便宜货",
+      "en": "something bought cheaply"
+    },
+    "overpay": {
+      "pos": "v.",
+      "ipa": "/ˌəʊ.vəˈpeɪ/",
+      "cn": "付得过多",
+      "en": "to pay more than something is worth"
+    },
+    "potential": {
+      "pos": "n.",
+      "ipa": "/pəˈten.ʃəl/",
+      "cn": "潜力",
+      "en": "the ability to become something better"
+    },
+    "renovate": {
+      "pos": "v.",
+      "ipa": "/ˈren.ə.veɪt/",
+      "cn": "翻修",
+      "en": "to repair and improve an old building"
+    },
+    "serious": {
+      "pos": "adj.",
+      "ipa": "/ˈsɪə.ri.əs/",
+      "cn": "认真的",
+      "en": "truly committed, not joking"
+    },
+    "rival": {
+      "pos": "n.",
+      "ipa": "/ˈraɪ.vəl/",
+      "cn": "对手",
+      "en": "a person you compete with"
+    },
+    "longtime": {
+      "pos": "adj.",
+      "ipa": "/ˈlɒŋ.taɪm/",
+      "cn": "长期的",
+      "en": "lasting for a long time"
+    },
+    "mixture": {
+      "pos": "n.",
+      "ipa": "/ˈmɪks.tʃər/",
+      "cn": "混合",
+      "en": "a combination of different feelings"
+    },
+    "loss": {
+      "pos": "n.",
+      "ipa": "/lɒs/",
+      "cn": "失落感",
+      "en": "the sad feeling when someone changes or leaves"
+    },
+    "gut": {
+      "pos": "v.",
+      "ipa": "/ɡʌt/",
+      "cn": "拆除内部",
+      "en": "to remove the inside of a building"
+    },
+    "rubble": {
+      "pos": "n.",
+      "ipa": "/ˈrʌb.əl/",
+      "cn": "瓦砾",
+      "en": "broken pieces of stone and brick"
+    }
+  }
+}

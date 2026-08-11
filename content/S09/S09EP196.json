@@ -1,0 +1,128 @@
+{
+  "id": 196,
+  "title": "The Rehearsal Dinner",
+  "cn": "第 12 集 · 彩排晚宴",
+  "novel": "Barney wanted his [[rehearsal|rehearsal]] dinner to be held at a laser tag [[arena|arena]]. Everyone thought this was a [[ridiculous|ridiculous]] idea for a formal wedding event. Robin was especially [[frustrated|frustrate]] because she had planned a [[fancy|fancy]] dinner at a nice restaurant.\n\nBarney [[insisted|insist]] on the laser tag idea and refused to [[compromise|compromise]]. He said it would be the most memorable rehearsal dinner ever. Robin [[argued|argue]] that their guests deserved a proper meal, not laser tag games.\n\nMeanwhile, Ted had [[failed|fail]] to come through on a [[promise|promise]] he made to Lily. He had agreed to pick up a special [[gift|gift]] for Marshall, but he forgot. Lily was [[disappointed|disappoint]] and felt that Ted was being [[careless|careless]].\n\nTed tried to [[fix|fix]] the situation by finding a replacement gift at the last minute. He searched through every shop near the hotel but could not find anything [[suitable|suitable]]. He felt [[guilty|guilty]] for letting Lily down.\n\nAt the rehearsal dinner, Barney [[surprised|surprise]] everyone. He had actually arranged a [[beautiful|beautiful]] dinner on the ice at a skating rink. The laser tag idea had been a trick to lower expectations. Robin was [[touched|touch]] by the surprise.\n\nThe dinner was a great success. Everyone enjoyed the food and the unique setting. Ted found a suitable gift just in time, and Lily [[forgave|forgive]] him for his mistake.\n\nBarney gave a speech that made everyone laugh and cry. He thanked his friends for standing by him through good times and bad. The evening ended with a group hug, and Robin told Barney it was the best surprise of her life.",
+  "words": {
+    "rehearsal": {
+      "pos": "n.",
+      "ipa": "/rɪˈhɜːr.səl/",
+      "cn": "彩排",
+      "en": "The rehearsal went well."
+    },
+    "arena": {
+      "pos": "n.",
+      "ipa": "/əˈriː.nə/",
+      "cn": "场地",
+      "en": "The concert was held in a big arena."
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "That is a ridiculous idea."
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌs.treɪt/",
+      "cn": "沮丧",
+      "en": "The delay frustrated everyone."
+    },
+    "fancy": {
+      "pos": "adj.",
+      "ipa": "/ˈfæn.si/",
+      "cn": "精致的",
+      "en": "They went to a fancy restaurant."
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "He insisted on paying the bill."
+    },
+    "compromise": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "妥协",
+      "en": "They compromised on the price."
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡ.juː/",
+      "cn": "争论",
+      "en": "They argued about the plan."
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "He failed to keep his promise."
+    },
+    "promise": {
+      "pos": "n.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺",
+      "en": "She kept her promise."
+    },
+    "gift": {
+      "pos": "n.",
+      "ipa": "/ɡɪft/",
+      "cn": "礼物",
+      "en": "He bought a gift for his mother."
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt/",
+      "cn": "失望",
+      "en": "The result disappointed her."
+    },
+    "careless": {
+      "pos": "adj.",
+      "ipa": "/ˈker.ləs/",
+      "cn": "粗心的",
+      "en": "He made a careless mistake."
+    },
+    "fix": {
+      "pos": "v.",
+      "ipa": "/fɪks/",
+      "cn": "修补",
+      "en": "She fixed the broken toy."
+    },
+    "suitable": {
+      "pos": "adj.",
+      "ipa": "/ˈsuː.tə.bəl/",
+      "cn": "合适的",
+      "en": "The dress was suitable for the occasion."
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "She felt guilty about lying."
+    },
+    "surprise": {
+      "pos": "v.",
+      "ipa": "/sərˈpraɪz/",
+      "cn": "使惊喜",
+      "en": "He surprised his wife with flowers."
+    },
+    "beautiful": {
+      "pos": "adj.",
+      "ipa": "/ˈbjuː.tɪ.fəl/",
+      "cn": "美丽的",
+      "en": "The garden was beautiful."
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fərˈɡɪv/",
+      "cn": "原谅",
+      "en": "He forgave his friend."
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃ/",
+      "cn": "打动",
+      "en": "The gift touched her deeply."
+    }
+  }
+}

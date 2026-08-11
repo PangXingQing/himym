@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "hilarious",
+    "hint": "极滑稽的",
+    "phonetic": "/hɪˈler.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "nostalgia",
+    "hint": "怀旧",
+    "phonetic": "/nɑːˈstæl.dʒə/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ up liking the job.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She moved on after __________ breakup.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's time to __________ on.",
+    "answer": "move"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  }
+]

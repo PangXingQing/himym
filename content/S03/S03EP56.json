@@ -1,0 +1,128 @@
+{
+  "id": 56,
+  "title": "No Tomorrow",
+  "cn": "第 12 集 · 没有明天",
+  "novel": "On St. Patrick's Day, Ted [[embraced|embrace]] the 'No Tomorrow' [[philosophy|philosophy]] at a wild [[party|party]]. \"There's no tomorrow,\" he [[declared|declare]], [[drinking|drink]] another beer.\n\nHe was [[reckless|reckless]] and [[carefree|carefree]]. He [[danced|dance]] with strangers and [[stole|steal]] a bottle from the bar. [[Luck|luck]] seemed to be on his side.\n\nMeanwhile, Barney [[tracked|track]] down a woman he'd been [[obsessed|obsess]] with. Robin and Lily enjoyed the holiday [[spirit|spirit]].\n\nWhen Ted returned home, he [[discovered|discover]] the apartment had been [[broken into|break into]]. Someone had [[stolen|steal]] his TV and [[trashed|trash]] the place. The 'No Tomorrow' [[philosophy|philosophy]] had a [[price|price]].\n\nTed [[realized|realize]] that living like there was no tomorrow meant today had [[consequences|consequence]]. Some [[hangovers|hangover]], he learned, lasted longer than one morning.",
+  "words": {
+    "embrace": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbreɪs/",
+      "cn": "拥抱；接受",
+      "en": "to accept eagerly"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fɪˈlɒs.ə.fi/",
+      "cn": "理念",
+      "en": "a way of thinking"
+    },
+    "party": {
+      "pos": "n.",
+      "ipa": "/ˈpɑː.ti/",
+      "cn": "派对",
+      "en": "a social gathering"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "drink": {
+      "pos": "v.",
+      "ipa": "/drɪŋk/",
+      "cn": "喝",
+      "en": "to take liquid in mouth"
+    },
+    "reckless": {
+      "pos": "adj.",
+      "ipa": "/ˈrek.ləs/",
+      "cn": "鲁莽的",
+      "en": "without thinking of danger"
+    },
+    "carefree": {
+      "pos": "adj.",
+      "ipa": "/ˈkeə.friː/",
+      "cn": "无忧无虑的",
+      "en": "having no worries"
+    },
+    "dance": {
+      "pos": "v.",
+      "ipa": "/dɑːns/",
+      "cn": "跳舞",
+      "en": "to move to music"
+    },
+    "steal": {
+      "pos": "v.",
+      "ipa": "/stiːl/",
+      "cn": "偷",
+      "en": "to take without permission"
+    },
+    "luck": {
+      "pos": "n.",
+      "ipa": "/lʌk/",
+      "cn": "运气",
+      "en": "good things by chance"
+    },
+    "track": {
+      "pos": "v.",
+      "ipa": "/træk/",
+      "cn": "追踪",
+      "en": "to follow and find"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈses/",
+      "cn": "痴迷",
+      "en": "to think about constantly"
+    },
+    "spirit": {
+      "pos": "n.",
+      "ipa": "/ˈspɪr.ɪt/",
+      "cn": "精神",
+      "en": "a feeling of excitement"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ə/",
+      "cn": "发现",
+      "en": "to find something new"
+    },
+    "break into": {
+      "pos": "phr.v.",
+      "ipa": "/breɪk ˈɪn.tə/",
+      "cn": "闯入",
+      "en": "to enter by force"
+    },
+    "trash": {
+      "pos": "v.",
+      "ipa": "/træʃ/",
+      "cn": "破坏",
+      "en": "to destroy a place"
+    },
+    "price": {
+      "pos": "n.",
+      "ipa": "/praɪs/",
+      "cn": "代价",
+      "en": "what you must pay"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "consequence": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.sɪ.kwəns/",
+      "cn": "后果",
+      "en": "a result of an action"
+    },
+    "hangover": {
+      "pos": "n.",
+      "ipa": "/ˈhæŋ.əʊ.və/",
+      "cn": "宿醉",
+      "en": "sick feeling after drinking"
+    }
+  }
+}

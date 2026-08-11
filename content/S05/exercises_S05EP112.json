@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "rebound",
+    "hint": "反弹；新恋情",
+    "phonetic": "/ˈriː.baʊnd/"
+  },
+  {
+    "type": "spelling",
+    "word": "spontaneous",
+    "hint": "自发的",
+    "phonetic": "/spɑːnˈteɪ.ni.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ obsessing over the stain.",
+    "answer": "was"
+  },
+  {
+    "type": "spelling",
+    "word": "reluctant",
+    "hint": "不情愿的",
+    "phonetic": "/rɪˈlʌk.tənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "persistent",
+    "hint": "坚持的",
+    "phonetic": "/pərˈsɪs.tənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  }
+]

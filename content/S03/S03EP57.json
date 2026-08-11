@@ -1,0 +1,128 @@
+{
+  "id": 57,
+  "title": "Ten Sessions",
+  "cn": "第 13 集 · 十次疗程",
+  "novel": "Ted met [[dermatologist|dermatologist]] Stella for tattoo [[removal|removal]]. Ten [[sessions|session]] became ten chances to [[win over|win over]] her with [[persistence|persistence]].\n\n\"I don't date [[patients|patient]],\" Stella [[declared|declare]]. But Ted [[refused|refuse]] to give up. Each [[session|session]], he brought a new [[argument|argument]], a new [[joke|joke]], a new reason she should [[say yes|say yes]].\n\n\"You're [[persistent|persistent]],\" Stella [[admitted|admit]] after the fifth session. \"I'll give you that.\"\n\nBarney [[bet|bet]] Ted would fail. Robin [[sided|side]] with Stella. Lily [[rooted|root]] for Ted.\n\nBy the eighth session, Stella [[canceled|cancel]] an [[appointment|appointment]]. Ted [[panicked|panic]]. Was she avoiding him?\n\nAt the tenth session, the tattoo was gone. Ted [[looked|look]] at Stella. \"One more chance?\" he asked. She smiled. \"Dinner. One dinner.\" [[Persistence|persistence]], Ted realized, sometimes paid off.",
+  "words": {
+    "dermatologist": {
+      "pos": "n.",
+      "ipa": "/ˌdɜː.məˈtɒl.ə.dʒɪst/",
+      "cn": "皮肤科医生",
+      "en": "a doctor who treats skin"
+    },
+    "removal": {
+      "pos": "n.",
+      "ipa": "/rɪˈmuː.vəl/",
+      "cn": "移除",
+      "en": "the act of taking away"
+    },
+    "session": {
+      "pos": "n.",
+      "ipa": "/ˈseʃ.ən/",
+      "cn": "疗程；一次",
+      "en": "a meeting for treatment"
+    },
+    "win over": {
+      "pos": "phr.v.",
+      "ipa": "/wɪn ˈəʊ.və/",
+      "cn": "争取过来",
+      "en": "to persuade someone to like you"
+    },
+    "persistence": {
+      "pos": "n.",
+      "ipa": "/pəˈsɪs.təns/",
+      "cn": "坚持",
+      "en": "continuing despite difficulty"
+    },
+    "patient": {
+      "pos": "n.",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "cn": "病人",
+      "en": "a person receiving medical care"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no"
+    },
+    "argument": {
+      "pos": "n.",
+      "ipa": "/ˈɑː.ɡjə.mənt/",
+      "cn": "论据",
+      "en": "a reason to support a view"
+    },
+    "joke": {
+      "pos": "n.",
+      "ipa": "/dʒəʊk/",
+      "cn": "笑话",
+      "en": "something funny said"
+    },
+    "say yes": {
+      "pos": "phr.",
+      "ipa": "/seɪ jes/",
+      "cn": "答应",
+      "en": "to agree"
+    },
+    "persistent": {
+      "pos": "adj.",
+      "ipa": "/pəˈsɪs.tənt/",
+      "cn": "坚持的",
+      "en": "continuing despite difficulty"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "bet": {
+      "pos": "v.",
+      "ipa": "/bet/",
+      "cn": "打赌",
+      "en": "to risk money on an outcome"
+    },
+    "side": {
+      "pos": "v.",
+      "ipa": "/saɪd/",
+      "cn": "支持",
+      "en": "to agree with someone"
+    },
+    "root": {
+      "pos": "v.",
+      "ipa": "/ruːt/",
+      "cn": "声援",
+      "en": "to support enthusiastically"
+    },
+    "cancel": {
+      "pos": "v.",
+      "ipa": "/ˈkæn.səl/",
+      "cn": "取消",
+      "en": "to stop a planned event"
+    },
+    "appointment": {
+      "pos": "n.",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "cn": "预约",
+      "en": "a planned meeting"
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌",
+      "en": "to feel sudden fear"
+    },
+    "look": {
+      "pos": "v.",
+      "ipa": "/lʊk/",
+      "cn": "看",
+      "en": "to turn eyes toward"
+    }
+  }
+}

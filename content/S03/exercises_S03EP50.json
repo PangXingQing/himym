@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "relieved",
+    "hint": "松了一口气的",
+    "phonetic": "/rɪˈliːvd/"
+  },
+  {
+    "type": "spelling",
+    "word": "mortified",
+    "hint": "极为尴尬的",
+    "phonetic": "/ˈmɔːr.tɪ.faɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "anxious",
+    "hint": "焦虑的",
+    "phonetic": "/ˈæŋk.ʃəs/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ pretended to be tourists.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ himself thinking of her.",
+    "answer": "found"
+  },
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  }
+]

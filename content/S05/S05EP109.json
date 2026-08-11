@@ -1,0 +1,86 @@
+{
+  "id": 109,
+  "title": "Twin Beds",
+  "cn": "第 21 集 · 双人床",
+  "novel": "Ted and Robin, freshly broken up, decided to try [[twin beds|twin beds]] — two small beds side by side, like children at summer camp. \"It's [[practical|practical]],\" Ted said. \"No [[awkward|awkward]] [[cuddling|cuddle]].\"\n\nBarney and Don, meanwhile, [[competed|compete]] for Robin's [[affection|affection]]. Don brought flowers. Barney brought a [[skywriting|skywriting]] plane. The sky read \"ROBIN\" in white smoke.\n\nRobin was [[torn|torn]]. Don was kind. Barney was Barney — loud, shameless, and somehow [[endearing|endearing]].\n\nTed watched from his twin bed, feeling like a [[referee|referee]] in a game he no longer played. \"Why don't you both just [[back off|back off]]?\" he suggested.\n\nThey did not.\n\nIn the end, Robin chose Don. Barney [[pretended|pretend]] it did not hurt, then went home and stared at the empty sky where his message had been. Ted, lying in his narrow bed that night, understood something: some [[arrangements|arrangement]] kept people close, but not too close — and sometimes that was the kindest distance of all.",
+  "words": {
+    "twin beds": {
+      "pos": "phr.",
+      "ipa": "/twɪn bedz/",
+      "cn": "两张单人床",
+      "en": "two single beds placed side by side"
+    },
+    "practical": {
+      "pos": "adj.",
+      "ipa": "/ˈpræk.tɪ.kəl/",
+      "cn": "实用的",
+      "en": "useful in real situations"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel uncomfortable"
+    },
+    "cuddle": {
+      "pos": "n.",
+      "ipa": "/ˈkʌd.əl/",
+      "cn": "依偎",
+      "en": "the act of holding someone close"
+    },
+    "compete": {
+      "pos": "v.",
+      "ipa": "/kəmˈpiːt/",
+      "cn": "竞争",
+      "en": "to try to win against someone else"
+    },
+    "affection": {
+      "pos": "n.",
+      "ipa": "/əˈfek.ʃən/",
+      "cn": "爱慕",
+      "en": "a gentle feeling of love"
+    },
+    "skywriting": {
+      "pos": "n.",
+      "ipa": "/ˈskaɪ.raɪ.tɪŋ/",
+      "cn": "空中文字",
+      "en": "words written in the sky by a plane"
+    },
+    "torn": {
+      "pos": "adj.",
+      "ipa": "/tɔːn/",
+      "cn": "犹豫不决的",
+      "en": "unable to choose between two things"
+    },
+    "endearing": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈdɪə.rɪŋ/",
+      "cn": "讨人喜欢的",
+      "en": "making people feel fond of you"
+    },
+    "referee": {
+      "pos": "n.",
+      "ipa": "/ˌref.əˈriː/",
+      "cn": "裁判",
+      "en": "a person who watches a game fairly"
+    },
+    "back off": {
+      "pos": "phr.v.",
+      "ipa": "/bæk ɒf/",
+      "cn": "退后；别管",
+      "en": "to stop interfering with someone"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "arrangement": {
+      "pos": "n.",
+      "ipa": "/əˈreɪndʒ.mənt/",
+      "cn": "安排",
+      "en": "a plan for how things are set up"
+    }
+  }
+}

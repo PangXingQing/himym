@@ -1,0 +1,122 @@
+{
+  "id": 49,
+  "title": "How I Met Everyone Else",
+  "cn": "第 5 集 · 我如何遇见每个人",
+  "novel": "Ted's new girlfriend wanted to know how the group [[formed|form]]. Each member told their [[origin|origin]] story with [[flashbacks|flashback]] that [[revealed|reveal]] forgotten memories.\n\nMarshall [[recalled|recall]] meeting Ted in their college [[dormitory|dormitory]]. Ted had been carrying a [[stack|stack]] of architecture books. They [[bonded|bond]] over pizza and dreams.\n\nLily [[remembered|remember]] meeting Marshall in a hallway. She had [[dropped|drop]] her [[sketchbook|sketchbook]], and he had [[picked|pick]] it up. It was a [[coincidence|coincidence]] that felt like [[destiny|destiny]].\n\nBarney [[claimed|claim]] he had met Ted in a bathroom. Ted [[denied|deny]] this, but Barney [[insisted|insist]].\n\nRobin's story was simplest: she had walked into MacLaren's one rainy night and never left. As the stories [[intertwined|intertwine]], Ted's girlfriend smiled. She [[realized|realize]] this group was a family built on a thousand small [[coincidences|coincidence]].",
+  "words": {
+    "form": {
+      "pos": "v.",
+      "ipa": "/fɔːm/",
+      "cn": "形成；组成",
+      "en": "to come together as a group"
+    },
+    "origin": {
+      "pos": "n.",
+      "ipa": "/ˈɒr.ɪ.dʒɪn/",
+      "cn": "起源",
+      "en": "the beginning of something"
+    },
+    "flashback": {
+      "pos": "n.",
+      "ipa": "/ˈflæʃ.bæk/",
+      "cn": "倒叙",
+      "en": "a scene from the past"
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "to make hidden things known"
+    },
+    "recall": {
+      "pos": "v.",
+      "ipa": "/rɪˈkɔːl/",
+      "cn": "回忆",
+      "en": "to remember the past"
+    },
+    "dormitory": {
+      "pos": "n.",
+      "ipa": "/ˈdɔː.mɪ.tri/",
+      "cn": "宿舍",
+      "en": "a building where students live"
+    },
+    "stack": {
+      "pos": "n.",
+      "ipa": "/stæk/",
+      "cn": "一叠",
+      "en": "a pile of things"
+    },
+    "bond": {
+      "pos": "v.",
+      "ipa": "/bɒnd/",
+      "cn": "建立纽带",
+      "en": "to form a close relationship"
+    },
+    "remember": {
+      "pos": "v.",
+      "ipa": "/rɪˈmem.bə/",
+      "cn": "记得",
+      "en": "to keep in memory"
+    },
+    "drop": {
+      "pos": "v.",
+      "ipa": "/drɒp/",
+      "cn": "掉落",
+      "en": "to let fall from hands"
+    },
+    "sketchbook": {
+      "pos": "n.",
+      "ipa": "/ˈsketʃ.bʊk/",
+      "cn": "速写本",
+      "en": "a book for drawing"
+    },
+    "pick": {
+      "pos": "v.",
+      "ipa": "/pɪk/",
+      "cn": "捡起",
+      "en": "to lift up with fingers"
+    },
+    "coincidence": {
+      "pos": "n.",
+      "ipa": "/kəʊˈɪn.sɪ.dəns/",
+      "cn": "巧合",
+      "en": "two things happening by chance"
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tɪ.ni/",
+      "cn": "命运",
+      "en": "things that will happen to you"
+    },
+    "claim": {
+      "pos": "v.",
+      "ipa": "/kleɪm/",
+      "cn": "声称",
+      "en": "to say something is true"
+    },
+    "deny": {
+      "pos": "v.",
+      "ipa": "/dɪˈnaɪ/",
+      "cn": "否认",
+      "en": "to say something is not true"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly something is true"
+    },
+    "intertwine": {
+      "pos": "v.",
+      "ipa": "/ˌɪn.təˈtwaɪn/",
+      "cn": "交织",
+      "en": "to be closely connected"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    }
+  }
+}

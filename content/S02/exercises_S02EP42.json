@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "attention",
+    "hint": "注意力；关注",
+    "phonetic": "/əˈten.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "dominate",
+    "hint": "主导；称霸",
+    "phonetic": "/ˈdɒm.ɪ.neɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "advice",
+    "hint": "建议；忠告",
+    "phonetic": "/ədˈvaɪs/"
+  },
+  {
+    "type": "spelling",
+    "word": "eighty",
+    "hint": "八十",
+    "phonetic": "/ˈeɪ.ti/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ was about to lose his spotlight to an eighty-two-year-old woman.",
+    "answer": "Barney"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She taught him a lesson he __________ never forget.",
+    "answer": "would"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ didn't need to win to learn something.",
+    "answer": "Barney"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Gammy, teach me __________ ways!",
+    "answer": "your"
+  }
+]

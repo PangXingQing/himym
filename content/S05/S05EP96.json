@@ -1,0 +1,86 @@
+{
+  "id": 96,
+  "title": "The Playbook",
+  "cn": "第 8 集 · 把妹手册",
+  "novel": "Barney had a secret. He owned a [[playbook|playbook]] — a thick book filled with [[schemes|scheme]] to pick up women. Each play had a name, a costume, and a lie.\n\nWhen Lily discovered it, she was [[disgusted|disgust]]. \"This is [[manipulative|manipulative]],\" she said. \"You're treating women like [[targets|target]].\"\n\nShe [[vowed|vow]] to destroy the book. But Barney refused. \"The Playbook is who I am,\" he said.\n\nMeanwhile, Ted dated a woman whose mother was a professional [[matchmaker|matchmaker]]. The woman had been raised to find flaws in every man. Ted tried to be [[flawless|flawless]], but the [[pressure|pressure]] broke him by the second date.\n\nIn the end, Lily could not destroy the Playbook. But she made Barney [[promise|promise]] one thing: that he would never use a play on a woman who deserved better.\n\nBarney agreed, though they all knew he had his [[fingers|finger]] crossed behind his back. Some [[habits|habit]], Ted sighed, were harder to break than any [[rule|rule]].",
+  "words": {
+    "playbook": {
+      "pos": "n.",
+      "ipa": "/ˈpleɪ.bʊk/",
+      "cn": "战术手册",
+      "en": "a book of strategies, here for picking up women"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "计谋；花招",
+      "en": "a clever plan to get something"
+    },
+    "disgust": {
+      "pos": "v.",
+      "ipa": "/dɪsˈɡʌst/",
+      "cn": "使厌恶",
+      "en": "to make someone feel strong dislike"
+    },
+    "manipulative": {
+      "pos": "adj.",
+      "ipa": "/məˈnɪp.jə.lə.tɪv/",
+      "cn": "善于操纵的",
+      "en": "skilled at controlling others for your own gain"
+    },
+    "target": {
+      "pos": "n.",
+      "ipa": "/ˈtɑː.ɡɪt/",
+      "cn": "目标",
+      "en": "a person or thing you aim at"
+    },
+    "vow": {
+      "pos": "v.",
+      "ipa": "/vaʊ/",
+      "cn": "发誓",
+      "en": "to make a serious promise"
+    },
+    "matchmaker": {
+      "pos": "n.",
+      "ipa": "/ˈmætʃ.meɪ.kər/",
+      "cn": "媒人",
+      "en": "a person who tries to bring two people together"
+    },
+    "flawless": {
+      "pos": "adj.",
+      "ipa": "/ˈflɔː.ləs/",
+      "cn": "完美无瑕的",
+      "en": "without any mistakes or faults"
+    },
+    "pressure": {
+      "pos": "n.",
+      "ipa": "/ˈpreʃ.ər/",
+      "cn": "压力",
+      "en": "the feeling of being forced to do something"
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺",
+      "en": "to tell someone you will certainly do something"
+    },
+    "finger": {
+      "pos": "n.",
+      "ipa": "/ˈfɪŋ.ɡər/",
+      "cn": "手指",
+      "en": "one of the five parts at the end of your hand"
+    },
+    "habit": {
+      "pos": "n.",
+      "ipa": "/ˈhæb.ɪt/",
+      "cn": "习惯",
+      "en": "something you do often without thinking"
+    },
+    "rule": {
+      "pos": "n.",
+      "ipa": "/ruːl/",
+      "cn": "规则",
+      "en": "an instruction that says what you must or must not do"
+    }
+  }
+}

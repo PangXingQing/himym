@@ -1,0 +1,122 @@
+{
+  "id": 38,
+  "title": "Stuff",
+  "cn": "第38集 · 东西",
+  "novel": "Lily and Marshall were having a fight — the biggest fight of their [[marriage|marriage]] so far. The issue? Lily wanted Marshall to get rid of some of his old [[possessions|possession]]. Specifically, his collection of [[action figures|action figure]] from every movie made before 2005.\n\n\"They're not just [[toys|toy]],\" Marshall argued. \"They're [[investments|investment]]. This [[Wookiee|Wookiee]] is worth more than your [[engagement|engagement]] ring!\"\n\nWrong thing to say. Very wrong.\n\nLily [[stormed|storm]] out and went to Robin's apartment. \"I married a [[child|child]],\" she said. \"He has more [[sentimental|sentiment]] [[attachment|attach]] to [[plastic|plastic]] than to me!\"\n\nRobin, who was also [[frustrated|frustrate]] with Ted for keeping every [[souvenir|souvenir]] from their [[relationship|relationship]], [[nodded|nod]] in [[sympathy|sympathy]]. \"They keep things because they can't handle [[change|change]],\" she said.\n\nMeanwhile, Ted and Marshall sat in the [[apartment|apartment]] surrounded by action figures. \"They don't get it,\" Ted said. \"These aren't just things. They're [[memories|memory]].\" He picked up a [[Han Solo|Han Solo]] figure. \"This is from the day I met Robin.\"\n\nBoth couples spent the night apart, staring at the [[ceiling|ceiling]]. In the morning, Marshall showed up at Robin's door with a [[box|box]] of action figures. \"I'm [[donating|donate]] these,\" he told Lily. \"But I'm keeping three. One from the day I met you, one from the day you said yes, and one from our first kiss.\"\n\nLily [[hugged|hug]] him. \"Keep four,\" she said. \"I'm not a [[monster|monster]].\"",
+  "words": {
+    "possession": {
+      "pos": "n.",
+      "ipa": "/pəˈzeʃ.ən/",
+      "cn": "财产；所有物",
+      "en": "something that you own"
+    },
+    "action figure": {
+      "pos": "n.",
+      "ipa": "/ˈæk.ʃən ˌfɪɡ.ər/",
+      "cn": "可动人偶",
+      "en": "a small plastic toy shaped like a film or comic character"
+    },
+    "toy": {
+      "pos": "n.",
+      "ipa": "/tɔɪ/",
+      "cn": "玩具",
+      "en": "an object for children to play with"
+    },
+    "investment": {
+      "pos": "n.",
+      "ipa": "/ɪnˈvest.mənt/",
+      "cn": "投资",
+      "en": "something you buy hoping its value will increase"
+    },
+    "Wookiee": {
+      "pos": "n.",
+      "ipa": "/ˈwʊk.i/",
+      "cn": "伍基人（星球大战角色）",
+      "en": "a tall hairy creature from Star Wars"
+    },
+    "storm": {
+      "pos": "v.",
+      "ipa": "/stɔːm/",
+      "cn": "气冲冲地走",
+      "en": "to walk somewhere quickly because you are angry"
+    },
+    "child": {
+      "pos": "n.",
+      "ipa": "/tʃaɪld/",
+      "cn": "孩子",
+      "en": "a young person; someone acting in an immature way"
+    },
+    "sentiment": {
+      "pos": "n.",
+      "ipa": "/ˈsen.tɪ.mənt/",
+      "cn": "情感；多愁善感",
+      "en": "a feeling or emotional connection to something"
+    },
+    "attachment": {
+      "pos": "n.",
+      "ipa": "/əˈtætʃ.mənt/",
+      "cn": "依恋；附件",
+      "en": "a strong feeling of love or connection to someone or something"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/frʌˈstreɪt/",
+      "cn": "使沮丧；使懊恼",
+      "en": "to make someone annoyed because they cannot do what they want"
+    },
+    "souvenir": {
+      "pos": "n.",
+      "ipa": "/ˌsuː.vəˈnɪər/",
+      "cn": "纪念品",
+      "en": "something you keep to remember a special event or place"
+    },
+    "nod": {
+      "pos": "v.",
+      "ipa": "/nɒd/",
+      "cn": "点头",
+      "en": "to move your head up and down to show agreement"
+    },
+    "sympathy": {
+      "pos": "n.",
+      "ipa": "/ˈsɪm.pə.θi/",
+      "cn": "同情；共鸣",
+      "en": "the feeling of understanding another person's sadness or problems"
+    },
+    "change": {
+      "pos": "n.",
+      "ipa": "/tʃeɪndʒ/",
+      "cn": "变化；改变",
+      "en": "the act of becoming different or making something different"
+    },
+    "memory": {
+      "pos": "n.",
+      "ipa": "/ˈmem.ər.i/",
+      "cn": "记忆；回忆",
+      "en": "something you remember from the past"
+    },
+    "box": {
+      "pos": "n.",
+      "ipa": "/bɒks/",
+      "cn": "箱子；盒子",
+      "en": "a container with flat sides, usually square or rectangular"
+    },
+    "donate": {
+      "pos": "v.",
+      "ipa": "/dəʊˈneɪt/",
+      "cn": "捐赠",
+      "en": "to give money or objects to help a person or organization"
+    },
+    "hug": {
+      "pos": "v.",
+      "ipa": "/hʌɡ/",
+      "cn": "拥抱",
+      "en": "to put your arms around someone to show love or comfort"
+    },
+    "monster": {
+      "pos": "n.",
+      "ipa": "/ˈmɒn.stər/",
+      "cn": "怪物",
+      "en": "an imaginary frightening creature; a cruel person"
+    }
+  }
+}

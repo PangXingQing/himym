@@ -1,0 +1,116 @@
+{
+  "id": 152,
+  "title": "The Drunk Train",
+  "cn": "第 16 集 · 醉酒列车",
+  "novel": "Lily and Marshall [[invited|invite]] Robin and Kevin to join them on a trip to Vermont. They wanted to spend a [[relaxing|relaxing]] weekend in the countryside. Robin and Kevin agreed to go, hoping it would be a nice [[getaway|getaway]]. On the train ride there, they had a few drinks and enjoyed each other's company. Meanwhile, Kevin and Robin [[discussed|discuss]] their [[relationship|relationship]] during the trip. Kevin felt that things were getting [[serious|serious]] between them. He wanted to know where their relationship was going. Robin was [[hesitant|hesitant]] to talk about the future. She was still dealing with her feelings for Barney. Kevin noticed her [[hesitation|hesitation]] and asked if something was wrong. Robin tried to [[reassure|reassure]] him but could not fully [[commit|commit]] to their future. Meanwhile, Barney went out with some friends and [[encountered|encounter]] a woman who seemed to be his perfect match. She was clever, [[confident|confident]], and could match Barney's wit. Barney was [[intrigued|intrigue]] by her [[intelligence|intelligence]] and [[charm|charm]]. They spent the evening talking and laughing together. Barney felt something he had not felt in a long time. The trip to Vermont was not as [[relaxing|relaxing]] as Lily had hoped. Marshall accidentally broke a window at the cabin. Kevin and Robin's conversation about their future was [[tense|tense]] and [[unresolved|unresolved]]. Despite everything, the friends [[agreed|agree]] that being together was what mattered most.",
+  "words": {
+    "invite": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvaɪtɪd/",
+      "cn": "邀请",
+      "en": "to ask someone to come"
+    },
+    "relaxing": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlæksɪŋ/",
+      "cn": "令人放松的",
+      "en": "making you feel calm"
+    },
+    "getaway": {
+      "pos": "n.",
+      "ipa": "/ˈɡetəweɪ/",
+      "cn": "度假",
+      "en": "a short trip for rest"
+    },
+    "discuss": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌst/",
+      "cn": "讨论",
+      "en": "to talk about something"
+    },
+    "relationship": {
+      "pos": "n.",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "cn": "关系",
+      "en": "a connection between people"
+    },
+    "serious": {
+      "pos": "adj.",
+      "ipa": "/ˈsɪriəs/",
+      "cn": "认真的",
+      "en": "important and meaningful"
+    },
+    "hesitant": {
+      "pos": "adj.",
+      "ipa": "/ˈhezɪtənt/",
+      "cn": "犹豫的",
+      "en": "unsure about doing something"
+    },
+    "hesitation": {
+      "pos": "n.",
+      "ipa": "/ˌhezɪˈteɪʃn/",
+      "cn": "犹豫",
+      "en": "the act of being unsure"
+    },
+    "reassure": {
+      "pos": "v.",
+      "ipa": "/ˌriːəˈʃʊr/",
+      "cn": "使安心",
+      "en": "to make someone feel less worried"
+    },
+    "commit": {
+      "pos": "v.",
+      "ipa": "/kəˈmɪt/",
+      "cn": "承诺",
+      "en": "to fully dedicate yourself"
+    },
+    "encounter": {
+      "pos": "v.",
+      "ipa": "/ɪnˈkaʊntərd/",
+      "cn": "遇到",
+      "en": "to meet someone unexpectedly"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "cn": "自信的",
+      "en": "sure of yourself"
+    },
+    "intrigue": {
+      "pos": "v.",
+      "ipa": "/ɪnˈtriːɡd/",
+      "cn": "使好奇",
+      "en": "to make someone curious"
+    },
+    "intelligence": {
+      "pos": "n.",
+      "ipa": "/ɪnˈtelɪdʒəns/",
+      "cn": "智慧",
+      "en": "the ability to learn and think"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːrm/",
+      "cn": "魅力",
+      "en": "the power to attract people"
+    },
+    "tense": {
+      "pos": "adj.",
+      "ipa": "/tens/",
+      "cn": "紧张的",
+      "en": "causing nervous feelings"
+    },
+    "unresolved": {
+      "pos": "adj.",
+      "ipa": "/ˌʌnrɪˈzɑːlvd/",
+      "cn": "未解决的",
+      "en": "not yet settled"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriːd/",
+      "cn": "同意",
+      "en": "to share the same opinion"
+    }
+  }
+}

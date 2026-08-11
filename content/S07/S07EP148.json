@@ -1,0 +1,116 @@
+{
+  "id": 148,
+  "title": "Symphony of Illumination",
+  "cn": "第 12 集 · 灯光交响曲",
+  "novel": "Robin received some [[bad news|bad news]] that [[shattered|shatter]] her heart. She found out she could not have children. She felt [[devastated|devastate]] and did not know how to tell anyone. She decided to [[lie|lie]] about it and [[pretended|pretend]] everything was fine. She put on a [[brave|brave]] face and went about her day as if nothing happened. Inside, she was [[breaking|break]] apart. She could not bring herself to share the news with her friends. Meanwhile, Marshall [[hung|hang]] Christmas [[decorations|decoration]] on his suburban house. He wanted to create the most [[spectacular|spectacular]] light display in the [[neighborhood|neighborhood]]. He spent hours climbing up and down the ladder, carefully placing each light. Lily watched him with a mixture of [[pride|pride]] and [[amusement|amusement]]. Marshall was so proud of his work that he invited everyone to come see the lights. Robin sat among her friends, smiling and laughing, but her eyes told a different story. She thought about the children she would never have and felt a deep [[sorrow|sorrow]]. She watched Marshall and Lily prepare for their baby and felt a [[sting|sting]] of [[jealousy|jealousy]]. Ted noticed that Robin seemed [[quiet|quiet]] that evening. He asked if she was okay, and she said she was just tired. Robin kept her [[secret|secret]] locked inside, afraid of what her friends would think. She told herself she would be fine, but she knew it would take time to heal.",
+  "words": {
+    "bad news": {
+      "pos": "phr.",
+      "ipa": "/bæd nuːz/",
+      "cn": "坏消息",
+      "en": "information about something bad"
+    },
+    "shatter": {
+      "pos": "v.",
+      "ipa": "/ˈʃætərd/",
+      "cn": "粉碎",
+      "en": "to break into many pieces"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "cn": "使崩溃",
+      "en": "to destroy emotionally"
+    },
+    "lie": {
+      "pos": "v.",
+      "ipa": "/laɪ/",
+      "cn": "撒谎",
+      "en": "to say something untrue"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtendɪd/",
+      "cn": "假装",
+      "en": "to act as if something is true"
+    },
+    "brave": {
+      "pos": "adj.",
+      "ipa": "/breɪv/",
+      "cn": "勇敢的",
+      "en": "showing no fear"
+    },
+    "break": {
+      "pos": "v.",
+      "ipa": "/ˈbreɪkɪŋ/",
+      "cn": "崩溃",
+      "en": "to fall apart emotionally"
+    },
+    "hang": {
+      "pos": "v.",
+      "ipa": "/hʌŋ/",
+      "cn": "悬挂",
+      "en": "to attach something above"
+    },
+    "decoration": {
+      "pos": "n.",
+      "ipa": "/ˌdekəˈreɪʃnz/",
+      "cn": "装饰",
+      "en": "things used to make things look pretty"
+    },
+    "spectacular": {
+      "pos": "adj.",
+      "ipa": "/spekˈtækjələr/",
+      "cn": "壮观的",
+      "en": "very impressive to look at"
+    },
+    "neighborhood": {
+      "pos": "n.",
+      "ipa": "/ˈneɪbərhʊd/",
+      "cn": "社区",
+      "en": "the area around your home"
+    },
+    "pride": {
+      "pos": "n.",
+      "ipa": "/praɪd/",
+      "cn": "自豪",
+      "en": "feeling proud of something"
+    },
+    "amusement": {
+      "pos": "n.",
+      "ipa": "/əˈmjuːzmənt/",
+      "cn": "乐趣",
+      "en": "the feeling of being entertained"
+    },
+    "sorrow": {
+      "pos": "n.",
+      "ipa": "/ˈsɑːroʊ/",
+      "cn": "悲伤",
+      "en": "a feeling of deep sadness"
+    },
+    "sting": {
+      "pos": "n.",
+      "ipa": "/stɪŋ/",
+      "cn": "刺痛",
+      "en": "a sharp pain or hurt"
+    },
+    "jealousy": {
+      "pos": "n.",
+      "ipa": "/ˈdʒeləsi/",
+      "cn": "嫉妒",
+      "en": "wanting what others have"
+    },
+    "quiet": {
+      "pos": "adj.",
+      "ipa": "/ˈkwaɪət/",
+      "cn": "安静的",
+      "en": "making little or no sound"
+    },
+    "secret": {
+      "pos": "n.",
+      "ipa": "/ˈsiːkrət/",
+      "cn": "秘密",
+      "en": "something kept hidden from others"
+    }
+  }
+}

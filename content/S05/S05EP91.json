@@ -1,0 +1,104 @@
+{
+  "id": 91,
+  "title": "Robin 101",
+  "cn": "第 3 集 · 罗宾101",
+  "novel": "After Barney started dating Robin, Ted decided to help. He created a [[course|course]] called Robin 101, complete with a [[syllabus|syllabus]] and a blackboard full of notes.\n\n\"Robin [[hates|hate]] being asked about her father,\" Ted [[explained|explain]]. \"She loves [[challenge|challenge]]. She never admits she is wrong.\"\n\nBarney took [[diligent|diligent]] notes, treating the lesson like a [[sacred|sacred]] text. But Robin discovered what they were doing, and she was [[furious|furious]].\n\n\"You two are treating me like a [[specimen|specimen]],\" she said.\n\nTed felt a flash of [[guilt|guilt]]. He had meant well, but he had [[betrayed|betray]] her trust. The [[secrets|secret]] he shared were not his to tell.\n\nThat night Ted [[apologized|apologize]] to Robin. \"I was trying to help Barney, but I went too far.\"\n\nRobin [[sighed|sigh]]. \"Some things you only learn by living them,\" she said.\n\nTed understood. To truly love someone meant letting them [[stumble|stumble]] on their own. He could not write a [[manual|manual]] for another person's heart.",
+  "words": {
+    "course": {
+      "pos": "n.",
+      "ipa": "/kɔːs/",
+      "cn": "课程",
+      "en": "a series of lessons on a subject"
+    },
+    "syllabus": {
+      "pos": "n.",
+      "ipa": "/ˈsɪl.ə.bəs/",
+      "cn": "教学大纲",
+      "en": "a list of the subjects taught in a course"
+    },
+    "hate": {
+      "pos": "v.",
+      "ipa": "/heɪt/",
+      "cn": "讨厌",
+      "en": "to dislike someone or something very much"
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make something clear to someone"
+    },
+    "challenge": {
+      "pos": "n.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "something difficult that tests your ability"
+    },
+    "diligent": {
+      "pos": "adj.",
+      "ipa": "/ˈdɪl.ɪ.dʒənt/",
+      "cn": "勤奋的",
+      "en": "showing care and effort in your work"
+    },
+    "sacred": {
+      "pos": "adj.",
+      "ipa": "/ˈseɪ.krɪd/",
+      "cn": "神圣的",
+      "en": "very important and treated with great respect"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "狂怒的",
+      "en": "extremely angry"
+    },
+    "specimen": {
+      "pos": "n.",
+      "ipa": "/ˈspes.ɪ.mən/",
+      "cn": "标本；样本",
+      "en": "something studied as an example"
+    },
+    "guilt": {
+      "pos": "n.",
+      "ipa": "/ɡɪlt/",
+      "cn": "内疚",
+      "en": "the bad feeling that you have done wrong"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪ/",
+      "cn": "背叛",
+      "en": "to hurt someone who trusts you"
+    },
+    "secret": {
+      "pos": "n.",
+      "ipa": "/ˈsiː.krət/",
+      "cn": "秘密",
+      "en": "something that only a few people know"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "to tell someone you are sorry"
+    },
+    "sigh": {
+      "pos": "v.",
+      "ipa": "/saɪ/",
+      "cn": "叹气",
+      "en": "to breathe out slowly, showing sadness or relief"
+    },
+    "stumble": {
+      "pos": "v.",
+      "ipa": "/ˈstʌm.bəl/",
+      "cn": "跌撞；犯错",
+      "en": "to make a mistake while doing something"
+    },
+    "manual": {
+      "pos": "n.",
+      "ipa": "/ˈmæn.ju.əl/",
+      "cn": "手册；指南",
+      "en": "a book that tells you how to do something"
+    }
+  }
+}

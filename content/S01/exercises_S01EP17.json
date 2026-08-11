@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "anthropologist",
+    "hint": "人类学家",
+    "phonetic": "/ˌæn.θrəˈpɒl.ə.dʒɪst/"
+  },
+  {
+    "type": "spelling",
+    "word": "instinct",
+    "hint": "本能",
+    "phonetic": "/ˈɪn.stɪŋkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "territory",
+    "hint": "地盘；领地",
+    "phonetic": "/ˈter.ɪ.tər.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "imitate",
+    "hint": "模仿",
+    "phonetic": "/ˈɪm.ɪ.teɪt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "If you observe __________ enough, patterns will emerge.",
+    "answer": "long"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Even if the __________ was cheesy, Robin smiled anyway.",
+    "answer": "line"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The number of __________ Ted rehearsed was ridiculous.",
+    "answer": "times"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "If his colleagues find __________ notebook, the situation will turn awkward.",
+    "answer": "the"
+  }
+]

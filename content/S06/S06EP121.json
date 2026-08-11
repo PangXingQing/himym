@@ -1,0 +1,29 @@
+{
+  "id": 121,
+  "title": "Glitter",
+  "cn": "第 9 集 · 闪光",
+  "novel": "Barney [[stumbled|stumble]] upon a copy of a Canadian children's show called Space Teens. To his [[delight|delight]], the show starred Robin as her teenage [[alter-ego|alter-ego]], Robin Sparkles. Barney could not wait to share this discovery with the gang. He gathered everyone in the apartment and played the VHS tape. The show featured Robin and her best friend Jessica [[solving|solve]] mysteries in space while wearing [[sparkly|sparkly]] outfits. The gang was [[hysterical|hysterical]] with laughter. Robin tried to [[grab|grab]] the tape, but Barney held it out of her reach. She was [[mortified|mortify]] and begged them to turn it off. However, the more they watched, the more they noticed something [[unsettling|unsettle]] about the show. Robin and Jessica's friendship on screen seemed [[genuine|genuine]], but Robin revealed that they had a terrible [[falling-out|falling-out]] after the show ended. Jessica had [[blamed|blame]] Robin for ruining her career. Barney, feeling [[mischievous|mischievous]], tracked down Jessica and invited her to New York. Robin was [[furious|furious]] when she found out, but when Jessica arrived, the two women [[reconciled|reconcile]] almost immediately. They laughed about their old show and [[apologized|apologize]] to each other for years of [[silence|silence]]. Robin learned that holding onto [[grudges|grudge]] only hurt herself. The gang watched the two friends [[embrace|embrace]] and felt touched by the reunion. Barney, for once, had done something [[kind|kind]] without expecting anything in return. It was a rare [[glitter|glitter]] of warmth in his usually selfish world.",
+  "words": {
+    "stumble": {"pos": "v.", "ipa": "/ˈstʌmbəl/", "cn": "偶然发现;绊倒", "en": "to find something by accident"},
+    "delight": {"pos": "n.", "ipa": "/dɪˈlaɪt/", "cn": "快乐;高兴", "en": "a feeling of great pleasure and joy"},
+    "alter-ego": {"pos": "n.", "ipa": "/ˌɔːltərˈiːɡoʊ/", "cn": "另一个自我;化身", "en": "a second personality or identity"},
+    "solve": {"pos": "v.", "ipa": "/sɑːlv/", "cn": "解决;解答", "en": "to find an answer to a problem"},
+    "sparkly": {"pos": "adj.", "ipa": "/ˈspɑːrkli/", "cn": "闪闪发光的", "en": "shining with small flashes of light"},
+    "hysterical": {"pos": "adj.", "ipa": "/hɪˈsterɪkl/", "cn": "歇斯底里的;极其好笑的", "en": "extremely funny or uncontrolled with emotion"},
+    "grab": {"pos": "v.", "ipa": "/ɡræb/", "cn": "抓住;夺取", "en": "to take hold of something suddenly"},
+    "mortify": {"pos": "v.", "ipa": "/ˈmɔːrtɪfaɪ/", "cn": "使极度尴尬", "en": "to make someone feel extremely embarrassed"},
+    "unsettle": {"pos": "v.", "ipa": "/ʌnˈsetl/", "cn": "使不安;使烦恼", "en": "to make someone feel worried or nervous"},
+    "genuine": {"pos": "adj.", "ipa": "/ˈdʒenjuɪn/", "cn": "真诚的;真正的", "en": "real and honest, not fake"},
+    "falling-out": {"pos": "n.", "ipa": "/ˈfɔːlɪŋaʊt/", "cn": "争吵;决裂", "en": "a serious disagreement that ends a friendship"},
+    "blame": {"pos": "v.", "ipa": "/bleɪm/", "cn": "责备;归咎于", "en": "to say someone is responsible for something bad"},
+    "mischievous": {"pos": "adj.", "ipa": "/ˈmɪstʃɪvəs/", "cn": "恶作剧的;调皮的", "en": "enjoying causing trouble in a playful way"},
+    "furious": {"pos": "adj.", "ipa": "/ˈfjʊriəs/", "cn": "狂怒的;暴怒的", "en": "extremely angry about something"},
+    "reconcile": {"pos": "v.", "ipa": "/ˈrekənsaɪl/", "cn": "和解;和好", "en": "to become friends again after a fight"},
+    "apologize": {"pos": "v.", "ipa": "/əˈpɑːlədʒaɪz/", "cn": "道歉;认错", "en": "to say sorry for something you did"},
+    "silence": {"pos": "n.", "ipa": "/ˈsaɪləns/", "cn": "沉默;寂静", "en": "a period of time with no sound or speech"},
+    "grudge": {"pos": "n.", "ipa": "/ɡrʌdʒ/", "cn": "怨恨;积怨", "en": "a feeling of anger toward someone from the past"},
+    "embrace": {"pos": "v.", "ipa": "/ɪmˈbreɪs/", "cn": "拥抱;欣然接受", "en": "to hold someone closely in your arms"},
+    "kind": {"pos": "adj.", "ipa": "/kaɪnd/", "cn": "善良的;友好的", "en": "caring about the feelings of others"},
+    "glitter": {"pos": "n.", "ipa": "/ˈɡlɪtər/", "cn": "闪光;闪烁", "en": "a bright shining sparkle of light"}
+  }
+}

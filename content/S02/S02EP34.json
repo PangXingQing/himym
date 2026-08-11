@@ -1,0 +1,140 @@
+{
+  "id": 34,
+  "title": "First Time in New York",
+  "cn": "第34集 · 初次到纽约",
+  "novel": "Robin's [[teenage|teenage]] [[sister|sister]] Katie arrived in New York with her boyfriend to [[experience|experience]] the [[city|city]] for the first time. Robin was [[thrilled|thrill]] — until Katie [[announced|announce]] that she was planning to lose her [[virginity|virginity]] that weekend.\n\n\"Absolutely not,\" Robin said. \"This city is not a [[love hotel|love hotel]]!\"\n\nPanicked, Robin [[enlisted|enlist]] the gang to [[sabotage|sabotage]] every [[romantic|romantic]] moment between Katie and her boyfriend. Ted was assigned to take them to the most [[unromantic|unromantic]] places in New York. Marshall was supposed to give a long, [[embarrassing|embarrass]] lecture about [[responsibility|responsible]]. Lily was tasked with [[following|follow]] them everywhere like a [[spy|spy]].\n\nBut New York had other plans. Every [[awkward|awkward]] spot Ted chose turned out to be [[magical|magic]] at night. Times Square under the rain? [[Romantic|romantic]]. A dirty subway platform with a [[saxophone|saxophone]] player? [[Romantic|romantic]]. Even the [[smelly|smell]] [[alleyway|alleyway]] behind the [[dumpster|dumpster]] became romantic when a stray cat [[purred|purr]] at them.\n\n\"This is impossible!\" Robin [[groaned|groan]].\n\nFinally, Lily got the young couple into their hotel room and locked the door — from the outside. \"That should buy us some time,\" she said. But Robin had already [[realized|realize]] something. Katie was not a kid anymore. She was [[seventeen|seventeen]], in love, and in the most [[romantic|romantic]] city on Earth.\n\nRobin [[knocked|knock]] on the door. \"Katie? I'm sorry. Whatever you decide, I'm here for you.\"\n\nThe door opened. Katie hugged her sister. \"Thank you,\" she whispered. \"But I'm not ready yet.\"",
+  "words": {
+    "teenage": {
+      "pos": "adj.",
+      "ipa": "/ˈtiːn.eɪdʒ/",
+      "cn": "青少年的",
+      "en": "relating to people aged between 13 and 19"
+    },
+    "sister": {
+      "pos": "n.",
+      "ipa": "/ˈsɪs.tər/",
+      "cn": "姐姐；妹妹",
+      "en": "a girl or woman who has the same parents as you"
+    },
+    "experience": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspɪə.ri.əns/",
+      "cn": "体验；经历",
+      "en": "to do or live through something"
+    },
+    "city": {
+      "pos": "n.",
+      "ipa": "/ˈsɪt.i/",
+      "cn": "城市",
+      "en": "a large and important town"
+    },
+    "announce": {
+      "pos": "v.",
+      "ipa": "/əˈnaʊns/",
+      "cn": "宣布；宣告",
+      "en": "to tell people something officially or publicly"
+    },
+    "virginity": {
+      "pos": "n.",
+      "ipa": "/vəˈdʒɪn.ə.ti/",
+      "cn": "童贞",
+      "en": "the state of never having had sex"
+    },
+    "enlist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈlɪst/",
+      "cn": "招募；争取帮助",
+      "en": "to ask someone to help you with something"
+    },
+    "sabotage": {
+      "pos": "v.",
+      "ipa": "/ˈsæb.ə.tɑːʒ/",
+      "cn": "蓄意破坏",
+      "en": "to deliberately prevent something from succeeding"
+    },
+    "romantic": {
+      "pos": "adj.",
+      "ipa": "/rəʊˈmæn.tɪk/",
+      "cn": "浪漫的",
+      "en": "relating to love, or making you think about love"
+    },
+    "unromantic": {
+      "pos": "adj.",
+      "ipa": "/ˌʌn.rəʊˈmæn.tɪk/",
+      "cn": "不浪漫的",
+      "en": "not romantic; practical and ordinary"
+    },
+    "responsibility": {
+      "pos": "n.",
+      "ipa": "/rɪˌspɒn.sɪˈbɪl.ə.ti/",
+      "cn": "责任",
+      "en": "something that is your duty to deal with"
+    },
+    "follow": {
+      "pos": "v.",
+      "ipa": "/ˈfɒl.əʊ/",
+      "cn": "跟随；跟踪",
+      "en": "to walk behind someone; to watch what someone does"
+    },
+    "spy": {
+      "pos": "n.",
+      "ipa": "/spaɪ/",
+      "cn": "间谍",
+      "en": "a person who secretly watches others to get information"
+    },
+    "magic": {
+      "pos": "n.",
+      "ipa": "/ˈmædʒ.ɪk/",
+      "cn": "魔法；魔力",
+      "en": "a special mysterious power that makes impossible things happen"
+    },
+    "saxophone": {
+      "pos": "n.",
+      "ipa": "/ˈsæk.sə.fəʊn/",
+      "cn": "萨克斯管",
+      "en": "a curved musical instrument made of brass"
+    },
+    "smelly": {
+      "pos": "adj.",
+      "ipa": "/ˈsmel.i/",
+      "cn": "难闻的；有臭味的",
+      "en": "having an unpleasant smell"
+    },
+    "alleyway": {
+      "pos": "n.",
+      "ipa": "/ˈæl.i.weɪ/",
+      "cn": "小巷；胡同",
+      "en": "a narrow street between buildings"
+    },
+    "dumpster": {
+      "pos": "n.",
+      "ipa": "/ˈdʌmp.stər/",
+      "cn": "大垃圾箱",
+      "en": "a large metal container for garbage"
+    },
+    "purr": {
+      "pos": "v.",
+      "ipa": "/pɜːr/",
+      "cn": "（猫）发呼噜声",
+      "en": "(of a cat) to make a low continuous sound when happy"
+    },
+    "groan": {
+      "pos": "v.",
+      "ipa": "/ɡrəʊn/",
+      "cn": "呻吟；抱怨",
+      "en": "to make a long low sound showing pain or disappointment"
+    },
+    "seventeen": {
+      "pos": "num.",
+      "ipa": "/ˌsev.ənˈtiːn/",
+      "cn": "十七",
+      "en": "the number 17"
+    },
+    "knock": {
+      "pos": "v.",
+      "ipa": "/nɒk/",
+      "cn": "敲（门）",
+      "en": "to hit a door with your hand to ask to come in"
+    }
+  }
+}

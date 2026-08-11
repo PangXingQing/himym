@@ -1,0 +1,28 @@
+{
+  "id": 136,
+  "title": "Challenge Accepted",
+  "cn": "第 24 集 · 接受挑战",
+  "novel": "Robin and Barney [[bonded|bond]] over their shared mission to [[intervene|intervene]] in Ted's relationship with Zoey. They believed that Ted was making a mistake and that Zoey was not the right woman for him. Robin and Barney spent hours [[plotting|plot]] ways to break them up, but every plan [[backfired|backfire]]. Their shared mission brought them closer together, and old feelings started to [[resurface|resurface]]. Meanwhile, Marshall became [[terrified|terrify]] that he had food poisoning after eating a bad sandwich from a street vendor. He [[rushed|rush]] to the hospital and demanded to see a doctor immediately. Lily tried to [[calm|calm]] him down, but Marshall was [[convinced|convince]] that he was dying. He wrote a [[will|will]] on a napkin and gave it to Lily, who could not stop laughing. The doctor eventually examined Marshall and told him that he just had a mild [[stomach|stomach]] ache. He would be fine after some rest. Marshall felt [[embarrassed|embarrass]] but also [[relieved|relief]]. Ted was supposed to perform his Best Man duties at Punchy's wedding in Cleveland. He had been [[practicing|practice]] his speech for weeks and wanted everything to be perfect. However, the wedding turned into a [[disaster|disaster]] when Punchy's relatives started a massive food fight. Ted's carefully prepared speech was completely [[ruined|ruin]], but he managed to improvise and gave a [[heartfelt|heartfelt]] toast that brought the room to tears. Meanwhile, Lily called Marshall with some [[incredible|incredible]] news. She was finally pregnant. Marshall burst into tears of joy right there in the hospital waiting room. He ran through the halls shouting the news to everyone he met. Robin and Barney, who had been growing closer all day, shared a [[passionate|passionate]] kiss. They realized that their feelings for each other had never truly gone away. Ted returned from the wedding exhausted but satisfied. He had accepted every challenge that came his way. The season ended with the gang together at MacLaren's, toasting to the future and all the [[challenges|challenge]] it would bring.",
+  "words": {
+    "bond": {"pos": "v.", "ipa": "/bɑːnd/", "cn": "建立关系;产生联结", "en": "to form a close relationship with someone"},
+    "intervene": {"pos": "v.", "ipa": "/ˌɪntərˈviːn/", "cn": "介入;干预", "en": "to get involved in a situation to help"},
+    "plot": {"pos": "v.", "ipa": "/plɑːt/", "cn": "密谋;策划", "en": "to secretly plan to do something"},
+    "backfire": {"pos": "v.", "ipa": "/ˌbækˈfaɪər/", "cn": "适得其反;产生反效果", "en": "to have the opposite result of what you wanted"},
+    "resurface": {"pos": "v.", "ipa": "/ˌriːˈsɜːrfɪs/", "cn": "重新浮现;再次出现", "en": "to come back to the surface or mind again"},
+    "terrify": {"pos": "v.", "ipa": "/ˈterɪfaɪ/", "cn": "使恐惧;使害怕", "en": "to make someone feel extremely afraid"},
+    "rush": {"pos": "v.", "ipa": "/rʌʃ/", "cn": "冲;匆忙行动", "en": "to move or do something very quickly"},
+    "calm": {"pos": "v.", "ipa": "/kɑːm/", "cn": "使平静;使镇定", "en": "to make someone feel less worried or upset"},
+    "convince": {"pos": "v.", "ipa": "/kənˈvɪns/", "cn": "使确信;说服", "en": "to make someone believe something is true"},
+    "will": {"pos": "n.", "ipa": "/wɪl/", "cn": "遗嘱", "en": "a legal document about what happens after death"},
+    "stomach": {"pos": "n.", "ipa": "/ˈstʌmək/", "cn": "胃;腹部", "en": "the organ where food is digested"},
+    "embarrass": {"pos": "v.", "ipa": "/ɪmˈbærəs/", "cn": "使尴尬;使难堪", "en": "to make someone feel uncomfortable"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "宽慰;解脱", "en": "a feeling of comfort after worry ends"},
+    "practice": {"pos": "v.", "ipa": "/ˈpræktɪs/", "cn": "练习;排练", "en": "to do something repeatedly to improve"},
+    "disaster": {"pos": "n.", "ipa": "/dɪˈzæstər/", "cn": "灾难;彻底失败", "en": "a sudden event that causes great damage"},
+    "ruin": {"pos": "v.", "ipa": "/ˈruːɪn/", "cn": "毁坏;糟蹋", "en": "to damage something so badly it is destroyed"},
+    "heartfelt": {"pos": "adj.", "ipa": "/ˈhɑːrtfelt/", "cn": "由衷的;真诚的", "en": "showing deep and sincere feeling"},
+    "incredible": {"pos": "adj.", "ipa": "/ɪnˈkredəbl/", "cn": "难以置信的", "en": "impossible or very hard to believe"},
+    "passionate": {"pos": "adj.", "ipa": "/ˈpæʃənət/", "cn": "热情的;充满激情的", "en": "showing very strong emotion or desire"},
+    "challenge": {"pos": "n.", "ipa": "/ˈtʃælɪndʒ/", "cn": "挑战;艰巨任务", "en": "a difficult task that tests your abilities"}
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": 83,
+  "title": "Murtaugh",
+  "cn": "第 19 集 · 默陶",
+  "novel": "Barney [[declared|declare]] a new rule: the \"Murtaugh.\" Named after the character from Lethal Weapon, it meant \"I'm too old for this [[stuff|stuff]].\" Barney [[refused|refuse]] to do anything he considered too young for him.\n\n\"No more all-nighters, no more [[excessive|excessive]] drinking, no more [[reckless|reckless]] behavior,\" Barney [[announced|announce]].\n\nTed [[disagreed|disagree]]. \"We're not old. We can still [[party|party]] like we're twenty.\"\n\nSo Ted [[challenged|challenge]] himself to prove Barney wrong. He tried to pull an all-nighter, go clubbing, and drink until dawn. By midnight, he was [[exhausted|exhaust]]. By 2 AM, his back [[ached|ache]]. By 3 AM, he [[conceded|concede]].\n\n\"Okay,\" Ted [[admitted|admit]]. \"Maybe Barney has a point.\"\n\nMeanwhile, Marshall [[coached|coach]] Lily's kindergarten basketball team. He was [[overly|overly]] [[competitive|competitive]], screaming at five-year-olds to play harder. Lily was [[mortified|mortify]].\n\n\"They're five!\" she [[protested|protest]].\n\n\"They need to learn [[discipline|discipline]],\" Marshall [[insisted|insist]].\n\nBarney, despite his Murtaugh rule, could not resist joining the fun. He [[sneaked|sneak]] into a college party and [[ended|end]] up [[injured|injure]] — he tripped on the stairs and [[sprained|sprain]] his ankle.\n\n\"I'm too old for this stuff,\" Barney [[groaned|groan]], [[rubbing|rub]] his ankle.\n\nTed [[nodded|nod]]. \"Welcome to the club.\"",
+  "words": {
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "stuff": {
+      "pos": "n.",
+      "ipa": "/stʌf/",
+      "cn": "事情；东西",
+      "en": "things in general, without being specific"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no to something"
+    },
+    "excessive": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈses.ɪv/",
+      "cn": "过度的",
+      "en": "too much, more than is reasonable"
+    },
+    "reckless": {
+      "pos": "adj.",
+      "ipa": "/ˈrek.ləs/",
+      "cn": "鲁莽的",
+      "en": "doing dangerous things without thinking"
+    },
+    "announce": {
+      "pos": "v.",
+      "ipa": "/əˈnaʊns/",
+      "cn": "宣布",
+      "en": "to tell people about something"
+    },
+    "disagree": {
+      "pos": "v.",
+      "ipa": "/ˌdɪs.əˈɡriː/",
+      "cn": "不同意",
+      "en": "to have a different opinion"
+    },
+    "party": {
+      "pos": "v.",
+      "ipa": "/ˈpɑː.ti/",
+      "cn": "狂欢",
+      "en": "to celebrate with food, drink, and fun"
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃæl.ɪndʒ/",
+      "cn": "挑战",
+      "en": "to invite someone to compete"
+    },
+    "exhaust": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzɔːst/",
+      "cn": "使筋疲力尽",
+      "en": "to make someone very tired"
+    },
+    "ache": {
+      "pos": "v.",
+      "ipa": "/eɪk/",
+      "cn": "疼痛",
+      "en": "to feel a continuous pain"
+    },
+    "concede": {
+      "pos": "v.",
+      "ipa": "/kənˈsiːd/",
+      "cn": "认输",
+      "en": "to admit that you have lost"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    },
+    "coach": {
+      "pos": "v.",
+      "ipa": "/kəʊtʃ/",
+      "cn": "训练",
+      "en": "to train a sports team"
+    },
+    "overly": {
+      "pos": "adv.",
+      "ipa": "/ˈəʊ.və.li/",
+      "cn": "过度地",
+      "en": "too much, more than is needed"
+    },
+    "competitive": {
+      "pos": "adj.",
+      "ipa": "/kəmˈpet.ɪ.tɪv/",
+      "cn": "好胜的",
+      "en": "wanting very much to win"
+    },
+    "mortify": {
+      "pos": "v.",
+      "ipa": "/ˈmɔː.tɪ.faɪ/",
+      "cn": "使极为尴尬",
+      "en": "to make someone extremely embarrassed"
+    },
+    "protest": {
+      "pos": "v.",
+      "ipa": "/prəˈtest/",
+      "cn": "抗议",
+      "en": "to say you disagree"
+    },
+    "discipline": {
+      "pos": "n.",
+      "ipa": "/ˈdɪs.ɪ.plɪn/",
+      "cn": "纪律",
+      "en": "the practice of obeying rules"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly that something is true"
+    },
+    "sneak": {
+      "pos": "v.",
+      "ipa": "/sniːk/",
+      "cn": "偷偷溜进",
+      "en": "to go somewhere quietly and secretly"
+    },
+    "end": {
+      "pos": "v.",
+      "ipa": "/end/",
+      "cn": "最终",
+      "en": "to finish in a particular way"
+    },
+    "injure": {
+      "pos": "v.",
+      "ipa": "/ˈɪn.dʒər/",
+      "cn": "受伤",
+      "en": "to hurt your body"
+    },
+    "sprain": {
+      "pos": "v.",
+      "ipa": "/spreɪn/",
+      "cn": "扭伤",
+      "en": "to damage a joint by twisting"
+    },
+    "groan": {
+      "pos": "v.",
+      "ipa": "/ɡrəʊn/",
+      "cn": "呻吟",
+      "en": "to make a low sound of pain"
+    },
+    "rub": {
+      "pos": "v.",
+      "ipa": "/rʌb/",
+      "cn": "揉",
+      "en": "to move your hand over something"
+    },
+    "nod": {
+      "pos": "v.",
+      "ipa": "/nɒd/",
+      "cn": "点头",
+      "en": "to move your head up and down"
+    }
+  }
+}

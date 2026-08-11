@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "guilty",
+    "hint": "内疚的",
+    "phonetic": "/ˈɡɪl.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "relieved",
+    "hint": "松了一口气的",
+    "phonetic": "/rɪˈliːvd/"
+  },
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "anxious",
+    "hint": "焦虑的",
+    "phonetic": "/ˈæŋk.ʃəs/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had never seen the video.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She had __________ him in Argentina.",
+    "answer": "met"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "spelling",
+    "word": "devastated",
+    "hint": "极度悲痛的",
+    "phonetic": "/ˈdev.ə.steɪ.tɪd/"
+  }
+]

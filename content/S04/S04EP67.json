@@ -1,0 +1,134 @@
+{
+  "id": 67,
+  "title": "I Heart NJ",
+  "cn": "第 3 集 · 我爱新泽西",
+  "novel": "Ted [[discovered|discover]] that Stella lived in New Jersey. He [[dreaded|dread]] the commute and [[resented|resent]] the idea of leaving the city. \"I [[belong|belong]] in New York,\" he [[declared|declare]].\n\nStella was [[stubborn|stubborn]]. \"New Jersey is a great place to [[raise|raise]] a family,\" she [[insisted|insist]]. The [[tension|tension]] between them grew.\n\nMeanwhile, Robin [[quit|quit]] her job at Metro News 1. She felt [[miserable|miserable]] there and wanted to [[pursue|pursue]] a better [[opportunity|opportunity]]. Barney tried to [[convince|convince]] her to stay in New York. \"The city needs you,\" he said.\n\nRobin was [[torn|torn]]. She loved New York, but her career was [[stalling|stall]]. She considered moving to Japan for a new job. Ted [[opposed|oppose]] the idea. \"You can't leave,\" he said.\n\n\"Watch me,\" Robin replied.\n\nTed went to New Jersey to visit Stella. He hated the long train ride and the quiet suburbs. But when he saw Stella's house, her garden, and the [[peaceful|peaceful]] street, he paused. \"Maybe this isn't so bad,\" he admitted [[reluctantly|reluctantly]].\n\nStella smiled. \"See? New Jersey has its [[charms|charm]].\"\n\nBack in the city, Robin packed her bags. \"I have to do this,\" she told the gang. Barney looked [[devastated|devastate]]. But he said nothing. He just watched her leave.",
+  "words": {
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something for the first time"
+    },
+    "dread": {
+      "pos": "v.",
+      "ipa": "/dred/",
+      "cn": "惧怕；不情愿",
+      "en": "to feel very anxious about something"
+    },
+    "resent": {
+      "pos": "v.",
+      "ipa": "/rɪˈzent/",
+      "cn": "怨恨",
+      "en": "to feel angry about something unfair"
+    },
+    "belong": {
+      "pos": "v.",
+      "ipa": "/bɪˈlɒŋ/",
+      "cn": "属于",
+      "en": "to be in the right place"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "stubborn": {
+      "pos": "adj.",
+      "ipa": "/ˈstʌb.ən/",
+      "cn": "固执的",
+      "en": "refusing to change your mind"
+    },
+    "raise": {
+      "pos": "v.",
+      "ipa": "/reɪz/",
+      "cn": "抚养",
+      "en": "to bring up a child"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly that something must happen"
+    },
+    "tension": {
+      "pos": "n.",
+      "ipa": "/ˈten.ʃən/",
+      "cn": "紧张关系",
+      "en": "a strained relationship between people"
+    },
+    "quit": {
+      "pos": "v.",
+      "ipa": "/kwɪt/",
+      "cn": "辞职；放弃",
+      "en": "to leave your job"
+    },
+    "miserable": {
+      "pos": "adj.",
+      "ipa": "/ˈmɪz.rə.bəl/",
+      "cn": "痛苦的",
+      "en": "very unhappy"
+    },
+    "pursue": {
+      "pos": "v.",
+      "ipa": "/pəˈsjuː/",
+      "cn": "追求",
+      "en": "to try to achieve something"
+    },
+    "opportunity": {
+      "pos": "n.",
+      "ipa": "/ˌɒp.əˈtjuː.nɪ.ti/",
+      "cn": "机会",
+      "en": "a chance to do something"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "to make someone believe something"
+    },
+    "torn": {
+      "pos": "adj.",
+      "ipa": "/tɔːn/",
+      "cn": "犹豫不决的",
+      "en": "unable to decide between choices"
+    },
+    "stall": {
+      "pos": "v.",
+      "ipa": "/stɔːl/",
+      "cn": "停滞不前",
+      "en": "to stop making progress"
+    },
+    "oppose": {
+      "pos": "v.",
+      "ipa": "/əˈpəʊz/",
+      "cn": "反对",
+      "en": "to be against something"
+    },
+    "peaceful": {
+      "pos": "adj.",
+      "ipa": "/ˈpiːs.fəl/",
+      "cn": "宁静的",
+      "en": "calm and quiet"
+    },
+    "reluctantly": {
+      "pos": "adv.",
+      "ipa": "/rɪˈlʌk.tənt.li/",
+      "cn": "不情愿地",
+      "en": "in an unwilling way"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːm/",
+      "cn": "魅力",
+      "en": "a pleasing quality"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdev.ə.steɪt/",
+      "cn": "使崩溃",
+      "en": "to make someone feel very upset"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "spontaneous",
+    "hint": "自发的",
+    "phonetic": "/spɑːnˈteɪ.ni.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He would __________ struggle than sell out.",
+    "answer": "rather"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I'd __________ walk than drive.",
+    "answer": "rather"
+  },
+  {
+    "type": "spelling",
+    "word": "hilarious",
+    "hint": "极滑稽的",
+    "phonetic": "/hɪˈler.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "id": 47,
+  "title": "Third Wheel",
+  "cn": "第 3 集 · 电灯泡",
+  "novel": "Ted became a [[third wheel|third wheel]] on Barney's double date. He felt [[awkward|awkward]] and [[excluded|exclude]], watching Barney charm both women with [[ease|ease]].\n\nMeanwhile, Marshall [[obsessed|obsess]] over a [[stain|stain]] on the floor. He [[scrubbed|scrub]] for hours, but the mark refused to [[fade|fade]]. \"It's [[ruining|ruin]] my life,\" he [[declared|declare]].\n\nRobin and Gael hit a [[bump|bump]]. His [[carefree|carefree]] attitude began to [[annoy|annoy]] her. She [[craved|crave]] structure; he [[preferred|prefer]] [[spontaneity|spontaneity]].\n\nAt the bar, Ted [[seized|seize]] his moment. He [[approached|approach]] a woman and [[blurted|blurt]] out a greeting. She smiled. The third wheel [[syndrome|syndrome]], he discovered, was curable — if you had courage to start participating.",
+  "words": {
+    "third wheel": {
+      "pos": "phr.",
+      "ipa": "/θɜːd wiːl/",
+      "cn": "电灯泡",
+      "en": "an extra person who feels unnecessary"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making you feel uncomfortable"
+    },
+    "exclude": {
+      "pos": "v.",
+      "ipa": "/ɪkˈskluːd/",
+      "cn": "排除",
+      "en": "to leave someone out"
+    },
+    "ease": {
+      "pos": "n.",
+      "ipa": "/iːz/",
+      "cn": "轻松；自如",
+      "en": "doing something without difficulty"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈses/",
+      "cn": "痴迷；念念不忘",
+      "en": "to think about something all the time"
+    },
+    "stain": {
+      "pos": "n.",
+      "ipa": "/steɪn/",
+      "cn": "污点",
+      "en": "a mark hard to remove"
+    },
+    "scrub": {
+      "pos": "v.",
+      "ipa": "/skrʌb/",
+      "cn": "擦洗",
+      "en": "to clean by rubbing hard"
+    },
+    "fade": {
+      "pos": "v.",
+      "ipa": "/feɪd/",
+      "cn": "褪色；消失",
+      "en": "to slowly disappear"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁坏",
+      "en": "to destroy completely"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly and publicly"
+    },
+    "bump": {
+      "pos": "n.",
+      "ipa": "/bʌmp/",
+      "cn": "摩擦；坎坷",
+      "en": "a small problem in a relationship"
+    },
+    "carefree": {
+      "pos": "adj.",
+      "ipa": "/ˈkeə.friː/",
+      "cn": "无忧无虑的",
+      "en": "having no worries"
+    },
+    "annoy": {
+      "pos": "v.",
+      "ipa": "/əˈnɔɪ/",
+      "cn": "惹烦",
+      "en": "to make someone slightly angry"
+    },
+    "crave": {
+      "pos": "v.",
+      "ipa": "/kreɪv/",
+      "cn": "渴望",
+      "en": "to want something very much"
+    },
+    "prefer": {
+      "pos": "v.",
+      "ipa": "/prɪˈfɜː/",
+      "cn": "更喜欢",
+      "en": "to like one thing more"
+    },
+    "spontaneity": {
+      "pos": "n.",
+      "ipa": "/ˌspɒn.təˈneɪ.ə.ti/",
+      "cn": "自发性",
+      "en": "doing things without planning"
+    },
+    "seize": {
+      "pos": "v.",
+      "ipa": "/siːz/",
+      "cn": "抓住",
+      "en": "to take hold of quickly"
+    },
+    "approach": {
+      "pos": "v.",
+      "ipa": "/əˈprəʊtʃ/",
+      "cn": "接近",
+      "en": "to move toward someone"
+    },
+    "blurt": {
+      "pos": "v.",
+      "ipa": "/blɜːt/",
+      "cn": "脱口而出",
+      "en": "to say suddenly without thinking"
+    },
+    "syndrome": {
+      "pos": "n.",
+      "ipa": "/ˈsɪn.drəm/",
+      "cn": "综合征",
+      "en": "a set of feelings happening together"
+    }
+  }
+}

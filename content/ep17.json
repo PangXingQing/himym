@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "title": "Life Among the Gorillas",
+  "cn": "第 17 集 · 大猩猩之中的生活",
+  "novel": "Marshall started work at a huge company and came home talking like an [[anthropologist|anthropologist]].\n\n\"I am not an employee,\" he said. \"I am a scientist. I [[observe|observe]] them.\"\n\nHe began to [[document|document]] the [[behaviour|behaviour]] of his [[colleagues|colleague]] in a notebook. The office, he explained, was a [[habitat|habitat]]. His grey [[cubicle|cubicle]] was a nest. The men in suits moved in a [[pack|pack]] and defended their [[territory|territory]] near the coffee machine.\n\nThere was a clear [[hierarchy|hierarchy]]. The [[dominant|dominant]] male told loud jokes; the others [[grunted|grunt]] with laughter, even when nothing was funny. Every Friday they performed a strange [[ritual|ritual]] with beer and a [[howl|howl]] of \"weekend!\"\n\nTheir manners were [[primitive|primitive]] and sometimes [[aggressive|aggressive]], almost [[savage|savage]]. Marshall found the whole [[species|species]] fascinating.\n\nThen, slowly, something happened. To [[blend in|blend in]] he began to [[imitate|imitate]] them. He wore the same tie. He told the same joke. His [[instinct|instinct]] for kindness went quiet.\n\nOne evening Lily looked at him and said, \"You have started to [[adapt|adapt]].\"\n\nMarshall closed the notebook. The scientist, he realised, had become part of the [[tribe|tribe]].",
+  "words": {
+    "anthropologist": {"pos": "n.", "ipa": "/ˌæn.θrəˈpɒl.ə.dʒɪst/", "cn": "人类学家", "en": "a scientist who studies how people and cultures live"},
+    "observe": {"pos": "v.", "ipa": "/əbˈzɜːv/", "cn": "观察", "en": "to watch carefully to learn something"},
+    "document": {"pos": "v.", "ipa": "/ˈdɒk.jə.ment/", "cn": "记录（作为资料）", "en": "to write down facts so there is a record"},
+    "behaviour": {"pos": "n.", "ipa": "/bɪˈheɪ.vjə/", "cn": "行为（美式 behavior）", "en": "the way a person or animal acts"},
+    "colleague": {"pos": "n.", "ipa": "/ˈkɒl.iːɡ/", "cn": "同事", "en": "a person you work with"},
+    "habitat": {"pos": "n.", "ipa": "/ˈhæb.ɪ.tæt/", "cn": "栖息地", "en": "the natural place where an animal lives"},
+    "cubicle": {"pos": "n.", "ipa": "/ˈkjuː.bɪ.kl̩/", "cn": "（办公室的）小隔间", "en": "a small work space with low walls around it"},
+    "pack": {"pos": "n.", "ipa": "/pæk/", "cn": "（狼等的）群", "en": "a group of animals that hunt together"},
+    "territory": {"pos": "n.", "ipa": "/ˈter.ɪ.tər.i/", "cn": "地盘；领地", "en": "an area that an animal or person treats as its own"},
+    "hierarchy": {"pos": "n.", "ipa": "/ˈhaɪə.rɑː.ki/", "cn": "等级制度", "en": "a system where some people are above others"},
+    "dominant": {"pos": "adj.", "ipa": "/ˈdɒm.ɪ.nənt/", "cn": "占主导地位的", "en": "strongest and most powerful in a group"},
+    "grunt": {"pos": "v.", "ipa": "/ɡrʌnt/", "cn": "发出咕哝声", "en": "to make a short low sound instead of speaking"},
+    "ritual": {"pos": "n.", "ipa": "/ˈrɪtʃ.u.əl/", "cn": "仪式；例行的固定做法", "en": "the same actions done in the same way every time"},
+    "howl": {"pos": "n.", "ipa": "/haʊl/", "cn": "嚎叫", "en": "a long loud cry, like a wolf makes"},
+    "primitive": {"pos": "adj.", "ipa": "/ˈprɪm.ɪ.tɪv/", "cn": "原始的", "en": "very simple and from a very early time"},
+    "aggressive": {"pos": "adj.", "ipa": "/əˈɡres.ɪv/", "cn": "好斗的；有攻击性的", "en": "ready to fight or argue"},
+    "savage": {"pos": "adj.", "ipa": "/ˈsæv.ɪdʒ/", "cn": "野蛮的；凶猛的", "en": "wild and violent"},
+    "species": {"pos": "n.", "ipa": "/ˈspiː.ʃiːz/", "cn": "物种（单复数同形）", "en": "one kind of animal or plant"},
+    "blend in": {"pos": "phr.v.", "ipa": "/blend ɪn/", "cn": "融入（不显眼）", "en": "to look the same as everyone else, so nobody notices you"},
+    "imitate": {"pos": "v.", "ipa": "/ˈɪm.ɪ.teɪt/", "cn": "模仿", "en": "to copy the way someone speaks or acts"},
+    "instinct": {"pos": "n.", "ipa": "/ˈɪn.stɪŋkt/", "cn": "本能", "en": "a feeling that tells you what to do, without thinking"},
+    "adapt": {"pos": "v.", "ipa": "/əˈdæpt/", "cn": "适应", "en": "to change so you fit a new situation"},
+    "tribe": {"pos": "n.", "ipa": "/traɪb/", "cn": "部落；小团体", "en": "a group of people who live and act together"}
+  }
+}

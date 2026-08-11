@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪə.ri.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "corner",
+    "hint": "角落",
+    "phonetic": "/ˈkɔː.nər/"
+  },
+  {
+    "type": "spelling",
+    "word": "bubblegum",
+    "hint": "泡泡糖流行乐（轻松流行的）",
+    "phonetic": "/ˈbʌb.əl.ɡʌm/"
+  },
+  {
+    "type": "spelling",
+    "word": "dig through",
+    "hint": "翻找",
+    "phonetic": "/dɪɡ θruː/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Barney hacked into her __________ to find her secret.",
+    "answer": "email"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He __________ up the videotape like a trophy.",
+    "answer": "held"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall tried not to __________ out loud.",
+    "answer": "laugh"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They gathered around the TV to __________ the tape.",
+    "answer": "watch"
+  }
+]

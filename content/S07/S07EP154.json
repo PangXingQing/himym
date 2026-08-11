@@ -1,0 +1,116 @@
+{
+  "id": 154,
+  "title": "Karma",
+  "cn": "第 18 集 · 因果报应",
+  "novel": "Barney [[pursued|pursue]] Quinn even after learning she was a [[stripper|stripper]]. He met her at a strip club and was immediately [[attracted|attract]] to her. She was different from anyone he had ever met. She was smart, [[witty|witty]], and could match his sense of humor. Barney did not care about her job. He felt a [[genuine|genuine]] connection with her. He tried to [[impress|impress]] her with his charm and wealth, but Quinn was not easily [[fooled|fool]]. She saw through his [[act|act]] and challenged him to be himself. Barney was not used to a woman who could see through his [[tricks|trick]]. He found it both [[frustrating|frustrate]] and exciting. Meanwhile, Marshall and Lily [[introduced|introduce]] Robin to [[suburban|suburban]] life. They wanted to show her that the suburbs were not as boring as she thought. They took her to a local diner and a small park. Robin was not [[impressed|impress]] at first. She complained about the slow pace and lack of [[excitement|excitement]]. But as the day went on, Robin started to [[relax|relax]] and enjoy the quiet. She realized that the suburbs had their own [[charm|charm]]. Marshall and Lily were happy to see Robin [[warming|warm]] up to their new home. Quinn eventually agreed to go on a real date with Barney. She told him to leave his [[playbook|playbook]] at home and just be honest. Barney agreed and felt [[nervous|nervous]] about being himself for the first time.",
+  "words": {
+    "pursue": {
+      "pos": "v.",
+      "ipa": "/pərˈsuːd/",
+      "cn": "追求",
+      "en": "to try to get something or someone"
+    },
+    "stripper": {
+      "pos": "n.",
+      "ipa": "/ˈstrɪpər/",
+      "cn": "脱衣舞女",
+      "en": "someone who performs in a club"
+    },
+    "attract": {
+      "pos": "v.",
+      "ipa": "/əˈtræktɪd/",
+      "cn": "被吸引",
+      "en": "to be drawn to someone"
+    },
+    "witty": {
+      "pos": "adj.",
+      "ipa": "/ˈwɪti/",
+      "cn": "机智的",
+      "en": "clever and funny at the same time"
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒenjuɪn/",
+      "cn": "真诚的",
+      "en": "real and honest"
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈpres/",
+      "cn": "打动",
+      "en": "to make someone admire you"
+    },
+    "fool": {
+      "pos": "v.",
+      "ipa": "/fuːld/",
+      "cn": "愚弄",
+      "en": "to trick or deceive someone"
+    },
+    "act": {
+      "pos": "n.",
+      "ipa": "/ækt/",
+      "cn": "表演",
+      "en": "behavior that is not real"
+    },
+    "trick": {
+      "pos": "n.",
+      "ipa": "/trɪks/",
+      "cn": "把戏",
+      "en": "a clever method to deceive"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌstreɪtɪŋ/",
+      "cn": "令人沮丧的",
+      "en": "making you feel upset"
+    },
+    "introduce": {
+      "pos": "v.",
+      "ipa": "/ˌɪntrəˈduːst/",
+      "cn": "介绍",
+      "en": "to show someone something new"
+    },
+    "suburban": {
+      "pos": "adj.",
+      "ipa": "/səˈbɜːrbən/",
+      "cn": "郊区的",
+      "en": "relating to the suburbs"
+    },
+    "excitement": {
+      "pos": "n.",
+      "ipa": "/ɪkˈsaɪtmənt/",
+      "cn": "兴奋",
+      "en": "a feeling of being thrilled"
+    },
+    "relax": {
+      "pos": "v.",
+      "ipa": "/rɪˈlæks/",
+      "cn": "放松",
+      "en": "to become less tense"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːrm/",
+      "cn": "魅力",
+      "en": "the power to please others"
+    },
+    "warm": {
+      "pos": "v.",
+      "ipa": "/ˈwɔːrmɪŋ/",
+      "cn": "渐渐喜欢",
+      "en": "to start liking something"
+    },
+    "playbook": {
+      "pos": "n.",
+      "ipa": "/ˈpleɪbʊk/",
+      "cn": "把戏手册",
+      "en": "a book of strategies or tricks"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːrvəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    }
+  }
+}

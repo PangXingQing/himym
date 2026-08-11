@@ -1,0 +1,86 @@
+{
+  "id": 101,
+  "title": "Jenkins",
+  "cn": "第 13 集 · 詹金斯",
+  "novel": "Marshall worked at a law firm with a man named Jenkins. Jenkins was [[reckless|reckless]], loud, and fond of a drinking game he had invented — one that left everyone [[humiliated|humiliate]] by morning.\n\nRobin, meanwhile, had a new co-host named Don. He was [[sloppy|sloppy]], rude, and seemed to [[deliberately|deliberately]] ruin every broadcast. Robin [[despised|despise]] him.\n\nLily grew [[jealous|jealous]] when Marshall mentioned a female coworker. She [[suspected|suspect]] an affair, though Marshall only talked about Jenkins.\n\nOne night Jenkins kissed Marshall at a bar — a [[prank|prank]] meant to [[embarrass|embarrass]] him. Marshall [[panicked|panic]]. He did not know how to tell Lily.\n\nWhen he finally [[confessed|confess]], Lily only laughed. \"I was never jealous of Jenkins,\" she said. \"I was jealous of your job taking you from me.\"\n\nRobin's show [[debuted|debut]] that week to terrible reviews, mostly because of Don. Some [[rivalries|rivalry]], Ted observed, were the start of something neither side expected.",
+  "words": {
+    "reckless": {
+      "pos": "adj.",
+      "ipa": "/ˈrek.ləs/",
+      "cn": "鲁莽的",
+      "en": "doing things without thinking of danger"
+    },
+    "humiliate": {
+      "pos": "v.",
+      "ipa": "/hjuːˈmɪl.i.eɪt/",
+      "cn": "羞辱",
+      "en": "to make someone feel ashamed in public"
+    },
+    "sloppy": {
+      "pos": "adj.",
+      "ipa": "/ˈslɒp.i/",
+      "cn": "邋遢的",
+      "en": "untidy and careless"
+    },
+    "deliberately": {
+      "pos": "adv.",
+      "ipa": "/dɪˈlɪb.ər.ət.li/",
+      "cn": "故意地",
+      "en": "done on purpose"
+    },
+    "despise": {
+      "pos": "v.",
+      "ipa": "/dɪˈspaɪz/",
+      "cn": "鄙视",
+      "en": "to hate someone or something very much"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdel.əs/",
+      "cn": "嫉妒的",
+      "en": "angry that someone you like is with another"
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/səˈspekt/",
+      "cn": "怀疑",
+      "en": "to think that something is true, without being sure"
+    },
+    "prank": {
+      "pos": "n.",
+      "ipa": "/præŋk/",
+      "cn": "恶作剧",
+      "en": "a trick played on someone for fun"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbær.əs/",
+      "cn": "使尴尬",
+      "en": "to make someone feel shy or ashamed"
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "惊慌",
+      "en": "to feel sudden fear and not know what to do"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to admit something you tried to hide"
+    },
+    "debut": {
+      "pos": "v.",
+      "ipa": "/ˈdeɪ.bjuː/",
+      "cn": "首次亮相",
+      "en": "to appear in public for the first time"
+    },
+    "rivalry": {
+      "pos": "n.",
+      "ipa": "/ˈraɪ.vəl.ri/",
+      "cn": "竞争关系",
+      "en": "a continuing competition between two sides"
+    }
+  }
+}

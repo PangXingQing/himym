@@ -1,0 +1,116 @@
+{
+  "id": 90,
+  "title": "Double Date",
+  "cn": "第 2 集 · 双人约会",
+  "novel": "Ted had a new girlfriend, and somehow she looked almost exactly like Robin. \"It's a [[coincidence|coincidence]],\" Ted [[insisted|insist]], though no one believed him.\n\nBarney [[arranged|arrange]] a double date so the gang could compare the two women side by side. The [[resemblance|resemblance]] was impossible to ignore. They laughed the same way. They even [[ordered|order]] the same drink.\n\nRobin grew [[uneasy|uneasy]]. \"Are you dating her because she looks like me?\" she asked.\n\nTed [[stammered|stammer]]. He could not [[deny|deny]] that the [[similarity|similarity]] had drawn him in.\n\nBarney found the whole thing [[hilarious|hilarious]]. \"You're [[obsessed|obsess]]!\" he laughed.\n\nLily, more [[sensitive|sensitive]] to feelings, pulled Ted aside. \"You have to [[let go of|let go of]] Robin. Dating her [[clone|clone]] isn't fair to anyone.\"\n\nTed knew she was right. That night he broke up with the girlfriend, feeling both [[guilty|guilty]] and [[relieved|relieved]]. Some [[comparisons|comparison]], he decided, only proved how hard it was to [[move on|move on]].",
+  "words": {
+    "coincidence": {
+      "pos": "n.",
+      "ipa": "/kəʊˈɪn.sɪ.dəns/",
+      "cn": "巧合",
+      "en": "when two things happen at the same time by chance"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持说",
+      "en": "to say firmly that something is true"
+    },
+    "arrange": {
+      "pos": "v.",
+      "ipa": "/əˈreɪndʒ/",
+      "cn": "安排",
+      "en": "to plan or organize something in advance"
+    },
+    "resemblance": {
+      "pos": "n.",
+      "ipa": "/rɪˈzem.bləns/",
+      "cn": "相似；相像",
+      "en": "the fact of looking like someone or something"
+    },
+    "order": {
+      "pos": "v.",
+      "ipa": "/ˈɔː.dər/",
+      "cn": "点（餐/饮料）",
+      "en": "to ask for food or drink in a restaurant"
+    },
+    "uneasy": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈiː.zi/",
+      "cn": "不安的",
+      "en": "worried or uncomfortable about something"
+    },
+    "stammer": {
+      "pos": "v.",
+      "ipa": "/ˈstæm.ər/",
+      "cn": "结巴地说",
+      "en": "to speak with many pauses and repeated sounds"
+    },
+    "deny": {
+      "pos": "v.",
+      "ipa": "/dɪˈnaɪ/",
+      "cn": "否认",
+      "en": "to say that something is not true"
+    },
+    "similarity": {
+      "pos": "n.",
+      "ipa": "/ˌsɪm.ɪˈlær.ə.ti/",
+      "cn": "相似之处",
+      "en": "the fact of being like someone or something"
+    },
+    "hilarious": {
+      "pos": "adj.",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "cn": "极好笑的",
+      "en": "extremely funny"
+    },
+    "obsess": {
+      "pos": "v.",
+      "ipa": "/əbˈses/",
+      "cn": "着迷；念念不忘",
+      "en": "to think about someone or something all the time"
+    },
+    "sensitive": {
+      "pos": "adj.",
+      "ipa": "/ˈsen.sə.tɪv/",
+      "cn": "敏感的",
+      "en": "easily hurt or upset by what people say"
+    },
+    "let go of": {
+      "pos": "phr.v.",
+      "ipa": "/let ɡəʊ əv/",
+      "cn": "放下；不再执着",
+      "en": "to stop holding or caring about something"
+    },
+    "clone": {
+      "pos": "n.",
+      "ipa": "/kləʊn/",
+      "cn": "复制品；翻版",
+      "en": "someone who looks exactly like another person"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "feeling bad because you did something wrong"
+    },
+    "relieved": {
+      "pos": "adj.",
+      "ipa": "/rɪˈliːvd/",
+      "cn": "松了一口气的",
+      "en": "happy that something unpleasant has ended"
+    },
+    "comparison": {
+      "pos": "n.",
+      "ipa": "/kəmˈpær.ɪ.sən/",
+      "cn": "比较",
+      "en": "the act of looking at two things to see how they are alike"
+    },
+    "move on": {
+      "pos": "phr.v.",
+      "ipa": "/muːv ɒn/",
+      "cn": "向前看；继续",
+      "en": "to start doing something new after finishing something else"
+    }
+  }
+}

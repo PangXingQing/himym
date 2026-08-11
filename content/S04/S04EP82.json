@@ -1,0 +1,194 @@
+{
+  "id": 82,
+  "title": "Old King Clancy",
+  "cn": "第 18 集 · 老国王克兰西",
+  "novel": "Marshall and Barney [[told|tell]] an [[elaborate|elaborate]] lie to their boss at GNB. They needed to [[conceal|conceal]] a [[complicated|complicate]] truth, so they [[wove|weave]] a story about Canada, a [[celebrity|celebrity]], and a [[bizarre|bizarre]] [[encounter|encounter]].\n\nThe truth was this: Robin had once tried to [[seduce|seduce]] a Canadian celebrity. The attempt [[failed|fail]] [[spectacularly|spectacular]], and the celebrity [[rejected|reject]] her with a strange phrase. Robin was [[mortified|mortify]].\n\n\"You can't tell anyone,\" Robin [[begged|beg]].\n\nBut Barney could not [[resist|resist]]. He turned Robin's story into an [[epic|epic]] tale, adding [[absurd|absurd]] [[details|detail]] at every turn. The boss was [[entertained|entertain]] but [[suspicious|suspicious]].\n\n\"Is any of this true?\" the boss asked.\n\nMarshall [[panicked|panic]]. \"All of it,\" he said with a forced smile.\n\nThe lie grew bigger and bigger. Barney [[invented|invent]] a fake Canadian tradition called \"Old King Clancy.\" He [[claimed|claim]] it was a famous [[ritual|ritual]] involving hockey and maple syrup.\n\nRobin was [[furious|furious]]. \"You're making me look [[ridiculous|ridiculous]]!\" she [[whispered|whisper]].\n\nFinally, the boss [[discovered|discover]] the truth. He was not angry — he was [[amused|amuse]]. \"You guys are [[entertaining|entertain]],\" he said. \"But next time, just tell the truth.\"\n\nMarshall and Barney [[agreed|agree]]. The truth, they [[learned|learn]], was always simpler.",
+  "words": {
+    "tell": {
+      "pos": "v.",
+      "ipa": "/tel/",
+      "cn": "讲述",
+      "en": "to say something to someone"
+    },
+    "elaborate": {
+      "pos": "adj.",
+      "ipa": "/ɪˈlæb.ər.ət/",
+      "cn": "精心编造的",
+      "en": "detailed and carefully planned"
+    },
+    "conceal": {
+      "pos": "v.",
+      "ipa": "/kənˈsiːl/",
+      "cn": "隐瞒",
+      "en": "to hide something from others"
+    },
+    "complicate": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.plɪ.keɪt/",
+      "cn": "使复杂",
+      "en": "to make something more difficult"
+    },
+    "weave": {
+      "pos": "v.",
+      "ipa": "/wiːv/",
+      "cn": "编造",
+      "en": "to create a story by combining details"
+    },
+    "celebrity": {
+      "pos": "n.",
+      "ipa": "/səˈleb.rə.ti/",
+      "cn": "名人",
+      "en": "a famous person"
+    },
+    "bizarre": {
+      "pos": "adj.",
+      "ipa": "/bɪˈzɑːr/",
+      "cn": "古怪的",
+      "en": "very strange and unusual"
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "邂逅",
+      "en": "a meeting, especially unexpected"
+    },
+    "seduce": {
+      "pos": "v.",
+      "ipa": "/sɪˈdjuːs/",
+      "cn": "勾引",
+      "en": "to attract someone into a relationship"
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "to not succeed"
+    },
+    "spectacular": {
+      "pos": "adv.",
+      "ipa": "/spekˈtæk.jə.lə.li/",
+      "cn": "壮观地",
+      "en": "in a very impressive or dramatic way"
+    },
+    "reject": {
+      "pos": "v.",
+      "ipa": "/rɪˈdʒekt/",
+      "cn": "拒绝",
+      "en": "to say no to someone"
+    },
+    "mortify": {
+      "pos": "v.",
+      "ipa": "/ˈmɔː.tɪ.faɪ/",
+      "cn": "使极为尴尬",
+      "en": "to make someone feel extremely embarrassed"
+    },
+    "beg": {
+      "pos": "v.",
+      "ipa": "/beɡ/",
+      "cn": "恳求",
+      "en": "to ask someone desperately for something"
+    },
+    "resist": {
+      "pos": "v.",
+      "ipa": "/rɪˈzɪst/",
+      "cn": "忍住",
+      "en": "to stop yourself from doing something"
+    },
+    "epic": {
+      "pos": "adj.",
+      "ipa": "/ˈep.ɪk/",
+      "cn": "史诗般的",
+      "en": "very great and impressive"
+    },
+    "absurd": {
+      "pos": "adj.",
+      "ipa": "/əbˈsɜːd/",
+      "cn": "荒谬的",
+      "en": "completely unreasonable"
+    },
+    "detail": {
+      "pos": "n.",
+      "ipa": "/ˈdiː.teɪl/",
+      "cn": "细节",
+      "en": "a small fact about something"
+    },
+    "entertain": {
+      "pos": "v.",
+      "ipa": "/ˌen.təˈteɪn/",
+      "cn": "逗乐",
+      "en": "to keep someone interested and amused"
+    },
+    "suspicious": {
+      "pos": "adj.",
+      "ipa": "/səˈspɪʃ.əs/",
+      "cn": "怀疑的",
+      "en": "feeling that something is not right"
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌",
+      "en": "to suddenly feel very afraid"
+    },
+    "invent": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvent/",
+      "cn": "编造",
+      "en": "to make up something that is not real"
+    },
+    "claim": {
+      "pos": "v.",
+      "ipa": "/kleɪm/",
+      "cn": "声称",
+      "en": "to say something is true"
+    },
+    "ritual": {
+      "pos": "n.",
+      "ipa": "/ˈrɪtʃ.u.əl/",
+      "cn": "仪式",
+      "en": "something done in a fixed way"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "暴怒的",
+      "en": "very angry"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "very silly and unreasonable"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something out"
+    },
+    "amuse": {
+      "pos": "v.",
+      "ipa": "/əˈmjuːz/",
+      "cn": "逗乐",
+      "en": "to make someone laugh"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to have the same opinion"
+    },
+    "learn": {
+      "pos": "v.",
+      "ipa": "/lɜːn/",
+      "cn": "学到",
+      "en": "to gain knowledge or understanding"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": 182,
+  "title": "The Bro Mitzvah",
+  "cn": "第 22 集 · 兄弟成人礼",
+  "novel": "The gang planned a [[legendary|legendary]] bachelor party for Barney. Ted, Marshall, and Robin worked together to make it the best night of Barney's life. They wanted everything to be [[perfect|perfect]]. Ted was in charge of the [[venue|venue]]. He found a beautiful location with great views. Marshall was responsible for the food and drinks. He ordered all of Barney's favorite things. Robin handled the [[entertainment|entertainment]] and made sure there would be surprises. The party started off well. Barney was [[thrilled|thrill]] by everything his friends had done. He said it was the best bachelor party ever. However, things soon started to go [[wrong|wrong]]. The entertainment Marshall had booked turned out to be a disaster. The food arrived late and some of it was [[spoiled|spoil]]. The venue had a problem with the [[plumbing|plumbing]] and the bathrooms were flooded. Barney tried to stay positive, but things kept getting worse. A fight broke out between some guests. The police showed up and almost shut the party down. Barney was [[disappointed|disappoint]] and thought the night was [[ruined|ruin]]. But then Ted stood up and gave a speech. He talked about all the great memories they shared. He said that what mattered was not the party, but the friendship. Marshall and Robin joined in, sharing their favorite stories about Barney. Barney was moved to tears. He said the night was perfect after all.",
+  "words": {
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒənderi/",
+      "cn": "传奇的",
+      "en": "very famous and great"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws"
+    },
+    "venue": {
+      "pos": "n.",
+      "ipa": "/ˈvenjuː/",
+      "cn": "场地",
+      "en": "a place where an event is held"
+    },
+    "entertainment": {
+      "pos": "n.",
+      "ipa": "/ˌentərˈteɪnmənt/",
+      "cn": "娱乐",
+      "en": "things done to amuse people"
+    },
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪld/",
+      "cn": "使兴奋",
+      "en": "to make someone very excited"
+    },
+    "wrong": {
+      "pos": "adv.",
+      "ipa": "/rɔːŋ/",
+      "cn": "出错地",
+      "en": "in a bad way"
+    },
+    "spoil": {
+      "pos": "adj.",
+      "ipa": "/spɔɪld/",
+      "cn": "变质的",
+      "en": "no longer fresh or good"
+    },
+    "plumbing": {
+      "pos": "n.",
+      "ipa": "/ˈplʌmɪŋ/",
+      "cn": "管道",
+      "en": "pipes for water in a building"
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "cn": "使失望",
+      "en": "to feel sad when let down"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruːɪnd/",
+      "cn": "毁掉",
+      "en": "to destroy something completely"
+    }
+  }
+}

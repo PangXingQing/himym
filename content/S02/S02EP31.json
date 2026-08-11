@@ -1,0 +1,176 @@
+{
+  "id": 31,
+  "title": "Slap Bet",
+  "cn": "第31集 · 打赌",
+  "novel": "Barney [[insisted|insist]] that Robin had a [[dark|dark]] secret. \"Nobody is that [[mysterious|mysterious]] without a reason,\" he said. Ted disagreed. So they made a [[slap|slap]] [[bet|bet]] — the [[loser|loser]] would receive one slap, anytime, anywhere, from the winner.\n\nBarney [[investigated|investigate]] Robin like a [[detective|detective]]. He [[dug through|dig through]] her [[purse|purse]], [[interrogated|interrogate]] her [[colleagues|colleague]], and even [[hacked|hack]] into her old [[email|email]]. Eventually, he found a [[videotape|videotape]]. \"This will tell us everything,\" he said, holding it up like a [[trophy|trophy]].\n\nThey all [[gathered|gather]] around the TV. The tape started playing... and there was young Robin, dressed in a [[sparkly|sparkly]] [[costume|costume]], singing a [[bubblegum|bubblegum]] pop song called \"Let's Go to the [[Mall|Mall]]!\" She was \"Robin [[Sparkles|Sparkle]],\" a Canadian teenager [[pop|pop]] star.\n\nTed's jaw [[dropped|drop]]. Marshall started laughing so hard he fell off the [[couch|couch]]. Lily [[covered|cover]] her mouth with both hands. Robin stood frozen in the [[corner|corner]], her face as [[red|red]] as a [[tomato|tomato]].\n\nBut the secret was not over. The song mentioned something strange — Robin Sparkles was performing at the mall... but why? Then the [[camera|camera]] [[panned|pan]] to the [[mall|mall]] name, and everyone [[gasped|gasp]]. Robin had a second secret, even bigger than the first.\n\nBarney [[raised|raise]] his hand for the slap. \"Wait,\" Ted said. \"What is the second secret?\"\n\nRobin [[buried|bury]] her face in her hands. \"I can't tell you. I just can't.\"",
+  "words": {
+    "dark": {
+      "pos": "adj.",
+      "ipa": "/dɑːk/",
+      "cn": "黑暗的；隐秘的",
+      "en": "hidden; not known by others; with little light"
+    },
+    "mysterious": {
+      "pos": "adj.",
+      "ipa": "/mɪˈstɪə.ri.əs/",
+      "cn": "神秘的",
+      "en": "difficult to understand or explain; full of secrets"
+    },
+    "slap": {
+      "pos": "n.",
+      "ipa": "/slæp/",
+      "cn": "耳光；一巴掌",
+      "en": "a quick hit with the flat part of your hand"
+    },
+    "bet": {
+      "pos": "n.",
+      "ipa": "/bet/",
+      "cn": "赌注；打赌",
+      "en": "an agreement to risk money or something on the result of an event"
+    },
+    "loser": {
+      "pos": "n.",
+      "ipa": "/ˈluː.zər/",
+      "cn": "输家；失败者",
+      "en": "a person who is defeated in a competition or bet"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+      "cn": "调查；侦查",
+      "en": "to try to find out all the facts about something"
+    },
+    "detective": {
+      "pos": "n.",
+      "ipa": "/dɪˈtek.tɪv/",
+      "cn": "侦探",
+      "en": "a person whose job is to discover information about crimes"
+    },
+    "dig through": {
+      "pos": "phr.v.",
+      "ipa": "/dɪɡ θruː/",
+      "cn": "翻找",
+      "en": "to search through things carefully"
+    },
+    "purse": {
+      "pos": "n.",
+      "ipa": "/pɜːs/",
+      "cn": "手提包；钱包",
+      "en": "a small bag a woman carries for money and personal items"
+    },
+    "interrogate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈter.ə.ɡeɪt/",
+      "cn": "审问；讯问",
+      "en": "to ask someone a lot of questions for a long time"
+    },
+    "hack": {
+      "pos": "v.",
+      "ipa": "/hæk/",
+      "cn": "侵入（电脑系统）",
+      "en": "to get into someone's computer without permission"
+    },
+    "email": {
+      "pos": "n.",
+      "ipa": "/ˈiː.meɪl/",
+      "cn": "电子邮件",
+      "en": "a message sent electronically from one computer to another"
+    },
+    "videotape": {
+      "pos": "n.",
+      "ipa": "/ˈvɪd.i.əʊ.teɪp/",
+      "cn": "录像带",
+      "en": "an old-style tape for recording video"
+    },
+    "trophy": {
+      "pos": "n.",
+      "ipa": "/ˈtrəʊ.fi/",
+      "cn": "奖杯；战利品",
+      "en": "an object given to the winner of a competition"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæð.ər/",
+      "cn": "聚集；集合",
+      "en": "to come together in one place"
+    },
+    "sparkly": {
+      "pos": "adj.",
+      "ipa": "/ˈspɑːk.li/",
+      "cn": "闪闪发亮的",
+      "en": "shining with many small points of light"
+    },
+    "costume": {
+      "pos": "n.",
+      "ipa": "/ˈkɒs.tʃuːm/",
+      "cn": "服装；戏服",
+      "en": "special clothes worn for a performance or event"
+    },
+    "bubblegum": {
+      "pos": "n.",
+      "ipa": "/ˈbʌb.əl.ɡʌm/",
+      "cn": "泡泡糖流行乐（轻松流行的）",
+      "en": "a type of simple, cheerful pop music for young people"
+    },
+    "mall": {
+      "pos": "n.",
+      "ipa": "/mɔːl/",
+      "cn": "购物中心（美式）",
+      "en": "a large building with many stores inside"
+    },
+    "sparkle": {
+      "pos": "v.",
+      "ipa": "/ˈspɑː.kl̩/",
+      "cn": "闪耀；闪烁",
+      "en": "to shine with small points of light"
+    },
+    "drop": {
+      "pos": "v.",
+      "ipa": "/drɒp/",
+      "cn": "掉下；使掉落",
+      "en": "to let something fall"
+    },
+    "cover": {
+      "pos": "v.",
+      "ipa": "/ˈkʌv.ər/",
+      "cn": "遮住；盖住",
+      "en": "to put something over something else to hide or protect it"
+    },
+    "corner": {
+      "pos": "n.",
+      "ipa": "/ˈkɔː.nər/",
+      "cn": "角落",
+      "en": "the point where two walls or roads meet"
+    },
+    "tomato": {
+      "pos": "n.",
+      "ipa": "/təˈmɑː.təʊ/",
+      "cn": "番茄；西红柿",
+      "en": "a round red fruit used in cooking"
+    },
+    "camera": {
+      "pos": "n.",
+      "ipa": "/ˈkæm.rə/",
+      "cn": "摄像机；照相机",
+      "en": "a device for taking photographs or recording video"
+    },
+    "pan": {
+      "pos": "v.",
+      "ipa": "/pæn/",
+      "cn": "摇摄；移动镜头",
+      "en": "(of a camera) to move slowly from one side to another"
+    },
+    "raise": {
+      "pos": "v.",
+      "ipa": "/reɪz/",
+      "cn": "举起；抬起",
+      "en": "to lift something up"
+    },
+    "bury": {
+      "pos": "v.",
+      "ipa": "/ˈber.i/",
+      "cn": "埋；掩藏",
+      "en": "to put something under the ground; to hide your face in your hands"
+    }
+  }
+}

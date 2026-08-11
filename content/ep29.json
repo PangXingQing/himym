@@ -1,0 +1,140 @@
+{
+  "id": 29,
+  "title": "Swarley",
+  "cn": "第29集 · 斯沃利",
+  "novel": "Barney walked into the [[coffee shop|coffee shop]] as usual, but the barista called out \"Swarley\" instead of his real name. Everyone in the [[gang|gang]] heard it. Within five minutes, nobody called him Barney anymore.\n\n\"My name is Barney, not Swarley!\" he [[protested|protest]], but the more he [[resisted|resist]], the [[funnier|funny]] it became. Ted started [[grinning|grin]] every time. Marshall even changed Barney's name in his phone. \"Swarley,\" he read it out loud and nearly [[collapsed|collapse]] with [[laughter|laugh]].\n\nMeanwhile, Ted met a girl named [[Chloe|Chloe]] at the coffee shop. She was a baker with [[flour|flour]] on her [[cheeks|cheek]] and a smile that made him forget his own name. But there was a problem — she was [[completely|complete]] [[insane|insane]]. She talked to her [[plants|plant]], [[believed|believe]] in [[aliens|alien]], and insisted that her cat was a [[reincarnated|reincarnate]] [[pharaoh|pharaoh]].\n\n\"I can't date a crazy person,\" Ted told Barney. \"Or can I?\"\n\n\"You absolutely should not,\" Barney — Swarley — said. \"But also, that's exactly what you're going to do, because you're Ted Mosby, and you are [[physically|physical]] [[incapable|incapable]] of avoiding bad [[decisions|decision]].\"\n\nHe was right. Ted went on a second date. And a third.\n\nAt the end of the week, Barney finally [[snapped|snap]]. \"If one more person calls me Swarley, I am moving to [[Chicago|Chicago]]!\" The gang [[agreed|agree]] to stop — right after they [[threw|throw]] him a \"Goodbye Swarley\" party.",
+  "words": {
+    "coffee shop": {
+      "pos": "n.",
+      "ipa": "/ˈkɒf.i ʃɒp/",
+      "cn": "咖啡店",
+      "en": "a small restaurant where coffee, tea, and cakes are served"
+    },
+    "gang": {
+      "pos": "n.",
+      "ipa": "/ɡæŋ/",
+      "cn": "一帮朋友；团伙",
+      "en": "a group of close friends who spend time together"
+    },
+    "protest": {
+      "pos": "v.",
+      "ipa": "/prəˈtest/",
+      "cn": "抗议；争辩",
+      "en": "to say or show that you strongly disagree with something"
+    },
+    "resist": {
+      "pos": "v.",
+      "ipa": "/rɪˈzɪst/",
+      "cn": "抵抗；反抗",
+      "en": "to try to stop something from happening or to fight against it"
+    },
+    "funny": {
+      "pos": "adj.",
+      "ipa": "/ˈfʌn.i/",
+      "cn": "好笑的；有趣的",
+      "en": "making you laugh or smile"
+    },
+    "grin": {
+      "pos": "v.",
+      "ipa": "/ɡrɪn/",
+      "cn": "咧嘴笑",
+      "en": "to smile widely showing your teeth"
+    },
+    "collapse": {
+      "pos": "v.",
+      "ipa": "/kəˈlæps/",
+      "cn": "崩倒；瘫倒",
+      "en": "to fall down suddenly, especially because of weakness or laughter"
+    },
+    "laughter": {
+      "pos": "n.",
+      "ipa": "/ˈlɑːf.tər/",
+      "cn": "笑声；大笑",
+      "en": "the sound or act of laughing"
+    },
+    "flour": {
+      "pos": "n.",
+      "ipa": "/ˈflaʊ.ər/",
+      "cn": "面粉",
+      "en": "a white powder made from wheat used for making bread and cakes"
+    },
+    "cheek": {
+      "pos": "n.",
+      "ipa": "/tʃiːk/",
+      "cn": "脸颊",
+      "en": "the soft part of your face below your eyes"
+    },
+    "completely": {
+      "pos": "adv.",
+      "ipa": "/kəmˈpliːt.li/",
+      "cn": "完全地",
+      "en": "in every way; totally"
+    },
+    "plant": {
+      "pos": "n.",
+      "ipa": "/plɑːnt/",
+      "cn": "植物",
+      "en": "a living thing that grows in the earth, with leaves and roots"
+    },
+    "believe": {
+      "pos": "v.",
+      "ipa": "/bɪˈliːv/",
+      "cn": "相信",
+      "en": "to think that something is true or real"
+    },
+    "alien": {
+      "pos": "n.",
+      "ipa": "/ˈeɪ.li.ən/",
+      "cn": "外星人",
+      "en": "a creature from a different planet"
+    },
+    "reincarnate": {
+      "pos": "v.",
+      "ipa": "/ˌriː.ɪn.kɑːˈneɪt/",
+      "cn": "转世投胎",
+      "en": "to be born again in a new body after death"
+    },
+    "pharaoh": {
+      "pos": "n.",
+      "ipa": "/ˈfeə.rəʊ/",
+      "cn": "法老（古埃及国王）",
+      "en": "a king of ancient Egypt"
+    },
+    "physically": {
+      "pos": "adv.",
+      "ipa": "/ˈfɪz.ɪ.kəl.i/",
+      "cn": "身体上地",
+      "en": "in a way that relates to the body"
+    },
+    "incapable": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈkeɪ.pə.bl̩/",
+      "cn": "无能力的",
+      "en": "unable to do something"
+    },
+    "decision": {
+      "pos": "n.",
+      "ipa": "/dɪˈsɪʒ.ən/",
+      "cn": "决定",
+      "en": "a choice you make after thinking about it"
+    },
+    "snap": {
+      "pos": "v.",
+      "ipa": "/snæp/",
+      "cn": "崩溃；突然爆发",
+      "en": "to suddenly lose control of your emotions"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to say yes to an idea or plan"
+    },
+    "throw": {
+      "pos": "v.",
+      "ipa": "/θrəʊ/",
+      "cn": "扔；举办（聚会）",
+      "en": "to send something through the air; to organize a party"
+    }
+  }
+}

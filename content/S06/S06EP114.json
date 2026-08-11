@@ -1,0 +1,26 @@
+{
+  "id": 114,
+  "title": "Cleaning House",
+  "cn": "第 2 集 · 大扫除",
+  "novel": "Barney [[convinced|convince]] the gang to help his mother move out of her house. He told them it would be a simple task, but the truth was far more [[complicated|complicated]]. As they packed boxes and sorted through old belongings, Barney [[discovered|discover]] that his mother had been lying to him for years. She had told him stories about his childhood that were [[entirely|entirely]] made up. She wanted to [[protect|protect]] Barney from the painful truth about his father. Barney felt [[betrayed|betray]] at first, but he slowly began to understand his mother's [[intention|intention]]. She had [[sacrificed|sacrifice]] a lot to raise him alone. Meanwhile, Robin had [[oversold|oversell]] Ted to a blind date. She told the woman that Ted was a [[brilliant|brilliant]] architect and a perfect gentleman. When the date actually [[occurred|occur]], Ted could not live up to the [[expectations|expectation]] that Robin had set. He felt [[frustrated|frustrate]] and told Robin that she should not have exaggerated so much. Robin [[apologized|apologize]] and admitted she sometimes got [[carried|carry]] away when she described her friends. Back at the house, the gang finished loading the last boxes. Barney sat on the empty porch and [[reflected|reflect]] on everything he had learned. He realized that his mother's lies came from love, not [[deceit|deceit]]. The gang gathered around him and promised to always be honest with each other. It was a day of [[revelation|revelation]] and growth for everyone.",
+  "words": {
+    "convince": {"pos": "v.", "ipa": "/kənˈvɪns/", "cn": "说服;使信服", "en": "to make someone believe something is true"},
+    "complicated": {"pos": "adj.", "ipa": "/ˈkɑːmplɪkeɪtɪd/", "cn": "复杂的;难懂的", "en": "difficult to understand or deal with"},
+    "discover": {"pos": "v.", "ipa": "/dɪˈskʌvər/", "cn": "发现;发觉", "en": "to find something for the first time"},
+    "entirely": {"pos": "adv.", "ipa": "/ɪnˈtaɪər.li/", "cn": "完全地;彻底地", "en": "completely and without exception"},
+    "protect": {"pos": "v.", "ipa": "/prəˈtekt/", "cn": "保护;防护", "en": "to keep someone or something safe from harm"},
+    "betray": {"pos": "v.", "ipa": "/bɪˈtreɪ/", "cn": "背叛;出卖", "en": "to hurt someone who trusts you"},
+    "intention": {"pos": "n.", "ipa": "/ɪnˈtenʃ.ən/", "cn": "意图;目的", "en": "a plan or purpose in your mind"},
+    "sacrifice": {"pos": "v.", "ipa": "/ˈsækrɪfaɪs/", "cn": "牺牲;奉献", "en": "to give up something valuable for others"},
+    "oversell": {"pos": "v.", "ipa": "/ˌoʊvərˈsel/", "cn": "过分夸奖;过度推销", "en": "to praise something more than it deserves"},
+    "brilliant": {"pos": "adj.", "ipa": "/ˈbrɪliənt/", "cn": "杰出的;才华横溢的", "en": "extremely clever or talented"},
+    "occur": {"pos": "v.", "ipa": "/əˈkɜːr/", "cn": "发生;出现", "en": "to happen or take place"},
+    "expectation": {"pos": "n.", "ipa": "/ˌekspekˈteɪʃ.ən/", "cn": "期望;预期", "en": "a belief about what will happen"},
+    "frustrate": {"pos": "v.", "ipa": "/ˈfrʌstreɪt/", "cn": "使沮丧;使挫败", "en": "to make someone feel annoyed or upset"},
+    "apologize": {"pos": "v.", "ipa": "/əˈpɑːlədʒaɪz/", "cn": "道歉;认错", "en": "to say sorry for something you did wrong"},
+    "carry": {"pos": "v.", "ipa": "/ˈkæri/", "cn": "携带;搬运", "en": "to take something from one place to another"},
+    "reflect": {"pos": "v.", "ipa": "/rɪˈflekt/", "cn": "反思;沉思", "en": "to think deeply about something"},
+    "deceit": {"pos": "n.", "ipa": "/dɪˈsiːt/", "cn": "欺骗;欺诈", "en": "the act of hiding the truth from people"},
+    "revelation": {"pos": "n.", "ipa": "/ˌrevəˈleɪʃ.ən/", "cn": "揭露;惊人发现", "en": "a surprising fact that is suddenly known"}
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": 87,
+  "title": "As Fast as She Can",
+  "cn": "第 23 集 · 越快越好",
+  "novel": "Ted [[ran|run]] into Tony at a restaurant. Tony was Stella's ex — the man she left Ted for. The [[encounter|encounter]] was [[awkward|awkward]].\n\nTony [[approached|approach]] Ted and [[apologized|apologize]]. \"I'm sorry about everything,\" he said. \"I never meant to [[hurt|hurt]] you.\"\n\nTed was [[skeptical|skeptical]]. But Tony seemed [[genuine|genuine]]. He explained that Stella's [[history|history]] with him was [[complicated|complicate]]. They had been together since high school, broken up, and gotten back together many times.\n\n\"She always comes back to me,\" Tony said [[bitterly|bitter]]. \"I don't know why.\"\n\nMeanwhile, Barney tried to talk his way out of a [[speeding|speed]] ticket. The officer was a woman, and Barney [[attempted|attempt]] every [[charm|charm]] technique he knew. It [[failed|fail]] [[miserably|miserable]].\n\n\"You're getting a ticket,\" the officer said [[firmly|firm]].\n\nTed and Tony ended up having a long conversation. Tony [[revealed|reveal]] that he and Stella were engaged again. Ted felt a [[pang|pang]] of [[jealousy|jealousy]], but he [[swallowed|swallow]] it.\n\n\"I hope she's happy,\" Ted said.\n\nTony [[nodded|nod]]. \"She is. And I think you'll find someone too. You just have to be [[patient|patient]].\"\n\nTed smiled [[weakly|weak]]. \"I've been told.\"\n\nAs Ted left the restaurant, he felt a strange sense of [[closure|closure]]. Maybe letting go was the [[fastest|fast]] way to move forward.",
+  "words": {
+    "run": {
+      "pos": "v.",
+      "ipa": "/rʌn/",
+      "cn": "偶遇",
+      "en": "to meet someone by chance"
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "邂逅",
+      "en": "a meeting, especially unexpected"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel uncomfortable"
+    },
+    "approach": {
+      "pos": "v.",
+      "ipa": "/əˈprəʊtʃ/",
+      "cn": "靠近",
+      "en": "to move toward someone"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "to say you are sorry"
+    },
+    "hurt": {
+      "pos": "v.",
+      "ipa": "/hɜːt/",
+      "cn": "伤害",
+      "en": "to cause pain to someone"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "cn": "怀疑的",
+      "en": "doubting that something is true"
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "cn": "真诚的",
+      "en": "real and honest"
+    },
+    "history": {
+      "pos": "n.",
+      "ipa": "/ˈhɪs.tər.i/",
+      "cn": "过往",
+      "en": "things that happened in the past between people"
+    },
+    "complicate": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.plɪ.keɪt/",
+      "cn": "使复杂",
+      "en": "to make something more difficult"
+    },
+    "bitter": {
+      "pos": "adv.",
+      "ipa": "/ˈbɪt.ə.li/",
+      "cn": "苦涩地",
+      "en": "in a way that shows sadness and anger"
+    },
+    "speed": {
+      "pos": "v.",
+      "ipa": "/spiːd/",
+      "cn": "超速",
+      "en": "to drive too fast"
+    },
+    "attempt": {
+      "pos": "v.",
+      "ipa": "/əˈtempt/",
+      "cn": "尝试",
+      "en": "to try to do something"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːm/",
+      "cn": "魅力",
+      "en": "the power to please or attract"
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "to not succeed"
+    },
+    "miserable": {
+      "pos": "adv.",
+      "ipa": "/ˈmɪz.rə.bli/",
+      "cn": "悲惨地",
+      "en": "in a very bad or unsuccessful way"
+    },
+    "firm": {
+      "pos": "adv.",
+      "ipa": "/ˈfɜːm.li/",
+      "cn": "坚定地",
+      "en": "in a strong and determined way"
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "透露",
+      "en": "to make something known"
+    },
+    "pang": {
+      "pos": "n.",
+      "ipa": "/pæŋ/",
+      "cn": "一阵（痛苦）",
+      "en": "a sudden sharp feeling"
+    },
+    "jealousy": {
+      "pos": "n.",
+      "ipa": "/ˈdʒel.ə.si/",
+      "cn": "嫉妒",
+      "en": "the feeling of wanting what someone else has"
+    },
+    "swallow": {
+      "pos": "v.",
+      "ipa": "/ˈswɒl.əʊ/",
+      "cn": "忍住",
+      "en": "to hold back your feelings"
+    },
+    "nod": {
+      "pos": "v.",
+      "ipa": "/nɒd/",
+      "cn": "点头",
+      "en": "to move your head up and down"
+    },
+    "patient": {
+      "pos": "adj.",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "cn": "耐心的",
+      "en": "able to wait without getting angry"
+    },
+    "weak": {
+      "pos": "adv.",
+      "ipa": "/ˈwiːk.li/",
+      "cn": "勉强地",
+      "en": "in a way that is not strong"
+    },
+    "closure": {
+      "pos": "n.",
+      "ipa": "/ˈkləʊ.ʒər/",
+      "cn": "了结；释然",
+      "en": "a feeling that something is finally finished"
+    },
+    "fast": {
+      "pos": "adj.",
+      "ipa": "/fɑːst/",
+      "cn": "最快的",
+      "en": "quickest, most rapid"
+    }
+  }
+}

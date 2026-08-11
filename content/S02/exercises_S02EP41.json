@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "school bus",
+    "hint": "校车",
+    "phonetic": "/skuːl bʌs/"
+  },
+  {
+    "type": "spelling",
+    "word": "steak",
+    "hint": "牛排",
+    "phonetic": "/steɪk/"
+  },
+  {
+    "type": "spelling",
+    "word": "bachelorette",
+    "hint": "准新娘的单身派对",
+    "phonetic": "/ˌbætʃ.əl.əˈret/"
+  },
+  {
+    "type": "spelling",
+    "word": "arrive",
+    "hint": "到达",
+    "phonetic": "/əˈraɪv/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ limo was supposed to be a limo, but it was a school bus.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Barney confessed he may __________ overspent on cigars.",
+    "answer": "have"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She confessed to being nervous __________ the wedding.",
+    "answer": "about"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ party was supposed to be epic.",
+    "answer": "The"
+  }
+]

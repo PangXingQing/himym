@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "harpist",
+    "hint": "竖琴家",
+    "phonetic": "/ˈhɑː.pɪst/"
+  },
+  {
+    "type": "spelling",
+    "word": "lake",
+    "hint": "湖",
+    "phonetic": "/leɪk/"
+  },
+  {
+    "type": "spelling",
+    "word": "pianist",
+    "hint": "钢琴家",
+    "phonetic": "/ˈpiː.ən.ɪst/"
+  },
+  {
+    "type": "spelling",
+    "word": "spa",
+    "hint": "水疗中心",
+    "phonetic": "/spɑː/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ best moment was yet to come.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "No one had __________ seen Barney cry before.",
+    "answer": "ever"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "What mattered was not the __________ but the love.",
+    "answer": "details"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had got ordained online as a backup.",
+    "answer": "Barney"
+  }
+]

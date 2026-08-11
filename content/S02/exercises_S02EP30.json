@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "marry",
+    "hint": "结婚",
+    "phonetic": "/ˈmær.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "elope",
+    "hint": "私奔；秘密结婚",
+    "phonetic": "/ɪˈləʊp/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的；可笑的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "neon",
+    "hint": "霓虹灯",
+    "phonetic": "/ˈniː.ɒn/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He didn't care about the ceremony — he just wanted to be __________ husband.",
+    "answer": "her"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I don't care about the __________ or the chapel or the flowers.",
+    "answer": "ring"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "What Lily cared about was not the __________ but the marriage.",
+    "answer": "wedding"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The plastic ring was not as beautiful as the __________ she had dreamed of.",
+    "answer": "one"
+  }
+]

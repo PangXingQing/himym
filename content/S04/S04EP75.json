@@ -1,0 +1,134 @@
+{
+  "id": 75,
+  "title": "Little Minnesota",
+  "cn": "第 11 集 · 小明尼苏达",
+  "novel": "Marshall felt [[homesick|homesick]] for Minnesota. Christmas was coming, and he [[missed|miss]] his family's [[traditions|tradition]]. New York felt cold and [[lonely|lonely]] without them.\n\nRobin took Marshall to a Minnesota-themed bar called \"Little Minnesota.\" The moment they walked in, Marshall felt a [[warmth|warmth]] he had not felt in years. The bar was [[decorated|decorate]] with Minnesota [[memorabilia|memorabilia]] — hockey sticks, fishing photos, and Vikings banners.\n\n\"This is [[incredible|incredible]],\" Marshall [[whispered|whisper]]. He [[ordered|order]] a [[local|local]] beer and felt [[nostalgic|nostalgic]].\n\nRobin introduced Marshall to the bar's [[regulars|regular]]. They were all from Minnesota, and they welcomed Marshall like family. They [[reminisced|reminisce]] about [[childhood|childhood]] winters, [[frozen|freeze]] lakes, and hot dish dinners.\n\nBut Marshall had a secret. He had told the regulars that Robin was from Canada, not Minnesota. He was [[embarrassed|embarrass]] to admit his friend was not from his home state.\n\nRobin [[discovered|discover]] the lie and was [[hurt|hurt]]. \"Why would you lie about me?\" she asked.\n\nMarshall [[hesitated|hesitate]]. \"I wanted to fit in. I'm sorry.\"\n\nRobin [[forgave|forgive]] him. \"Just don't do it again.\"\n\nThey sat together at the bar, drinking Minnesota beer and singing old songs. Marshall realized that home was not just a place — it was the people you shared it with.",
+  "words": {
+    "homesick": {
+      "pos": "adj.",
+      "ipa": "/ˈhəʊm.sɪk/",
+      "cn": "想家的",
+      "en": "feeling sad because you are away from home"
+    },
+    "miss": {
+      "pos": "v.",
+      "ipa": "/mɪs/",
+      "cn": "想念",
+      "en": "to feel sad about someone who is not with you"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "cn": "传统",
+      "en": "something people do regularly for a long time"
+    },
+    "lonely": {
+      "pos": "adj.",
+      "ipa": "/ˈləʊn.li/",
+      "cn": "孤独的",
+      "en": "feeling sad because you are alone"
+    },
+    "warmth": {
+      "pos": "n.",
+      "ipa": "/wɔːmθ/",
+      "cn": "温暖",
+      "en": "a comfortable feeling of heat"
+    },
+    "decorate": {
+      "pos": "v.",
+      "ipa": "/ˈdek.ə.reɪt/",
+      "cn": "装饰",
+      "en": "to make a place look nice with things"
+    },
+    "memorabilia": {
+      "pos": "n.",
+      "ipa": "/ˌmem.ərəˈbɪl.i.ə/",
+      "cn": "纪念品",
+      "en": "objects kept because they are special"
+    },
+    "incredible": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈkred.ɪ.bəl/",
+      "cn": "难以置信的",
+      "en": "very good or hard to believe"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "order": {
+      "pos": "v.",
+      "ipa": "/ˈɔː.dər/",
+      "cn": "点（酒菜）",
+      "en": "to ask for food or drink in a restaurant"
+    },
+    "local": {
+      "pos": "adj.",
+      "ipa": "/ˈləʊ.kəl/",
+      "cn": "本地的",
+      "en": "from the area where you are"
+    },
+    "nostalgic": {
+      "pos": "adj.",
+      "ipa": "/nɒsˈtæl.dʒɪk/",
+      "cn": "怀旧的",
+      "en": "feeling happy and sad about the past"
+    },
+    "regular": {
+      "pos": "n.",
+      "ipa": "/ˈreɡ.jə.lər/",
+      "cn": "常客",
+      "en": "someone who goes to a place often"
+    },
+    "reminisce": {
+      "pos": "v.",
+      "ipa": "/ˌrem.ɪˈnɪs/",
+      "cn": "回忆",
+      "en": "to talk about happy memories"
+    },
+    "childhood": {
+      "pos": "n.",
+      "ipa": "/ˈtʃaɪld.hʊd/",
+      "cn": "童年",
+      "en": "the time when you are a child"
+    },
+    "freeze": {
+      "pos": "v.",
+      "ipa": "/friːz/",
+      "cn": "结冰",
+      "en": "to turn into ice from cold"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbær.əs/",
+      "cn": "使尴尬",
+      "en": "to make someone feel uncomfortable"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something out"
+    },
+    "hurt": {
+      "pos": "v.",
+      "ipa": "/hɜːt/",
+      "cn": "伤害",
+      "en": "to cause emotional pain"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫",
+      "en": "to pause before doing something"
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fəˈɡɪv/",
+      "cn": "原谅",
+      "en": "to stop being angry at someone"
+    }
+  }
+}

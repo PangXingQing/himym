@@ -1,0 +1,92 @@
+{
+  "id": 112,
+  "title": "Doppelgangers",
+  "cn": "第 24 集 · 分身",
+  "novel": "The gang had a long-standing game: find your [[doppelganger|doppelganger]] — a stranger who looked exactly like you, who [[resembled|resemble]] you in every detail — somewhere in New York. Each of them believed the city held a [[double|double]].\n\nMarshall had found a [[mustachioed|mustachioed]] man who looked like him. Lily spotted a redhead who could be her twin. Barney saw a [[stripper|stripper]] with his smile. Robin found a [[butch|butch]] woman who shared her jaw.\n\nOnly Ted had not found his. He began to think he was the only one without a [[lookalike|lookalike]] in the whole city.\n\n\"That's because you're [[irreplaceable|irreplaceable]],\" Lily said kindly.\n\nThen, one evening, Ted saw him — a man across the bar with the same face, the same [[gestures|gesture]], the same [[awkward|awkward]] smile. Ted stared. The man stared back, as if [[destiny|destiny]] had played a joke. Then he turned and left.\n\nMarshall and Lily, meanwhile, made a bigger decision. They would start trying for a [[baby|baby]]. The search for doubles was over; the search for a new life had begun. Some [[coincidences|coincidence]], Ted realized, were the universe's way of saying that no one was truly alone — and that every ending was just a [[disguised|disguise]] beginning.",
+  "words": {
+    "doppelganger": {
+      "pos": "n.",
+      "ipa": "/ˈdɒp.əl.ɡæŋ.ər/",
+      "cn": "分身；相貌极相似的人",
+      "en": "someone who looks exactly like you"
+    },
+    "resemble": {
+      "pos": "v.",
+      "ipa": "/rɪˈzem.bəl/",
+      "cn": "相似",
+      "en": "to look like someone else"
+    },
+    "double": {
+      "pos": "n.",
+      "ipa": "/ˈdʌb.əl/",
+      "cn": "酷似的人",
+      "en": "someone who looks just like another"
+    },
+    "mustachioed": {
+      "pos": "adj.",
+      "ipa": "/məˈstɑː.ʃi.əʊd/",
+      "cn": "蓄大胡子的",
+      "en": "having a large mustache"
+    },
+    "stripper": {
+      "pos": "n.",
+      "ipa": "/ˈstrɪp.ər/",
+      "cn": "脱衣舞者",
+      "en": "a person who removes clothes for money"
+    },
+    "butch": {
+      "pos": "adj.",
+      "ipa": "/bʊtʃ/",
+      "cn": "男子气的",
+      "en": "having a strong masculine appearance"
+    },
+    "lookalike": {
+      "pos": "n.",
+      "ipa": "/ˈlʊk.ə.laɪk/",
+      "cn": "长得像的人",
+      "en": "a person who closely resembles another"
+    },
+    "irreplaceable": {
+      "pos": "adj.",
+      "ipa": "/ˌɪr.ɪˈpleɪ.sə.bəl/",
+      "cn": "无可替代的",
+      "en": "too special to be replaced"
+    },
+    "gesture": {
+      "pos": "n.",
+      "ipa": "/ˈdʒes.tʃər/",
+      "cn": "手势；姿态",
+      "en": "a movement of the body to express something"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "笨拙的",
+      "en": "not smooth or graceful"
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tɪ.ni/",
+      "cn": "命运",
+      "en": "the things meant to happen to you"
+    },
+    "baby": {
+      "pos": "n.",
+      "ipa": "/ˈbeɪ.bi/",
+      "cn": "婴儿",
+      "en": "a very young child"
+    },
+    "coincidence": {
+      "pos": "n.",
+      "ipa": "/kəʊˈɪn.sɪ.dəns/",
+      "cn": "巧合",
+      "en": "when things happen together by chance"
+    },
+    "disguise": {
+      "pos": "adj.",
+      "ipa": "/dɪsˈɡaɪzd/",
+      "cn": "伪装的",
+      "en": "hidden under a different appearance"
+    }
+  }
+}

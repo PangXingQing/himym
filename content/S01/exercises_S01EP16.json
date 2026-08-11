@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "dilemma",
+    "hint": "两难困境",
+    "phonetic": "/daɪˈlem.ə/"
+  },
+  {
+    "type": "spelling",
+    "word": "ambition",
+    "hint": "抱负；野心",
+    "phonetic": "/æmˈbɪʃ.ən/"
+  },
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɒp.əˈtjuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "salary",
+    "hint": "（月/年）薪水",
+    "phonetic": "/ˈsæl.ər.i/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "No sooner had the ring sparkled than __________ burst into tears.",
+    "answer": "Lily"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Hardly had he spoken when she __________ laughing.",
+    "answer": "started"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Buying a cupcake from __________ bakery felt like an act of kindness.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Finding a hat that suited __________ was pure luck.",
+    "answer": "him"
+  }
+]

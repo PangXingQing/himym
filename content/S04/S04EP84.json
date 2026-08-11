@@ -1,0 +1,182 @@
+{
+  "id": 84,
+  "title": "Mosbius Designs",
+  "cn": "第 20 集 · 莫斯比厄斯设计",
+  "novel": "Ted [[launched|launch]] his own architecture firm: Mosbius Designs. He was [[ambitious|ambitious]] and [[determined|determined]], but also [[nervous|nervous]]. Going [[independent|independent]] meant no safety net.\n\nHe hired an assistant named PJ. But PJ was [[lazy|lazy]] and [[incompetent|incompetent]]. Ted [[struggled|struggle]] to get any work done.\n\nMeanwhile, Barney [[fell|fall]] for a woman named Anita. She was beautiful and charming, but Barney [[suspected|suspect]] she might be a corporate [[spy|spy]] sent to [[steal|steal]] company secrets from GNB.\n\n\"She's too perfect,\" Barney told Ted. \"Nobody is that perfect without an [[ulterior|ulterior]] [[motive|motive]].\"\n\nBarney tried to [[investigate|investigate]] Anita. He followed her, checked her phone, and even [[hacked|hack]] her email. Every clue [[pointed|point]] to her being [[innocent|innocent]].\n\n\"Maybe she just likes you,\" Robin [[suggested|suggest]].\n\nBarney couldn't accept that. He was so used to [[schemes|scheme]] that he couldn't recognize genuine [[affection|affection]].\n\nTed's firm struggled at first. No clients came. He sat in his empty office, feeling [[defeated|defeat]]. Then he [[received|receive]] a call. A small project. It was not much, but it was a [[start|start]].\n\n\"Mosbius Designs is [[open|open]] for business,\" Ted [[declared|declare]], smiling for the first time in weeks.\n\nBarney, meanwhile, [[pushed|push]] Anita away with his [[paranoia|paranoia]]. She left, and Barney was left [[wondering|wonder]] if he had made a mistake.",
+  "words": {
+    "launch": {
+      "pos": "v.",
+      "ipa": "/lɔːntʃ/",
+      "cn": "创办",
+      "en": "to start something new, like a business"
+    },
+    "ambitious": {
+      "pos": "adj.",
+      "ipa": "/æmˈbɪʃ.əs/",
+      "cn": "有抱负的",
+      "en": "having a strong desire to succeed"
+    },
+    "determined": {
+      "pos": "adj.",
+      "ipa": "/dɪˈtɜː.mɪnd/",
+      "cn": "坚定的",
+      "en": "having a firm decision"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜː.vəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "independent": {
+      "pos": "adj.",
+      "ipa": "/ˌɪn.dɪˈpen.dənt/",
+      "cn": "独立的",
+      "en": "not controlled by others"
+    },
+    "lazy": {
+      "pos": "adj.",
+      "ipa": "/ˈleɪ.zi/",
+      "cn": "懒惰的",
+      "en": "not willing to work"
+    },
+    "incompetent": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈkɒm.pɪ.tənt/",
+      "cn": "不胜任的",
+      "en": "not having the skill to do something"
+    },
+    "struggle": {
+      "pos": "v.",
+      "ipa": "/ˈstrʌɡ.əl/",
+      "cn": "挣扎",
+      "en": "to try hard to do something difficult"
+    },
+    "fall": {
+      "pos": "v.",
+      "ipa": "/fɔːl/",
+      "cn": "爱上",
+      "en": "to start to love someone"
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/səˈspekt/",
+      "cn": "怀疑",
+      "en": "to think someone might be guilty"
+    },
+    "spy": {
+      "pos": "n.",
+      "ipa": "/spaɪ/",
+      "cn": "间谍",
+      "en": "someone who secretly collects information"
+    },
+    "steal": {
+      "pos": "v.",
+      "ipa": "/stiːl/",
+      "cn": "窃取",
+      "en": "to take something that is not yours"
+    },
+    "ulterior": {
+      "pos": "adj.",
+      "ipa": "/ʌlˈtɪə.ri.ər/",
+      "cn": "隐藏的",
+      "en": "hidden, not stated openly"
+    },
+    "motive": {
+      "pos": "n.",
+      "ipa": "/ˈməʊ.tɪv/",
+      "cn": "动机",
+      "en": "the reason for doing something"
+    },
+    "investigate": {
+      "pos": "v.",
+      "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+      "cn": "调查",
+      "en": "to try to find the truth"
+    },
+    "hack": {
+      "pos": "v.",
+      "ipa": "/hæk/",
+      "cn": "黑客入侵",
+      "en": "to get into a computer system secretly"
+    },
+    "point": {
+      "pos": "v.",
+      "ipa": "/pɔɪnt/",
+      "cn": "指向",
+      "en": "to show or suggest something"
+    },
+    "innocent": {
+      "pos": "adj.",
+      "ipa": "/ˈɪn.ə.sənt/",
+      "cn": "无辜的",
+      "en": "not guilty of a crime"
+    },
+    "suggest": {
+      "pos": "v.",
+      "ipa": "/səˈdʒest/",
+      "cn": "建议",
+      "en": "to put forward an idea"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "阴谋",
+      "en": "a clever plan, often dishonest"
+    },
+    "affection": {
+      "pos": "n.",
+      "ipa": "/əˈfek.ʃən/",
+      "cn": "喜爱",
+      "en": "a feeling of liking or caring"
+    },
+    "defeat": {
+      "pos": "v.",
+      "ipa": "/dɪˈfiːt/",
+      "cn": "使挫败",
+      "en": "to make someone feel they have lost"
+    },
+    "receive": {
+      "pos": "v.",
+      "ipa": "/rɪˈsiːv/",
+      "cn": "收到",
+      "en": "to get something that is given to you"
+    },
+    "start": {
+      "pos": "n.",
+      "ipa": "/stɑːt/",
+      "cn": "开始",
+      "en": "the beginning of something"
+    },
+    "open": {
+      "pos": "adj.",
+      "ipa": "/ˈəʊ.pən/",
+      "cn": "营业的",
+      "en": "ready for business"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "push": {
+      "pos": "v.",
+      "ipa": "/pʊʃ/",
+      "cn": "推开",
+      "en": "to move someone away"
+    },
+    "paranoia": {
+      "pos": "n.",
+      "ipa": "/ˌpær.əˈnɔɪ.ə/",
+      "cn": "偏执",
+      "en": "an unreasonable fear that people are against you"
+    },
+    "wonder": {
+      "pos": "v.",
+      "ipa": "/ˈwʌn.dər/",
+      "cn": "想知道",
+      "en": "to ask yourself about something"
+    }
+  }
+}

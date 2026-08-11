@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "title": "Purple Giraffe",
+  "cn": "第 2 集 · 紫色长颈鹿",
+  "novel": "Ted had one problem: he wanted to see Robin again, but he needed an [[excuse|excuse]].\n\nSo he decided to [[throw a party|throw a party]] and pretend it was a [[casual|casual]] idea. He hung an [[inflatable|inflatable]] purple giraffe over the sofa and wrote a crooked [[banner|banner]]. Robin promised to [[show up|show up]].\n\nShe did not.\n\nSo he threw the same party again. And again. By the third weekend the flat smelled of [[stale|stale]] beer, there were [[stacks|stack]] of dirty cups on every table, and the fridge was full of sad [[leftovers|leftover]]. Marshall said the word \"[[persistent|persistent]]\" politely; Lily said the word \"[[stubborn|stubborn]]\" honestly; Barney said it was simply [[humiliating|humiliating]].\n\nTed did not care. He was [[clinging to|cling to]] one thought like a man in cold water, and he refused to [[give up on|give up on]] it.\n\nOn the fourth night, [[worn out|worn out]] and completely [[sober|sober]], he sat alone under the [[dim|dim]] kitchen light and finally decided to let his little [[crush|crush]] die.\n\nThen the door opened. Robin stood there, laughing at the giraffe.\n\n\"What a [[coincidence|coincidence]],\" Ted lied. [[Eventually|eventually]] he told her the truth: there had been four parties, and all of them were for her.",
+  "words": {
+    "excuse": {"pos": "n.", "ipa": "/ɪkˈskjuːs/", "cn": "借口；理由", "en": "a reason you give so that people do not know your real reason"},
+    "throw a party": {"pos": "phr.", "ipa": "/θrəʊ ə ˈpɑː.ti/", "cn": "举办派对", "en": "to organise a party at your home"},
+    "casual": {"pos": "adj.", "ipa": "/ˈkæʒ.u.əl/", "cn": "随意的；漫不经心的", "en": "relaxed, not planned and not serious"},
+    "inflatable": {"pos": "adj.", "ipa": "/ɪnˈfleɪ.tə.bl̩/", "cn": "充气的", "en": "that you fill with air to make it big"},
+    "banner": {"pos": "n.", "ipa": "/ˈbæn.ə/", "cn": "横幅；标语", "en": "a long piece of cloth or paper with words on it"},
+    "show up": {"pos": "phr.v.", "ipa": "/ʃəʊ ʌp/", "cn": "露面；到场", "en": "to arrive at a place where people are waiting for you"},
+    "stale": {"pos": "adj.", "ipa": "/steɪl/", "cn": "不新鲜的；走味的", "en": "old and no longer fresh or nice"},
+    "stack": {"pos": "n.", "ipa": "/stæk/", "cn": "一摞；一堆", "en": "a pile of things put one on top of another"},
+    "leftover": {"pos": "n.", "ipa": "/ˈleft.əʊ.və/", "cn": "剩饭剩菜", "en": "food that was not eaten and is kept for later"},
+    "persistent": {"pos": "adj.", "ipa": "/pəˈsɪs.tənt/", "cn": "坚持不懈的", "en": "continuing to try, again and again"},
+    "stubborn": {"pos": "adj.", "ipa": "/ˈstʌb.ən/", "cn": "固执的", "en": "refusing to change your mind, even when you are wrong"},
+    "humiliating": {"pos": "adj.", "ipa": "/hjuːˈmɪl.i.eɪ.tɪŋ/", "cn": "丢脸的；羞辱人的", "en": "making you feel very ashamed in front of other people"},
+    "cling to": {"pos": "phr.v.", "ipa": "/klɪŋ tuː/", "cn": "紧紧抓住；执着于", "en": "to hold something very tightly and not let it go"},
+    "give up on": {"pos": "phr.v.", "ipa": "/ɡɪv ʌp ɒn/", "cn": "对……放弃希望", "en": "to stop hoping that something or someone will work"},
+    "worn out": {"pos": "adj.", "ipa": "/wɔːn aʊt/", "cn": "筋疲力尽的", "en": "very, very tired"},
+    "sober": {"pos": "adj.", "ipa": "/ˈsəʊ.bə/", "cn": "清醒的（没喝醉）", "en": "not drunk"},
+    "dim": {"pos": "adj.", "ipa": "/dɪm/", "cn": "昏暗的", "en": "not bright; with only a little light"},
+    "crush": {"pos": "n.", "ipa": "/krʌʃ/", "cn": "（短暂的）迷恋", "en": "a strong but short feeling of love for someone"},
+    "coincidence": {"pos": "n.", "ipa": "/kəʊˈɪn.sɪ.dəns/", "cn": "巧合", "en": "when two things happen at the same time by luck, not by plan"},
+    "eventually": {"pos": "adv.", "ipa": "/ɪˈven.tʃu.ə.li/", "cn": "最终；终于", "en": "in the end, after a long time"}
+  }
+}

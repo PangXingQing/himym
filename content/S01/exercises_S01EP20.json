@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "glitter",
+    "hint": "亮片；闪粉",
+    "phonetic": "/ˈɡlɪt.ə/"
+  },
+  {
+    "type": "spelling",
+    "word": "prom",
+    "hint": "（美国高中）毕业舞会",
+    "phonetic": "/prɒm/"
+  },
+  {
+    "type": "spelling",
+    "word": "balloon",
+    "hint": "气球",
+    "phonetic": "/bəˈluːn/"
+  },
+  {
+    "type": "spelling",
+    "word": "gatecrash",
+    "hint": "不请自来；混进派对",
+    "phonetic": "/ˈɡeɪt.kræʃ/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Barney would always find a way into __________ situations.",
+    "answer": "impossible"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Every night __________ would stare at the ceiling, thinking about her.",
+    "answer": "Ted"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ his heart pounding, Ted walked across the bar.",
+    "answer": "With"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "\"You had __________ slow down,\" Robin said.",
+    "answer": "better"
+  }
+]

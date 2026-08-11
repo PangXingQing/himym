@@ -1,0 +1,116 @@
+{
+  "id": 191,
+  "title": "No Questions Asked",
+  "cn": "第 7 集 · 毋庸置疑",
+  "novel": "Daphne sent a [[troubling|trouble]] text message to Lily from Marshall's phone. The message [[revealed|reveal]] that Marshall had taken a job as a judge without telling Lily. Marshall [[panicked|panic]] when he found out what Daphne had done.\n\nHe immediately called his friends and asked them to [[delete|delete]] the message before Lily could read it. He used the No Questions Asked rule, which meant they had to do what he said without asking why. This rule had been [[created|create]] by Barney years ago.\n\nTed was the first to receive the request. He was confused but agreed to follow the rule. He tried to [[sneak|sneak]] into Lily's room and [[hide|hide]] her phone. However, Lily [[noticed|notice]] him and became [[suspicious|suspicious]].\n\nRobin and Barney also received the No Questions Asked requests. They each tried different [[clever|clever]] ways to get rid of the message. Robin [[pretended|pretend]] she needed Lily's help in the kitchen, while Barney created a [[distraction|distraction]] by starting a fight with a hotel guest.\n\nThe situation became more [[chaotic|chaotic]] as everyone tried to complete their missions. Marshall was [[desperate|desperate]] to keep his secret. He knew Lily would be furious if she found out he had accepted the judge position without discussing it with her first.\n\nIn the end, Lily [[discovered|discover]] the truth anyway. She was not angry about the job itself, but she was upset that Marshall had tried to [[deceive|deceive]] her. She told him that [[honesty|honesty]] was the most important thing in their marriage. Marshall [[apologized|apologize]] and promised to always be truthful with her.",
+  "words": {
+    "trouble": {
+      "pos": "adj.",
+      "ipa": "/ˈtrʌb.əl/",
+      "cn": "麻烦的",
+      "en": "He is in trouble."
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "The document revealed the truth."
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "惊慌",
+      "en": "She panicked when she saw the fire."
+    },
+    "delete": {
+      "pos": "v.",
+      "ipa": "/dɪˈliːt/",
+      "cn": "删除",
+      "en": "He deleted the email by mistake."
+    },
+    "create": {
+      "pos": "v.",
+      "ipa": "/kriˈeɪt/",
+      "cn": "创造",
+      "en": "They created a new game."
+    },
+    "sneak": {
+      "pos": "v.",
+      "ipa": "/sniːk/",
+      "cn": "溜",
+      "en": "He sneaked out of the house."
+    },
+    "hide": {
+      "pos": "v.",
+      "ipa": "/haɪd/",
+      "cn": "隐藏",
+      "en": "She hid the cookies from the kids."
+    },
+    "notice": {
+      "pos": "v.",
+      "ipa": "/ˈnoʊ.tɪs/",
+      "cn": "注意到",
+      "en": "He noticed a strange smell."
+    },
+    "suspicious": {
+      "pos": "adj.",
+      "ipa": "/səˈspɪʃ.əs/",
+      "cn": "怀疑的",
+      "en": "She was suspicious of his behavior."
+    },
+    "clever": {
+      "pos": "adj.",
+      "ipa": "/ˈklev.ər/",
+      "cn": "聪明的",
+      "en": "That was a clever idea."
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "She pretended to be asleep."
+    },
+    "distraction": {
+      "pos": "n.",
+      "ipa": "/dɪˈstræk.ʃən/",
+      "cn": "分心",
+      "en": "The noise was a distraction."
+    },
+    "chaotic": {
+      "pos": "adj.",
+      "ipa": "/keɪˈɒt.ɪk/",
+      "cn": "混乱的",
+      "en": "The room was chaotic."
+    },
+    "desperate": {
+      "pos": "adj.",
+      "ipa": "/ˈdes.pər.ət/",
+      "cn": "绝望的",
+      "en": "He was desperate for help."
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "She discovered a hidden door."
+    },
+    "deceive": {
+      "pos": "v.",
+      "ipa": "/dɪˈsiːv/",
+      "cn": "欺骗",
+      "en": "He deceived his parents."
+    },
+    "honesty": {
+      "pos": "n.",
+      "ipa": "/ˈɒn.əs.ti/",
+      "cn": "诚实",
+      "en": "Honesty is the best policy."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "She apologized for the delay."
+    }
+  }
+}

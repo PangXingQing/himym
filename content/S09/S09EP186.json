@@ -1,0 +1,86 @@
+{
+  "id": 186,
+  "title": "Coming Back",
+  "cn": "第 2 集 · 回归",
+  "novel": "James, Barney's brother, arrived at the Farhampton Inn and [[revealed|reveal]] some shocking news. He was getting a [[divorce|divorce]] from his husband. Robin worried about how Barney would [[react|react]] to this news, since Barney always saw James's marriage as proof that true love could last.\n\nBarney tried to act [[calm|calm]] at first, but he was deeply [[hurt|hurt]] inside. He questioned whether his own wedding would end the same way. Robin sat down with him and [[comforted|comfort]] him. She told him that their love was different and stronger.\n\nMeanwhile, Marshall was still [[racing|race]] to the wedding. He and Daphne continued to [[argue|argue]] during the long drive. They could not agree on anything, from the radio station to the temperature in the car. Despite their differences, they slowly started to understand each other.\n\nTed arrived at the Farhampton Inn and found himself [[alone|alone]] in a very [[romantic|romantic]] hotel room. The room was decorated with roses and candles, which made him feel even more lonely. He missed his girlfriend who was far away.\n\nLily [[worried|worry]] about Ted being by himself. She invited him to join her for dinner, but Ted insisted he was fine. He spent the evening walking on the beach, thinking about his life and the changes that were coming.\n\nBy the end of the evening, Barney felt better after talking with Robin. He realized that love required effort and [[trust|trust]]. The group came together at the hotel bar, [[relieved|relieve]] that the first day of the wedding weekend was finally over.",
+  "words": {
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "He revealed the truth to his friends."
+    },
+    "divorce": {
+      "pos": "n.",
+      "ipa": "/dɪˈvɔːrs/",
+      "cn": "离婚",
+      "en": "They decided to get a divorce after ten years."
+    },
+    "react": {
+      "pos": "v.",
+      "ipa": "/riˈækt/",
+      "cn": "反应",
+      "en": "She reacted calmly to the bad news."
+    },
+    "calm": {
+      "pos": "adj.",
+      "ipa": "/kɑːm/",
+      "cn": "冷静的",
+      "en": "He stayed calm during the emergency."
+    },
+    "hurt": {
+      "pos": "v.",
+      "ipa": "/hɜːrt/",
+      "cn": "伤害",
+      "en": "Her words hurt his feelings."
+    },
+    "comfort": {
+      "pos": "v.",
+      "ipa": "/ˈkʌmfərt/",
+      "cn": "安慰",
+      "en": "She comforted her crying friend."
+    },
+    "race": {
+      "pos": "v.",
+      "ipa": "/reɪs/",
+      "cn": "疾驰",
+      "en": "He raced to the airport to catch his flight."
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡ.juː/",
+      "cn": "争吵",
+      "en": "The two brothers argued about everything."
+    },
+    "alone": {
+      "pos": "adj.",
+      "ipa": "/əˈloʊn/",
+      "cn": "独自的",
+      "en": "He lived alone in a big house."
+    },
+    "romantic": {
+      "pos": "adj.",
+      "ipa": "/roʊˈmæn.tɪk/",
+      "cn": "浪漫的",
+      "en": "They had a romantic dinner by the sea."
+    },
+    "worry": {
+      "pos": "v.",
+      "ipa": "/ˈwɜːr.i/",
+      "cn": "担心",
+      "en": "She worried about her sick mother."
+    },
+    "trust": {
+      "pos": "n.",
+      "ipa": "/trʌst/",
+      "cn": "信任",
+      "en": "Trust is important in a relationship."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "The medicine relieved his pain."
+    }
+  }
+}

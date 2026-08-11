@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "opportunity",
+    "hint": "机会",
+    "phonetic": "/ˌɑː.pərˈtuː.nə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He would rather struggle __________ sell out.",
+    "answer": "than"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I'd rather walk __________ drive.",
+    "answer": "than"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  }
+]

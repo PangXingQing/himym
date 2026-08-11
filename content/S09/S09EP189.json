@@ -1,0 +1,116 @@
+{
+  "id": 189,
+  "title": "The Poker Game",
+  "cn": "第 5 集 · 扑克牌局",
+  "novel": "The weekend featured a poker game that turned into a battle of [[sides|side]]. Barney had to [[choose|choose]] between supporting Robin or his mother, Loretta, who had been [[arguing|argue]] with Robin all weekend.\n\nLily tried to [[coach|coach]] Barney on how to handle the situation. She advised him to be [[clever|clever]] and not pick a side directly. Instead, she suggested he use a [[strategy|strategy]] to make both women feel valued without offending either one.\n\nBarney's attempts to stay neutral [[failed|fail]] when his mother [[demanded|demand]] that he take her side. Robin was equally [[stubborn|stubborn]] and refused to back down. The poker game became more [[tense|tense]] as the argument continued.\n\nMeanwhile, Ted and Marshall had their own [[dispute|dispute]] over wedding gifts. They could not agree on who should give what. Marshall wanted to [[bet|bet]] on the outcome, but Ted thought it was a terrible idea. They [[competed|compete]] to see who could find the better gift.\n\nIn the end, Barney [[compromised|compromise]] by telling both Robin and his mother that he loved them equally. This [[satisfied|satisfy]] neither of them completely, but it kept the peace for the moment. Lily was proud of his [[diplomatic|diplomatic]] approach.\n\nThe poker game finally ended with Marshall winning the most chips. Ted [[admitted|admit]] that Marshall had found the better gift after all. The group laughed and enjoyed the rest of the evening together, [[relieved|relieve]] that the arguments were temporarily over.",
+  "words": {
+    "side": {
+      "pos": "n.",
+      "ipa": "/saɪd/",
+      "cn": "立场",
+      "en": "She took her friend's side in the argument."
+    },
+    "choose": {
+      "pos": "v.",
+      "ipa": "/tʃuːz/",
+      "cn": "选择",
+      "en": "He chose the red shirt over the blue one."
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡ.juː/",
+      "cn": "争吵",
+      "en": "They argued about money all night."
+    },
+    "coach": {
+      "pos": "v.",
+      "ipa": "/koʊtʃ/",
+      "cn": "指导",
+      "en": "She coached the team to victory."
+    },
+    "clever": {
+      "pos": "adj.",
+      "ipa": "/ˈklev.ər/",
+      "cn": "聪明的",
+      "en": "He found a clever solution to the problem."
+    },
+    "strategy": {
+      "pos": "n.",
+      "ipa": "/ˈstræt.ə.dʒi/",
+      "cn": "策略",
+      "en": "They needed a new strategy for the game."
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "She failed the driving test twice."
+    },
+    "demand": {
+      "pos": "v.",
+      "ipa": "/dɪˈmænd/",
+      "cn": "要求",
+      "en": "He demanded an explanation from his boss."
+    },
+    "stubborn": {
+      "pos": "adj.",
+      "ipa": "/ˈstʌb.ərn/",
+      "cn": "固执的",
+      "en": "The stubborn child refused to eat."
+    },
+    "tense": {
+      "pos": "adj.",
+      "ipa": "/tens/",
+      "cn": "紧张的",
+      "en": "The atmosphere was tense before the announcement."
+    },
+    "dispute": {
+      "pos": "n.",
+      "ipa": "/dɪˈspjuːt/",
+      "cn": "争执",
+      "en": "They settled their dispute quickly."
+    },
+    "bet": {
+      "pos": "v.",
+      "ipa": "/bet/",
+      "cn": "打赌",
+      "en": "He bet ten dollars on the game."
+    },
+    "compete": {
+      "pos": "v.",
+      "ipa": "/kəmˈpiːt/",
+      "cn": "竞争",
+      "en": "The two companies competed for customers."
+    },
+    "compromise": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "妥协",
+      "en": "They compromised and met halfway."
+    },
+    "satisfy": {
+      "pos": "v.",
+      "ipa": "/ˈsæt.ɪs.faɪ/",
+      "cn": "满足",
+      "en": "The meal satisfied his hunger."
+    },
+    "diplomatic": {
+      "pos": "adj.",
+      "ipa": "/ˌdɪp.ləˈmæt.ɪk/",
+      "cn": "圆滑的",
+      "en": "She gave a diplomatic answer."
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "He admitted he was wrong."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "The news relieved her anxiety."
+    }
+  }
+}

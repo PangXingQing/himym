@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "conflict",
+    "hint": "冲突",
+    "phonetic": "/ˈkɑːn.flɪkt/"
+  },
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She saw through __________ lies.",
+    "answer": "his"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I can __________ through your act.",
+    "answer": "see"
+  },
+  {
+    "type": "spelling",
+    "word": "tension",
+    "hint": "紧张",
+    "phonetic": "/ˈten.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  }
+]

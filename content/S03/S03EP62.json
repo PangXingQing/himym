@@ -1,0 +1,128 @@
+{
+  "id": 62,
+  "title": "Rebound Bro",
+  "cn": "第 18 集 · 替补兄弟",
+  "novel": "Ted [[found|find]] a [[rebound|rebound]] best friend named Randy. Barney [[attempted|attempt]] to find his own replacement, but every [[candidate|candidate]] [[failed|fail]].\n\nRandy was [[awkward|awkward]] and [[eager|eager]] to please. He [[laughed|laugh]] at Ted's jokes, even the bad ones. \"You're my new best friend,\" Ted [[declared|declare]].\n\nBut the [[friendship|friendship]] felt [[forced|force]]. Randy tried too hard. He [[agreed|agree]] with everything Ted said. There was no [[spark|spark]], no [[connection|connection]].\n\nBarney, meanwhile, [[found|find]] a man named Joe. Joe was [[perfect|perfect]] — until he fell into a [[coma|coma]]. \"My rebound bro is in a coma,\" Barney [[complained|complain]].\n\nTed [[realized|realize]] that friendships, like [[romance|romance]], couldn't be [[forced|force]]. They [[happened|happen]] naturally or not at all.\n\nHe thanked Randy and let him go. Some replacements, Ted learned, only reminded you of what you'd lost.",
+  "words": {
+    "find": {
+      "pos": "v.",
+      "ipa": "/faɪnd/",
+      "cn": "找到（found为过去式）",
+      "en": "to discover or locate"
+    },
+    "rebound": {
+      "pos": "n.",
+      "ipa": "/ˈriː.baʊnd/",
+      "cn": "替补；反弹",
+      "en": "a replacement after a loss"
+    },
+    "attempt": {
+      "pos": "v.",
+      "ipa": "/əˈtempt/",
+      "cn": "尝试",
+      "en": "to try to do something"
+    },
+    "candidate": {
+      "pos": "n.",
+      "ipa": "/ˈkæn.dɪ.dət/",
+      "cn": "候选人",
+      "en": "someone being considered"
+    },
+    "fail": {
+      "pos": "v.",
+      "ipa": "/feɪl/",
+      "cn": "失败",
+      "en": "to not succeed"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making you uncomfortable"
+    },
+    "eager": {
+      "pos": "adj.",
+      "ipa": "/ˈiː.ɡə/",
+      "cn": "急切的",
+      "en": "wanting very much to do"
+    },
+    "laugh": {
+      "pos": "v.",
+      "ipa": "/lɑːf/",
+      "cn": "笑",
+      "en": "to show amusement"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    },
+    "friendship": {
+      "pos": "n.",
+      "ipa": "/ˈfrend.ʃɪp/",
+      "cn": "友谊",
+      "en": "a relationship between friends"
+    },
+    "force": {
+      "pos": "v.",
+      "ipa": "/fɔːs/",
+      "cn": "强迫",
+      "en": "to make something happen"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to have the same opinion"
+    },
+    "spark": {
+      "pos": "n.",
+      "ipa": "/spɑːk/",
+      "cn": "火花",
+      "en": "a feeling of excitement"
+    },
+    "connection": {
+      "pos": "n.",
+      "ipa": "/kəˈnek.ʃən/",
+      "cn": "联系",
+      "en": "a relationship or link"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜː.fɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws"
+    },
+    "coma": {
+      "pos": "n.",
+      "ipa": "/ˈkəʊ.mə/",
+      "cn": "昏迷",
+      "en": "a state of deep unconsciousness"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "to say you're not satisfied"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪ.ə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand suddenly"
+    },
+    "romance": {
+      "pos": "n.",
+      "ipa": "/rəʊˈmæns/",
+      "cn": "浪漫",
+      "en": "a love relationship"
+    },
+    "happen": {
+      "pos": "v.",
+      "ipa": "/ˈhæp.ən/",
+      "cn": "发生",
+      "en": "to take place"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "endure",
+    "hint": "忍受",
+    "phonetic": "/ɪnˈdjʊə/"
+  },
+  {
+    "type": "spelling",
+    "word": "relief",
+    "hint": "如释重负",
+    "phonetic": "/rɪˈliːf/"
+  },
+  {
+    "type": "spelling",
+    "word": "urge",
+    "hint": "强烈的冲动/需要",
+    "phonetic": "/ɜːdʒ/"
+  },
+  {
+    "type": "spelling",
+    "word": "floorboard",
+    "hint": "地板条",
+    "phonetic": "/ˈflɔː.bɔːd/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted was brave enough to walk over and __________ himself.",
+    "answer": "introduce"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They have __________ waiting since Ted brought his date home.",
+    "answer": "been"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Only on __________ rooftop did they speak the truth.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The mood would be __________ if they walked out.",
+    "answer": "killed"
+  }
+]

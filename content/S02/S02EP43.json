@@ -1,0 +1,140 @@
+{
+  "id": 43,
+  "title": "Something Borrowed",
+  "cn": "第43集 · 借来的东西",
+  "novel": "It was finally here — Marshall and Lily's [[wedding|wedding]] day. The [[venue|venue]] was a beautiful [[garden|garden]] overlooking a [[lake|lake]]. The flowers were [[perfect|perfect]]. The weather was [[perfect|perfect]]. Everything was perfect... until it was not.\n\nFirst, Lily's [[veil|veil]] [[blew|blow]] into the lake. Then the [[pianist|pianist]] turned out to be a [[harpist|harpist]] — and she only knew one song: the theme from \"[[Titanic|Titanic]].\" Then the [[caterer|cater]] served the wrong meal: [[vegan|vegan]] [[lasagna|lasagna]] instead of the [[steak|steak]] Marshall had been [[dreaming|dream]] about for months.\n\nBut the biggest disaster was yet to come. The [[officiant|officiant]] was stuck in [[traffic|traffic]] on the [[George Washington Bridge|George Washington Bridge]]. Without an officiant, there could be no wedding.\n\n\"I can do it,\" Barney said suddenly. \"I got [[ordained|ordain]] online last month as a backup.\"\n\n\"Why would you get ordained?\" Ted asked.\n\n\"Because I wanted to be able to say 'by the power [[vested|vest]] in me,'\" Barney said. \"It sounds awesome.\"\n\nThey had no choice. As the sun [[dipped|dip]] behind the trees, Barney stood before Marshall and Lily in a white robe he had [[borrowed|borrow]] from a hotel [[spa|spa]]. He looked at his notes, then [[looked up|look up]] with tears in his eyes — real tears, which nobody had ever seen before.\n\n\"Marshall Eriksen and Lily Aldrin,\" he began, his voice [[shaking|shake]], \"I have watched you two for years, and I have never believed in love. Until today.\"\n\nThe ceremony was not what anyone had [[pictured|picture]]. It was messy, it was [[improvised|improvise]], and it was the most beautiful thing any of them had ever witnessed.",
+  "words": {
+    "wedding": {
+      "pos": "n.",
+      "ipa": "/ˈwed.ɪŋ/",
+      "cn": "婚礼",
+      "en": "a ceremony where two people get married"
+    },
+    "venue": {
+      "pos": "n.",
+      "ipa": "/ˈven.juː/",
+      "cn": "场地；地点",
+      "en": "the place where an event happens"
+    },
+    "garden": {
+      "pos": "n.",
+      "ipa": "/ˈɡɑː.dən/",
+      "cn": "花园",
+      "en": "an area of land where flowers and plants grow"
+    },
+    "lake": {
+      "pos": "n.",
+      "ipa": "/leɪk/",
+      "cn": "湖",
+      "en": "a large area of water surrounded by land"
+    },
+    "veil": {
+      "pos": "n.",
+      "ipa": "/veɪl/",
+      "cn": "面纱；头纱",
+      "en": "a thin piece of cloth a bride wears over her face"
+    },
+    "blow": {
+      "pos": "v.",
+      "ipa": "/bləʊ/",
+      "cn": "吹；被风吹走",
+      "en": "(of wind) to move; to be moved by the wind"
+    },
+    "pianist": {
+      "pos": "n.",
+      "ipa": "/ˈpiː.ən.ɪst/",
+      "cn": "钢琴家",
+      "en": "a person who plays the piano"
+    },
+    "harpist": {
+      "pos": "n.",
+      "ipa": "/ˈhɑː.pɪst/",
+      "cn": "竖琴家",
+      "en": "a person who plays the harp"
+    },
+    "Titanic": {
+      "pos": "n.",
+      "ipa": "/taɪˈtæn.ɪk/",
+      "cn": "泰坦尼克号（电影）",
+      "en": "the famous ship that sank in 1912; a 1997 film about it"
+    },
+    "caterer": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪ.tər.ər/",
+      "cn": "餐饮供应商",
+      "en": "a person or company that provides food for events"
+    },
+    "vegan": {
+      "pos": "adj.",
+      "ipa": "/ˈviː.ɡən/",
+      "cn": "纯素的（不含动物成分）",
+      "en": "containing no animal products like meat, milk, or eggs"
+    },
+    "officiant": {
+      "pos": "n.",
+      "ipa": "/əˈfɪʃ.i.ənt/",
+      "cn": "主婚人；司仪",
+      "en": "a person who performs a ceremony, especially a wedding"
+    },
+    "traffic": {
+      "pos": "n.",
+      "ipa": "/ˈtræf.ɪk/",
+      "cn": "交通；堵车",
+      "en": "all the vehicles on a road; congestion when there are too many"
+    },
+    "ordain": {
+      "pos": "v.",
+      "ipa": "/ɔːˈdeɪn/",
+      "cn": "授予圣职；任命",
+      "en": "to officially make someone a priest or minister"
+    },
+    "vest": {
+      "pos": "v.",
+      "ipa": "/vest/",
+      "cn": "授予；赋予",
+      "en": "to give someone the official right or power to do something"
+    },
+    "dip": {
+      "pos": "v.",
+      "ipa": "/dɪp/",
+      "cn": "下沉；下降",
+      "en": "to go down, especially below the horizon"
+    },
+    "borrow": {
+      "pos": "v.",
+      "ipa": "/ˈbɒr.əʊ/",
+      "cn": "借（入）",
+      "en": "to take something from someone with their permission, planning to return it"
+    },
+    "spa": {
+      "pos": "n.",
+      "ipa": "/spɑː/",
+      "cn": "水疗中心",
+      "en": "a place where you can get beauty and health treatments"
+    },
+    "look up": {
+      "pos": "phr.v.",
+      "ipa": "/lʊk ʌp/",
+      "cn": "抬头看",
+      "en": "to raise your eyes to look at something above you"
+    },
+    "improvised": {
+      "pos": "adj.",
+      "ipa": "/ˈɪm.prə.vaɪzd/",
+      "cn": "即兴的；临时拼凑的",
+      "en": "done without preparation, using what is available"
+    },
+    "dream about": {
+      "pos": "phr.v.",
+      "ipa": "/driːm əˈbaʊt/",
+      "cn": "梦想；渴望",
+      "en": "to think about something you wish would happen"
+    },
+    "George Washington Bridge": {
+      "pos": "n.",
+      "ipa": "/dʒɔːdʒ ˈwɒʃ.ɪŋ.tən brɪdʒ/",
+      "cn": "乔治·华盛顿大桥（纽约）",
+      "en": "a famous bridge connecting New York and New Jersey"
+    }
+  }
+}

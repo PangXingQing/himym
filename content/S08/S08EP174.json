@@ -1,0 +1,56 @@
+{
+  "id": 174,
+  "title": "Ring Up!",
+  "cn": "第 14 集 · 戴上戒指",
+  "novel": "Barney begged Ted to continue seeing his younger girlfriend. Ted had been dating a girl who was much younger than him. He felt [[awkward|awkward]] about the age difference and wanted to break up with her. However, Barney told Ted to keep seeing her because she had a lot of attractive friends. Barney wanted Ted to introduce him to these friends so he could meet more women before his wedding. Ted was [[reluctant|reluctant]] at first but eventually agreed to help Barney. He felt bad about using his girlfriend for Barney's benefit. Meanwhile, Robin [[adjusted|adjust]] to her engagement ring's power. She noticed that people treated her differently when they saw the ring. Waiters were nicer to her, and strangers smiled at her more often. Robin was [[amused|amuse]] by how much power a simple ring could have. She started [[experimenting|experiment]] with the ring to see what she could get. She got free desserts at restaurants and better seats at the theater. Barney was jealous of the attention Robin was getting. He wanted people to treat him differently too. Ted continued dating the younger girl but felt increasingly [[uncomfortable|uncomfortable]] about the situation. He finally told Barney he could not do it anymore. He said he would not use someone for personal gain. Barney [[understood|understand]] and apologized for asking Ted to do something [[unethical|unethical]].",
+  "words": {
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔːkwərd/",
+      "cn": "尴尬的",
+      "en": "making you feel embarrassed"
+    },
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌktənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "adjust": {
+      "pos": "v.",
+      "ipa": "/əˈdʒʌstɪd/",
+      "cn": "适应",
+      "en": "to get used to something new"
+    },
+    "amuse": {
+      "pos": "v.",
+      "ipa": "/əˈmjuːzd/",
+      "cn": "逗乐",
+      "en": "to find something funny"
+    },
+    "experiment": {
+      "pos": "v.",
+      "ipa": "/ɪkˈsperɪmentɪŋ/",
+      "cn": "试验",
+      "en": "to try something to see results"
+    },
+    "uncomfortable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈkʌmftəbl/",
+      "cn": "不舒服的",
+      "en": "feeling uneasy or awkward"
+    },
+    "understand": {
+      "pos": "v.",
+      "ipa": "/ˌʌndərˈstʊd/",
+      "cn": "理解",
+      "en": "to know what someone means"
+    },
+    "unethical": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈeθɪkl/",
+      "cn": "不道德的",
+      "en": "not morally right"
+    }
+  }
+}

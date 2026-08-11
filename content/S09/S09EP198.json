@@ -1,0 +1,116 @@
+{
+  "id": 198,
+  "title": "Slapsgiving 3: Slappointment in Slapmarra",
+  "cn": "第 14 集 · 第三次拍脸节",
+  "novel": "Marshall [[explained|explain]] to the gang how he had [[mastered|master]] the Slap of a Million Exploding Suns. He told them a [[legendary|legendary]] story about his journey to a [[distant|distant]] temple in Shanghai.\n\nAccording to Marshall's tale, he had [[traveled|travel]] to Shanghai to learn an [[ancient|ancient]] [[martial|martial]] art from three masters. Each master taught him a different skill. The training was intense and tested his limits. He had to [[strike|strike]] a target thousands of times until his hands were numb. The masters never allowed him to rest.\n\nMarshall [[described|describe]] how he had to [[train|train]] for weeks under each master. Robin and Barney listened with growing [[anxiety|anxiety]] because they knew Marshall was building up to the final slap. Barney tried to [[escape|escape]] but Marshall reminded him of the slap [[bet|bet]] they had made years ago.\n\nMarshall [[revealed|reveal]] that the third master had given him a special [[technique|technique]] that would make the slap incredibly [[powerful|powerful]]. He called it the Slap of a Million Exploding Suns. The gang was both impressed and terrified.\n\nIn reality, Marshall had just watched a lot of kung fu movies and made the whole story up. But he told it with such enthusiasm that everyone believed him, at least for a moment. The episode ended with Marshall [[preparing|prepare]] for the final slap, as Barney [[trembled|tremble]] with fear.",
+  "words": {
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "She explained the rules clearly."
+    },
+    "master": {
+      "pos": "v.",
+      "ipa": "/ˈmæs.tər/",
+      "cn": "精通",
+      "en": "He mastered the language in two years."
+    },
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒ.ən.der.i/",
+      "cn": "传奇的",
+      "en": "The sword has a legendary history."
+    },
+    "distant": {
+      "pos": "adj.",
+      "ipa": "/ˈdɪs.tənt/",
+      "cn": "遥远的",
+      "en": "They traveled to a distant land."
+    },
+    "travel": {
+      "pos": "v.",
+      "ipa": "/ˈtræv.əl/",
+      "cn": "旅行",
+      "en": "They traveled to Japan last year."
+    },
+    "ancient": {
+      "pos": "adj.",
+      "ipa": "/ˈeɪn.ʃənt/",
+      "cn": "古老的",
+      "en": "They visited an ancient temple."
+    },
+    "martial": {
+      "pos": "adj.",
+      "ipa": "/ˈmɑːr.ʃəl/",
+      "cn": "武术的",
+      "en": "He practices martial arts."
+    },
+    "strike": {
+      "pos": "v.",
+      "ipa": "/straɪk/",
+      "cn": "击打",
+      "en": "He struck the ball hard."
+    },
+    "describe": {
+      "pos": "v.",
+      "ipa": "/dɪˈskraɪb/",
+      "cn": "描述",
+      "en": "He described the scene in detail."
+    },
+    "train": {
+      "pos": "v.",
+      "ipa": "/treɪn/",
+      "cn": "训练",
+      "en": "She trains every day for the marathon."
+    },
+    "anxiety": {
+      "pos": "n.",
+      "ipa": "/æŋˈzaɪ.ə.ti/",
+      "cn": "焦虑",
+      "en": "She felt anxiety before the test."
+    },
+    "escape": {
+      "pos": "v.",
+      "ipa": "/ɪˈskeɪp/",
+      "cn": "逃跑",
+      "en": "The prisoner tried to escape."
+    },
+    "bet": {
+      "pos": "n.",
+      "ipa": "/bet/",
+      "cn": "赌注",
+      "en": "They made a bet on the game."
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "He revealed his secret."
+    },
+    "technique": {
+      "pos": "n.",
+      "ipa": "/tekˈniːk/",
+      "cn": "技巧",
+      "en": "She learned a new technique."
+    },
+    "powerful": {
+      "pos": "adj.",
+      "ipa": "/ˈpaʊər.fəl/",
+      "cn": "强大的",
+      "en": "The medicine was powerful."
+    },
+    "prepare": {
+      "pos": "v.",
+      "ipa": "/prɪˈper/",
+      "cn": "准备",
+      "en": "He prepared for the exam."
+    },
+    "tremble": {
+      "pos": "v.",
+      "ipa": "/ˈtrem.bəl/",
+      "cn": "颤抖",
+      "en": "She trembled with fear."
+    }
+  }
+}

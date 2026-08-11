@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "delete",
+    "hint": "删除",
+    "phonetic": "/dɪˈliːt/"
+  },
+  {
+    "type": "spelling",
+    "word": "eggnog",
+    "hint": "蛋奶酒（圣诞饮品）",
+    "phonetic": "/ˈeɡ.nɒɡ/"
+  },
+  {
+    "type": "spelling",
+    "word": "terrible",
+    "hint": "可怕的；糟透的",
+    "phonetic": "/ˈter.ə.bl̩/"
+  },
+  {
+    "type": "spelling",
+    "word": "shake",
+    "hint": "摇晃；颤抖",
+    "phonetic": "/ʃeɪk/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Lily has regretted that __________ for years.",
+    "answer": "message"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Don't take your frustration __________ on me.",
+    "answer": "out"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ Lily had said was unforgivable.",
+    "answer": "What"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Standing in front of the Christmas tree, Lily __________ the guilt wash over her.",
+    "answer": "felt"
+  }
+]

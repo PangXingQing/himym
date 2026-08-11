@@ -1,0 +1,30 @@
+{
+  "id": 22,
+  "title": "Come On",
+  "cn": "第 22 集 · 来吧，下雨吧",
+  "novel": "The [[forecast|forecast]] promised a clear sky, which was exactly the problem.\n\nRobin had plans to leave the city for the weekend. Ted, out of ideas, decided that only bad weather could keep her — so, at midnight, he stood on the roof and performed a [[chant|chant]] he had found online, half joke and half [[plea|plea]].\n\n\"Come on,\" he shouted at the stars.\n\nMarshall thought it was a [[miracle|miracle]] when the first [[gust|gust]] of wind arrived. Then came the [[thunder|thunder]], then white [[lightning|lightning]], then a [[downpour|downpour]] so heavy that the street turned into one long [[puddle|puddle]].\n\nTed had no [[umbrella|umbrella]] and did not look for [[shelter|shelter]]. He walked twenty blocks and was completely [[drenched|drench]], [[soaked|soaked]] to the skin, feeling [[vulnerable|vulnerable]] and strangely calm.\n\nAt her [[doorstep|doorstep]] he found his [[courage|courage]]. No clever speech, no [[ultimatum|ultimatum]]; just the truth, said badly, in the rain.\n\nIt was a [[turning point|turning point]]. Whatever came next — [[heartbreak|heartbreak]] or happiness — he had finally stopped waiting for [[fate|fate]] to do the work for him.\n\nIn the [[aftermath|aftermath]], soaking wet and laughing, he understood that this night would be [[unforgettable|unforgettable]] — and that the story he would tell his children had only just begun.",
+  "words": {
+    "forecast": {"pos": "n.", "ipa": "/ˈfɔː.kɑːst/", "cn": "天气预报", "en": "a report that says what the weather will be"},
+    "chant": {"pos": "n.", "ipa": "/tʃɑːnt/", "cn": "反复念诵的词句", "en": "words said again and again in a rhythm"},
+    "plea": {"pos": "n.", "ipa": "/pliː/", "cn": "恳求", "en": "an emotional request for help"},
+    "miracle": {"pos": "n.", "ipa": "/ˈmɪr.ə.kl̩/", "cn": "奇迹", "en": "a wonderful thing that seems impossible"},
+    "gust": {"pos": "n.", "ipa": "/ɡʌst/", "cn": "一阵狂风", "en": "a sudden strong wind"},
+    "thunder": {"pos": "n.", "ipa": "/ˈθʌn.də/", "cn": "雷声", "en": "the loud noise you hear in a storm"},
+    "lightning": {"pos": "n.", "ipa": "/ˈlaɪt.nɪŋ/", "cn": "闪电", "en": "the bright flash of light in a storm"},
+    "downpour": {"pos": "n.", "ipa": "/ˈdaʊn.pɔː/", "cn": "倾盆大雨", "en": "a lot of rain falling very fast"},
+    "puddle": {"pos": "n.", "ipa": "/ˈpʌd.l̩/", "cn": "水洼", "en": "a small pool of rain water on the ground"},
+    "umbrella": {"pos": "n.", "ipa": "/ʌmˈbrel.ə/", "cn": "雨伞", "en": "the thing you hold over your head in the rain"},
+    "shelter": {"pos": "n.", "ipa": "/ˈʃel.tə/", "cn": "避雨处；庇护所", "en": "a place that keeps you safe from rain or danger"},
+    "drench": {"pos": "v.", "ipa": "/drentʃ/", "cn": "淋透", "en": "to make something completely wet"},
+    "soaked": {"pos": "adj.", "ipa": "/səʊkt/", "cn": "湿透的", "en": "extremely wet"},
+    "vulnerable": {"pos": "adj.", "ipa": "/ˈvʌl.nər.ə.bl̩/", "cn": "脆弱的；容易受伤的", "en": "easy to hurt, in body or in feelings"},
+    "doorstep": {"pos": "n.", "ipa": "/ˈdɔː.step/", "cn": "门前台阶", "en": "the step just outside someone's front door"},
+    "courage": {"pos": "n.", "ipa": "/ˈkʌr.ɪdʒ/", "cn": "勇气", "en": "the strength to do something frightening"},
+    "ultimatum": {"pos": "n.", "ipa": "/ˌʌl.tɪˈmeɪ.təm/", "cn": "最后通牒", "en": "a final demand: do this, or something bad happens"},
+    "turning point": {"pos": "n.", "ipa": "/ˈtɜː.nɪŋ pɔɪnt/", "cn": "转折点", "en": "the moment when things start to change"},
+    "heartbreak": {"pos": "n.", "ipa": "/ˈhɑːt.breɪk/", "cn": "心碎", "en": "very deep sadness, usually about love"},
+    "fate": {"pos": "n.", "ipa": "/feɪt/", "cn": "命运", "en": "the power that people believe decides what happens"},
+    "aftermath": {"pos": "n.", "ipa": "/ˈɑːf.tə.mæθ/", "cn": "（事件的）余波、之后的时期", "en": "the time just after something big or bad happens"},
+    "unforgettable": {"pos": "adj.", "ipa": "/ˌʌn.fəˈɡet.ə.bl̩/", "cn": "难忘的", "en": "so special that you can never forget it"}
+  }
+}

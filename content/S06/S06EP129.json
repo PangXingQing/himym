@@ -1,0 +1,28 @@
+{
+  "id": 129,
+  "title": "Garbage Island",
+  "cn": "第 17 集 · 垃圾岛",
+  "novel": "Marshall became [[obsessed|obsess]] with saving the environment after watching a [[documentary|documentary]] about a giant island of garbage floating in the Pacific Ocean. The images of [[polluted|pollute]] waters and suffering sea animals [[haunted|haunt]] him day and night. He started bringing reusable bags everywhere, [[composting|compost]] his food waste, and giving his friends long [[lectures|lecture]] about recycling. Lily was [[supportive|supportive]] but also worried that Marshall was going too far. Meanwhile, Ted ran into Zoey's ex-husband, The Captain, at an art gallery. The Captain was surprisingly [[cordial|cordial]] and invited Ted to look at his [[paintings|painting]]. Ted was nervous because he was now dating Zoey, and The Captain did not seem to know about their relationship. The Captain talked about his life since the [[divorce|divorce]] and mentioned that he had moved on. Ted felt a wave of [[relief|relief]], but also a strange sense of [[guilt|guilt]]. On the other side of town, Barney admitted his feelings for Nora. He told the gang that he had been thinking about her [[constantly|constant]] and that he wanted to ask her out properly. Robin was visibly [[hurt|hurt]] by this news, though she tried to hide it. She had been developing feelings for Barney again without realizing it. Marshall's environmental obsession reached a [[peak|peak]] when he tried to swim to the garbage island to clean it up himself. Lily stopped him at the last minute and told him that he could make a bigger [[difference|difference]] by working within the system rather than doing something [[reckless|reckless]]. Marshall agreed and decided to look for a job at an environmental [[organization|organization]]. Barney took Nora on a proper date and was genuinely [[nervous|nervous]] for the first time in years. The episode ended with the gang reflecting on how far they had all come and how much they still had to learn about love, [[responsibility|responsibility]], and the planet they shared.",
+  "words": {
+    "obsess": {"pos": "v.", "ipa": "/əbˈses/", "cn": "痴迷;念念不忘", "en": "to think about something constantly"},
+    "documentary": {"pos": "n.", "ipa": "/ˌdɑːkjəˈmentri/", "cn": "纪录片", "en": "a film or program about real events"},
+    "pollute": {"pos": "v.", "ipa": "/pəˈluːt/", "cn": "污染;弄脏", "en": "to make air, water, or land dirty"},
+    "haunt": {"pos": "v.", "ipa": "/hɔːnt/", "cn": "萦绕;困扰", "en": "to keep coming back to someone's mind"},
+    "compost": {"pos": "v.", "ipa": "/ˈkɑːmpoʊst/", "cn": "堆肥;做堆肥", "en": "to recycle food waste into soil"},
+    "lecture": {"pos": "n.", "ipa": "/ˈlektʃər/", "cn": "讲座;说教", "en": "a long talk given to teach or scold"},
+    "supportive": {"pos": "adj.", "ipa": "/səˈpɔːrtɪv/", "cn": "支持的;给予帮助的", "en": "giving help and encouragement to someone"},
+    "cordial": {"pos": "adj.", "ipa": "/ˈkɔːrdʒəl/", "cn": "热忱的;友好的", "en": "polite and friendly toward others"},
+    "painting": {"pos": "n.", "ipa": "/ˈpeɪntɪŋ/", "cn": "画作;绘画", "en": "a picture made with paint on a surface"},
+    "divorce": {"pos": "n.", "ipa": "/dɪˈvɔːrs/", "cn": "离婚;分离", "en": "the legal end of a marriage"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "宽慰;解脱", "en": "a feeling of comfort after worry ends"},
+    "guilt": {"pos": "n.", "ipa": "/ɡɪlt/", "cn": "内疚;罪过", "en": "a bad feeling about something you did wrong"},
+    "constant": {"pos": "adv.", "ipa": "/ˈkɑːnstəntli/", "cn": "不断地;一直地", "en": "all the time without stopping"},
+    "hurt": {"pos": "v.", "ipa": "/hɜːrt/", "cn": "伤害;使伤心", "en": "to cause emotional or physical pain"},
+    "peak": {"pos": "n.", "ipa": "/piːk/", "cn": "顶峰;最高点", "en": "the highest point of something"},
+    "difference": {"pos": "n.", "ipa": "/ˈdɪfərəns/", "cn": "影响;差别", "en": "a change that has a noticeable effect"},
+    "reckless": {"pos": "adj.", "ipa": "/ˈrekləs/", "cn": "鲁莽的;不顾后果的", "en": "doing things without thinking of danger"},
+    "organization": {"pos": "n.", "ipa": "/ˌɔːrɡənəˈzeɪʃ.ən/", "cn": "组织;机构", "en": "a group formed for a shared purpose"},
+    "nervous": {"pos": "adj.", "ipa": "/ˈnɜːrvəs/", "cn": "紧张的;不安的", "en": "feeling worried or anxious"},
+    "responsibility": {"pos": "n.", "ipa": "/rɪˌspɑːnsəˈbɪləti/", "cn": "责任;职责", "en": "a duty to deal with something or someone"}
+  }
+}

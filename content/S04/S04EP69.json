@@ -1,0 +1,146 @@
+{
+  "id": 69,
+  "title": "Shelter Island",
+  "cn": "第 5 集 · 避风港岛",
+  "novel": "Stella's sister [[canceled|cancel]] her wedding at the last minute. Ted and Stella [[seized|seize]] the [[opportunity|opportunity]] and decided to take the [[venue|venue]] for themselves. They would get married that weekend on Shelter Island.\n\nEverything moved fast. Ted [[invited|invite]] Robin, which [[annoyed|annoy]] Stella. \"Why did you invite your ex?\" she asked. Ted [[hesitated|hesitate]]. \"She's my friend.\"\n\nRobin [[returned|return]] from Japan just in time. She was jet-lagged but [[determined|determined]] to support Ted. Barney drove her to the island, and the car ride was [[awkward|awkward]].\n\nAt the [[venue|venue]], Ted felt a [[gnawing|gnaw]] doubt. He barely knew Stella's friends. Stella barely knew his. The wedding felt [[rushed|rushed]].\n\nStella's ex, Tony, [[showed up|show up]] [[unexpectedly|unexpectedly]]. He begged Stella to come back. Stella was [[torn|torn]]. She looked at Ted, then at Tony. The [[tension|tension]] was [[unbearable|unbearable]].\n\n\"I'm sorry, Ted,\" Stella [[whispered|whisper]]. She walked toward Tony. Ted stood alone at the [[altar|altar]], his heart [[shattered|shatter]].\n\nRobin found Ted sitting outside in the cold. She sat beside him and said nothing. Sometimes, [[silence|silence]] was the only [[comfort|comfort]] she could offer.\n\n\"She chose him,\" Ted said [[bitterly|bitterly]].\n\n\"I know,\" Robin said softly.",
+  "words": {
+    "cancel": {
+      "pos": "v.",
+      "ipa": "/ˈkæn.səl/",
+      "cn": "取消",
+      "en": "to decide that something will not happen"
+    },
+    "seize": {
+      "pos": "v.",
+      "ipa": "/siːz/",
+      "cn": "抓住",
+      "en": "to take a chance quickly"
+    },
+    "opportunity": {
+      "pos": "n.",
+      "ipa": "/ˌɒp.əˈtjuː.nɪ.ti/",
+      "cn": "机会",
+      "en": "a chance to do something"
+    },
+    "venue": {
+      "pos": "n.",
+      "ipa": "/ˈven.juː/",
+      "cn": "场地",
+      "en": "the place where an event happens"
+    },
+    "invite": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvaɪt/",
+      "cn": "邀请",
+      "en": "to ask someone to come to an event"
+    },
+    "annoy": {
+      "pos": "v.",
+      "ipa": "/əˈnɔɪ/",
+      "cn": "惹恼",
+      "en": "to make someone slightly angry"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫",
+      "en": "to pause before doing something"
+    },
+    "return": {
+      "pos": "v.",
+      "ipa": "/rɪˈtɜːn/",
+      "cn": "返回",
+      "en": "to come back"
+    },
+    "determined": {
+      "pos": "adj.",
+      "ipa": "/dɪˈtɜː.mɪnd/",
+      "cn": "坚定的",
+      "en": "having a firm decision"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel uncomfortable"
+    },
+    "gnaw": {
+      "pos": "v.",
+      "ipa": "/nɔː/",
+      "cn": "啃噬；折磨",
+      "en": "to trouble someone continuously"
+    },
+    "rushed": {
+      "pos": "adj.",
+      "ipa": "/rʌʃt/",
+      "cn": "仓促的",
+      "en": "done too quickly"
+    },
+    "show up": {
+      "pos": "phr.v.",
+      "ipa": "/ʃəʊ ʌp/",
+      "cn": "出现",
+      "en": "to arrive where you are expected"
+    },
+    "unexpectedly": {
+      "pos": "adv.",
+      "ipa": "/ˌʌn.ɪkˈspek.tɪd.li/",
+      "cn": "出乎意料地",
+      "en": "in a surprising way"
+    },
+    "torn": {
+      "pos": "adj.",
+      "ipa": "/tɔːn/",
+      "cn": "犹豫不决的",
+      "en": "unable to decide between choices"
+    },
+    "tension": {
+      "pos": "n.",
+      "ipa": "/ˈten.ʃən/",
+      "cn": "紧张",
+      "en": "a feeling of nervous anxiety"
+    },
+    "unbearable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈbeə.rə.bəl/",
+      "cn": "无法忍受的",
+      "en": "too bad to be endured"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "altar": {
+      "pos": "n.",
+      "ipa": "/ˈɒl.tər/",
+      "cn": "祭坛；婚礼台",
+      "en": "the place where a wedding happens"
+    },
+    "shatter": {
+      "pos": "v.",
+      "ipa": "/ˈʃæt.ər/",
+      "cn": "粉碎",
+      "en": "to break into many pieces"
+    },
+    "silence": {
+      "pos": "n.",
+      "ipa": "/ˈsaɪ.ləns/",
+      "cn": "沉默",
+      "en": "a complete lack of sound"
+    },
+    "comfort": {
+      "pos": "n.",
+      "ipa": "/ˈkʌm.fət/",
+      "cn": "安慰",
+      "en": "a feeling of being less sad"
+    },
+    "bitterly": {
+      "pos": "adv.",
+      "ipa": "/ˈbɪt.ə.li/",
+      "cn": "痛苦地",
+      "en": "in a way that shows deep sadness"
+    }
+  }
+}

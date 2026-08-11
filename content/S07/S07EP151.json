@@ -1,0 +1,140 @@
+{
+  "id": 151,
+  "title": "The Burning Beekeeper",
+  "cn": "第 15 集 · 着火的养蜂人",
+  "novel": "Lily and Marshall threw a [[housewarming|housewarming]] party at their new suburban home. They invited all their friends and neighbors. They wanted everything to be [[perfect|perfect]] for their first party in the new house. However, the evening quickly turned into a [[disaster|disaster]]. Ted nearly got into a [[fight|fight]] with Marshall's boss at the party. They had [[disagreed|disagree]] about architecture, and things got [[heated|heat]]. Ted felt [[insulted|insult]] by the boss's comments and almost threw a [[punch|punch]]. Marshall had to step in and separate them before things got worse. Meanwhile, Barney [[hit on|hit on]] a divorcée at the party. She was an [[attractive|attractive]] woman who had recently gone through a [[divorce|divorce]]. Barney used all his best lines, but she was not easily [[impressed|impress]]. She saw right through his [[charms|charm]] and [[rejected|reject]] his advances. Barney was not used to being turned down and felt [[confused|confuse]]. Robin tried to keep the party running [[smoothly|smooth]], but everything kept going wrong. The food was [[burning|burn]] in the oven, the drinks were running low, and a neighbor brought bees as a gift. The bees [[escaped|escape]] and caused [[chaos|chaos]] among the guests. Everyone ran around trying to avoid getting [[stung|sting]]. Marshall apologized to Lily for the [[disastrous|disastrous]] evening. She laughed and said it was the most [[memorable|memorable]] party she had ever had.",
+  "words": {
+    "housewarming": {
+      "pos": "n.",
+      "ipa": "/ˈhaʊswɔːrmɪŋ/",
+      "cn": "乔迁派对",
+      "en": "a party for a new home"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws"
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzæstər/",
+      "cn": "灾难",
+      "en": "a sudden terrible event"
+    },
+    "fight": {
+      "pos": "n.",
+      "ipa": "/faɪt/",
+      "cn": "打架",
+      "en": "a physical conflict"
+    },
+    "disagree": {
+      "pos": "v.",
+      "ipa": "/ˌdɪsəˈɡriːd/",
+      "cn": "不同意",
+      "en": "to have different opinions"
+    },
+    "heat": {
+      "pos": "v.",
+      "ipa": "/ˈhiːtɪd/",
+      "cn": "激烈",
+      "en": "to become intense or angry"
+    },
+    "insult": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsʌltɪd/",
+      "cn": "冒犯",
+      "en": "to say something offensive"
+    },
+    "punch": {
+      "pos": "n.",
+      "ipa": "/pʌntʃ/",
+      "cn": "一拳",
+      "en": "a hit with a closed hand"
+    },
+    "hit on": {
+      "pos": "phr.v.",
+      "ipa": "/hɪt ɑːn/",
+      "cn": "搭讪",
+      "en": "to flirt with someone"
+    },
+    "attractive": {
+      "pos": "adj.",
+      "ipa": "/əˈtræktɪv/",
+      "cn": "有魅力的",
+      "en": "good-looking and appealing"
+    },
+    "divorce": {
+      "pos": "n.",
+      "ipa": "/dɪˈvɔːrs/",
+      "cn": "离婚",
+      "en": "the legal end of a marriage"
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈprest/",
+      "cn": "打动",
+      "en": "to make someone admire you"
+    },
+    "charm": {
+      "pos": "n.",
+      "ipa": "/tʃɑːrmz/",
+      "cn": "魅力",
+      "en": "the power to please others"
+    },
+    "reject": {
+      "pos": "v.",
+      "ipa": "/rɪˈdʒektɪd/",
+      "cn": "拒绝",
+      "en": "to refuse to accept someone"
+    },
+    "confuse": {
+      "pos": "v.",
+      "ipa": "/kənˈfjuːzd/",
+      "cn": "使困惑",
+      "en": "to make unclear in the mind"
+    },
+    "smooth": {
+      "pos": "adv.",
+      "ipa": "/ˈsmuːðli/",
+      "cn": "顺利地",
+      "en": "without problems"
+    },
+    "burn": {
+      "pos": "v.",
+      "ipa": "/ˈbɜːrnɪŋ/",
+      "cn": "烧焦",
+      "en": "to be damaged by fire"
+    },
+    "escape": {
+      "pos": "v.",
+      "ipa": "/ɪˈskeɪpt/",
+      "cn": "逃跑",
+      "en": "to get free from something"
+    },
+    "chaos": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪɑːs/",
+      "cn": "混乱",
+      "en": "a state of total disorder"
+    },
+    "sting": {
+      "pos": "v.",
+      "ipa": "/stʌŋ/",
+      "cn": "叮咬",
+      "en": "to cause sharp pain"
+    },
+    "disastrous": {
+      "pos": "adj.",
+      "ipa": "/dɪˈzæstrəs/",
+      "cn": "灾难性的",
+      "en": "causing great damage"
+    },
+    "memorable": {
+      "pos": "adj.",
+      "ipa": "/ˈmemərəbl/",
+      "cn": "难忘的",
+      "en": "worth being remembered"
+    }
+  }
+}

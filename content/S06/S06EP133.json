@@ -1,0 +1,23 @@
+{
+  "id": 133,
+  "title": "Hopeless",
+  "cn": "第 21 集 · 绝望",
+  "novel": "Barney wanted to [[bond|bond]] with his father Jerome, but he felt that his own life was not [[impressive|impress]] enough. He asked the gang to help him lie to make his life seem more [[exciting|excite]] and [[glamorous|glamorous]]. Ted was asked to pretend he was a famous architect. Robin was told to act like a television star. Marshall and Lily were supposed to pretend they were wealthy [[philanthropists|philanthropist]]. Barney even gave everyone [[fake|fake]] backstories and rehearsed them before the dinner. When Jerome arrived with his new family, Barney put on his best performance. He told [[exaggerated|exaggerate]] stories about his adventures and made his friends sound like [[celebrities|celebrity]]. The gang played along, though they felt [[uncomfortable|uncomfortable]] lying to a man who was trying to have an honest relationship with his son. During the dinner, Jerome's other son, J.J., talked about his school and his friends. Barney felt a [[surge|surge]] of jealousy. He realized that J.J. had grown up with the father that Barney never had. After dinner, Barney took his father aside and finally told the truth. He said that he was not a successful businessman or a hero. He was just a guy who wore suits and chased women. Jerome listened quietly and then told Barney that he did not need to be [[extraordinary|extraordinary]] to be loved. He said he was proud of Barney simply because he was his son. Barney was [[moved|move]] by these words but could not bring himself to fully forgive his father. Later, Barney told the gang that he wanted to go to a casino and gamble his [[sorrows|sorrow]] away. They all went together and had a wild night. By morning, they were exhausted but oddly [[content|content]]. Barney realized that even though his relationship with his father was far from perfect, at least he had his friends, and that was something truly [[hopeless|hopeless]] to give up on.",
+  "words": {
+    "bond": {"pos": "v.", "ipa": "/bɑːnd/", "cn": "建立关系;产生联结", "en": "to form a close relationship with someone"},
+    "impress": {"pos": "v.", "ipa": "/ɪmˈpres/", "cn": "给…留下印象", "en": "to make someone admire or respect you"},
+    "excite": {"pos": "v.", "ipa": "/ɪkˈsaɪt/", "cn": "使兴奋;使激动", "en": "to make someone feel eager and happy"},
+    "glamorous": {"pos": "adj.", "ipa": "/ˈɡlæmərəs/", "cn": "迷人的;富有魅力的", "en": "attractive and exciting in a luxurious way"},
+    "philanthropist": {"pos": "n.", "ipa": "/fɪˈlænθrəpɪst/", "cn": "慈善家", "en": "a person who gives money to help others"},
+    "fake": {"pos": "adj.", "ipa": "/feɪk/", "cn": "假的;伪造的", "en": "not real and made to trick people"},
+    "exaggerate": {"pos": "v.", "ipa": "/ɪɡˈzædʒəreɪt/", "cn": "夸张;夸大", "en": "to make something seem larger or better than it is"},
+    "celebrity": {"pos": "n.", "ipa": "/səˈlebrəti/", "cn": "名人;明星", "en": "a famous person known by many people"},
+    "uncomfortable": {"pos": "adj.", "ipa": "/ʌnˈkʌmfərtəbl/", "cn": "不舒服的;不自在的", "en": "not feeling relaxed or at ease"},
+    "surge": {"pos": "n.", "ipa": "/sɜːrdʒ/", "cn": "涌现;猛增", "en": "a sudden strong feeling or increase"},
+    "extraordinary": {"pos": "adj.", "ipa": "/ɪkˈstrɔːrdəneri/", "cn": "非凡的;特别的", "en": "very unusual and impressive"},
+    "move": {"pos": "v.", "ipa": "/muːv/", "cn": "感动;打动", "en": "to affect someone with strong emotion"},
+    "sorrow": {"pos": "n.", "ipa": "/ˈsɑːroʊ/", "cn": "悲伤;哀痛", "en": "a feeling of deep sadness"},
+    "content": {"pos": "adj.", "ipa": "/kənˈtent/", "cn": "满足的;满意的", "en": "happy and satisfied with what you have"},
+    "hopeless": {"pos": "adj.", "ipa": "/ˈhoʊpləs/", "cn": "绝望的;无望的", "en": "having no hope or chance of success"}
+  }
+}

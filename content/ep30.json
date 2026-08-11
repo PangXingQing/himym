@@ -1,0 +1,140 @@
+{
+  "id": 30,
+  "title": "Atlantic City",
+  "cn": "第30集 · 大西洋城",
+  "novel": "Marshall and Lily looked at each other across the breakfast table and had the same [[insane|insane]] idea at the same time. \"Let's get [[married|marry]],\" Lily said. \"Now,\" Marshall added. \"Like, right now. Atlantic City. Let's [[elope|elope]].\"\n\nThey grabbed their [[coats|coat]], jumped on a [[bus|bus]], and headed to the [[casino|casino]] town by the [[ocean|ocean]]. The whole trip felt like a [[dream|dream]] — the [[neon|neon]] lights, the [[tacky|tacky]] [[chapels|chapel]], the old couple who had been married for fifty years and still held hands.\n\nBut eloping is not as simple as it sounds. First, they needed a [[license|license]], and the [[courthouse|courthouse]] was closed. Then they discovered that the [[chapel|chapel]] required a [[witness|witness]], and the only person available was a drunk guy named [[Randy|Randy]] who kept calling Lily \"[[sweetheart|sweetheart]].\"\n\n\"This is not how I [[pictured|picture]] my wedding,\" Lily said, standing in a [[gift shop|gift shop]] buying a [[plastic|plastic]] ring.\n\n\"Me neither,\" Marshall admitted. \"But I don't care about the ring or the chapel or the flowers. I just want to be your [[husband|husband]].\"\n\nThey did get married that weekend — on a [[ferry|ferry]] at [[sunset|sunset]], with the Atlantic Ocean as their [[witness|witness]]. It was [[chaotic|chaos]], it was [[ridiculous|ridiculous]], and it was [[perfectly|perfect]] them.",
+  "words": {
+    "marry": {
+      "pos": "v.",
+      "ipa": "/ˈmær.i/",
+      "cn": "结婚",
+      "en": "to become someone's husband or wife"
+    },
+    "elope": {
+      "pos": "v.",
+      "ipa": "/ɪˈləʊp/",
+      "cn": "私奔；秘密结婚",
+      "en": "to run away secretly to get married"
+    },
+    "coat": {
+      "pos": "n.",
+      "ipa": "/kəʊt/",
+      "cn": "外套；大衣",
+      "en": "a piece of warm clothing worn over other clothes"
+    },
+    "bus": {
+      "pos": "n.",
+      "ipa": "/bʌs/",
+      "cn": "公共汽车",
+      "en": "a large vehicle that carries many passengers on roads"
+    },
+    "ocean": {
+      "pos": "n.",
+      "ipa": "/ˈəʊ.ʃən/",
+      "cn": "海洋",
+      "en": "the very large area of salt water that covers most of the earth"
+    },
+    "dream": {
+      "pos": "n.",
+      "ipa": "/driːm/",
+      "cn": "梦；梦想",
+      "en": "things you see and feel while sleeping; a wished-for future"
+    },
+    "neon": {
+      "pos": "n.",
+      "ipa": "/ˈniː.ɒn/",
+      "cn": "霓虹灯",
+      "en": "brightly colored lights made from a special gas"
+    },
+    "tacky": {
+      "pos": "adj.",
+      "ipa": "/ˈtæk.i/",
+      "cn": "俗气的；廉价的",
+      "en": "cheap and of bad quality in a way that looks silly"
+    },
+    "chapel": {
+      "pos": "n.",
+      "ipa": "/ˈtʃæp.əl/",
+      "cn": "小教堂；婚礼教堂",
+      "en": "a small church or a room for weddings"
+    },
+    "license": {
+      "pos": "n.",
+      "ipa": "/ˈlaɪ.səns/",
+      "cn": "许可证；执照",
+      "en": "an official document giving you permission to do something"
+    },
+    "courthouse": {
+      "pos": "n.",
+      "ipa": "/ˈkɔːt.haʊs/",
+      "cn": "法院大楼",
+      "en": "a building where legal cases are heard"
+    },
+    "witness": {
+      "pos": "n.",
+      "ipa": "/ˈwɪt.nəs/",
+      "cn": "证人；见证人",
+      "en": "someone who sees an event and can describe it"
+    },
+    "sweetheart": {
+      "pos": "n.",
+      "ipa": "/ˈswiːt.hɑːt/",
+      "cn": "甜心；亲爱的",
+      "en": "a name you call someone you love; a kind and lovable person"
+    },
+    "picture": {
+      "pos": "v.",
+      "ipa": "/ˈpɪk.tʃər/",
+      "cn": "想象；设想",
+      "en": "to imagine something in your mind"
+    },
+    "gift shop": {
+      "pos": "n.",
+      "ipa": "/ɡɪft ʃɒp/",
+      "cn": "礼品店",
+      "en": "a small store that sells presents and souvenirs"
+    },
+    "plastic": {
+      "pos": "adj.",
+      "ipa": "/ˈplæs.tɪk/",
+      "cn": "塑料的；假的",
+      "en": "made from a light, cheap artificial material"
+    },
+    "husband": {
+      "pos": "n.",
+      "ipa": "/ˈhʌz.bənd/",
+      "cn": "丈夫",
+      "en": "the man a woman is married to"
+    },
+    "ferry": {
+      "pos": "n.",
+      "ipa": "/ˈfer.i/",
+      "cn": "渡轮",
+      "en": "a boat that carries people and vehicles across water"
+    },
+    "sunset": {
+      "pos": "n.",
+      "ipa": "/ˈsʌn.set/",
+      "cn": "日落",
+      "en": "the time in the evening when the sun goes below the horizon"
+    },
+    "chaos": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪ.ɒs/",
+      "cn": "混乱；大混乱",
+      "en": "a state of complete disorder and confusion"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒谬的；可笑的",
+      "en": "very silly or unreasonable; making you want to laugh"
+    },
+    "perfectly": {
+      "pos": "adv.",
+      "ipa": "/ˈpɜː.fekt.li/",
+      "cn": "完美地",
+      "en": "in a way that could not be better; completely"
+    }
+  }
+}

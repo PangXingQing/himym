@@ -1,0 +1,24 @@
+{
+  "id": 123,
+  "title": "The Mermaid Theory",
+  "cn": "第 11 集 · 美人鱼理论",
+  "novel": "Ted's friendship with Zoey was put to the test when Barney introduced the so-called Mermaid Theory. According to Barney, a man could not be just friends with a married woman because eventually he would see her as a [[mermaid|mermaid]]. The theory stated that after a certain amount of time, a man would start to find any woman [[attractive|attractive]], no matter how she looked before. Ted [[dismissed|dismiss]] the idea at first, but the more time he spent with Zoey, the more he worried that Barney might be right. He tried to keep his [[distance|distance]], but Zoey kept reaching out to him. They had long conversations about architecture and art, and Ted felt a deep [[connection|connection]] growing between them. Meanwhile, Marshall and Robin found themselves spending time alone together for the first time. They were both [[nervous|nervous]] because they had heard that men and women could not be just friends. Marshall tried to [[avoid|avoid]] eye contact with Robin, and Robin tried to sit as far away from him as possible. The situation was [[hilarious|hilarious]] and [[awkward|awkward]] at the same time. Eventually, they realized that the theory was [[nonsense|nonsense]] and that they could be friends without any [[romantic|romantic]] tension. Ted, however, was not so lucky. He realized that his feelings for Zoey were growing [[stronger|strong]] every day. He knew that acting on those feelings would [[complicate|complicate]] everything. Zoey was still married to The Captain, and Ted did not want to be the man who broke up a marriage. He [[confided|confide]] in Marshall, who told him to follow his heart but be careful. Ted was [[torn|tear]] between his desire and his principles. The episode ended with Ted and Zoey sharing a quiet moment on a rooftop, looking at the city skyline, both aware that something was [[shifting|shift]] between them but neither willing to name it.",
+  "words": {
+    "mermaid": {"pos": "n.", "ipa": "/ˈmɜːrmeɪd/", "cn": "美人鱼", "en": "a imaginary creature with a woman's body and a fish's tail"},
+    "attractive": {"pos": "adj.", "ipa": "/əˈtræktɪv/", "cn": "有吸引力的;迷人的", "en": "pleasing to look at or interesting"},
+    "dismiss": {"pos": "v.", "ipa": "/dɪsˈmɪs/", "cn": "不予理会;打发走", "en": "to refuse to consider something seriously"},
+    "distance": {"pos": "n.", "ipa": "/ˈdɪstəns/", "cn": "距离;间隔", "en": "the amount of space between things"},
+    "connection": {"pos": "n.", "ipa": "/kəˈnekʃ.ən/", "cn": "联系;连接", "en": "a relationship or link between people"},
+    "nervous": {"pos": "adj.", "ipa": "/ˈnɜːrvəs/", "cn": "紧张的;不安的", "en": "feeling worried or anxious about something"},
+    "avoid": {"pos": "v.", "ipa": "/əˈvɔɪd/", "cn": "避免;避开", "en": "to stay away from something or someone"},
+    "hilarious": {"pos": "adj.", "ipa": "/hɪˈleriəs/", "cn": "极其好笑的", "en": "extremely funny and amusing"},
+    "awkward": {"pos": "adj.", "ipa": "/ˈɔːk.wərd/", "cn": "尴尬的;别扭的", "en": "feeling uncomfortable or embarrassed"},
+    "nonsense": {"pos": "n.", "ipa": "/ˈnɑːnsens/", "cn": "胡说;废话", "en": "ideas or words that are silly or untrue"},
+    "romantic": {"pos": "adj.", "ipa": "/roʊˈmæntɪk/", "cn": "浪漫的;爱情的", "en": "relating to love and romance"},
+    "strong": {"pos": "adj.", "ipa": "/strɔːŋ/", "cn": "强烈的;坚强的", "en": "powerful and intense in feeling"},
+    "complicate": {"pos": "v.", "ipa": "/ˈkɑːmplɪkeɪt/", "cn": "使复杂化", "en": "to make something more difficult"},
+    "confide": {"pos": "v.", "ipa": "/kənˈfaɪd/", "cn": "倾诉;吐露秘密", "en": "to tell someone a private secret"},
+    "tear": {"pos": "v.", "ipa": "/ter/", "cn": "撕裂;被扯开", "en": "to be pulled in different directions"},
+    "shift": {"pos": "v.", "ipa": "/ʃɪft/", "cn": "转变;改变", "en": "to change position or direction"}
+  }
+}

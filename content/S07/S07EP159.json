@@ -1,0 +1,68 @@
+{
+  "id": 159,
+  "title": "The Magician's Code (1)",
+  "cn": "第 23 集 · 魔术师法则（上）",
+  "novel": "Marshall was in Atlantic City with Barney when Lily went into labor. He received a [[frantic|frantic]] phone call from Lily telling him the baby was coming. Marshall [[panicked|panic]] and did not know what to do. He was hours away from home and had no way to get back quickly. Barney tried to [[calm|calm]] him down and figure out a plan. They tried to rent a car, but all the rental places were closed. They tried to take a bus, but the next one was not for hours. Marshall was [[desperate|desperate]] to get back to Lily in time. He even [[considered|consider]] stealing a car, but Barney talked him out of it. Barney used all his [[resources|resource]] to find a way back. He called in favors from everyone he knew. Meanwhile, Lily was at the hospital with Ted and Robin. She was [[scared|scare]] but tried to stay calm for the baby. Ted held her hand and told her everything would be fine. Robin helped the nurses and kept everyone [[informed|inform]] about Lily's progress. Marshall and Barney finally found a [[helicopter|helicopter]] pilot willing to fly them back. The flight was [[bumpy|bumpy]] and Marshall felt sick the whole way. He kept thinking about Lily and the baby. He prayed that he would make it in time. Barney told him stories to keep his mind off the worry. Marshall knew that becoming a father was the most important moment of his life.",
+  "words": {
+    "frantic": {
+      "pos": "adj.",
+      "ipa": "/ˈfræntɪk/",
+      "cn": "慌乱的",
+      "en": "wild with fear or worry"
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpænɪkt/",
+      "cn": "恐慌",
+      "en": "to feel sudden extreme fear"
+    },
+    "calm": {
+      "pos": "v.",
+      "ipa": "/kɑːm/",
+      "cn": "使平静",
+      "en": "to make someone less worried"
+    },
+    "desperate": {
+      "pos": "adj.",
+      "ipa": "/ˈdespərət/",
+      "cn": "绝望的",
+      "en": "willing to do anything"
+    },
+    "consider": {
+      "pos": "v.",
+      "ipa": "/kənˈsɪdərd/",
+      "cn": "考虑",
+      "en": "to think about doing something"
+    },
+    "resource": {
+      "pos": "n.",
+      "ipa": "/ˈriːsɔːrsɪz/",
+      "cn": "资源",
+      "en": "things available to use"
+    },
+    "scare": {
+      "pos": "v.",
+      "ipa": "/skerd/",
+      "cn": "害怕",
+      "en": "to feel afraid"
+    },
+    "inform": {
+      "pos": "v.",
+      "ipa": "/ɪnˈfɔːrmd/",
+      "cn": "通知",
+      "en": "to tell someone about something"
+    },
+    "helicopter": {
+      "pos": "n.",
+      "ipa": "/ˈhelɪkɑːptər/",
+      "cn": "直升机",
+      "en": "a flying machine with blades"
+    },
+    "bumpy": {
+      "pos": "adj.",
+      "ipa": "/ˈbʌmpi/",
+      "cn": "颠簸的",
+      "en": "not smooth; going up and down"
+    }
+  }
+}

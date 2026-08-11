@@ -1,0 +1,31 @@
+{
+  "id": 6,
+  "title": "The Halloween Pumpkin",
+  "cn": "第 6 集 · 万圣节的南瓜姑娘",
+  "novel": "Every year on Halloween, Ted climbed to the roof and waited.\n\nFour years earlier, at a noisy [[costume|costume]] party, he had met a girl [[dressed as|dress as]] a pumpkin. They talked for an hour about films and cheap wine. Then she [[vanished|vanish]] into the crowd before he could ask for her number.\n\nSince then she had become a [[legend|legend]] — his own tiny [[myth|myth]].\n\nSo he put on the same silly [[outfit|outfit]] again: a green [[hat|hat]], plastic [[fangs|fangs]], and a [[cape|cape]] that made him look [[absurd|absurd]]. Barney called it [[pathetic|pathetic]]. Lily called it [[loyal|loyal]]. Both were right.\n\nThe roof was freezing. Ted [[shivered|shiver]] under the [[chilly|chilly]] wind while children below shouted for sweets and [[carved|carve]] pumpkins [[glowed|glow]] orange on every step.\n\nHour after hour he stayed, [[stubbornly|stubbornly]] [[scanning|scan]] the street. His fingers went [[numb|numb]]. His hope [[shrank|shrink]].\n\nShe never came.\n\nWhen the last light went out, Ted went downstairs. He was [[disappointed|disappointed]], but not sad. Some people, he decided, are not a [[destination|destination]]; they are just proof that the [[search|search]] is worth it.\n\nNext year, he would climb up again.",
+  "words": {
+    "costume": {"pos": "n.", "ipa": "/ˈkɒs.tjuːm/", "cn": "戏服；化装服", "en": "special clothes you wear to look like someone or something else"},
+    "dress as": {"pos": "phr.", "ipa": "/dres æz/", "cn": "打扮成……", "en": "to wear clothes that make you look like someone or something"},
+    "vanish": {"pos": "v.", "ipa": "/ˈvæn.ɪʃ/", "cn": "突然消失", "en": "to disappear suddenly and completely"},
+    "legend": {"pos": "n.", "ipa": "/ˈledʒ.ənd/", "cn": "传奇；传说", "en": "an old story, or a famous person people talk about"},
+    "myth": {"pos": "n.", "ipa": "/mɪθ/", "cn": "神话；虚构的故事", "en": "a very old story, or an idea that many people believe but is not true"},
+    "outfit": {"pos": "n.", "ipa": "/ˈaʊt.fɪt/", "cn": "一身装扮", "en": "a set of clothes worn together"},
+    "hat": {"pos": "n.", "ipa": "/hæt/", "cn": "帽子", "en": "something you wear on your head"},
+    "fangs": {"pos": "n.", "ipa": "/fæŋz/", "cn": "尖牙（如吸血鬼）", "en": "long sharp teeth, like a snake or a vampire has"},
+    "cape": {"pos": "n.", "ipa": "/keɪp/", "cn": "披风", "en": "a loose coat with no arms that hangs from your shoulders"},
+    "absurd": {"pos": "adj.", "ipa": "/əbˈsɜːd/", "cn": "荒谬的", "en": "very silly and against common sense"},
+    "pathetic": {"pos": "adj.", "ipa": "/pəˈθet.ɪk/", "cn": "可悲的；没出息的", "en": "so weak or sad that people look down on you"},
+    "loyal": {"pos": "adj.", "ipa": "/ˈlɔɪ.əl/", "cn": "忠诚的", "en": "always supporting a person or an idea"},
+    "shiver": {"pos": "v.", "ipa": "/ˈʃɪv.ə/", "cn": "发抖", "en": "to shake because you are cold or afraid"},
+    "chilly": {"pos": "adj.", "ipa": "/ˈtʃɪl.i/", "cn": "微寒的", "en": "cold enough to feel uncomfortable"},
+    "carve": {"pos": "v.", "ipa": "/kɑːv/", "cn": "雕刻", "en": "to cut a shape into wood, stone or a pumpkin"},
+    "glow": {"pos": "v.", "ipa": "/ɡləʊ/", "cn": "发出柔光", "en": "to give out a soft, warm light"},
+    "stubbornly": {"pos": "adv.", "ipa": "/ˈstʌb.ən.li/", "cn": "固执地", "en": "in a way that refuses to stop or change"},
+    "scan": {"pos": "v.", "ipa": "/skæn/", "cn": "扫视；仔细搜寻", "en": "to look carefully across a place to find something"},
+    "numb": {"pos": "adj.", "ipa": "/nʌm/", "cn": "麻木的；冻僵的", "en": "unable to feel anything, often because of cold"},
+    "shrink": {"pos": "v.", "ipa": "/ʃrɪŋk/", "cn": "缩小；减弱", "en": "to become smaller"},
+    "disappointed": {"pos": "adj.", "ipa": "/ˌdɪs.əˈpɔɪn.tɪd/", "cn": "失望的", "en": "sad because something did not happen as you hoped"},
+    "destination": {"pos": "n.", "ipa": "/ˌdes.tɪˈneɪ.ʃən/", "cn": "目的地", "en": "the place you are travelling to"},
+    "search": {"pos": "n.", "ipa": "/sɜːtʃ/", "cn": "寻找；搜寻", "en": "the act of trying to find something"}
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": 76,
+  "title": "Benefits",
+  "cn": "第 12 集 · 福利",
+  "novel": "Ted and Robin were [[arguing|argue]] constantly as roommates. Every day brought a new [[conflict|conflict]] over dishes, TV volume, or bathroom schedules. The [[tension|tension]] was [[unbearable|unbearable]].\n\nThen they discovered a [[solution|solution]]: whenever they argued, they would resolve it [[physically|physically]]. They became \"friends with [[benefits|benefit]].\" The arrangement [[worked|work]] — the fighting stopped, and the apartment was peaceful.\n\nBarney was [[furious|furious]]. He had feelings for Robin and could not [[tolerate|tolerate]] the idea of Ted and Robin together. He tried to [[sabotage|sabotage]] their arrangement at every turn.\n\n\"This is a terrible idea,\" Barney [[warned|warn]]. \"Someone will get [[hurt|hurt]].\"\n\nMarshall [[caught|catch]] Ted and Robin in a [[compromising|compromise]] position. He was [[shocked|shock]] and [[disgusted|disgust]]. \"I can never [[unsee|unsee]] that,\" he said.\n\nThe arrangement eventually [[fell apart|fall apart]]. Ted and Robin realized that mixing friendship and [[intimacy|intimacy]] only [[complicated|complicate]] things. The [[boundaries|boundary]] were too [[blurry|blurry]].\n\n\"We can't keep doing this,\" Robin said.\n\n\"You're right,\" Ted [[agreed|agree]].\n\nThey went back to being just roommates. The arguments returned, but at least things were [[normal|normal]] again.\n\nBarney felt [[relieved|relieve]] but also [[jealous|jealous]]. He watched Robin from afar, [[wondering|wonder]] if he would ever have the [[courage|courage]] to tell her how he felt.",
+  "words": {
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑː.ɡjuː/",
+      "cn": "争吵",
+      "en": "to disagree angrily with someone"
+    },
+    "conflict": {
+      "pos": "n.",
+      "ipa": "/ˈkɒn.flɪkt/",
+      "cn": "冲突",
+      "en": "a serious disagreement"
+    },
+    "tension": {
+      "pos": "n.",
+      "ipa": "/ˈten.ʃən/",
+      "cn": "紧张",
+      "en": "a feeling of nervous anxiety"
+    },
+    "unbearable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈbeə.rə.bəl/",
+      "cn": "无法忍受的",
+      "en": "too bad to be endured"
+    },
+    "solution": {
+      "pos": "n.",
+      "ipa": "/səˈluː.ʃən/",
+      "cn": "解决办法",
+      "en": "a way of solving a problem"
+    },
+    "physically": {
+      "pos": "adv.",
+      "ipa": "/ˈfɪz.ɪ.kəli/",
+      "cn": "身体上地",
+      "en": "in a way related to the body"
+    },
+    "benefit": {
+      "pos": "n.",
+      "ipa": "/ˈben.ɪ.fɪt/",
+      "cn": "好处；福利",
+      "en": "an advantage or good thing"
+    },
+    "work": {
+      "pos": "v.",
+      "ipa": "/wɜːk/",
+      "cn": "奏效",
+      "en": "to be effective or successful"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "暴怒的",
+      "en": "very angry"
+    },
+    "tolerate": {
+      "pos": "v.",
+      "ipa": "/ˈtɒl.ə.reɪt/",
+      "cn": "忍受",
+      "en": "to accept something you do not like"
+    },
+    "sabotage": {
+      "pos": "v.",
+      "ipa": "/ˈsæb.ə.tɑːʒ/",
+      "cn": "破坏",
+      "en": "to deliberately ruin something"
+    },
+    "warn": {
+      "pos": "v.",
+      "ipa": "/wɔːn/",
+      "cn": "警告",
+      "en": "to tell someone about a danger"
+    },
+    "hurt": {
+      "pos": "v.",
+      "ipa": "/hɜːt/",
+      "cn": "伤害",
+      "en": "to cause pain to someone"
+    },
+    "catch": {
+      "pos": "v.",
+      "ipa": "/kætʃ/",
+      "cn": "撞见",
+      "en": "to find someone doing something"
+    },
+    "compromise": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "尴尬的",
+      "en": "making people feel awkward"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɒk/",
+      "cn": "震惊",
+      "en": "to surprise someone very much"
+    },
+    "disgust": {
+      "pos": "v.",
+      "ipa": "/dɪsˈɡʌst/",
+      "cn": "使厌恶",
+      "en": "to make someone feel sick"
+    },
+    "unsee": {
+      "pos": "v.",
+      "ipa": "/ʌnˈsiː/",
+      "cn": "取消看到",
+      "en": "to wish you could forget seeing something"
+    },
+    "fall apart": {
+      "pos": "phr.v.",
+      "ipa": "/fɔːl əˈpɑːt/",
+      "cn": "破裂",
+      "en": "to break down or fail"
+    },
+    "intimacy": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.tɪ.mə.si/",
+      "cn": "亲密",
+      "en": "a close personal relationship"
+    },
+    "complicate": {
+      "pos": "v.",
+      "ipa": "/ˈkɒm.plɪ.keɪt/",
+      "cn": "使复杂",
+      "en": "to make something more difficult"
+    },
+    "boundary": {
+      "pos": "n.",
+      "ipa": "/ˈbaʊn.dər.i/",
+      "cn": "界限",
+      "en": "a line that marks a limit"
+    },
+    "blurry": {
+      "pos": "adj.",
+      "ipa": "/ˈblɜː.ri/",
+      "cn": "模糊的",
+      "en": "not clear or sharp"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to have the same opinion"
+    },
+    "normal": {
+      "pos": "adj.",
+      "ipa": "/ˈnɔː.məl/",
+      "cn": "正常的",
+      "en": "usual and expected"
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "使宽慰",
+      "en": "to make someone feel less worried"
+    },
+    "jealous": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒel.əs/",
+      "cn": "嫉妒的",
+      "en": "feeling angry because someone has what you want"
+    },
+    "wonder": {
+      "pos": "v.",
+      "ipa": "/ˈwʌn.dər/",
+      "cn": "想知道",
+      "en": "to ask yourself about something"
+    },
+    "courage": {
+      "pos": "n.",
+      "ipa": "/ˈkʌr.ɪdʒ/",
+      "cn": "勇气",
+      "en": "the ability to do something frightening"
+    }
+  }
+}

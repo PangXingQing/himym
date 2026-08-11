@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "enthusiasm",
+    "hint": "热情；热心",
+    "phonetic": "/ɪnˈθjuː.zi.æz.əm/"
+  },
+  {
+    "type": "spelling",
+    "word": "entertainment",
+    "hint": "娱乐",
+    "phonetic": "/ˌen.təˈteɪn.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "casino",
+    "hint": "赌场",
+    "phonetic": "/kəˈsiː.nəʊ/"
+  },
+  {
+    "type": "spelling",
+    "word": "comedy",
+    "hint": "喜剧",
+    "phonetic": "/ˈkɒm.ə.di/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall was so __________ that he couldn't get out of bed.",
+    "answer": "devastated"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Barney was so __________ that he dragged Marshall everywhere.",
+    "answer": "convinced"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ endured months of pain.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The apartment felt so empty __________ it echoed.",
+    "answer": "that"
+  }
+]

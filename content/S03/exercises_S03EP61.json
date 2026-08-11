@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "hilarious",
+    "hint": "极滑稽的",
+    "phonetic": "/hɪˈler.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "architect",
+    "hint": "建筑师",
+    "phonetic": "/ˈɑːr.kɪ.tekt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found __________ thinking of her.",
+    "answer": "himself"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They __________ to be tourists.",
+    "answer": "pretended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "spelling",
+    "word": "networking",
+    "hint": "人脉",
+    "phonetic": "/ˈnet.wɜːr.kɪŋ/"
+  }
+]

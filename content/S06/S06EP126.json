@@ -1,0 +1,24 @@
+{
+  "id": 126,
+  "title": "Last Words",
+  "cn": "第 14 集 · 最后的话",
+  "novel": "The gang traveled to Minnesota with Marshall for his father's funeral. Everyone was [[somber|somber]] and quiet during the flight. Marshall held Lily's hand tightly and stared out the window. He was trying to remember the last words his father had ever said to him. He [[recalled|recall]] a short, ordinary phone call about the Minnesota Vikings football game. His father's last words had been something [[mundane|mundane]] and unremarkable. This [[bothered|bother]] Marshall deeply. He felt that such an important person deserved more [[meaningful|meaningful]] last words. Ted and Barney decided to try to make Marshall laugh. They knew that laughter was the best way to [[honor|honot]] Mr. Eriksen, who had always been a man full of joy. Ted told [[embarrassing|embarrass]] stories from college, and Barney did [[ridiculous|ridiculous]] impressions of people they knew. Marshall tried not to laugh, but eventually he broke down and [[chuckled|chuckle]]. Through his tears, he told his friends that his father would have loved Barney's [[antics|antics]]. At the funeral, Marshall stood up to give a [[eulogy|eulogy]]. He talked about how his father had taught him to be a good man, to love his family, and to never give up. He said that the last words his father said were not important. What mattered was every word he had ever said before that. The church was filled with [[grief|grief]], but also with love. After the service, Marshall's mother gave him a letter that his father had written before he died. In it, Mr. Eriksen told Marshall how [[proud|proud]] he was of the man his son had become. Marshall read the letter aloud to his friends, and they all [[wept|weep]] together. It was a day of [[sorrow|sorrow]] but also of [[healing|heal]].",
+  "words": {
+    "somber": {"pos": "adj.", "ipa": "/ˈsɑːmbər/", "cn": "忧郁的;严肃的", "en": "dark and sad in mood or color"},
+    "recall": {"pos": "v.", "ipa": "/rɪˈkɔːl/", "cn": "回忆;想起", "en": "to bring a memory back to mind"},
+    "mundane": {"pos": "adj.", "ipa": "/mʌnˈdeɪn/", "cn": "平凡的;平淡的", "en": "ordinary and not interesting or exciting"},
+    "bother": {"pos": "v.", "ipa": "/ˈbɑːðər/", "cn": "困扰;使烦恼", "en": "to make someone feel upset or worried"},
+    "meaningful": {"pos": "adj.", "ipa": "/ˈmiːnɪŋfəl/", "cn": "有意义的;意味深长的", "en": "having real importance or value"},
+    "honot": {"pos": "v.", "ipa": "/ˈɑːnər/", "cn": "尊敬;纪念", "en": "to show great respect for someone"},
+    "embarrass": {"pos": "v.", "ipa": "/ɪmˈbærəs/", "cn": "使尴尬;使难堪", "en": "to make someone feel uncomfortable"},
+    "ridiculous": {"pos": "adj.", "ipa": "/rɪˈdɪkjələs/", "cn": "荒谬的;可笑的", "en": "very silly and unreasonable"},
+    "chuckle": {"pos": "v.", "ipa": "/ˈtʃʌkəl/", "cn": "轻声笑;暗自笑", "en": "to laugh quietly to yourself"},
+    "antics": {"pos": "n.", "ipa": "/ˈæntɪks/", "cn": "滑稽举动;古怪行为", "en": "silly or funny behavior that is playful"},
+    "eulogy": {"pos": "n.", "ipa": "/ˈjuːlədʒi/", "cn": "悼词;颂词", "en": "a speech given at a funeral about the dead person"},
+    "grief": {"pos": "n.", "ipa": "/ɡriːf/", "cn": "悲痛;哀伤", "en": "a deep sadness caused by loss or death"},
+    "proud": {"pos": "adj.", "ipa": "/praʊd/", "cn": "骄傲的;自豪的", "en": "feeling pleased about something you did"},
+    "weep": {"pos": "v.", "ipa": "/wiːp/", "cn": "哭泣;流泪", "en": "to shed tears because of sadness"},
+    "sorrow": {"pos": "n.", "ipa": "/ˈsɑːroʊ/", "cn": "悲伤;哀痛", "en": "a feeling of deep sadness and loss"},
+    "heal": {"pos": "v.", "ipa": "/hiːl/", "cn": "治愈;康复", "en": "to become healthy or happy again after pain"}
+  }
+}

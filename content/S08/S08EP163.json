@@ -1,0 +1,74 @@
+{
+  "id": 163,
+  "title": "Nannies",
+  "cn": "第 3 集 · 保姆",
+  "novel": "Lily and Marshall could not find a nanny for baby Marvin. They [[interviewed|interview]] many candidates but none of them were good enough. Some were [[inexperienced|inexperienced]], some were [[unreliable|unreliable]], and some just did not feel right. Lily was getting [[frustrated|frustrate]] with the whole process. She needed to go back to work soon and they needed someone they could [[trust|trust]]. Meanwhile, Barney was running a scheme to meet girls. He pretended to be a nanny [[agency|agency]] owner and interviewed beautiful women for fake nanny positions. His plan was to meet attractive women who were good with children. Barney thought it was a [[brilliant|brilliant]] idea and told no one about it. However, his scheme [[backfired|backfire]] when the women he interviewed started showing up at Marshall and Lily's house. They were confused and angry when they realized there was no real job. Marshall confronted Barney and told him he was ruining their chances of finding a real nanny. Barney felt [[guilty|guilty]] and [[apologized|apologize]] to Marshall and Lily. He promised to stop his scheme and help them find a good nanny. In the end, they found a wonderful nanny named Mickey, who was Lily's father. He had been living with them and decided to take care of Marvin full-time. Lily was [[surprised|surprised]] but happy that her father wanted to help. Marshall was relieved that they finally had someone they could trust with their son.",
+  "words": {
+    "interview": {
+      "pos": "v.",
+      "ipa": "/ˈɪntərvuːd/",
+      "cn": "面试",
+      "en": "to ask questions to candidates"
+    },
+    "inexperienced": {
+      "pos": "adj.",
+      "ipa": "/ˌɪnɪkˈspɪriənst/",
+      "cn": "缺乏经验的",
+      "en": "having little experience"
+    },
+    "unreliable": {
+      "pos": "adj.",
+      "ipa": "/ˌʌnrɪˈlaɪəbl/",
+      "cn": "不可靠的",
+      "en": "not able to be trusted"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "cn": "使沮丧",
+      "en": "to make someone feel upset"
+    },
+    "trust": {
+      "pos": "v.",
+      "ipa": "/trʌst/",
+      "cn": "信任",
+      "en": "to believe in someone's honesty"
+    },
+    "agency": {
+      "pos": "n.",
+      "ipa": "/ˈeɪdʒənsi/",
+      "cn": "机构",
+      "en": "a business that provides services"
+    },
+    "brilliant": {
+      "pos": "adj.",
+      "ipa": "/ˈbrɪliənt/",
+      "cn": "绝妙的",
+      "en": "very clever or impressive"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪərd/",
+      "cn": "适得其反",
+      "en": "to have the opposite result"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪlti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɑːlədʒaɪzd/",
+      "cn": "道歉",
+      "en": "to say sorry for something"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    }
+  }
+}

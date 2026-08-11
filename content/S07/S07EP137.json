@@ -1,0 +1,122 @@
+{
+  "id": 137,
+  "title": "The Best Man",
+  "cn": "第 1 集 · 最佳男人",
+  "novel": "Barney [[prepared|prepare]] for his wedding to a mystery bride. He felt [[nervous|nervous]] but also [[excited|excited]]. Ted stood beside him as his best man. They [[reminisced|reminisce]] about old memories together. Barney remembered Punchy's wedding, where everything went wrong in a funny way. At that wedding, Marshall and Lily [[announced|announce]] that they were [[expecting|expect]] a baby. Everyone was [[surprised|surprised]] and happy for them. Ted tried to [[calm|calm]] Barney down because he was shaking with worry. He told Barney that everything would be fine. Barney worried about whether he was making the right choice. Ted [[assured|assure]] him that [[marriage|marriage]] was a wonderful thing. Meanwhile, Marshall was very [[protective|protective]] of Lily during her [[pregnancy|pregnancy]]. He followed her everywhere and tried to help her with every little thing. Lily found it [[amusing|amusing]] but also a little [[annoying|annoying]]. Robin was [[dealing|deal]] with her own [[emotions|emotion]] about Barney's wedding. She tried to [[hide|hide]] her true feelings from everyone. The whole gang [[gathered|gather]] together to support Barney on his big day. They all wanted to make sure everything was [[perfect|perfect]]. Barney took a deep breath and smiled. He knew his friends would always be there for him.",
+  "words": {
+    "prepare": {
+      "pos": "v.",
+      "ipa": "/prɪˈpeər/",
+      "cn": "准备",
+      "en": "to get ready for something"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːvəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "excited": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "cn": "兴奋的",
+      "en": "very happy and enthusiastic"
+    },
+    "reminisce": {
+      "pos": "v.",
+      "ipa": "/ˌremɪˈnɪs/",
+      "cn": "回忆",
+      "en": "to talk about past experiences"
+    },
+    "announce": {
+      "pos": "v.",
+      "ipa": "/əˈnaʊns/",
+      "cn": "宣布",
+      "en": "to tell people about something officially"
+    },
+    "expect": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspekt/",
+      "cn": "期待",
+      "en": "to think or believe something will happen"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    },
+    "calm": {
+      "pos": "v.",
+      "ipa": "/kɑːm/",
+      "cn": "使平静",
+      "en": "to make someone less worried"
+    },
+    "assure": {
+      "pos": "v.",
+      "ipa": "/əˈʃʊər/",
+      "cn": "保证",
+      "en": "to tell someone something is true"
+    },
+    "marriage": {
+      "pos": "n.",
+      "ipa": "/ˈmærɪdʒ/",
+      "cn": "婚姻",
+      "en": "the legal relationship between two people"
+    },
+    "protective": {
+      "pos": "adj.",
+      "ipa": "/prəˈtektɪv/",
+      "cn": "保护的",
+      "en": "wanting to keep someone safe"
+    },
+    "pregnancy": {
+      "pos": "n.",
+      "ipa": "/ˈpreɡnənsi/",
+      "cn": "怀孕",
+      "en": "the state of being pregnant"
+    },
+    "amusing": {
+      "pos": "adj.",
+      "ipa": "/əˈmjuːzɪŋ/",
+      "cn": "有趣的",
+      "en": "funny and entertaining"
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪɪŋ/",
+      "cn": "烦人的",
+      "en": "making someone feel slightly angry"
+    },
+    "deal": {
+      "pos": "v.",
+      "ipa": "/diːl/",
+      "cn": "处理",
+      "en": "to handle a situation or problem"
+    },
+    "emotion": {
+      "pos": "n.",
+      "ipa": "/ɪˈmoʊʃn/",
+      "cn": "情感",
+      "en": "a strong feeling such as love or fear"
+    },
+    "hide": {
+      "pos": "v.",
+      "ipa": "/haɪd/",
+      "cn": "隐藏",
+      "en": "to keep something secret"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæðər/",
+      "cn": "聚集",
+      "en": "to come together in one place"
+    },
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "cn": "完美的",
+      "en": "without any mistakes or flaws"
+    }
+  }
+}

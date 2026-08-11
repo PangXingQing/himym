@@ -1,0 +1,152 @@
+{
+  "id": 39,
+  "title": "Arrivederci, Fiero",
+  "cn": "第39集 · 再见，菲亚特",
+  "novel": "Ted's [[car|car]] — a [[beat-up|beat-up]] 1981 Fiero he had [[affectionately|affectionate]] named \"The [[Beast|Beast]]\" — was dying. The [[odometer|odometer]] had [[stopped|stop]] working at 197,000 miles three years ago. It made a [[mysterious|mysterious]] [[clunking|clunk]] noise whenever it turned left. The [[passenger|passenger]] seat was held together with [[duct tape|duct tape]].\n\n\"Time to let it go,\" Marshall said. \"It's had a good life.\"\n\n\"You don't [[understand|understand]],\" Ted said. \"This car has been with me for everything.\" He [[leaned|lean]] against the [[hood|hood]] and [[remembered|remember]]. His first date with Robin. The road trip to [[Chicago|Chicago]] where they ran out of [[gas|gas]] and had to [[push|push]] the car three miles. The night Lily left for San Francisco and Ted drove Marshall around for hours because he could not stop [[crying|cry]].\n\n\"A car is more than a [[machine|machine]],\" Ted said. \"It's a [[time machine|time machine]].\"\n\nThe gang helped Ted [[clean|clean]] out the Fiero one last time. Under the seats, they found a [[library|library]] of lost [[artifacts|artifact]]: Robin's old [[earring|earring]], Barney's lucky [[tie|tie]], Lily's [[painting|paint]] of a [[dolphin|dolphin]] she had done in college, and Marshall's [[diploma|diploma]] that he thought he had lost forever.\n\n\"OK,\" Ted said finally, [[locking|lock]] the car for the last time. \"Arrivederci, Fiero.\"\n\n\"That's Italian for 'goodbye,'\" Barney said. \"Which I know because I am very [[cultured|culture]].\"\n\n\"You Googled it,\" Robin said.\n\n\"I Googled it,\" Barney admitted.",
+  "words": {
+    "car": {
+      "pos": "n.",
+      "ipa": "/kɑːr/",
+      "cn": "汽车",
+      "en": "a road vehicle with an engine and four wheels"
+    },
+    "beat-up": {
+      "pos": "adj.",
+      "ipa": "/ˌbiːt ˈʌp/",
+      "cn": "破旧的；破烂的",
+      "en": "old and damaged from much use"
+    },
+    "affectionate": {
+      "pos": "adj.",
+      "ipa": "/əˈfek.ʃən.ət/",
+      "cn": "深情的；充满爱的",
+      "en": "showing feelings of liking or love"
+    },
+    "Beast": {
+      "pos": "n.",
+      "ipa": "/biːst/",
+      "cn": "野兽（昵称）",
+      "en": "a large dangerous animal; a name for something powerful"
+    },
+    "odometer": {
+      "pos": "n.",
+      "ipa": "/əʊˈdɒm.ɪ.tər/",
+      "cn": "里程表",
+      "en": "a device in a car that shows how many miles it has traveled"
+    },
+    "clunk": {
+      "pos": "v.",
+      "ipa": "/klʌŋk/",
+      "cn": "发出沉闷的金属声",
+      "en": "to make a low dull metallic sound"
+    },
+    "passenger": {
+      "pos": "n.",
+      "ipa": "/ˈpæs.ən.dʒər/",
+      "cn": "乘客",
+      "en": "a person traveling in a vehicle but not driving"
+    },
+    "duct tape": {
+      "pos": "n.",
+      "ipa": "/dʌkt teɪp/",
+      "cn": "强力胶带",
+      "en": "a strong silver tape used for repairs"
+    },
+    "hood": {
+      "pos": "n.",
+      "ipa": "/hʊd/",
+      "cn": "（汽车）引擎盖",
+      "en": "the metal cover over a car's engine"
+    },
+    "remember": {
+      "pos": "v.",
+      "ipa": "/rɪˈmem.bər/",
+      "cn": "记得；回想起",
+      "en": "to bring back into your mind something from the past"
+    },
+    "gas": {
+      "pos": "n.",
+      "ipa": "/ɡæs/",
+      "cn": "汽油（美式）",
+      "en": "the liquid fuel used in cars (short for gasoline)"
+    },
+    "push": {
+      "pos": "v.",
+      "ipa": "/pʊʃ/",
+      "cn": "推",
+      "en": "to use force to move something away from you"
+    },
+    "machine": {
+      "pos": "n.",
+      "ipa": "/məˈʃiːn/",
+      "cn": "机器",
+      "en": "a piece of equipment that does a particular kind of work"
+    },
+    "time machine": {
+      "pos": "n.",
+      "ipa": "/taɪm məˈʃiːn/",
+      "cn": "时间机器",
+      "en": "a device that can take you to the past or future (in stories)"
+    },
+    "clean": {
+      "pos": "v.",
+      "ipa": "/kliːn/",
+      "cn": "清洁；清理",
+      "en": "to remove dirt from something"
+    },
+    "library": {
+      "pos": "n.",
+      "ipa": "/ˈlaɪ.brər.i/",
+      "cn": "图书馆；一大批",
+      "en": "a large collection of books; a lot of something"
+    },
+    "artifact": {
+      "pos": "n.",
+      "ipa": "/ˈɑː.tɪ.fækt/",
+      "cn": "物品；文物",
+      "en": "an object from the past that has historical interest"
+    },
+    "earring": {
+      "pos": "n.",
+      "ipa": "/ˈɪə.rɪŋ/",
+      "cn": "耳环",
+      "en": "a piece of jewelry worn on the ear"
+    },
+    "tie": {
+      "pos": "n.",
+      "ipa": "/taɪ/",
+      "cn": "领带",
+      "en": "a long narrow piece of cloth worn around the neck"
+    },
+    "painting": {
+      "pos": "n.",
+      "ipa": "/ˈpeɪn.tɪŋ/",
+      "cn": "画；绘画",
+      "en": "a picture made using paint"
+    },
+    "dolphin": {
+      "pos": "n.",
+      "ipa": "/ˈdɒl.fɪn/",
+      "cn": "海豚",
+      "en": "an intelligent sea animal that looks like a large fish"
+    },
+    "diploma": {
+      "pos": "n.",
+      "ipa": "/dɪˈpləʊ.mə/",
+      "cn": "毕业文凭；学位证书",
+      "en": "an official document showing you finished school or university"
+    },
+    "lock": {
+      "pos": "v.",
+      "ipa": "/lɒk/",
+      "cn": "锁上",
+      "en": "to fasten with a lock"
+    },
+    "culture": {
+      "pos": "v.",
+      "ipa": "/ˈkʌl.tʃəd/",
+      "cn": "有教养的；有文化的",
+      "en": "having a good knowledge of art, music, literature, etc."
+    }
+  }
+}

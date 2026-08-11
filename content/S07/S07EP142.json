@@ -1,0 +1,128 @@
+{
+  "id": 142,
+  "title": "Mystery vs. History",
+  "cn": "第 6 集 · 神秘与历史",
+  "novel": "Ted decided to go on a date without [[researching|research]] the girl online first. He wanted to keep things [[mysterious|mysterious]] and [[spontaneous|spontaneous]]. He had always looked up his dates on the internet before meeting them. This time, he chose to learn about her in person. The gang was [[skeptical|skeptical]] of his [[approach|approach]] but [[respected|respect]] his decision. Kevin, Robin's new boyfriend, watched how the group [[interfered|interfere]] with each other's lives. He saw how they always gave their [[opinions|opinion]] about everything. He [[observed|observe]] that Ted was struggling not to search for his date's name on the internet. Ted held his phone and [[tempted|tempt]] himself to look her up. He finally resisted the [[temptation|temptation]] and went to the date with a clear mind. On the date, Ted asked questions and listened [[carefully|carefully]]. He discovered that the girl was actually very [[interesting|interesting]]. She told him stories he never could have found online. Meanwhile, Kevin [[realized|realize]] how deeply the group [[cared|care]] for each other. Their constant [[interference|interference]] was actually a sign of [[affection|affection]]. Kevin told Robin that he understood why they acted the way they did. He said their [[bond|bond]] was [[unique|unique]] and special. Ted returned from his date feeling [[refreshed|refresh]] and happy. Sometimes, not knowing everything made things more exciting.",
+  "words": {
+    "research": {
+      "pos": "v.",
+      "ipa": "/rɪˈsɜːrtʃ/",
+      "cn": "调查",
+      "en": "to study something to learn facts"
+    },
+    "mysterious": {
+      "pos": "adj.",
+      "ipa": "/mɪˈstɪriəs/",
+      "cn": "神秘的",
+      "en": "difficult to understand or explain"
+    },
+    "spontaneous": {
+      "pos": "adj.",
+      "ipa": "/spɑːnˈteɪniəs/",
+      "cn": "自发的",
+      "en": "done without planning ahead"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskeptɪkl/",
+      "cn": "怀疑的",
+      "en": "not easily convinced"
+    },
+    "approach": {
+      "pos": "n.",
+      "ipa": "/əˈproʊtʃ/",
+      "cn": "方法",
+      "en": "a way of doing something"
+    },
+    "respect": {
+      "pos": "v.",
+      "ipa": "/rɪˈspekt/",
+      "cn": "尊重",
+      "en": "to admire someone or something"
+    },
+    "interfere": {
+      "pos": "v.",
+      "ipa": "/ˌɪntərˈfɪr/",
+      "cn": "干涉",
+      "en": "to get involved in others' business"
+    },
+    "opinion": {
+      "pos": "n.",
+      "ipa": "/əˈpɪnjən/",
+      "cn": "意见",
+      "en": "what someone thinks about something"
+    },
+    "observe": {
+      "pos": "v.",
+      "ipa": "/əbˈzɜːrv/",
+      "cn": "观察",
+      "en": "to watch carefully"
+    },
+    "tempt": {
+      "pos": "v.",
+      "ipa": "/tempt/",
+      "cn": "引诱",
+      "en": "to make someone want to do something"
+    },
+    "temptation": {
+      "pos": "n.",
+      "ipa": "/tempˈteɪʃn/",
+      "cn": "诱惑",
+      "en": "a strong desire to do something"
+    },
+    "carefully": {
+      "pos": "adv.",
+      "ipa": "/ˈkerfəli/",
+      "cn": "仔细地",
+      "en": "with great attention"
+    },
+    "interesting": {
+      "pos": "adj.",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "cn": "有趣的",
+      "en": "holding your attention"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪz/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    },
+    "care": {
+      "pos": "v.",
+      "ipa": "/ker/",
+      "cn": "关心",
+      "en": "to feel concern or interest"
+    },
+    "interference": {
+      "pos": "n.",
+      "ipa": "/ˌɪntərˈfɪrəns/",
+      "cn": "干涉",
+      "en": "the act of getting involved"
+    },
+    "affection": {
+      "pos": "n.",
+      "ipa": "/əˈfekʃn/",
+      "cn": "喜爱",
+      "en": "a feeling of liking someone"
+    },
+    "bond": {
+      "pos": "n.",
+      "ipa": "/bɑːnd/",
+      "cn": "羁绊",
+      "en": "a strong connection between people"
+    },
+    "unique": {
+      "pos": "adj.",
+      "ipa": "/juˈniːk/",
+      "cn": "独特的",
+      "en": "being the only one of its kind"
+    },
+    "refresh": {
+      "pos": "v.",
+      "ipa": "/rɪˈfreʃ/",
+      "cn": "使精神焕发",
+      "en": "to make someone feel energetic"
+    }
+  }
+}

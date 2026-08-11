@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "immature",
+    "hint": "幼稚的；不成熟的",
+    "phonetic": "/ˌɪm.əˈtʃʊə/"
+  },
+  {
+    "type": "spelling",
+    "word": "board game",
+    "hint": "桌游；棋盘游戏",
+    "phonetic": "/ˈbɔːd ɡeɪm/"
+  },
+  {
+    "type": "spelling",
+    "word": "sweaty",
+    "hint": "满身是汗的",
+    "phonetic": "/ˈswet.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "mature",
+    "hint": "成熟的",
+    "phonetic": "/məˈtʃʊə/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The velvet rope, __________ the bouncer lifted, led to a VIP section.",
+    "answer": "which"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The music was louder than anything he had __________ heard.",
+    "answer": "ever"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted __________ as nervous as a schoolboy.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Robin used to know all the __________ spots in town.",
+    "answer": "best"
+  }
+]

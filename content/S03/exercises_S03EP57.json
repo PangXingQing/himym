@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "soulmate",
+    "hint": "灵魂伴侣",
+    "phonetic": "/ˈsoʊl.meɪt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The scheme __________ on him.",
+    "answer": "backfired"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  },
+  {
+    "type": "spelling",
+    "word": "crush",
+    "hint": "暗恋",
+    "phonetic": "/krʌʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "nostalgia",
+    "hint": "怀旧",
+    "phonetic": "/nɑːˈstæl.dʒə/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "spontaneous",
+    "hint": "自发的",
+    "phonetic": "/spɑːnˈteɪ.ni.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ met him in Argentina.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ had never seen the video.",
+    "answer": "They"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "id": 77,
+  "title": "Three Days of Snow",
+  "cn": "第 13 集 · 三天的雪",
+  "novel": "A [[blizzard|blizzard]] hit New York. Snow fell for three days straight, [[paralyzing|paralyze]] the city. Lily was [[stranded|strand]] at the airport, trying to get home to Marshall.\n\nEvery year, Marshall and Lily had a [[tradition|tradition]]. They would meet at MacLaren's on the first day of snow and drink warm [[cocoa|cocoa]]. This year, the storm [[threatened|threaten]] to break it.\n\n\"I'll get there,\" Lily [[promised|promise]] on the phone. \"No matter what.\"\n\nMeanwhile, Ted and Barney [[ran|run]] MacLaren's bar while the bartender was away. They [[renamed|rename]] drinks and [[invented|invent]] crazy rules. \"No sad faces allowed,\" Barney [[declared|declare]].\n\nThe bar was packed with people [[escaping|escape]] the storm. Ted and Barney felt like kings — until they [[realized|realize]] they had no idea how to mix drinks. [[Chaos|chaos]] [[erupted|erupt]].\n\nMarshall waited at MacLaren's alone, watching the snow fall. He almost gave up. Then the door opened. Lily stood there, covered in snow, [[shivering|shiver]] but smiling.\n\n\"You made it,\" Marshall [[whispered|whisper]].\n\n\"I [[promised|promise]],\" she said.\n\nThey sat together with their cocoa, and the tradition [[survived|survive]].\n\nBarney and Ted, meanwhile, were [[fired|fire]] from their one-day bartending job. \"Worst bartenders ever,\" the real bartender said. They could not even [[argue|argue]].",
+  "words": {
+    "blizzard": {
+      "pos": "n.",
+      "ipa": "/ˈblɪz.əd/",
+      "cn": "暴风雪",
+      "en": "a severe snow storm with strong winds"
+    },
+    "paralyze": {
+      "pos": "v.",
+      "ipa": "/ˈpær.ə.laɪz/",
+      "cn": "使瘫痪",
+      "en": "to make something unable to move or work"
+    },
+    "strand": {
+      "pos": "v.",
+      "ipa": "/strænd/",
+      "cn": "使滞留",
+      "en": "to leave someone in a place they cannot leave"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "cn": "传统",
+      "en": "something people do regularly for years"
+    },
+    "cocoa": {
+      "pos": "n.",
+      "ipa": "/ˈkəʊ.kəʊ/",
+      "cn": "热可可",
+      "en": "a hot drink made from chocolate"
+    },
+    "threaten": {
+      "pos": "v.",
+      "ipa": "/ˈθret.ən/",
+      "cn": "威胁",
+      "en": "to be likely to cause harm"
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɒm.ɪs/",
+      "cn": "承诺",
+      "en": "to say you will definitely do something"
+    },
+    "run": {
+      "pos": "v.",
+      "ipa": "/rʌn/",
+      "cn": "经营",
+      "en": "to manage or control something"
+    },
+    "rename": {
+      "pos": "v.",
+      "ipa": "/ˌriːˈneɪm/",
+      "cn": "改名",
+      "en": "to give a new name to something"
+    },
+    "invent": {
+      "pos": "v.",
+      "ipa": "/ɪnˈvent/",
+      "cn": "编造",
+      "en": "to make or think of something new"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布",
+      "en": "to say something officially"
+    },
+    "escape": {
+      "pos": "v.",
+      "ipa": "/ɪˈskeɪp/",
+      "cn": "逃离",
+      "en": "to get away from a bad place"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到",
+      "en": "to understand something suddenly"
+    },
+    "chaos": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪ.ɒs/",
+      "cn": "混乱",
+      "en": "a state of complete disorder"
+    },
+    "erupt": {
+      "pos": "v.",
+      "ipa": "/ɪˈrʌpt/",
+      "cn": "爆发",
+      "en": "to start suddenly and violently"
+    },
+    "shiver": {
+      "pos": "v.",
+      "ipa": "/ˈʃɪv.ər/",
+      "cn": "发抖",
+      "en": "to shake because you are cold"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "survive": {
+      "pos": "v.",
+      "ipa": "/səˈvaɪv/",
+      "cn": "存活",
+      "en": "to continue to exist"
+    },
+    "fire": {
+      "pos": "v.",
+      "ipa": "/ˈfaɪər/",
+      "cn": "解雇",
+      "en": "to take away someone's job"
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑː.ɡjuː/",
+      "cn": "争辩",
+      "en": "to give reasons for your side"
+    }
+  }
+}

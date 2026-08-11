@@ -1,0 +1,98 @@
+{
+  "id": 107,
+  "title": "Zoo or False",
+  "cn": "第 19 集 · 动物园还是谎言",
+  "novel": "Marshall stumbled into the bar, [[bruised|bruise]] and shaking. \"I was [[mugged|mug]],\" he said. \"By a [[monkey|monkey]].\"\n\nThe gang stared. \"A monkey?\" Ted said. \"In New York?\"\n\nMarshall [[insisted|insist]]. He described the [[attack|attack]] in vivid detail — the tiny hands, the [[screech|screech]], the stolen wallet.\n\nNo one believed him. Barney [[suspected|suspect]] Marshall had been beaten up by a child and was too [[ashamed|ashamed]] to admit it. Robin thought he had fallen and invented the monkey to save [[face|face]].\n\nA long [[debate|debate]] followed. Had the monkey escaped from the zoo? Was Marshall lying? Ted, meanwhile, made an [[impulsive|impulsive]] decision to buy a new [[apartment|apartment]], adding to the chaos.\n\nIn the end, the truth was never [[confirmed|confirm]]. Marshall clung to his story, and the gang let him. Some [[tales|tale]], Ted realized, mattered less for their truth than for the [[dignity|dignity]] they gave the teller. If a monkey helped Marshall sleep, then a monkey it was.",
+  "words": {
+    "bruise": {
+      "pos": "adj.",
+      "ipa": "/bruːzd/",
+      "cn": "青肿的",
+      "en": "marked with purple marks from a blow"
+    },
+    "mug": {
+      "pos": "v.",
+      "ipa": "/mʌɡ/",
+      "cn": "抢劫",
+      "en": "to attack someone in the street and steal from them"
+    },
+    "monkey": {
+      "pos": "n.",
+      "ipa": "/ˈmʌŋ.ki/",
+      "cn": "猴子",
+      "en": "an animal similar to a small ape"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持说",
+      "en": "to say firmly that something is true"
+    },
+    "attack": {
+      "pos": "n.",
+      "ipa": "/əˈtæk/",
+      "cn": "袭击",
+      "en": "an act of hurting someone"
+    },
+    "screech": {
+      "pos": "n.",
+      "ipa": "/skriːtʃ/",
+      "cn": "尖叫声",
+      "en": "a loud high cry"
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/səˈspekt/",
+      "cn": "怀疑",
+      "en": "to think something is true, without being sure"
+    },
+    "ashamed": {
+      "pos": "adj.",
+      "ipa": "/əˈʃeɪmd/",
+      "cn": "羞愧的",
+      "en": "feeling bad about something you did"
+    },
+    "face": {
+      "pos": "n.",
+      "ipa": "/feɪs/",
+      "cn": "面子",
+      "en": "the respect that others give you"
+    },
+    "debate": {
+      "pos": "n.",
+      "ipa": "/dɪˈbeɪt/",
+      "cn": "辩论",
+      "en": "a discussion where people argue sides"
+    },
+    "impulsive": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈpʌl.sɪv/",
+      "cn": "冲动的",
+      "en": "done suddenly without planning"
+    },
+    "apartment": {
+      "pos": "n.",
+      "ipa": "/əˈpɑːt.mənt/",
+      "cn": "公寓",
+      "en": "a set of rooms to live in"
+    },
+    "confirm": {
+      "pos": "v.",
+      "ipa": "/kənˈfɜːm/",
+      "cn": "证实",
+      "en": "to prove that something is true"
+    },
+    "tale": {
+      "pos": "n.",
+      "ipa": "/teɪl/",
+      "cn": "故事",
+      "en": "a story, often one that may not be true"
+    },
+    "dignity": {
+      "pos": "n.",
+      "ipa": "/ˈdɪɡ.nə.ti/",
+      "cn": "尊严",
+      "en": "a calm quality that earns respect"
+    }
+  }
+}

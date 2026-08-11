@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "promotion",
+    "hint": "晋升",
+    "phonetic": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "networking",
+    "hint": "人脉",
+    "phonetic": "/ˈnet.wɜːr.kɪŋ/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ pretended to be tourists.",
+    "answer": "They"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He found himself __________ of her.",
+    "answer": "thinking"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "She __________ to be interested.",
+    "answer": "pretended"
+  },
+  {
+    "type": "spelling",
+    "word": "resentment",
+    "hint": "怨恨",
+    "phonetic": "/rɪˈzent.mənt/"
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "id": 145,
+  "title": "Disaster Averted",
+  "cn": "第 9 集 · 灾难已过",
+  "novel": "The gang [[reminisced|reminisce]] about Hurricane Irene and how it had [[affected|affect]] their lives. During the hurricane, they had all been [[trapped|trap]] together in Ted's apartment. They [[shared|share]] stories about the [[chaotic|chaotic]] night and laughed about their [[fears|fear]]. Ted had tried to be [[brave|brave]] but was secretly [[terrified|terrify]] of the storm. Marshall had tried to keep everyone calm by telling jokes. Lily had worried about their apartment [[flooding|flood]]. Robin had reported on the storm for the news and kept everyone [[informed|inform]]. Barney had been upset because his [[suits|suit]] got wet in the rain. Meanwhile, Barney tried to [[get out of|get out of]] wearing the ducky tie. He [[desperately|desperate]] wanted to remove it and wear normal clothes again. He tried to [[convince|convince]] Marshall and Lily to end the bet early. He offered them gifts and favors, but they [[refused|refuse]]. They said a bet was a bet and he had to keep his [[promise|promise]]. Barney was [[frustrated|frustrate]] and tried every [[trick|trick]] he could think of. He even tried to [[bribe|bribe]] them with expensive dinners. Marshall and Lily [[enjoyed|enjoy]] watching Barney squirm. They said the tie stayed until the bet was complete. The gang agreed that despite the [[chaos|chaos]] of the hurricane, it had brought them closer together. Sometimes [[disasters|disaster]] can create the best memories.",
+  "words": {
+    "reminisce": {
+      "pos": "v.",
+      "ipa": "/ˌremɪˈnɪs/",
+      "cn": "回忆",
+      "en": "to talk about past experiences"
+    },
+    "affect": {
+      "pos": "v.",
+      "ipa": "/əˈfekt/",
+      "cn": "影响",
+      "en": "to change or influence something"
+    },
+    "trap": {
+      "pos": "v.",
+      "ipa": "/træpt/",
+      "cn": "困住",
+      "en": "to be unable to escape"
+    },
+    "share": {
+      "pos": "v.",
+      "ipa": "/ʃerd/",
+      "cn": "分享",
+      "en": "to tell others about something"
+    },
+    "chaotic": {
+      "pos": "adj.",
+      "ipa": "/keɪˈɑːtɪk/",
+      "cn": "混乱的",
+      "en": "in a state of confusion"
+    },
+    "fear": {
+      "pos": "n.",
+      "ipa": "/fɪrz/",
+      "cn": "恐惧",
+      "en": "the feeling of being afraid"
+    },
+    "brave": {
+      "pos": "adj.",
+      "ipa": "/breɪv/",
+      "cn": "勇敢的",
+      "en": "showing no fear"
+    },
+    "terrify": {
+      "pos": "v.",
+      "ipa": "/ˈterɪfaɪd/",
+      "cn": "使恐惧",
+      "en": "to make someone very afraid"
+    },
+    "flood": {
+      "pos": "v.",
+      "ipa": "/ˈflʌdɪŋ/",
+      "cn": "被淹",
+      "en": "to cover with water"
+    },
+    "inform": {
+      "pos": "v.",
+      "ipa": "/ɪnˈfɔːrmd/",
+      "cn": "告知",
+      "en": "to tell someone about something"
+    },
+    "suit": {
+      "pos": "n.",
+      "ipa": "/suːts/",
+      "cn": "西装",
+      "en": "a set of matching clothes"
+    },
+    "get out of": {
+      "pos": "phr.v.",
+      "ipa": "/ɡet aʊt əv/",
+      "cn": "逃避",
+      "en": "to avoid doing something"
+    },
+    "desperate": {
+      "pos": "adv.",
+      "ipa": "/ˈdespərətli/",
+      "cn": "绝望地",
+      "en": "in a hopeless way"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "to make someone believe something"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːzd/",
+      "cn": "拒绝",
+      "en": "to say no to something"
+    },
+    "promise": {
+      "pos": "n.",
+      "ipa": "/ˈprɑːmɪs/",
+      "cn": "承诺",
+      "en": "a statement of commitment"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "cn": "使沮丧",
+      "en": "to make someone feel upset"
+    },
+    "trick": {
+      "pos": "n.",
+      "ipa": "/trɪk/",
+      "cn": "计谋",
+      "en": "a clever way to achieve something"
+    },
+    "bribe": {
+      "pos": "v.",
+      "ipa": "/braɪb/",
+      "cn": "贿赂",
+      "en": "to give gifts to influence someone"
+    },
+    "enjoy": {
+      "pos": "v.",
+      "ipa": "/ɪnˈdʒɔɪd/",
+      "cn": "享受",
+      "en": "to get pleasure from"
+    },
+    "chaos": {
+      "pos": "n.",
+      "ipa": "/ˈkeɪɑːs/",
+      "cn": "混乱",
+      "en": "a state of total disorder"
+    },
+    "disaster": {
+      "pos": "n.",
+      "ipa": "/dɪˈzæstərz/",
+      "cn": "灾难",
+      "en": "a sudden terrible event"
+    }
+  }
+}

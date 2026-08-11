@@ -1,0 +1,140 @@
+{
+  "id": 79,
+  "title": "The Stinsons",
+  "cn": "第 15 集 · 斯丁森一家",
+  "novel": "The gang [[discovered|discover]] that Barney had a secret. He had been [[pretending|pretend]] to have a wife and son for years — all to please his [[aging|age]] mother.\n\n\"You what?!\" Ted [[exclaimed|exclaim]].\n\nBarney [[explained|explain]] that he had [[hired|hire]] actors to play his family. His mother was [[fragile|fragile]], and he could not bear to [[disappoint|disappoint]] her.\n\n\"She thinks I'm a family man,\" Barney said [[quietly|quiet]]. \"She thinks I'm normal.\"\n\nThe gang was [[stunned|stun]]. They watched Barney's fake wife, a woman named Margaret, and his fake son, a child actor named Tyler. The [[performance|performance]] was surprisingly [[convincing|convincing]].\n\nMargaret was [[professional|professional]]. She held Barney's hand and called him \"honey.\" Tyler called him \"daddy.\" Barney looked almost [[comfortable|comfortable]] in the role.\n\nThen Barney's real mother [[arrived|arrive]]. She was sweet but [[sharp|sharp]]. She noticed small [[details|detail]] that did not add up. Barney's lies were [[crumbling|crumble]].\n\n\"Who are these people?\" his mother asked.\n\nBarney [[panicked|panic]]. But before he could speak, Margaret [[stepped|step]] in. \"We love him,\" she said. \"He's a wonderful husband and father.\"\n\nBarney's mother smiled. \"I'm glad.\"\n\nLater, Barney [[confessed|confess]] to Ted. \"I just wanted her to be proud of me.\"\n\nTed put a hand on his shoulder. \"She already is.\"\n\nWhether that was true or not, Barney [[needed|need]] to believe it.",
+  "words": {
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something out"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "age": {
+      "pos": "v.",
+      "ipa": "/eɪdʒ/",
+      "cn": "变老",
+      "en": "to grow older"
+    },
+    "exclaim": {
+      "pos": "v.",
+      "ipa": "/ɪkˈskleɪm/",
+      "cn": "惊叫",
+      "en": "to say something suddenly and loudly"
+    },
+    "explain": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "cn": "解释",
+      "en": "to make something clear"
+    },
+    "hire": {
+      "pos": "v.",
+      "ipa": "/ˈhaɪər/",
+      "cn": "雇佣",
+      "en": "to pay someone to work for you"
+    },
+    "fragile": {
+      "pos": "adj.",
+      "ipa": "/ˈfrædʒ.aɪl/",
+      "cn": "脆弱的",
+      "en": "easily broken or hurt"
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt/",
+      "cn": "使失望",
+      "en": "to make someone sad by not meeting expectations"
+    },
+    "quiet": {
+      "pos": "adv.",
+      "ipa": "/ˈkwaɪ.ət/",
+      "cn": "安静地",
+      "en": "in a quiet way"
+    },
+    "stun": {
+      "pos": "v.",
+      "ipa": "/stʌn/",
+      "cn": "使震惊",
+      "en": "to surprise someone very much"
+    },
+    "performance": {
+      "pos": "n.",
+      "ipa": "/pəˈfɔː.məns/",
+      "cn": "表演",
+      "en": "the act of acting or doing something"
+    },
+    "convincing": {
+      "pos": "adj.",
+      "ipa": "/kənˈvɪn.sɪŋ/",
+      "cn": "令人信服的",
+      "en": "making you believe it is real"
+    },
+    "professional": {
+      "pos": "adj.",
+      "ipa": "/prəˈfeʃ.ən.əl/",
+      "cn": "专业的",
+      "en": "doing something as a paid job"
+    },
+    "comfortable": {
+      "pos": "adj.",
+      "ipa": "/ˈkʌmf.tə.bəl/",
+      "cn": "自在的",
+      "en": "feeling relaxed and at ease"
+    },
+    "arrive": {
+      "pos": "v.",
+      "ipa": "/əˈraɪv/",
+      "cn": "到达",
+      "en": "to reach a place"
+    },
+    "sharp": {
+      "pos": "adj.",
+      "ipa": "/ʃɑːp/",
+      "cn": "敏锐的",
+      "en": "able to notice things quickly"
+    },
+    "detail": {
+      "pos": "n.",
+      "ipa": "/ˈdiː.teɪl/",
+      "cn": "细节",
+      "en": "a small fact about something"
+    },
+    "crumble": {
+      "pos": "v.",
+      "ipa": "/ˈkrʌm.bəl/",
+      "cn": "瓦解",
+      "en": "to break into small pieces"
+    },
+    "panic": {
+      "pos": "v.",
+      "ipa": "/ˈpæn.ɪk/",
+      "cn": "恐慌",
+      "en": "to suddenly feel very afraid"
+    },
+    "step": {
+      "pos": "v.",
+      "ipa": "/step/",
+      "cn": "走上前",
+      "en": "to move to help or act"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to tell the truth about something"
+    },
+    "need": {
+      "pos": "v.",
+      "ipa": "/niːd/",
+      "cn": "需要",
+      "en": "to require something"
+    }
+  }
+}

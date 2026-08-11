@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "title": "The Wedding",
+  "cn": "第 12 集 · 婚礼",
+  "novel": "An old university friend was getting married, and the thick [[invitation|invitation]] card asked Ted to [[RSVP|RSVP]] with the name of his [[plus-one|plus-one]].\n\nHe had nobody. So he asked Robin, and pretended it meant nothing.\n\nThe [[ceremony|ceremony]] was held in a stone [[chapel|chapel]]. The [[bride|bride]] walked slowly down the [[aisle|aisle]] behind a white [[veil|veil]], holding a [[bouquet|bouquet]] that shook a little in her hands. The [[groom|groom]] wore a [[tuxedo|tuxedo]] one size too small. They spoke their [[vows|vows]] badly and everyone cried anyway.\n\nAt the [[reception|reception]], the [[best man|best man]] gave a speech that lasted nine minutes too long, and a [[bridesmaid|bridesmaid]] in a green [[gown|gown]] cried into the [[catering|catering]] table.\n\nThen came trouble. The [[venue|venue]] wanted the rest of the money; the [[banquet|banquet]] was over budget; the couple had already lost their [[deposit|deposit]] on a band that had [[declined|decline]] to come.\n\nTed spent the evening fixing other people's problems, and cutting names off the [[guest list|guest list]] with a pencil.\n\nLate at night he danced with Robin and thought: one day someone will [[register|register]] my name next to another. Just not yet.",
+  "words": {
+    "invitation": {"pos": "n.", "ipa": "/ˌɪn.vɪˈteɪ.ʃən/", "cn": "请柬；邀请", "en": "a card or message asking you to come to an event"},
+    "RSVP": {"pos": "v./n.", "ipa": "/ˌɑːr.es.viːˈpiː/", "cn": "请回复（是否出席）", "en": "to reply to say if you will come or not"},
+    "plus-one": {"pos": "n.", "ipa": "/ˌplʌs ˈwʌn/", "cn": "（受邀者带的）同行伴侣", "en": "the guest you are allowed to bring with you"},
+    "ceremony": {"pos": "n.", "ipa": "/ˈser.ɪ.mə.ni/", "cn": "仪式", "en": "a formal set of actions for a special event"},
+    "chapel": {"pos": "n.", "ipa": "/ˈtʃæp.əl/", "cn": "小教堂", "en": "a small church"},
+    "bride": {"pos": "n.", "ipa": "/braɪd/", "cn": "新娘", "en": "a woman on her wedding day"},
+    "aisle": {"pos": "n.", "ipa": "/aɪl/", "cn": "（座位间的）过道（s 不发音）", "en": "the long path between rows of seats"},
+    "veil": {"pos": "n.", "ipa": "/veɪl/", "cn": "面纱", "en": "thin cloth that covers a woman's face or hair"},
+    "bouquet": {"pos": "n.", "ipa": "/buˈkeɪ/", "cn": "花束", "en": "flowers tied together nicely"},
+    "groom": {"pos": "n.", "ipa": "/ɡruːm/", "cn": "新郎", "en": "a man on his wedding day"},
+    "tuxedo": {"pos": "n.", "ipa": "/tʌkˈsiː.dəʊ/", "cn": "男士晚礼服", "en": "a smart black suit men wear at formal parties"},
+    "vows": {"pos": "n.", "ipa": "/vaʊz/", "cn": "誓言（婚礼上的）", "en": "the serious promises two people make when they marry"},
+    "reception": {"pos": "n.", "ipa": "/rɪˈsep.ʃən/", "cn": "婚宴；招待会", "en": "the party after a wedding"},
+    "best man": {"pos": "n.", "ipa": "/best mæn/", "cn": "伴郎", "en": "the groom's main friend and helper at a wedding"},
+    "bridesmaid": {"pos": "n.", "ipa": "/ˈbraɪdz.meɪd/", "cn": "伴娘", "en": "a girl or woman who helps the bride at a wedding"},
+    "gown": {"pos": "n.", "ipa": "/ɡaʊn/", "cn": "（女式）长礼服", "en": "a long dress for a special occasion"},
+    "catering": {"pos": "n.", "ipa": "/ˈkeɪ.tər.ɪŋ/", "cn": "餐饮服务", "en": "the work of providing food for an event"},
+    "venue": {"pos": "n.", "ipa": "/ˈven.juː/", "cn": "场地", "en": "the place where an event happens"},
+    "banquet": {"pos": "n.", "ipa": "/ˈbæŋ.kwɪt/", "cn": "宴会", "en": "a large formal dinner"},
+    "deposit": {"pos": "n.", "ipa": "/dɪˈpɒz.ɪt/", "cn": "定金", "en": "money you pay first to hold something for later"},
+    "decline": {"pos": "v.", "ipa": "/dɪˈklaɪn/", "cn": "婉拒", "en": "to politely say no"},
+    "guest list": {"pos": "n.", "ipa": "/ɡest lɪst/", "cn": "宾客名单", "en": "the list of people invited to an event"},
+    "register": {"pos": "v.", "ipa": "/ˈredʒ.ɪ.stə/", "cn": "登记；注册", "en": "to write a name on an official list"}
+  }
+}

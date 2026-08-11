@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "haze",
+    "hint": "薄雾；（头脑）迷糊",
+    "phonetic": "/heɪz/"
+  },
+  {
+    "type": "spelling",
+    "word": "consequence",
+    "hint": "后果",
+    "phonetic": "/ˈkɒn.sɪ.kwəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "crossroads",
+    "hint": "十字路口；人生的抉择点",
+    "phonetic": "/ˈkrɒs.rəʊdz/"
+  },
+  {
+    "type": "spelling",
+    "word": "judgment",
+    "hint": "判断力",
+    "phonetic": "/ˈdʒʌdʒ.mənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The traffic __________ as if the city were made of stars.",
+    "answer": "flickered"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ told him that insomnia was dangerous.",
+    "answer": "She"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "By the time the night ended, everything __________ changed.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "There was __________ on the street below.",
+    "answer": "nobody"
+  }
+]

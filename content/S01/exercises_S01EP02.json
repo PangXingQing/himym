@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "worn out",
+    "hint": "筋疲力尽的",
+    "phonetic": "/wɔːn aʊt/"
+  },
+  {
+    "type": "spelling",
+    "word": "leftover",
+    "hint": "剩饭剩菜",
+    "phonetic": "/ˈleft.əʊ.və/"
+  },
+  {
+    "type": "spelling",
+    "word": "crush",
+    "hint": "（短暂的）迷恋",
+    "phonetic": "/krʌʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "casual",
+    "hint": "随意的；漫不经心的",
+    "phonetic": "/ˈkæʒ.u.əl/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ would rather confess than keep silent.",
+    "answer": "Ted"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He thought: I __________ better not mess this up.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "\"You __________ better slow down,\" Robin said.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The party felt more __________ than he admitted.",
+    "answer": "important"
+  }
+]

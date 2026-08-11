@@ -1,0 +1,128 @@
+{
+  "id": 66,
+  "title": "The Best Burger in New York",
+  "cn": "第 2 集 · 纽约最好吃的汉堡",
+  "novel": "Marshall [[remembered|remember]] a burger he ate eight years ago. It was [[legendary|legendary]] — the best burger in New York. He [[craved|crave]] it every day since, but he could not remember where the restaurant was. The [[quest|quest]] began.\n\nThe whole gang joined the [[hunt|hunt]]. They walked through dozens of blocks, checking every diner and burger joint. Marshall's [[nostalgia|nostalgia]] grew stronger with every bite of a [[mediocre|mediocre]] burger. \"None of these are right,\" he [[declared|declare]].\n\nBarney was [[skeptical|skeptical]]. \"It's just a burger,\" he said. But Marshall [[insisted|insist]] that this burger was [[unmistakable|unmistakable]]. \"The [[juicy|juicy]] meat, the [[crispy|crispy]] bun — it was perfect.\"\n\nThey finally found a [[clue|clue]]. A waitress remembered Marshall from years ago. She led them to a small restaurant with a [[sign|sign]] that read \"The Best Burger.\"\n\nMarshall took a bite. His eyes widened. \"This is it,\" he [[whispered|whisper]]. The [[satisfaction|satisfaction]] on his face was [[genuine|genuine]].\n\nBarney tried a bite and admitted it was good. \"Not bad,\" he said, though his voice was less [[enthusiastic|enthusiastic]] than Marshall's.\n\nAs they left, Marshall felt a warmth inside. Some things from the past were worth searching for. The burger had [[haunted|haunt]] him for years, and now the memory was finally at peace.",
+  "words": {
+    "remember": {
+      "pos": "v.",
+      "ipa": "/rɪˈmem.bər/",
+      "cn": "记得；回忆起",
+      "en": "to keep something in your memory"
+    },
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒ.ən.der.i/",
+      "cn": "传奇的",
+      "en": "very famous and talked about"
+    },
+    "crave": {
+      "pos": "v.",
+      "ipa": "/kreɪv/",
+      "cn": "渴望",
+      "en": "to want something very much"
+    },
+    "quest": {
+      "pos": "n.",
+      "ipa": "/kwest/",
+      "cn": "寻找；探索",
+      "en": "a long search for something"
+    },
+    "hunt": {
+      "pos": "n.",
+      "ipa": "/hʌnt/",
+      "cn": "搜寻",
+      "en": "an act of searching for something"
+    },
+    "nostalgia": {
+      "pos": "n.",
+      "ipa": "/nɒsˈtæl.dʒə/",
+      "cn": "怀旧；乡愁",
+      "en": "a sad but warm feeling about the past"
+    },
+    "mediocre": {
+      "pos": "adj.",
+      "ipa": "/ˌmiː.diˈəʊ.kər/",
+      "cn": "平庸的",
+      "en": "not very good, not very bad"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleər/",
+      "cn": "宣布；宣称",
+      "en": "to say something officially"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "cn": "怀疑的",
+      "en": "doubting that something is true"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly that something is true"
+    },
+    "unmistakable": {
+      "pos": "adj.",
+      "ipa": "/ˌʌn.mɪˈsteɪ.kə.bəl/",
+      "cn": "不会弄错的",
+      "en": "clear and impossible to mistake"
+    },
+    "juicy": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒuː.si/",
+      "cn": "多汁的",
+      "en": "full of juice, moist and tasty"
+    },
+    "crispy": {
+      "pos": "adj.",
+      "ipa": "/ˈkrɪs.pi/",
+      "cn": "酥脆的",
+      "en": "firm and makes a sound when you bite it"
+    },
+    "clue": {
+      "pos": "n.",
+      "ipa": "/kluː/",
+      "cn": "线索",
+      "en": "a piece of information that helps you find something"
+    },
+    "sign": {
+      "pos": "n.",
+      "ipa": "/saɪn/",
+      "cn": "招牌；标志",
+      "en": "a board with words on a shop"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "satisfaction": {
+      "pos": "n.",
+      "ipa": "/ˌsæt.ɪsˈfæk.ʃən/",
+      "cn": "满足",
+      "en": "the good feeling when you get what you want"
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "cn": "真诚的；真正的",
+      "en": "real and honest, not fake"
+    },
+    "enthusiastic": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈθjuː.zi.æs.tɪk/",
+      "cn": "热情的",
+      "en": "showing a lot of excitement"
+    },
+    "haunt": {
+      "pos": "v.",
+      "ipa": "/hɔːnt/",
+      "cn": "萦绕于心",
+      "en": "to keep coming back to your mind"
+    }
+  }
+}

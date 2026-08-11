@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "ridiculous",
+    "hint": "荒谬的",
+    "phonetic": "/rɪˈdɪk.jə.ləs/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "reluctant",
+    "hint": "不情愿的",
+    "phonetic": "/rɪˈlʌk.tənt/"
+  },
+  {
+    "type": "spelling",
+    "word": "persistent",
+    "hint": "坚持的",
+    "phonetic": "/pərˈsɪs.tənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Trust, __________ broken, is hard to rebuild.",
+    "answer": "once"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "confront",
+    "hint": "面对",
+    "phonetic": "/kənˈfrʌnt/"
+  }
+]

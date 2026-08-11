@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "clean",
+    "hint": "清洁；清理",
+    "phonetic": "/kliːn/"
+  },
+  {
+    "type": "spelling",
+    "word": "remember",
+    "hint": "记得；回想起",
+    "phonetic": "/rɪˈmem.bər/"
+  },
+  {
+    "type": "spelling",
+    "word": "car",
+    "hint": "汽车",
+    "phonetic": "/kɑːr/"
+  },
+  {
+    "type": "spelling",
+    "word": "lock",
+    "hint": "锁上",
+    "phonetic": "/lɒk/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "These aren't more __________ things; they're memories.",
+    "answer": "than"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The car __________ more than a machine; it was a time machine.",
+    "answer": "was"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It __________ been making a mysterious clunking noise.",
+    "answer": "had"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Time to clean out the Fiero one __________ time.",
+    "answer": "last"
+  }
+]

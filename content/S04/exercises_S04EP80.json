@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "jealousy",
+    "hint": "嫉妒",
+    "phonetic": "/ˈdʒel.ə.si/"
+  },
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "flirt",
+    "hint": "调情",
+    "phonetic": "/flɜːrt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "We __________ up at MacLaren's.",
+    "answer": "ended"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He ended up liking __________ job.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's __________ to move on.",
+    "answer": "time"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ moved on after the breakup.",
+    "answer": "She"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "maintain",
+    "hint": "保持；维护",
+    "phonetic": "/meɪnˈteɪn/"
+  },
+  {
+    "type": "spelling",
+    "word": "fade",
+    "hint": "逐渐消失；褪去",
+    "phonetic": "/feɪd/"
+  },
+  {
+    "type": "spelling",
+    "word": "exclusive",
+    "hint": "高级的；排外的",
+    "phonetic": "/ɪkˈskluː.sɪv/"
+  },
+  {
+    "type": "spelling",
+    "word": "gallery",
+    "hint": "画廊；美术馆",
+    "phonetic": "/ˈɡæl.ər.i/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Don't be __________ by my reputation.",
+    "answer": "fooled"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They were __________ to be a couple when something real happened.",
+    "answer": "pretending"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "You never know who you'll bump into in __________ York.",
+    "answer": "New"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He ran into an old friend on __________ subway.",
+    "answer": "the"
+  }
+]

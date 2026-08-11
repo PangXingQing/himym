@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "deny",
+    "hint": "否认",
+    "phonetic": "/dɪˈnaɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "hangover",
+    "hint": "宿醉（第二天的头痛难受）",
+    "phonetic": "/ˈhæŋ.əʊ.və/"
+  },
+  {
+    "type": "spelling",
+    "word": "commit",
+    "hint": "犯（罪、错）",
+    "phonetic": "/kəˈmɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "fragment",
+    "hint": "碎片；片段",
+    "phonetic": "/ˈfræɡ.mənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "If anyone __________ the story, it will probably be Barney.",
+    "answer": "knows"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ looked at him as though she could see right through him.",
+    "answer": "She"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He drank far too much __________ night before.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted __________ as if he had rehearsed for a week.",
+    "answer": "talked"
+  }
+]

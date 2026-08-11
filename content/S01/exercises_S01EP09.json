@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "seconds",
+    "hint": "（饭菜的）第二份",
+    "phonetic": "/ˈsek.əndz/"
+  },
+  {
+    "type": "spelling",
+    "word": "doze off",
+    "hint": "打瞌睡；迷迷糊糊睡着",
+    "phonetic": "/dəʊz ɒf/"
+  },
+  {
+    "type": "spelling",
+    "word": "humble",
+    "hint": "谦卑的；卑微的",
+    "phonetic": "/ˈhʌm.bl̩/"
+  },
+  {
+    "type": "spelling",
+    "word": "stuffed",
+    "hint": "吃撑了的",
+    "phonetic": "/stʌft/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The roasted bird __________ delicious.",
+    "answer": "smelled"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Meeting the in-laws was a __________ experience.",
+    "answer": "terrifying"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "A __________ line should never be underestimated.",
+    "answer": "cheesy"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The night was so magical that __________ wanted it to end.",
+    "answer": "nobody"
+  }
+]

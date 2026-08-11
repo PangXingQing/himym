@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "stain",
+    "hint": "污渍；污点",
+    "phonetic": "/steɪn/"
+  },
+  {
+    "type": "spelling",
+    "word": "lobby",
+    "hint": "大堂；门厅",
+    "phonetic": "/ˈlɒb.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "solo",
+    "hint": "单独的；独自的",
+    "phonetic": "/ˈsəʊ.ləʊ/"
+  },
+  {
+    "type": "spelling",
+    "word": "structural",
+    "hint": "结构上的",
+    "phonetic": "/ˈstrʌk.tʃər.əl/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted tried to __________ the client to remove the column.",
+    "answer": "convince"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The lobby __________ redesigning = needed to be redesigned.",
+    "answer": "needed"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "In spite of the __________ about the column, Ted found a creative solution.",
+    "answer": "conflict"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It __________ clear that Bilson would not budge.",
+    "answer": "was"
+  }
+]

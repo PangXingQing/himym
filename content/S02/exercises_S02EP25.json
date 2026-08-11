@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "gesture",
+    "hint": "手势；姿态",
+    "phonetic": "/ˈdʒes.tʃər/"
+  },
+  {
+    "type": "spelling",
+    "word": "bicker",
+    "hint": "斗嘴；争吵",
+    "phonetic": "/ˈbɪk.ər/"
+  },
+  {
+    "type": "spelling",
+    "word": "mutter",
+    "hint": "嘟囔；低声抱怨",
+    "phonetic": "/ˈmʌt.ər/"
+  },
+  {
+    "type": "spelling",
+    "word": "brunch",
+    "hint": "早午餐",
+    "phonetic": "/brʌntʃ/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ at the table, Ted watched his parents argue.",
+    "answer": "Sitting"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted was about to take a bite of __________ pancake when his mother made a confession.",
+    "answer": "his"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Virginia kept __________ Alfred's grammar, driving him crazy.",
+    "answer": "correcting"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The truth __________ about to come out.",
+    "answer": "was"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "id": 199,
+  "title": "Unpause",
+  "cn": "第 15 集 · 解除暂停",
+  "novel": "Barney [[drank|drink]] too much at a party the night before his wedding. Ted and Robin discovered that when Barney was extremely [[drunk|drunk]], they could [[unpause|unpause]] him. This meant they could ask him any question and he would answer [[honestly|honestly]] because he was too confused to lie.\n\nTed and Robin took [[advantage|advantage]] of this situation. They asked Barney about his deepest [[secrets|secret]] and his true feelings. Barney [[revealed|reveal]] many surprising things, including some embarrassing stories from his past that he had never shared with anyone.\n\nMeanwhile, Marshall [[avoided|avoid]] fighting with Lily about the judge job. He knew that Lily was still upset, so he tried to keep the peace. He used every [[trick|trick]] he knew to [[distract|distract]] her from the topic.\n\nLily was not easily [[fooled|fool]], however. She [[confronted|confront]] Marshall and demanded an honest conversation. Marshall finally [[confessed|confess]] that he had accepted the judge position because he was worried about providing for their growing family. He felt [[guilty|guilty]] for making the decision without her.\n\nLily listened carefully and then told Marshall that she understood. She was not angry about the job itself. She was upset because he had not been [[truthful|truthful]] with her. She told him that they were a team and should make important decisions together.\n\nBack at the party, Barney's [[confessions|confession]] continued. He admitted that he was [[terrified|terrify]] of getting married, not because he did not love Robin, but because he was afraid of failing as a husband. Robin was [[touched|touch]] by his honesty.\n\nThe night ended with Barney falling asleep on the couch. Ted covered him with a blanket and smiled. Despite all the chaos, he knew his friend would be a good husband. The wedding was just one day away.",
+  "words": {
+    "drink": {
+      "pos": "v.",
+      "ipa": "/drɪŋk/",
+      "cn": "喝",
+      "en": "He drank three cups of coffee."
+    },
+    "drunk": {
+      "pos": "adj.",
+      "ipa": "/drʌŋk/",
+      "cn": "喝醉的",
+      "en": "He was too drunk to drive."
+    },
+    "unpause": {
+      "pos": "v.",
+      "ipa": "/ʌnˈpɔːz/",
+      "cn": "解除暂停",
+      "en": "She unpaused the video."
+    },
+    "honestly": {
+      "pos": "adv.",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "cn": "诚实地",
+      "en": "He answered honestly."
+    },
+    "advantage": {
+      "pos": "n.",
+      "ipa": "/ədˈvæn.tɪdʒ/",
+      "cn": "优势",
+      "en": "She took advantage of the opportunity."
+    },
+    "secret": {
+      "pos": "n.",
+      "ipa": "/ˈsiː.krət/",
+      "cn": "秘密",
+      "en": "He told her a secret."
+    },
+    "reveal": {
+      "pos": "v.",
+      "ipa": "/rɪˈviːl/",
+      "cn": "揭示",
+      "en": "The letter revealed the truth."
+    },
+    "avoid": {
+      "pos": "v.",
+      "ipa": "/əˈvɔɪd/",
+      "cn": "避免",
+      "en": "She avoided the question."
+    },
+    "trick": {
+      "pos": "n.",
+      "ipa": "/trɪk/",
+      "cn": "把戏",
+      "en": "He played a trick on his friend."
+    },
+    "distract": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrækt/",
+      "cn": "转移注意力",
+      "en": "The noise distracted the students."
+    },
+    "fool": {
+      "pos": "v.",
+      "ipa": "/fuːl/",
+      "cn": "愚弄",
+      "en": "He was fooled by the trick."
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "对质",
+      "en": "She confronted him about the lie."
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "He confessed his love for her."
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "She felt guilty about the mistake."
+    },
+    "truthful": {
+      "pos": "adj.",
+      "ipa": "/ˈtruːθ.fəl/",
+      "cn": "诚实的",
+      "en": "He gave a truthful answer."
+    },
+    "confession": {
+      "pos": "n.",
+      "ipa": "/kənˈfeʃ.ən/",
+      "cn": "坦白",
+      "en": "He made a confession to the police."
+    },
+    "terrify": {
+      "pos": "v.",
+      "ipa": "/ˈter.ɪ.faɪ/",
+      "cn": "恐惧",
+      "en": "The storm terrified the children."
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃ/",
+      "cn": "打动",
+      "en": "His words touched her heart."
+    }
+  }
+}

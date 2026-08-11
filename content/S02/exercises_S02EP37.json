@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "cuddler",
+    "hint": "拥抱者（职业拥抱师）",
+    "phonetic": "/ˈkʌd.lər/"
+  },
+  {
+    "type": "spelling",
+    "word": "prison",
+    "hint": "监狱",
+    "phonetic": "/ˈprɪz.ən/"
+  },
+  {
+    "type": "spelling",
+    "word": "sidewalk",
+    "hint": "人行道（美式）",
+    "phonetic": "/ˈsaɪd.wɔːk/"
+  },
+  {
+    "type": "spelling",
+    "word": "penny",
+    "hint": "一美分硬币",
+    "phonetic": "/ˈpen.i/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The lucky penny turned __________ to be not so lucky.",
+    "answer": "out"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Things went wrong not __________ of the penny, but because coincidence happens.",
+    "answer": "because"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "There's no such __________ as a perfect relationship.",
+    "answer": "thing"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Mary __________ out to be a professional cuddler.",
+    "answer": "turned"
+  }
+]

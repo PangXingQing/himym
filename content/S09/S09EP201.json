@@ -1,0 +1,110 @@
+{
+  "id": 201,
+  "title": "Sunrise",
+  "cn": "第 17 集 · 日出",
+  "novel": "On the morning before the wedding, Barney had gotten [[drunk|drunk]] again and [[wandered|wander]] off. Robin and Ted went looking for him and found themselves walking along the beach as the sun began to rise.\n\nAs they walked, Robin and Ted [[reminisced|reminisce]] about their past [[relationships|relationship]]. They talked about the time they dated and why it did not work out. Ted admitted that he had always cared about Robin, but he understood that their [[paths|path]] were meant to go in different directions.\n\nMeanwhile, Marshall and Lily finally [[resolved|resolve]] their issues. They sat down and had an honest conversation about the judge job. Marshall [[apologized|apologize]] for not telling Lily sooner, and Lily [[acknowledged|acknowledge]] that Marshall had good intentions. They agreed to always [[communicate|communicate]] openly with each other.\n\nBarney, who had been wandering around town, [[befriended|befriend]] two young men at a diner. He gave them [[advice|advice]] about love and life, drawing from his own experiences. The young men were [[impressed|impress]] by Barney's wisdom, even though he was still slightly drunk.\n\nBack on the beach, Ted and Robin watched the [[sunrise|sunrise]] together. The sky turned beautiful shades of orange and pink. Ted told Robin that he was truly happy for her and Barney. He said he was ready to [[let go|let go]] of his feelings for her.\n\nRobin was [[moved|move]] by Ted's words. She told him that he would find his own [[happiness|happiness]] someday. They shared a warm [[embrace|embrace]] as the sun rose over the ocean.\n\nThe morning ended with the group coming together for breakfast. Marshall and Lily were smiling again, Barney had returned safely, and Ted felt a sense of peace he had not felt in a long time.",
+  "words": {
+    "drunk": {
+      "pos": "adj.",
+      "ipa": "/drʌŋk/",
+      "cn": "喝醉的",
+      "en": "He was drunk at the party."
+    },
+    "wander": {
+      "pos": "v.",
+      "ipa": "/ˈwɒn.dər/",
+      "cn": "漫步",
+      "en": "She wandered through the park."
+    },
+    "reminisce": {
+      "pos": "v.",
+      "ipa": "/ˌrem.ɪˈsɪns/",
+      "cn": "回忆",
+      "en": "They reminisced about old times."
+    },
+    "relationship": {
+      "pos": "n.",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "cn": "关系",
+      "en": "They had a good relationship."
+    },
+    "path": {
+      "pos": "n.",
+      "ipa": "/pæθ/",
+      "cn": "道路",
+      "en": "Their paths went in different directions."
+    },
+    "resolve": {
+      "pos": "v.",
+      "ipa": "/rɪˈzɒlv/",
+      "cn": "解决",
+      "en": "They resolved their differences."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "He apologized for being late."
+    },
+    "acknowledge": {
+      "pos": "v.",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "cn": "承认",
+      "en": "She acknowledged her mistake."
+    },
+    "communicate": {
+      "pos": "v.",
+      "ipa": "/kəˈmjuː.nɪ.keɪt/",
+      "cn": "沟通",
+      "en": "They need to communicate better."
+    },
+    "befriend": {
+      "pos": "v.",
+      "ipa": "/bɪˈfrend/",
+      "cn": "结交",
+      "en": "She befriended the new student."
+    },
+    "advice": {
+      "pos": "n.",
+      "ipa": "/ədˈvaɪs/",
+      "cn": "建议",
+      "en": "He gave good advice."
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈpres/",
+      "cn": "使钦佩",
+      "en": "Her skills impressed everyone."
+    },
+    "sunrise": {
+      "pos": "n.",
+      "ipa": "/ˈsʌn.raɪz/",
+      "cn": "日出",
+      "en": "They watched the sunrise together."
+    },
+    "let go": {
+      "pos": "phr.v.",
+      "ipa": "/let ɡoʊ/",
+      "cn": "放手",
+      "en": "She needed to let go of the past."
+    },
+    "move": {
+      "pos": "v.",
+      "ipa": "/muːv/",
+      "cn": "打动",
+      "en": "His speech moved the audience."
+    },
+    "happiness": {
+      "pos": "n.",
+      "ipa": "/ˈhæp.i.nəs/",
+      "cn": "幸福",
+      "en": "She found happiness at last."
+    },
+    "embrace": {
+      "pos": "n.",
+      "ipa": "/ɪmˈbreɪs/",
+      "cn": "拥抱",
+      "en": "They shared a warm embrace."
+    }
+  }
+}

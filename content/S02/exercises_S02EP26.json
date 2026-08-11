@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "construction",
+    "hint": "建筑；施工",
+    "phonetic": "/kənˈstrʌk.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "skeleton",
+    "hint": "骨架；框架",
+    "phonetic": "/ˈskel.ɪ.tən/"
+  },
+  {
+    "type": "spelling",
+    "word": "facade",
+    "hint": "建筑物正面；门面",
+    "phonetic": "/fəˈsɑːd/"
+  },
+  {
+    "type": "spelling",
+    "word": "nearly spit",
+    "hint": "差点吐出来",
+    "phonetic": "/ˈnɪə.li spɪt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The building that he __________ rose against the sky.",
+    "answer": "designed"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted felt __________ for the first time in months.",
+    "answer": "proud"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ has been working on this building design for months.",
+    "answer": "Ted"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "For __________ first time, she saw the real Ted.",
+    "answer": "the"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": 119,
+  "title": "Canning Randy",
+  "cn": "第 7 集 · 解雇兰迪",
+  "novel": "Zoey [[enrolled|enroll]] in Ted's architecture class at the university. At first, Ted thought it was a [[coincidence|coincidence]], but he soon realized that Zoey had an [[ulterior|ulterior]] motive. She wanted to [[manipulate|manipulate]] his students into joining her campaign to save the Arcadian building. She asked clever questions in class and [[steered|steer]] every discussion toward the topic of historic [[preservation|preservation]]. Ted was impressed by her [[knowledge|knowledge]] but also [[suspicious|suspicious]] of her intentions. Meanwhile, Marshall and Lily went to the Halloween parade in Greenwich Village. To their shock, they [[spotted|spot]] Robin in the parade of shame. She was wearing a [[costume|costume]] and looked completely [[humiliated|humiliate]]. It turned out that Robin had been [[broadcasting|broadcast]] the parade for her news show and had accidentally become part of a [[humiliating|humiliate]] segment. Marshall tried to [[rescue|rescue]] Robin from the situation, but she told him to stay away. She did not want her friends to see her like this. Back at the university, Ted [[confronted|confront]] Zoey after class. He told her that using his students for her [[agenda|agenda]] was unacceptable. Zoey [[apologized|apologize]] and said she genuinely wanted to learn about architecture. Ted was not sure if he could [[trust|trust]] her, but he agreed to give her another chance. The episode ended with Randy, an intern at GNB, being fired by Barney for [[incompetence|incompetence]]. Randy [[begged|beg]] for his job, and Barney [[reluctantly|reluctant]] gave him one last chance. It was a day full of [[awkward|awkward]] encounters and second chances.",
+  "words": {
+    "enroll": {"pos": "v.", "ipa": "/ɪnˈroʊl/", "cn": "注册;登记", "en": "to officially join a school or class"},
+    "coincidence": {"pos": "n.", "ipa": "/koʊˈɪnsɪdəns/", "cn": "巧合;偶然", "en": "when two things happen at the same time by chance"},
+    "ulterior": {"pos": "adj.", "ipa": "/ʌlˈtɪriər/", "cn": "隐秘的;别有用心的", "en": "hidden and not openly stated"},
+    "manipulate": {"pos": "v.", "ipa": "/məˈnɪpjuleɪt/", "cn": "操纵;控制", "en": "to control someone cleverly for your own purpose"},
+    "steer": {"pos": "v.", "ipa": "/stɪr/", "cn": "引导;驾驶", "en": "to guide the direction of something"},
+    "preservation": {"pos": "n.", "ipa": "/ˌprezərˈveɪʃ.ən/", "cn": "保护;保存", "en": "the act of keeping something safe"},
+    "knowledge": {"pos": "n.", "ipa": "/ˈnɑːlɪdʒ/", "cn": "知识;学问", "en": "information and understanding you have learned"},
+    "suspicious": {"pos": "adj.", "ipa": "/səˈspɪʃəs/", "cn": "怀疑的;可疑的", "en": "feeling that something is not right"},
+    "spot": {"pos": "v.", "ipa": "/spɑːt/", "cn": "发现;认出", "en": "to see or notice something suddenly"},
+    "costume": {"pos": "n.", "ipa": "/ˈkɑːstuːm/", "cn": "服装;戏装", "en": "clothes worn to look like someone else"},
+    "humiliate": {"pos": "v.", "ipa": "/hjuːˈmɪlieɪt/", "cn": "羞辱;使丢脸", "en": "to make someone feel ashamed in public"},
+    "broadcast": {"pos": "v.", "ipa": "/ˈbrɔːdkæst/", "cn": "广播;播出", "en": "to send out a program on television or radio"},
+    "rescue": {"pos": "v.", "ipa": "/ˈreskjuː/", "cn": "营救;解救", "en": "to save someone from a dangerous situation"},
+    "confront": {"pos": "v.", "ipa": "/kənˈfrʌnt/", "cn": "面对;对峙", "en": "to speak to someone directly about a problem"},
+    "agenda": {"pos": "n.", "ipa": "/əˈdʒendə/", "cn": "议程;意图", "en": "a plan or list of things to do"},
+    "apologize": {"pos": "v.", "ipa": "/əˈpɑːlədʒaɪz/", "cn": "道歉;认错", "en": "to say sorry for something wrong"},
+    "trust": {"pos": "v.", "ipa": "/trʌst/", "cn": "信任;信赖", "en": "to believe someone is honest and reliable"},
+    "incompetence": {"pos": "n.", "ipa": "/ɪnˈkɑːmpɪtəns/", "cn": "不胜任;无能", "en": "the lack of skill to do a job well"},
+    "beg": {"pos": "v.", "ipa": "/beɡ/", "cn": "乞求;恳求", "en": "to ask for something desperately"},
+    "reluctant": {"pos": "adj.", "ipa": "/rɪˈlʌktənt/", "cn": "不情愿的;勉强的", "en": "not willing to do something"},
+    "awkward": {"pos": "adj.", "ipa": "/ˈɔːk.wərd/", "cn": "尴尬的;别扭的", "en": "feeling uncomfortable or embarrassed"}
+  }
+}

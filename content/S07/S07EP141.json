@@ -1,0 +1,128 @@
+{
+  "id": 141,
+  "title": "Field Trip",
+  "cn": "第 5 集 · 实地考察",
+  "novel": "Marshall decided to take matters into his own hands at work. He was tired of his boss [[ignoring|ignore]] his ideas about the environment. Marshall [[believed|believe]] that his company should do more to protect nature. He [[gathered|gather]] all his courage and [[confronted|confront]] his boss directly. His boss was [[shocked|shock]] by Marshall's boldness but [[listened|listen]] to what he had to say. Meanwhile, Ted took his architecture class on a [[field trip|field trip]] that went terribly wrong. He wanted to show his students a real [[construction|construction]] site. He thought it would be [[educational|educational]] and [[inspiring|inspire]]. However, the site was [[dangerous|dangerous]] and not ready for visitors. Ted had not [[obtained|obtain]] the proper [[permission|permission]] to bring his class there. The [[foreman|foreman]] was angry and asked them to leave immediately. Ted felt [[embarrassed|embarrass]] in front of his students. He had tried to do something [[creative|creative]] but it had [[backfired|backfire]]. His students were confused about why their teacher had brought them to a closed site. Ted [[apologized|apologize]] to the class and [[promised|promise]] to make it up to them. Marshall's boss actually [[considered|consider]] his ideas about going green. It was a small victory, but Marshall felt proud of himself for speaking up.",
+  "words": {
+    "ignore": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈnɔːr/",
+      "cn": "忽视",
+      "en": "to pay no attention to something"
+    },
+    "believe": {
+      "pos": "v.",
+      "ipa": "/bɪˈliːv/",
+      "cn": "相信",
+      "en": "to think something is true"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæðər/",
+      "cn": "鼓起",
+      "en": "to collect or bring together"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "面对",
+      "en": "to deal with a problem directly"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːk/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "listen": {
+      "pos": "v.",
+      "ipa": "/ˈlɪsn/",
+      "cn": "倾听",
+      "en": "to pay attention to sounds"
+    },
+    "field trip": {
+      "pos": "phr.",
+      "ipa": "/fiːld trɪp/",
+      "cn": "实地考察",
+      "en": "a trip for students to learn outside"
+    },
+    "construction": {
+      "pos": "n.",
+      "ipa": "/kənˈstrʌkʃn/",
+      "cn": "建筑",
+      "en": "the act of building something"
+    },
+    "educational": {
+      "pos": "adj.",
+      "ipa": "/ˌedʒuˈkeɪʃənl/",
+      "cn": "教育性的",
+      "en": "providing useful knowledge"
+    },
+    "inspire": {
+      "pos": "v.",
+      "ipa": "/ɪnˈspaɪər/",
+      "cn": "启发",
+      "en": "to give someone ideas or energy"
+    },
+    "dangerous": {
+      "pos": "adj.",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "cn": "危险的",
+      "en": "likely to cause harm"
+    },
+    "obtain": {
+      "pos": "v.",
+      "ipa": "/əbˈteɪn/",
+      "cn": "获得",
+      "en": "to get something you want"
+    },
+    "permission": {
+      "pos": "n.",
+      "ipa": "/pərˈmɪʃn/",
+      "cn": "许可",
+      "en": "the act of allowing something"
+    },
+    "foreman": {
+      "pos": "n.",
+      "ipa": "/ˈfɔːrmən/",
+      "cn": "工头",
+      "en": "a person in charge of workers"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbærəs/",
+      "cn": "使尴尬",
+      "en": "to make someone feel ashamed"
+    },
+    "creative": {
+      "pos": "adj.",
+      "ipa": "/kriˈeɪtɪv/",
+      "cn": "有创意的",
+      "en": "having good imagination"
+    },
+    "backfire": {
+      "pos": "v.",
+      "ipa": "/ˌbækˈfaɪər/",
+      "cn": "适得其反",
+      "en": "to have the opposite result"
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "cn": "道歉",
+      "en": "to say sorry for something"
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɑːmɪs/",
+      "cn": "承诺",
+      "en": "to say you will do something"
+    },
+    "consider": {
+      "pos": "v.",
+      "ipa": "/kənˈsɪdər/",
+      "cn": "考虑",
+      "en": "to think about something carefully"
+    }
+  }
+}

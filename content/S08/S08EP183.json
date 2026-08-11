@@ -1,0 +1,80 @@
+{
+  "id": 183,
+  "title": "Something Old",
+  "cn": "第 23 集 · 旧物",
+  "novel": "Robin searched for her something old [[buried|bury]] in Central Park. Years ago, she had [[buried|bury]] a [[time capsule|time capsule]] near a tree in the park. She wanted to find it before her wedding day. She believed it would bring her good luck. Robin went to the park early in the morning and started digging. She searched for hours but could not find the [[exact|exact]] spot. She was getting [[frustrated|frustrate]] and worried. She had [[memorized|memorize]] the location years ago, but the park had changed. Meanwhile, Barney [[bonded|bond]] with Robin's father, Robin Sr. They spent the day together and got to know each other. Barney was [[nervous|nervous]] at first. He wanted to make a good [[impression|impression]] on his future father-in-law. Robin Sr. was a tough man who did not show his [[emotions|emotion]] easily. However, Barney discovered that they had a lot in common. They both loved cigars, scotch, and laser tag. Robin Sr. was [[surprised|surprised]] by how much he liked Barney. He told Barney that he was glad Robin had chosen him. Barney was [[touched|touch]] by the words. Robin kept digging in the park but still could not find the time capsule. She finally gave up and sat on a bench, feeling [[defeated|defeat]]. Then, she noticed something shiny in the dirt near her feet. It was the time capsule. She opened it and found old photos and letters. She smiled and felt ready for her wedding day.",
+  "words": {
+    "bury": {
+      "pos": "v.",
+      "ipa": "/ˈberid/",
+      "cn": "埋葬",
+      "en": "to put something under ground"
+    },
+    "time capsule": {
+      "pos": "phr.",
+      "ipa": "/taɪm ˈkæpsl/",
+      "cn": "时间胶囊",
+      "en": "a container buried with items"
+    },
+    "exact": {
+      "pos": "adj.",
+      "ipa": "/ɪɡˈzækt/",
+      "cn": "精确的",
+      "en": "completely correct or accurate"
+    },
+    "frustrate": {
+      "pos": "v.",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "cn": "使沮丧",
+      "en": "to make someone feel upset"
+    },
+    "memorize": {
+      "pos": "v.",
+      "ipa": "/ˈmeməraɪzd/",
+      "cn": "记住",
+      "en": "to learn by heart"
+    },
+    "bond": {
+      "pos": "v.",
+      "ipa": "/bɑːndɪd/",
+      "cn": "建立关系",
+      "en": "to form a close connection"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːrvəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "impression": {
+      "pos": "n.",
+      "ipa": "/ɪmˈpreʃn/",
+      "cn": "印象",
+      "en": "what you think of someone"
+    },
+    "emotion": {
+      "pos": "n.",
+      "ipa": "/ɪˈmoʊʃnz/",
+      "cn": "情感",
+      "en": "strong feelings"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃt/",
+      "cn": "感动",
+      "en": "to affect emotionally"
+    },
+    "defeat": {
+      "pos": "adj.",
+      "ipa": "/dɪˈfiːtɪd/",
+      "cn": "挫败的",
+      "en": "feeling like you have lost"
+    }
+  }
+}

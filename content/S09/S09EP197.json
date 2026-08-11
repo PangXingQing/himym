@@ -1,0 +1,128 @@
+{
+  "id": 197,
+  "title": "Bass Player Wanted",
+  "cn": "第 13 集 · 招聘贝斯手",
+  "novel": "The gang [[encountered|encounter]] a [[troublemaker|troublemaker]] at the Farhampton Inn. The man was a bass player who had been hired for the wedding band. However, he turned out to be incredibly [[rude|rude]] and [[annoying|annoying]] to everyone he met.\n\nThe bass player [[insulted|insult]] Ted's clothes, made fun of Marshall's job, and [[criticized|criticize]] Robin's choice of wedding decorations. Nobody could figure out why he was being so [[hostile|hostile]]. Lily tried to be nice to him, but he rejected her kindness.\n\nMeanwhile, Marshall finally [[arrived|arrive]] at the Farhampton Inn after his long cross-country journey with Daphne. He was [[exhausted|exhausted]] from the drive but [[relieved|relieve]] to be at the wedding. Marvin was sleeping peacefully in his arms.\n\nThe gang [[greeted|greet]] Marshall with cheers and hugs. They had been worried about him making it in time for the wedding. Marshall was [[grateful|grateful]] for their warm welcome.\n\nThe bass player continued to cause problems throughout the day. He [[argued|argue]] with the other band members and [[refused|refuse]] to play the songs on the playlist. The gang [[warned|warn]] the wedding planner about his behavior.\n\nTed eventually [[discovered|discover]] that the bass player was someone he had wronged years ago. The man held a grudge against Ted and was using this opportunity to get [[revenge|revenge]]. Ted [[apologized|apologize]] for his past mistake, and the bass player finally calmed down.\n\nBy the end of the day, the bass player agreed to behave professionally at the wedding. The gang was glad that the conflict was [[resolved|resolve]]. They enjoyed the rest of the evening together, happy that the whole group was finally [[reunited|reunite]] under one roof.",
+  "words": {
+    "encounter": {
+      "pos": "v.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "遇到",
+      "en": "They encountered a problem."
+    },
+    "troublemaker": {
+      "pos": "n.",
+      "ipa": "/ˈtrʌb.əlˌmeɪ.kər/",
+      "cn": "捣乱者",
+      "en": "The troublemaker was sent to the office."
+    },
+    "rude": {
+      "pos": "adj.",
+      "ipa": "/ruːd/",
+      "cn": "粗鲁的",
+      "en": "He was rude to the waiter."
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "讨厌的",
+      "en": "Her habit was very annoying."
+    },
+    "insult": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsʌlt/",
+      "cn": "侮辱",
+      "en": "He insulted her in front of everyone."
+    },
+    "criticize": {
+      "pos": "v.",
+      "ipa": "/ˈkrɪt.ɪ.saɪz/",
+      "cn": "批评",
+      "en": "She criticized his work."
+    },
+    "hostile": {
+      "pos": "adj.",
+      "ipa": "/ˈhɒs.taɪl/",
+      "cn": "敌意的",
+      "en": "He was hostile to the new employee."
+    },
+    "arrive": {
+      "pos": "v.",
+      "ipa": "/əˈraɪv/",
+      "cn": "到达",
+      "en": "They arrived at noon."
+    },
+    "exhausted": {
+      "pos": "adj.",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "cn": "精疲力竭的",
+      "en": "He was exhausted after the race."
+    },
+    "relieve": {
+      "pos": "v.",
+      "ipa": "/rɪˈliːv/",
+      "cn": "释然",
+      "en": "She was relieved to see him."
+    },
+    "greet": {
+      "pos": "v.",
+      "ipa": "/ɡriːt/",
+      "cn": "迎接",
+      "en": "They greeted the guests at the door."
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "cn": "感激的",
+      "en": "He was grateful for the gift."
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡ.juː/",
+      "cn": "争吵",
+      "en": "They argued about the schedule."
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "She refused to help."
+    },
+    "warn": {
+      "pos": "v.",
+      "ipa": "/wɔːrn/",
+      "cn": "警告",
+      "en": "He warned her about the danger."
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "She discovered the truth."
+    },
+    "revenge": {
+      "pos": "n.",
+      "ipa": "/rɪˈvendʒ/",
+      "cn": "报复",
+      "en": "He wanted revenge for the insult."
+    },
+    "apologize": {
+      "pos": "v.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "cn": "道歉",
+      "en": "He apologized for his behavior."
+    },
+    "resolve": {
+      "pos": "v.",
+      "ipa": "/rɪˈzɒlv/",
+      "cn": "解决",
+      "en": "They resolved the conflict."
+    },
+    "reunite": {
+      "pos": "v.",
+      "ipa": "/ˌriː.juːˈnaɪt/",
+      "cn": "重聚",
+      "en": "The family reunited at Christmas."
+    }
+  }
+}

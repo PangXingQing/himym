@@ -1,0 +1,98 @@
+{
+  "id": 97,
+  "title": "Slapsgiving 2: Revenge of the Slap",
+  "cn": "第 9 集 · 掌掴感恩节2：复仇之掌",
+  "novel": "Marshall had one slap left to deliver, and Thanksgiving was the perfect stage. He [[prepared|prepare]] for days, stretching his hand, studying the [[angle|angle]] of impact.\n\nBut the day brought an unexpected guest: Lily's [[estranged|estranged]] father, Mickey. He had missed every important moment of her life, and now he showed up with a [[turkey|turkey]] and a guilty smile.\n\nLily was [[furious|furious]]. \"You can't just [[waltz|waltz]] in after ten years,\" she said.\n\nMickey [[stammered|stammer]] an apology. The room fell silent.\n\nMarshall saw his chance. He told Mickey that if he wanted to stay, he had to accept a [[slap|slap]]. Mickey agreed, thinking it was a joke.\n\nIt was not. Marshall [[delivered|deliver]] the slap with [[legendary|legendary]] force — only it landed on Barney, who had [[sneaked|sneak]] up to steal the turkey. Chaos [[erupted|erupt]].\n\nBy the end of the night, Lily had not [[forgiven|forgive]] her father, but she had let him stay. And Barney, nursing a red cheek, [[vowed|vow]] [[revenge|revenge]].",
+  "words": {
+    "prepare": {
+      "pos": "v.",
+      "ipa": "/prɪˈpeər/",
+      "cn": "准备",
+      "en": "to get ready for something"
+    },
+    "angle": {
+      "pos": "n.",
+      "ipa": "/ˈæŋ.ɡəl/",
+      "cn": "角度",
+      "en": "the direction from which something comes"
+    },
+    "estranged": {
+      "pos": "adj.",
+      "ipa": "/ɪˈstreɪndʒd/",
+      "cn": "疏远的",
+      "en": "no longer close to your family"
+    },
+    "turkey": {
+      "pos": "n.",
+      "ipa": "/ˈtɜː.ki/",
+      "cn": "火鸡",
+      "en": "a large bird eaten on Thanksgiving"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "狂怒的",
+      "en": "extremely angry"
+    },
+    "waltz": {
+      "pos": "v.",
+      "ipa": "/wɒls/",
+      "cn": "大摇大摆地走",
+      "en": "to enter somewhere confidently as if you belong"
+    },
+    "stammer": {
+      "pos": "v.",
+      "ipa": "/ˈstæm.ər/",
+      "cn": "结巴地说",
+      "en": "to speak with many pauses and repeated sounds"
+    },
+    "slap": {
+      "pos": "n.",
+      "ipa": "/slæp/",
+      "cn": "一巴掌",
+      "en": "a blow with the flat of your hand"
+    },
+    "deliver": {
+      "pos": "v.",
+      "ipa": "/dɪˈlɪv.ər/",
+      "cn": "兑现；施加",
+      "en": "to do what you promised; to give a blow"
+    },
+    "legendary": {
+      "pos": "adj.",
+      "ipa": "/ˈledʒ.ən.dər.i/",
+      "cn": "传奇般的",
+      "en": "famous and talked about for a long time"
+    },
+    "sneak": {
+      "pos": "v.",
+      "ipa": "/sniːk/",
+      "cn": "偷偷溜动",
+      "en": "to move quietly so no one sees you"
+    },
+    "erupt": {
+      "pos": "v.",
+      "ipa": "/ɪˈrʌpt/",
+      "cn": "爆发",
+      "en": "to suddenly start happening"
+    },
+    "forgive": {
+      "pos": "v.",
+      "ipa": "/fəˈɡɪv/",
+      "cn": "原谅",
+      "en": "to stop being angry with someone"
+    },
+    "vow": {
+      "pos": "v.",
+      "ipa": "/vaʊ/",
+      "cn": "发誓",
+      "en": "to make a serious promise"
+    },
+    "revenge": {
+      "pos": "n.",
+      "ipa": "/rɪˈvendʒ/",
+      "cn": "报复",
+      "en": "something you do to hurt someone who hurt you"
+    }
+  }
+}

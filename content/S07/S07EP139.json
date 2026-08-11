@@ -1,0 +1,134 @@
+{
+  "id": 139,
+  "title": "Ducky Tie",
+  "cn": "第 3 集 · 鸭子领带",
+  "novel": "Ted tried to [[make amends|make amends]] with an old girlfriend he had treated badly in the past. He felt [[guilty|guilty]] about how things ended between them. He [[reached|reach]] out and asked to meet for coffee. She [[agreed|agree]] but was still [[skeptical|skeptical]] of his [[intentions|intention]]. Meanwhile, Marshall and Lily made a [[bet|bet]] with Barney. They [[challenged|challenge]] him to wear a silly ducky tie for a whole year. If Barney lost the bet, he would have to keep wearing the [[ridiculous|ridiculous]] tie everywhere he went. Barney was [[confident|confident]] he could win, but the conditions were [[tougher|tough]] than he thought. He had to [[perform|perform]] a series of difficult tasks to win the bet. The ducky tie became a running [[joke|joke]] among the group. Barney [[complained|complain]] about the tie every day, but he refused to give up. Lily and Marshall [[enjoyed|enjoy]] watching Barney suffer through the bet. Ted's meeting with his old girlfriend did not go as [[smoothly|smooth]]. She still held a [[grudge|grudge]] against him. Ted [[realized|realize]] that sometimes saying sorry is not [[enough|enough]] to fix the past. The gang laughed about their [[situations|situation]] at MacLaren's bar, and Barney [[adjusted|adjust]] to his new life with the ducky tie.",
+  "words": {
+    "make amends": {
+      "pos": "phr.",
+      "ipa": "/meɪk əˈmendz/",
+      "cn": "弥补",
+      "en": "to do something to fix a wrong"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪlti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "reach": {
+      "pos": "v.",
+      "ipa": "/riːtʃ/",
+      "cn": "联系",
+      "en": "to communicate with someone"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to say yes to something"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskeptɪkl/",
+      "cn": "怀疑的",
+      "en": "not easily believing something"
+    },
+    "intention": {
+      "pos": "n.",
+      "ipa": "/ɪnˈtenʃn/",
+      "cn": "意图",
+      "en": "a plan or purpose to do something"
+    },
+    "bet": {
+      "pos": "n.",
+      "ipa": "/bet/",
+      "cn": "打赌",
+      "en": "an agreement to risk money on something"
+    },
+    "challenge": {
+      "pos": "v.",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "cn": "挑战",
+      "en": "to invite someone to compete"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪkjələs/",
+      "cn": "荒谬的",
+      "en": "very silly or unreasonable"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɑːnfɪdənt/",
+      "cn": "自信的",
+      "en": "sure about your abilities"
+    },
+    "tough": {
+      "pos": "adj.",
+      "ipa": "/tʌf/",
+      "cn": "艰难的",
+      "en": "difficult to do or deal with"
+    },
+    "perform": {
+      "pos": "v.",
+      "ipa": "/pərˈfɔːrm/",
+      "cn": "执行",
+      "en": "to do a task or activity"
+    },
+    "joke": {
+      "pos": "n.",
+      "ipa": "/dʒoʊk/",
+      "cn": "笑话",
+      "en": "something said to make people laugh"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨",
+      "en": "to say you are unhappy about something"
+    },
+    "enjoy": {
+      "pos": "v.",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "cn": "享受",
+      "en": "to get pleasure from something"
+    },
+    "smooth": {
+      "pos": "adj.",
+      "ipa": "/smuːð/",
+      "cn": "顺利的",
+      "en": "happening without problems"
+    },
+    "grudge": {
+      "pos": "n.",
+      "ipa": "/ɡrʌdʒ/",
+      "cn": "怨恨",
+      "en": "a feeling of anger toward someone"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪz/",
+      "cn": "意识到",
+      "en": "to understand something suddenly"
+    },
+    "enough": {
+      "pos": "adv.",
+      "ipa": "/ɪˈnʌf/",
+      "cn": "足够",
+      "en": "as much as is needed"
+    },
+    "situation": {
+      "pos": "n.",
+      "ipa": "/ˌsɪtʃuˈeɪʃn/",
+      "cn": "情况",
+      "en": "the state of things at a time"
+    },
+    "adjust": {
+      "pos": "v.",
+      "ipa": "/əˈdʒʌst/",
+      "cn": "适应",
+      "en": "to get used to a new situation"
+    }
+  }
+}

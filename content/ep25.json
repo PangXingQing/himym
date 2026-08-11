@@ -1,0 +1,176 @@
+{
+  "id": 25,
+  "title": "Brunch",
+  "cn": "第25集 · 早午餐",
+  "novel": "Ted's parents [[visited|visit]] New York for [[brunch|brunch]], and he was [[thrilled|thrill]] — until his mom and dad started [[bickering|bicker]] over the [[menu|menu]]. His mother, Virginia, [[kept correcting|keep correct]] his father's [[grammar|grammar]]. His father, Alfred, rolled his eyes and [[muttered|mutter]] about his wife's \"helpful [[suggestions|suggestion]].\"\n\nRobin found the whole scene [[hilarious|hilarious]]. She had never seen Ted so [[embarrassed|embarrass]]. \"They're worse than my parents during [[divorce|divorce]],\" she joked. But Ted was not laughing. He had always [[portrayed|portray]] his parents as the perfect [[couple|couple]], and now they were [[crumbling|crumble]] in front of him.\n\nMarshall, meanwhile, was still [[navigating|navigate]] his [[complicated|complicated]] situation with Lily. She was sleeping on the couch, and every morning was an [[exercise|exercise]] in [[awkward|awkward]] [[silence|silence]].\n\nDuring brunch, Virginia [[confessed|confess]] that she and Alfred had been seeing a [[therapist|therapist]]. Ted nearly [[choked|choke]] on his [[pancake|pancake]]. \"Since when?\" he asked. \"Since you went to college,\" his mother replied. \"We stayed together for you.\"\n\nTed felt the ground [[shift|shift]] beneath him. Everything he believed about love had been [[built|build]] on a [[myth|myth]]. But then his father reached across the table and held Virginia's hand. \"We're still here, [[aren't we|be not we]]?\" he said. And in that simple [[gesture|gesture]], Ted saw something more honest than perfection — he saw [[commitment|commitment]].",
+  "words": {
+    "visit": {
+      "pos": "v.",
+      "ipa": "/ˈvɪz.ɪt/",
+      "cn": "拜访；看望",
+      "en": "to go to see a person or place for a short time"
+    },
+    "brunch": {
+      "pos": "n.",
+      "ipa": "/brʌntʃ/",
+      "cn": "早午餐",
+      "en": "a late-morning meal that replaces breakfast and lunch"
+    },
+    "thrill": {
+      "pos": "v.",
+      "ipa": "/θrɪl/",
+      "cn": "使兴奋；激动",
+      "en": "to make someone feel very excited and happy"
+    },
+    "bicker": {
+      "pos": "v.",
+      "ipa": "/ˈbɪk.ər/",
+      "cn": "斗嘴；争吵",
+      "en": "to argue about things that are not important"
+    },
+    "menu": {
+      "pos": "n.",
+      "ipa": "/ˈmen.juː/",
+      "cn": "菜单",
+      "en": "a list of food you can order at a restaurant"
+    },
+    "keep correct": {
+      "pos": "phr.",
+      "ipa": "/kiːp kəˈrekt/",
+      "cn": "不断纠正",
+      "en": "to repeatedly tell someone they made a mistake"
+    },
+    "grammar": {
+      "pos": "n.",
+      "ipa": "/ˈɡræm.ər/",
+      "cn": "语法",
+      "en": "the rules about how words change and combine in a language"
+    },
+    "mutter": {
+      "pos": "v.",
+      "ipa": "/ˈmʌt.ər/",
+      "cn": "嘟囔；低声抱怨",
+      "en": "to speak quietly, especially when you are annoyed"
+    },
+    "suggestion": {
+      "pos": "n.",
+      "ipa": "/səˈdʒes.tʃən/",
+      "cn": "建议",
+      "en": "an idea or plan that you offer for someone to consider"
+    },
+    "hilarious": {
+      "pos": "adj.",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "cn": "极其滑稽的",
+      "en": "extremely funny"
+    },
+    "embarrass": {
+      "pos": "v.",
+      "ipa": "/ɪmˈbær.əs/",
+      "cn": "使尴尬；使难堪",
+      "en": "to make someone feel ashamed or shy"
+    },
+    "divorce": {
+      "pos": "n.",
+      "ipa": "/dɪˈvɔːs/",
+      "cn": "离婚",
+      "en": "the legal ending of a marriage"
+    },
+    "portray": {
+      "pos": "v.",
+      "ipa": "/pɔːˈtreɪ/",
+      "cn": "描绘；把...说成",
+      "en": "to describe or show someone in a particular way"
+    },
+    "couple": {
+      "pos": "n.",
+      "ipa": "/ˈkʌp.əl/",
+      "cn": "夫妻；一对",
+      "en": "two people who are married or in a romantic relationship"
+    },
+    "crumble": {
+      "pos": "v.",
+      "ipa": "/ˈkrʌm.bl̩/",
+      "cn": "崩溃；瓦解",
+      "en": "to break into small pieces; to stop existing"
+    },
+    "navigate": {
+      "pos": "v.",
+      "ipa": "/ˈnæv.ɪ.ɡeɪt/",
+      "cn": "航行；应对",
+      "en": "to find your way through a difficult situation"
+    },
+    "complicated": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒm.plɪ.keɪ.tɪd/",
+      "cn": "复杂的",
+      "en": "difficult to understand or deal with"
+    },
+    "exercise": {
+      "pos": "n.",
+      "ipa": "/ˈek.sə.saɪz/",
+      "cn": "练习；考验",
+      "en": "an activity that tests or improves a skill"
+    },
+    "silence": {
+      "pos": "n.",
+      "ipa": "/ˈsaɪ.ləns/",
+      "cn": "沉默",
+      "en": "a period of time when no one speaks"
+    },
+    "therapist": {
+      "pos": "n.",
+      "ipa": "/ˈθer.ə.pɪst/",
+      "cn": "治疗师；心理咨询师",
+      "en": "a professional who helps people deal with emotional problems"
+    },
+    "choke": {
+      "pos": "v.",
+      "ipa": "/tʃəʊk/",
+      "cn": "噎住；呛到",
+      "en": "to be unable to breathe because something blocks your throat"
+    },
+    "pancake": {
+      "pos": "n.",
+      "ipa": "/ˈpæn.keɪk/",
+      "cn": "煎饼；薄饼",
+      "en": "a thin flat round food made from batter and fried"
+    },
+    "shift": {
+      "pos": "v.",
+      "ipa": "/ʃɪft/",
+      "cn": "移动；转变",
+      "en": "to move or change position; to change opinion"
+    },
+    "build": {
+      "pos": "v.",
+      "ipa": "/bɪld/",
+      "cn": "建造；建立",
+      "en": "to make something by putting parts together"
+    },
+    "myth": {
+      "pos": "n.",
+      "ipa": "/mɪθ/",
+      "cn": "神话；虚幻的事",
+      "en": "a popular belief that is not true"
+    },
+    "aren't we": {
+      "pos": "phr.",
+      "ipa": "/ɑːnt wiː/",
+      "cn": "不是吗？（反问）",
+      "en": "used to ask for agreement or confirmation"
+    },
+    "gesture": {
+      "pos": "n.",
+      "ipa": "/ˈdʒes.tʃər/",
+      "cn": "手势；姿态",
+      "en": "a movement of your hands or body that shows a feeling"
+    },
+    "commitment": {
+      "pos": "n.",
+      "ipa": "/kəˈmɪt.mənt/",
+      "cn": "承诺；投入",
+      "en": "a promise to do something or to stay with someone"
+    }
+  }
+}

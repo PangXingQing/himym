@@ -1,0 +1,128 @@
+{
+  "id": 50,
+  "title": "I'm Not That Guy",
+  "cn": "第 6 集 · 我不是那种人",
+  "novel": "A [[corporate|corporate]] law firm [[offered|offer]] Ted a job with a huge salary. The money was [[tempting|tempting]], but Ted wanted to be an [[architect|architect]], not a [[lawyer|lawyer]]. He [[doubted|doubt]] himself.\n\nMeanwhile, a [[porn star|porn star]] named Ted Mosby [[surfaced|surface]] online. The [[revelation|revelation]] was [[hilarious|hilarious]] but [[damaging|damaging]] to Ted's [[reputation|reputation]]. Barney [[found|find]] it [[amusing|amusing]]. Ted did not.\n\nLily [[confessed|confess]] she had once [[manipulated|manipulate]] Ted's relationships. She had [[secretly|secretly]] [[sabotaged|sabotage]] dates she disliked. Ted was [[furious|furious]]. \"You had no right,\" he [[declared|declare]].\n\nIn the end, Ted rejected the corporate job. \"I'm not that guy,\" he said. He chose his passion over money. Some choices, he realized, defined who you were.",
+  "words": {
+    "corporate": {
+      "pos": "adj.",
+      "ipa": "/ˈkɔː.pər.ət/",
+      "cn": "企业的",
+      "en": "related to large companies"
+    },
+    "offer": {
+      "pos": "v.",
+      "ipa": "/ˈɒf.ə/",
+      "cn": "提供",
+      "en": "to give an opportunity"
+    },
+    "tempting": {
+      "pos": "adj.",
+      "ipa": "/ˈtemp.tɪŋ/",
+      "cn": "诱人的",
+      "en": "making you want something"
+    },
+    "architect": {
+      "pos": "n.",
+      "ipa": "/ˈɑː.kɪ.tekt/",
+      "cn": "建筑师",
+      "en": "a person who designs buildings"
+    },
+    "lawyer": {
+      "pos": "n.",
+      "ipa": "/ˈlɔː.jə/",
+      "cn": "律师",
+      "en": "a person who gives legal advice"
+    },
+    "doubt": {
+      "pos": "v.",
+      "ipa": "/daʊt/",
+      "cn": "怀疑",
+      "en": "to feel unsure"
+    },
+    "porn star": {
+      "pos": "phr.",
+      "ipa": "/pɔːn stɑː/",
+      "cn": "色情明星",
+      "en": "a person in adult films"
+    },
+    "surface": {
+      "pos": "v.",
+      "ipa": "/ˈsɜː.fɪs/",
+      "cn": "浮现；曝光",
+      "en": "to become known"
+    },
+    "revelation": {
+      "pos": "n.",
+      "ipa": "/ˌrev.əˈleɪ.ʃən/",
+      "cn": "被揭露的事",
+      "en": "something surprising made known"
+    },
+    "hilarious": {
+      "pos": "adj.",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "cn": "非常搞笑的",
+      "en": "extremely funny"
+    },
+    "damaging": {
+      "pos": "adj.",
+      "ipa": "/ˈdæm.ɪ.dʒɪŋ/",
+      "cn": "有害的",
+      "en": "causing harm"
+    },
+    "reputation": {
+      "pos": "n.",
+      "ipa": "/ˌrep.jəˈteɪ.ʃən/",
+      "cn": "名声",
+      "en": "what people think of someone"
+    },
+    "find": {
+      "pos": "v.",
+      "ipa": "/faɪnd/",
+      "cn": "觉得",
+      "en": "to think a particular way"
+    },
+    "amusing": {
+      "pos": "adj.",
+      "ipa": "/əˈmjuː.zɪŋ/",
+      "cn": "有趣的",
+      "en": "funny and entertaining"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白",
+      "en": "to admit something shy about"
+    },
+    "manipulate": {
+      "pos": "v.",
+      "ipa": "/məˈnɪp.jʊ.leɪt/",
+      "cn": "操纵",
+      "en": "to control someone secretly"
+    },
+    "secretly": {
+      "pos": "adv.",
+      "ipa": "/ˈsiː.krət.li/",
+      "cn": "秘密地",
+      "en": "without others knowing"
+    },
+    "sabotage": {
+      "pos": "v.",
+      "ipa": "/ˈsæb.ə.tɑːʒ/",
+      "cn": "蓄意破坏",
+      "en": "to deliberately ruin"
+    },
+    "furious": {
+      "pos": "adj.",
+      "ipa": "/ˈfjʊə.ri.əs/",
+      "cn": "狂怒的",
+      "en": "extremely angry"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布",
+      "en": "to say firmly"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": 65,
+  "title": "Do I Know You?",
+  "cn": "第 1 集 · 你认识我吗",
+  "novel": "Ted stared at Stella and [[realized|realize]] he could not answer simple questions about her. Her [[favorite|favorite]] movie, her [[childhood|childhood]] pet, her [[allergies|allergy]] — he knew none of it. He [[memorized|memorize]] her likes and dislikes, filling notebooks with [[details|detail]].\n\nAt the bar, Barney [[confessed|confess]] something [[unexpected|unexpected]]. \"I have feelings for Robin,\" he said. Ted was too [[distracted|distract]] to react. Marshall and Lily [[seized|seize]] the moment and [[arranged|arrange]] a dinner for Barney and Robin.\n\nRobin was [[skeptical|skeptical]]. \"Barney? Really?\" she asked. But Lily was [[persuasive|persuasive]]. \"Give him a [[genuine|genuine]] chance,\" she urged.\n\nMeanwhile, Ted [[crammed|cram]] facts about Stella until his head ached. But when he met Stella for dinner, she looked puzzled. \"You sound like you memorized a textbook,\" she said.\n\nTed [[hesitated|hesitate]]. \"I just want to know you better.\"\n\nStella smiled. \"You don't need to cram. Just ask me.\"\n\nAcross town, Barney sat across from Robin, sweating through his shirt. He tried to be sincere, but every sentence sounded like a pick-up line. Robin laughed. \"This is [[awkward|awkward]],\" she said.\n\n\"Yeah,\" Barney [[admitted|admit]]. \"But I'm trying.\"",
+  "words": {
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到；明白",
+      "en": "to understand a fact suddenly"
+    },
+    "favorite": {
+      "pos": "adj.",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "cn": "最喜欢的",
+      "en": "liked more than any other"
+    },
+    "childhood": {
+      "pos": "n.",
+      "ipa": "/ˈtʃaɪld.hʊd/",
+      "cn": "童年",
+      "en": "the time when you are a child"
+    },
+    "allergy": {
+      "pos": "n.",
+      "ipa": "/ˈæl.ə.dʒi/",
+      "cn": "过敏",
+      "en": "a bad reaction to certain foods or things"
+    },
+    "memorize": {
+      "pos": "v.",
+      "ipa": "/ˈmem.ə.raɪz/",
+      "cn": "记住；背诵",
+      "en": "to learn something so you remember it exactly"
+    },
+    "detail": {
+      "pos": "n.",
+      "ipa": "/ˈdiː.teɪl/",
+      "cn": "细节",
+      "en": "a small fact about something"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfes/",
+      "cn": "坦白；承认",
+      "en": "to tell someone a truth you feel shy about"
+    },
+    "unexpected": {
+      "pos": "adj.",
+      "ipa": "/ˌʌn.ɪkˈspek.tɪd/",
+      "cn": "意想不到的",
+      "en": "surprising because you did not expect it"
+    },
+    "distract": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrækt/",
+      "cn": "使分心",
+      "en": "to take someone's attention away"
+    },
+    "seize": {
+      "pos": "v.",
+      "ipa": "/siːz/",
+      "cn": "抓住（机会）",
+      "en": "to take hold of a chance quickly"
+    },
+    "arrange": {
+      "pos": "v.",
+      "ipa": "/əˈreɪndʒ/",
+      "cn": "安排",
+      "en": "to plan or organize something"
+    },
+    "skeptical": {
+      "pos": "adj.",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "cn": "怀疑的",
+      "en": "doubting that something is true"
+    },
+    "persuasive": {
+      "pos": "adj.",
+      "ipa": "/pəˈsweɪ.sɪv/",
+      "cn": "有说服力的",
+      "en": "able to make people believe or do something"
+    },
+    "genuine": {
+      "pos": "adj.",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "cn": "真诚的；真正的",
+      "en": "real and honest, not fake"
+    },
+    "cram": {
+      "pos": "v.",
+      "ipa": "/kræm/",
+      "cn": "临时抱佛脚",
+      "en": "to study hard at the last minute"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫",
+      "en": "to pause before doing something"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel shy or uncomfortable"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    }
+  }
+}

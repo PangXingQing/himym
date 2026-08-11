@@ -1,0 +1,92 @@
+{
+  "id": 149,
+  "title": "Tailgate",
+  "cn": "第 13 集 · 尾门派对",
+  "novel": "Marshall visited his father's [[graveside|graveside]] for their [[tailgating|tailgate]] tradition. Every year, they used to go to football games and have a tailgate party in the parking lot. Now, Marshall continued the [[tradition|tradition]] alone at his father's grave. He brought food, drinks, and a small grill. He sat by the [[headstone|headstone]] and talked to his father as if he were still there. He told his dad about the baby, about work, and about his friends. It was a [[bittersweet|bittersweet]] moment that made him both happy and sad. Meanwhile, Barney and Ted decided to open a bar called Puzzles. They thought it would be a great [[investment|investment]] and a fun place to hang out. They found a [[location|location]] and started planning the [[details|detail]]. They [[argued|argue]] about the name, the decor, and the drinks they would serve. Ted wanted a [[classy|classy]] bar with good music and [[comfortable|comfortable]] seats. Barney wanted a wild party bar with games and loud music. They [[compromised|compromise]] and tried to combine both ideas. Robin reported on a news story about a local [[tradition|tradition]] at the bar. She was impressed by how well Ted and Barney worked together. The bar had a [[soft|soft]] opening that night. Only a few people showed up, but Ted and Barney were still proud of what they had created. They knew it would take time to build a [[successful|successful]] business.",
+  "words": {
+    "graveside": {
+      "pos": "n.",
+      "ipa": "/ˈɡreɪvsaɪd/",
+      "cn": "墓旁",
+      "en": "the area beside a grave"
+    },
+    "tailgate": {
+      "pos": "v.",
+      "ipa": "/ˈteɪlɡeɪtɪŋ/",
+      "cn": "尾门派对",
+      "en": "having a party at a car's tailgate"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃn/",
+      "cn": "传统",
+      "en": "a custom passed down over time"
+    },
+    "headstone": {
+      "pos": "n.",
+      "ipa": "/ˈhedstoʊn/",
+      "cn": "墓碑",
+      "en": "a stone marking a grave"
+    },
+    "bittersweet": {
+      "pos": "adj.",
+      "ipa": "/ˈbɪtərswiːt/",
+      "cn": "苦乐参半的",
+      "en": "both happy and sad at once"
+    },
+    "investment": {
+      "pos": "n.",
+      "ipa": "/ɪnˈvestmənt/",
+      "cn": "投资",
+      "en": "money put into a business"
+    },
+    "location": {
+      "pos": "n.",
+      "ipa": "/loʊˈkeɪʃn/",
+      "cn": "位置",
+      "en": "a particular place or spot"
+    },
+    "detail": {
+      "pos": "n.",
+      "ipa": "/ˈdiːteɪlz/",
+      "cn": "细节",
+      "en": "small parts of something"
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡjuːd/",
+      "cn": "争论",
+      "en": "to disagree with someone"
+    },
+    "classy": {
+      "pos": "adj.",
+      "ipa": "/ˈklæsi/",
+      "cn": "有格调的",
+      "en": "stylish and elegant"
+    },
+    "comfortable": {
+      "pos": "adj.",
+      "ipa": "/ˈkʌmftəbl/",
+      "cn": "舒适的",
+      "en": "giving a relaxed feeling"
+    },
+    "compromise": {
+      "pos": "v.",
+      "ipa": "/ˈkɑːmprəmaɪzd/",
+      "cn": "妥协",
+      "en": "to reach an agreement"
+    },
+    "soft": {
+      "pos": "adj.",
+      "ipa": "/sɔːft/",
+      "cn": "低调的",
+      "en": "gentle; not strong or loud"
+    },
+    "successful": {
+      "pos": "adj.",
+      "ipa": "/səkˈsesfl/",
+      "cn": "成功的",
+      "en": "achieving a good result"
+    }
+  }
+}

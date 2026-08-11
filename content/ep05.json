@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "title": "Okay Awesome",
+  "cn": "第 5 集 · 夜店与桌游",
+  "novel": "Robin got them into a famous [[nightclub|nightclub]]. A huge [[bouncer|bouncer]] lifted the [[velvet rope|velvet rope]], and suddenly they were [[VIPs|VIP]].\n\nInside, the music was [[deafening|deafening]]. The [[bass|bass]] made Ted's chest [[throb|throb]]. Hundreds of [[sweaty|sweaty]] bodies were [[crammed|cram]] together, and he had to [[squeeze|squeeze]] sideways just to reach the bar. Lights turned every face into a [[blur|blur]].\n\nBarney shouted that this was the greatest night of their lives. Ted nodded and thought about his sofa.\n\nHe was thirty minutes in and already [[exhausted|exhausted]]. Was he [[immature|immature]] for staying, or too [[mature|mature]] to enjoy it? Had he simply [[outgrown|outgrow]] this kind of fun?\n\nMeanwhile Marshall and Lily stayed home in [[cosy|cosy]] socks, playing a [[board game|board game]] and eating ice cream. They were [[thrilled|thrilled]]. They felt no [[longing|longing]] for the loud world outside at all.\n\nAt two in the morning the excitement finally [[wore off|wear off]]. Ted stood on the street with ringing ears and understood something quietly: you do not have to love a place to [[belong|belong]] somewhere.\n\nHe went home, took the last spoon of ice cream, and lost the board game badly.",
+  "words": {
+    "nightclub": {"pos": "n.", "ipa": "/ˈnaɪt.klʌb/", "cn": "夜总会；夜店", "en": "a place open late at night for dancing and drinking"},
+    "bouncer": {"pos": "n.", "ipa": "/ˈbaʊn.sə/", "cn": "（夜店）门口保安", "en": "a strong person at a club door who keeps out people they do not want"},
+    "velvet rope": {"pos": "n.", "ipa": "/ˈvel.vɪt rəʊp/", "cn": "（贵宾区）绒绳", "en": "the soft rope at a club door that separates important guests from the queue"},
+    "VIP": {"pos": "n.", "ipa": "/ˌviː.aɪˈpiː/", "cn": "贵宾（very important person）", "en": "a special guest who gets better treatment"},
+    "deafening": {"pos": "adj.", "ipa": "/ˈdef.ən.ɪŋ/", "cn": "震耳欲聋的", "en": "so loud that you cannot hear anything else"},
+    "bass": {"pos": "n.", "ipa": "/beɪs/", "cn": "低音", "en": "the low, deep sounds in music"},
+    "throb": {"pos": "v.", "ipa": "/θrɒb/", "cn": "（有节奏地）跳动、震动", "en": "to beat strongly again and again"},
+    "sweaty": {"pos": "adj.", "ipa": "/ˈswet.i/", "cn": "满身是汗的", "en": "wet with sweat"},
+    "cram": {"pos": "v.", "ipa": "/kræm/", "cn": "塞满；挤进", "en": "to push too many things or people into a small space"},
+    "squeeze": {"pos": "v.", "ipa": "/skwiːz/", "cn": "挤过；挤压", "en": "to move through a space that is too narrow"},
+    "blur": {"pos": "n.", "ipa": "/blɜː/", "cn": "模糊一片", "en": "something you cannot see clearly"},
+    "exhausted": {"pos": "adj.", "ipa": "/ɪɡˈzɔːs.tɪd/", "cn": "精疲力竭的", "en": "extremely tired"},
+    "immature": {"pos": "adj.", "ipa": "/ˌɪm.əˈtʃʊə/", "cn": "幼稚的；不成熟的", "en": "behaving like a child, not like an adult"},
+    "mature": {"pos": "adj.", "ipa": "/məˈtʃʊə/", "cn": "成熟的", "en": "behaving in a sensible, adult way"},
+    "outgrow": {"pos": "v.", "ipa": "/ˌaʊtˈɡrəʊ/", "cn": "（因长大而）不再喜欢", "en": "to stop liking something because you have grown older"},
+    "cosy": {"pos": "adj.", "ipa": "/ˈkəʊ.zi/", "cn": "温暖舒适的", "en": "warm, soft and comfortable"},
+    "board game": {"pos": "n.", "ipa": "/ˈbɔːd ɡeɪm/", "cn": "桌游；棋盘游戏", "en": "a game played on a flat board, like chess"},
+    "thrilled": {"pos": "adj.", "ipa": "/θrɪld/", "cn": "非常开心的", "en": "very happy and excited"},
+    "longing": {"pos": "n.", "ipa": "/ˈlɒŋ.ɪŋ/", "cn": "渴望；思念", "en": "a strong wish for something you do not have"},
+    "wear off": {"pos": "phr.v.", "ipa": "/weər ɒf/", "cn": "逐渐消退", "en": "to slowly disappear, like a feeling or a medicine"},
+    "belong": {"pos": "v.", "ipa": "/bɪˈlɒŋ/", "cn": "属于；有归属感", "en": "to feel happy and right in a place or group"}
+  }
+}

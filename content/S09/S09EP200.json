@@ -1,0 +1,98 @@
+{
+  "id": 200,
+  "title": "How Your Mother Met Me",
+  "cn": "第 16 集 · 妈妈如何遇见我",
+  "novel": "This special episode [[recounted|recount]] the story of Tracy, the woman who would become Ted's wife. It showed her life over the past eight years, filled with love, loss, and [[hope|hope]].\n\nTracy was a young woman with a [[passionate|passionate]] love for music. She played bass in a band and dreamed of becoming a [[successful|successful]] musician. Her boyfriend, Max, was her [[soulmate|soulmate]]. They shared everything and planned to spend their lives together.\n\nHowever, [[tragedy|tragedy]] struck on her birthday. Max was killed in an accident. Tracy was [[devastated|devastate]]. She spent months grieving, unable to play music or see her friends. Her heart was [[broken|broken]].\n\nSlowly, Tracy began to [[heal|heal]]. She started playing music again and reconnected with her friends. She met a man named Louis who was kind and [[caring|caring]], but she did not love him the way she had loved Max.\n\nOne rainy evening, Tracy stood on a street corner with her yellow umbrella. A man named Ted was standing across the street. He was looking for the same bus she was waiting for. Their eyes met briefly, but they did not speak. It was a [[chance|chance]] [[encounter|encounter]] that neither of them would forget.\n\nTracy moved on with her life. She continued to play music and pursue her dreams. She [[believed|believe]] that [[destiny|destiny]] would bring her the right person when the time was right.\n\nThe episode ended with Tracy smiling at a photo of Max. She whispered that she was ready to love again. The screen faded to black, leaving viewers with a sense of [[anticipation|anticipation]] for the moment when Tracy and Ted would finally meet.",
+  "words": {
+    "recount": {
+      "pos": "v.",
+      "ipa": "/rɪˈkaʊnt/",
+      "cn": "讲述",
+      "en": "She recounted the story of her trip."
+    },
+    "hope": {
+      "pos": "n.",
+      "ipa": "/hoʊp/",
+      "cn": "希望",
+      "en": "She never lost hope."
+    },
+    "passionate": {
+      "pos": "adj.",
+      "ipa": "/ˈpæʃ.ə.nət/",
+      "cn": "热情的",
+      "en": "He is passionate about music."
+    },
+    "successful": {
+      "pos": "adj.",
+      "ipa": "/səkˈses.fəl/",
+      "cn": "成功的",
+      "en": "She is a successful writer."
+    },
+    "soulmate": {
+      "pos": "n.",
+      "ipa": "/ˈsoʊl.meɪt/",
+      "cn": "灵魂伴侣",
+      "en": "They were soulmates."
+    },
+    "tragedy": {
+      "pos": "n.",
+      "ipa": "/ˈtrædʒ.ə.di/",
+      "cn": "悲剧",
+      "en": "The accident was a terrible tragedy."
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdev.ə.steɪt/",
+      "cn": "毁灭",
+      "en": "The news devastated her."
+    },
+    "broken": {
+      "pos": "adj.",
+      "ipa": "/ˈbroʊ.kən/",
+      "cn": "破碎的",
+      "en": "Her heart was broken."
+    },
+    "heal": {
+      "pos": "v.",
+      "ipa": "/hiːl/",
+      "cn": "痊愈",
+      "en": "Time heals all wounds."
+    },
+    "caring": {
+      "pos": "adj.",
+      "ipa": "/ˈker.ɪŋ/",
+      "cn": "关心的",
+      "en": "She is a caring person."
+    },
+    "chance": {
+      "pos": "adj.",
+      "ipa": "/tʃæns/",
+      "cn": "偶然的",
+      "en": "It was a chance meeting."
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "相遇",
+      "en": "Their encounter was brief."
+    },
+    "believe": {
+      "pos": "v.",
+      "ipa": "/bɪˈliːv/",
+      "cn": "相信",
+      "en": "She believes in true love."
+    },
+    "destiny": {
+      "pos": "n.",
+      "ipa": "/ˈdes.tə.ni/",
+      "cn": "命运",
+      "en": "Destiny brought them together."
+    },
+    "anticipation": {
+      "pos": "n.",
+      "ipa": "/ænˌtɪs.ɪˈpeɪ.ʃən/",
+      "cn": "期待",
+      "en": "The anticipation was killing her."
+    }
+  }
+}

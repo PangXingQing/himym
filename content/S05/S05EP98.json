@@ -1,0 +1,98 @@
+{
+  "id": 98,
+  "title": "The Window",
+  "cn": "第 10 集 · 机会之窗",
+  "novel": "Ted had loved a woman named Maggie for years. She was always with someone else. But tonight, Ted learned, she was single — and the [[window|window]] to act was tiny. By morning she would be taken again.\n\nBarney [[insisted|insist]] that Ted needed a new [[suit|suit]]. \"Confidence comes from [[fabric|fabric]],\" he declared. \"A [[confident|confident]] man grabs what he wants.\"\n\nTed [[rushed|rush]] across town, racing against the clock. But at every turn, an [[obstacle|obstacle]] appeared. A flat tire. A lost [[umbrella|umbrella]]. A long line at the coffee shop.\n\nBy the time Ted reached Maggie's door, another man was already there, [[charming|charm]] her with ease.\n\nTed [[hesitated|hesitate]]. Then he [[grabbed|grab]] his courage and knocked anyway. Maggie opened the door, and for a [[brief|brief]] moment she smiled.\n\nBut the moment passed. She chose the other man. Ted walked home alone, [[defeated|defeat]] but strangely at peace. Some [[opportunities|opportunity]], he realized, closed no matter how fast you ran. The [[trick|trick]] was knowing when to stop chasing.",
+  "words": {
+    "window": {
+      "pos": "n.",
+      "ipa": "/ˈwɪn.dəʊ/",
+      "cn": "机会之窗",
+      "en": "a short period when something can be done"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持要求",
+      "en": "to demand firmly that something happen"
+    },
+    "suit": {
+      "pos": "n.",
+      "ipa": "/suːt/",
+      "cn": "西装",
+      "en": "a set of matching jacket and trousers"
+    },
+    "fabric": {
+      "pos": "n.",
+      "ipa": "/ˈfæb.rɪk/",
+      "cn": "面料；布料",
+      "en": "cloth used to make clothes"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "cn": "自信的",
+      "en": "sure that you can do something well"
+    },
+    "rush": {
+      "pos": "v.",
+      "ipa": "/rʌʃ/",
+      "cn": "冲；匆忙",
+      "en": "to move or do something very quickly"
+    },
+    "obstacle": {
+      "pos": "n.",
+      "ipa": "/ˈɒb.stə.kəl/",
+      "cn": "障碍",
+      "en": "something that blocks your way"
+    },
+    "umbrella": {
+      "pos": "n.",
+      "ipa": "/ʌmˈbrel.ə/",
+      "cn": "雨伞",
+      "en": "a thing you hold to keep rain off you"
+    },
+    "charm": {
+      "pos": "v.",
+      "ipa": "/tʃɑːm/",
+      "cn": "迷住",
+      "en": "to please someone with your manner"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫",
+      "en": "to pause because you are unsure"
+    },
+    "grab": {
+      "pos": "v.",
+      "ipa": "/ɡræb/",
+      "cn": "抓住",
+      "en": "to take hold of something suddenly"
+    },
+    "brief": {
+      "pos": "adj.",
+      "ipa": "/briːf/",
+      "cn": "短暂的",
+      "en": "lasting only a short time"
+    },
+    "defeat": {
+      "pos": "adj.",
+      "ipa": "/dɪˈfiːt/",
+      "cn": "挫败的",
+      "en": "feeling that you have lost"
+    },
+    "opportunity": {
+      "pos": "n.",
+      "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+      "cn": "机会",
+      "en": "a chance to do something"
+    },
+    "trick": {
+      "pos": "n.",
+      "ipa": "/trɪk/",
+      "cn": "诀窍；窍门",
+      "en": "a clever way of doing something"
+    }
+  }
+}

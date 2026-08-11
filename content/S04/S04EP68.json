@@ -1,0 +1,140 @@
+{
+  "id": 68,
+  "title": "Intervention",
+  "cn": "第 4 集 · 干预",
+  "novel": "The gang found an old letter in the apartment. It was an [[intervention|intervention]] letter they wrote years ago but never delivered. [[Inspired|inspire]] by the discovery, they decided to hold interventions for each other's [[annoying|annoying]] habits.\n\nMarshall's intervention was about his [[excessive|excessive]] singing. Lily's was about her [[ridiculous|ridiculous]] fake British accent. Ted's was about his [[pretentious|pretentious]] pronunciation of words.\n\nBut Barney's intervention was the most [[chaotic|chaotic]]. They [[confronted|confront]] him about his endless [[schemes|scheme]] and crazy behavior. Barney [[reacted|react]] badly. He [[stormed|storm]] out of the apartment and refused to speak to anyone.\n\nThe gang felt [[guilty|guilty]]. \"Maybe we were too [[harsh|harsh]],\" Lily said. They [[gathered|gather]] again and wrote a new letter — this time [[sincere|sincere]] and kind.\n\nBarney returned the next day. He read the letter and [[hesitated|hesitate]]. \"You guys really care about me?\" he asked, his voice [[cracking|crack]].\n\n\"Of course we do,\" Marshall said.\n\nBarney [[nodded|nod]] slowly. He [[agreed|agree]] to [[tone|tone]] things down — a little. But old habits were [[stubborn|stubborn]], and the gang knew he would never truly change.\n\nThat night, they sat together at MacLaren's, laughing about the [[absurd|absurd]] interventions. Friendship, they realized, meant accepting each other — flaws and all.",
+  "words": {
+    "intervention": {
+      "pos": "n.",
+      "ipa": "/ˌɪn.təˈven.ʃən/",
+      "cn": "干预；介入",
+      "en": "the act of stepping in to help someone"
+    },
+    "inspire": {
+      "pos": "v.",
+      "ipa": "/ɪnˈspaɪər/",
+      "cn": "启发；激励",
+      "en": "to give someone a good idea or feeling"
+    },
+    "annoying": {
+      "pos": "adj.",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "cn": "烦人的",
+      "en": "making you feel slightly angry"
+    },
+    "excessive": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈses.ɪv/",
+      "cn": "过度的",
+      "en": "too much, more than is reasonable"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "cn": "荒唐的",
+      "en": "very silly and unreasonable"
+    },
+    "pretentious": {
+      "pos": "adj.",
+      "ipa": "/prɪˈten.ʃəs/",
+      "cn": "做作的",
+      "en": "trying to seem more important than you are"
+    },
+    "chaotic": {
+      "pos": "adj.",
+      "ipa": "/keɪˈɒt.ɪk/",
+      "cn": "混乱的",
+      "en": "in a state of complete confusion"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "当面质问",
+      "en": "to face someone about a problem"
+    },
+    "scheme": {
+      "pos": "n.",
+      "ipa": "/skiːm/",
+      "cn": "诡计；计划",
+      "en": "a clever plan, often dishonest"
+    },
+    "react": {
+      "pos": "v.",
+      "ipa": "/riˈækt/",
+      "cn": "反应",
+      "en": "to behave in a particular way in response"
+    },
+    "storm": {
+      "pos": "v.",
+      "ipa": "/stɔːm/",
+      "cn": "猛冲出去",
+      "en": "to move angrily and forcefully"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "harsh": {
+      "pos": "adj.",
+      "ipa": "/hɑːʃ/",
+      "cn": "严厉的",
+      "en": "unkind and too strong"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæð.ər/",
+      "cn": "聚集",
+      "en": "to come together in a group"
+    },
+    "sincere": {
+      "pos": "adj.",
+      "ipa": "/sɪnˈsɪər/",
+      "cn": "真诚的",
+      "en": "honest and meaning what you say"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫",
+      "en": "to pause before doing something"
+    },
+    "crack": {
+      "pos": "v.",
+      "ipa": "/kræk/",
+      "cn": "（声音）变哑",
+      "en": "to break, or sound as if breaking"
+    },
+    "nod": {
+      "pos": "v.",
+      "ipa": "/nɒd/",
+      "cn": "点头",
+      "en": "to move your head up and down"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriː/",
+      "cn": "同意",
+      "en": "to say yes to something"
+    },
+    "tone": {
+      "pos": "v.",
+      "ipa": "/təʊn/",
+      "cn": "缓和；调节",
+      "en": "to make something less strong"
+    },
+    "stubborn": {
+      "pos": "adj.",
+      "ipa": "/ˈstʌb.ən/",
+      "cn": "固执的",
+      "en": "refusing to change"
+    },
+    "absurd": {
+      "pos": "adj.",
+      "ipa": "/əbˈsɜːd/",
+      "cn": "荒谬的",
+      "en": "completely unreasonable or silly"
+    }
+  }
+}

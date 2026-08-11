@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "child",
+    "hint": "孩子",
+    "phonetic": "/tʃaɪld/"
+  },
+  {
+    "type": "spelling",
+    "word": "storm",
+    "hint": "气冲冲地走",
+    "phonetic": "/stɔːm/"
+  },
+  {
+    "type": "spelling",
+    "word": "possession",
+    "hint": "财产；所有物",
+    "phonetic": "/pəˈzeʃ.ən/"
+  },
+  {
+    "type": "spelling",
+    "word": "hug",
+    "hint": "拥抱",
+    "phonetic": "/hʌɡ/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ memories are worth keeping.",
+    "answer": "The"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall had __________ sentimental attachment than Lily realized.",
+    "answer": "more"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He couldn't get __________ of his memories any more than his toys.",
+    "answer": "rid"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Both __________ spent the night apart.",
+    "answer": "couples"
+  }
+]

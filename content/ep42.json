@@ -1,0 +1,170 @@
+{
+  "id": 42,
+  "title": "Showdown",
+  "cn": "第42集 · 对决",
+  "novel": "The wedding was only days away, and Lily was [[stress|stress]]-eating everything in sight. But the real [[drama|drama]] was not about the flowers or the cake. It was about Barney and Lily's [[grandmother|grandmother]].\n\nBarney had always been the center of [[attention|attention]] in the group, but lately, Lily's grandmother — a tiny woman named [[Gammy|Gammy]] who looked like a [[porcelain|porcelain]] [[doll|doll]] — was [[stealing|steal]] his [[spotlight|spotlight]]. She told better stories, she had [[dirtier|dirty]] jokes, and she even beat him at his own game of [[laser tag|laser tag]].\n\n\"This cannot [[stand|stand]],\" Barney [[declared|declare]]. \"I challenge Gammy to a [[showdown|showdown]].\"\n\nThe showdown took place at MacLaren's. The [[categories|category]] were: best [[pick-up line|pick-up line]], best [[dance|dance]] move, and best [[storytelling|storytell]]. Barney [[expected|expect]] to [[dominate|dominate]].\n\nGammy's first pick-up line: \"I might be [[eighty|eighty]], but my [[pacemaker|pacemaker]] still beats faster when I see you.\" The bar [[exploded|explode]] with [[laughter|laugh]]. Barney's line about a [[lobster|lobster]] — nobody even [[pretended|pretend]] to laugh.\n\nFor [[dance|dance]], Gammy did the [[robot|robot]] — at eighty-two years old — and [[nailed|nail]] it. Barney tried to [[breakdance|breakdance]] and [[pulled|pull]] a [[muscle|muscle]].\n\nFor [[storytelling|storytell]], Gammy told the story of how she met her late husband in [[Paris|Paris]] during the war. By the end, everyone was in tears — including Barney.\n\n\"You win,\" he said, [[kneeling|kneel]] before her. \"Teach me your ways.\"\n\nGammy [[patted|pat]] his head. \"The first lesson: you do not need to be the center of attention to be [[loved|love]].\"\n\nBarney was quiet for a moment. \"That's actually... really good [[advice|advice]].\"",
+  "words": {
+    "stress": {
+      "pos": "v.",
+      "ipa": "/stres/",
+      "cn": "使紧张；焦虑",
+      "en": "to feel worried and unable to relax"
+    },
+    "drama": {
+      "pos": "n.",
+      "ipa": "/ˈdrɑː.mə/",
+      "cn": "戏剧性事件；风波",
+      "en": "an exciting or emotional situation involving a lot of conflict"
+    },
+    "attention": {
+      "pos": "n.",
+      "ipa": "/əˈten.ʃən/",
+      "cn": "注意力；关注",
+      "en": "the act of looking at or thinking about someone or something"
+    },
+    "porcelain": {
+      "pos": "n.",
+      "ipa": "/ˈpɔː.səl.ɪn/",
+      "cn": "瓷器",
+      "en": "a hard white material used to make cups, plates, and decorative objects"
+    },
+    "doll": {
+      "pos": "n.",
+      "ipa": "/dɒl/",
+      "cn": "玩偶；洋娃娃",
+      "en": "a toy that looks like a small person"
+    },
+    "spotlight": {
+      "pos": "n.",
+      "ipa": "/ˈspɒt.laɪt/",
+      "cn": "聚光灯；关注焦点",
+      "en": "a light that shines brightly on one area; the center of attention"
+    },
+    "dirty": {
+      "pos": "adj.",
+      "ipa": "/ˈdɜː.ti/",
+      "cn": "脏的；下流的",
+      "en": "not clean; referring to sex in a rude or humorous way"
+    },
+    "laser tag": {
+      "pos": "n.",
+      "ipa": "/ˈleɪ.zər tæɡ/",
+      "cn": "激光枪战游戏",
+      "en": "a game where players shoot at each other with laser guns"
+    },
+    "stand": {
+      "pos": "v.",
+      "ipa": "/stænd/",
+      "cn": "承受；容忍",
+      "en": "to be able to accept or deal with a bad situation"
+    },
+    "showdown": {
+      "pos": "n.",
+      "ipa": "/ˈʃəʊ.daʊn/",
+      "cn": "对决；摊牌",
+      "en": "a final battle or contest to decide who wins"
+    },
+    "category": {
+      "pos": "n.",
+      "ipa": "/ˈkæt.ə.ɡər.i/",
+      "cn": "类别；项目",
+      "en": "a group of things that share similar qualities"
+    },
+    "pick-up line": {
+      "pos": "n.",
+      "ipa": "/pɪk ʌp laɪn/",
+      "cn": "搭讪台词",
+      "en": "a funny or clever sentence used to start a romantic conversation"
+    },
+    "dance": {
+      "pos": "n.",
+      "ipa": "/dɑːns/",
+      "cn": "舞蹈",
+      "en": "a set of movements to music"
+    },
+    "storytelling": {
+      "pos": "n.",
+      "ipa": "/ˈstɔː.ri.tel.ɪŋ/",
+      "cn": "讲故事；叙事",
+      "en": "the activity of telling stories"
+    },
+    "dominate": {
+      "pos": "v.",
+      "ipa": "/ˈdɒm.ɪ.neɪt/",
+      "cn": "主导；称霸",
+      "en": "to have control over someone or be better than everyone else"
+    },
+    "eighty": {
+      "pos": "num.",
+      "ipa": "/ˈeɪ.ti/",
+      "cn": "八十",
+      "en": "the number 80"
+    },
+    "pacemaker": {
+      "pos": "n.",
+      "ipa": "/ˈpeɪs.meɪ.kər/",
+      "cn": "心脏起搏器",
+      "en": "a device put inside the body to keep the heart beating regularly"
+    },
+    "explode": {
+      "pos": "v.",
+      "ipa": "/ɪkˈspləʊd/",
+      "cn": "爆炸；爆发（笑声）",
+      "en": "to burst loudly; (of a crowd) to suddenly make a lot of noise"
+    },
+    "lobster": {
+      "pos": "n.",
+      "ipa": "/ˈlɒb.stər/",
+      "cn": "龙虾",
+      "en": "a large sea animal with a hard shell and claws eaten as food"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to behave as if something is true when it is not"
+    },
+    "robot": {
+      "pos": "n.",
+      "ipa": "/ˈrəʊ.bɒt/",
+      "cn": "机器人；机械舞",
+      "en": "a machine that can do tasks automatically; a dance style"
+    },
+    "nail": {
+      "pos": "v.",
+      "ipa": "/neɪl/",
+      "cn": "完美完成（俚语）",
+      "en": "(slang) to do something perfectly or successfully"
+    },
+    "breakdance": {
+      "pos": "v.",
+      "ipa": "/ˈbreɪk.dɑːns/",
+      "cn": "跳霹雳舞",
+      "en": "to dance in a style that includes spinning on the ground"
+    },
+    "muscle": {
+      "pos": "n.",
+      "ipa": "/ˈmʌs.əl/",
+      "cn": "肌肉",
+      "en": "a piece of flesh that moves parts of your body"
+    },
+    "Paris": {
+      "pos": "n.",
+      "ipa": "/ˈpær.ɪs/",
+      "cn": "巴黎",
+      "en": "the capital city of France"
+    },
+    "pat": {
+      "pos": "v.",
+      "ipa": "/pæt/",
+      "cn": "轻拍",
+      "en": "to touch someone gently with your hand"
+    },
+    "advice": {
+      "pos": "n.",
+      "ipa": "/ədˈvaɪs/",
+      "cn": "建议；忠告",
+      "en": "suggestions about what you think someone should do"
+    }
+  }
+}

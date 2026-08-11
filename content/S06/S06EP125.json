@@ -1,0 +1,26 @@
+{
+  "id": 125,
+  "title": "Bad News",
+  "cn": "第 13 集 · 坏消息",
+  "novel": "Marshall and Lily had been trying to have a baby for months without success. They were growing [[increasingly|increasingly]] worried and decided to visit a [[fertility|fertility]] specialist. The doctor ran a series of tests on both of them. While they waited for the results, Marshall tried to stay [[optimistic|optimistic]], but Lily could see the [[fear|fear]] in his eyes. They feared they would never get pregnant. Meanwhile, Robin started her new job at a morning talk show. She had to work with an [[annoying|annoy]] co-host who constantly interrupted her and made [[childish|childish]] jokes. Robin found it difficult to stay [[professional|professional]] when her partner was so [[immature|immature]]. Barney tried to [[distract|distract]] Marshall from his worries by taking him to a botany class, but Marshall could not focus. He kept checking his phone for the doctor's call. Throughout the episode, a hidden [[countdown|countdown]] ticked from 50 down to 1. Numbers appeared in the background of nearly every scene: on [[license|license]] plates, menus, clocks, and signs. The gang did not notice the countdown at all. When the doctor finally called, Marshall learned that he was perfectly [[healthy|healthy]] and fertile. Lily was also fine. There was no medical reason they could not [[conceive|conceive]]. They were [[relieved|relief]] beyond words. However, just as Marshall arrived home to share the good news with his father over the phone, the countdown reached zero. Lily answered Marshall's phone and received a different call. Marvin Eriksen Sr., Marshall's father, had suffered a sudden [[heart|heart]] attack and passed away. The news hit Marshall like a [[freight|freight]] train. He collapsed into Lily's arms, [[sobbing|sob]] uncontrollably. The gang stood in stunned [[silence|silence]], realizing that life could change in an instant.",
+  "words": {
+    "increasingly": {"pos": "adv.", "ipa": "/ɪnˈkriːsɪŋli/", "cn": "越来越多地;日益", "en": "more and more as time goes on"},
+    "fertility": {"pos": "n.", "ipa": "/fɜːrˈtɪləti/", "cn": "生育能力;繁殖力", "en": "the ability to have children"},
+    "optimistic": {"pos": "adj.", "ipa": "/ˌɑːptɪˈmɪstɪk/", "cn": "乐观的;积极向上的", "en": "hoping for the best in a situation"},
+    "fear": {"pos": "n.", "ipa": "/fɪr/", "cn": "恐惧;担忧", "en": "an unpleasant feeling of danger or worry"},
+    "annoy": {"pos": "v.", "ipa": "/əˈnɔɪ/", "cn": "使烦恼;惹恼", "en": "to make someone feel slightly angry"},
+    "childish": {"pos": "adj.", "ipa": "/ˈtʃaɪldɪʃ/", "cn": "幼稚的;孩子气的", "en": "behaving like a child, not mature"},
+    "professional": {"pos": "adj.", "ipa": "/prəˈfeʃənl/", "cn": "专业的;职业的", "en": "showing proper skill and behavior at work"},
+    "immature": {"pos": "adj.", "ipa": "/ˌɪməˈtʃʊr/", "cn": "不成熟的;幼稚的", "en": "not behaving like an adult should"},
+    "distract": {"pos": "v.", "ipa": "/dɪˈstrækt/", "cn": "分散注意力;使分心", "en": "to take someone's attention away"},
+    "countdown": {"pos": "n.", "ipa": "/ˈkaʊntdaʊn/", "cn": "倒计时", "en": "the act of counting backward to zero"},
+    "license": {"pos": "n.", "ipa": "/ˈlaɪsns/", "cn": "执照;许可证", "en": "an official document giving permission"},
+    "healthy": {"pos": "adj.", "ipa": "/ˈhelθi/", "cn": "健康的;健壮的", "en": "physically well and not sick"},
+    "conceive": {"pos": "v.", "ipa": "/kənˈsiːv/", "cn": "怀孕;构思", "en": "to become pregnant with a child"},
+    "relief": {"pos": "n.", "ipa": "/rɪˈliːf/", "cn": "宽慰;解脱", "en": "feeling better after worry goes away"},
+    "heart": {"pos": "n.", "ipa": "/hɑːrt/", "cn": "心脏;内心", "en": "the organ that pumps blood in the body"},
+    "freight": {"pos": "n.", "ipa": "/freɪt/", "cn": "货物;货运", "en": "goods transported by truck or train"},
+    "sob": {"pos": "v.", "ipa": "/sɑːb/", "cn": "抽泣;啜泣", "en": "to cry noisily while breathing in gasps"},
+    "silence": {"pos": "n.", "ipa": "/ˈsaɪləns/", "cn": "沉默;寂静", "en": "a complete lack of sound or speech"}
+  }
+}

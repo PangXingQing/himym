@@ -1,0 +1,27 @@
+{
+  "id": 116,
+  "title": "Subway Wars",
+  "cn": "第 4 集 · 地铁大战",
+  "novel": "Robin [[challenged|challenge]] the gang to a race through New York City. She wanted to prove that she was a real New Yorker by catching a [[glimpse|glimpse]] of Woody Allen at a restaurant downtown. Everyone [[accepted|accept]] the challenge. Ted would run on foot, Marshall would ride his bike, Barney would take a taxi, and Robin would [[navigate|navigate]] the subway system. The race was [[fierce|fierce]] from the start. Ted sprinted through Central Park, [[dodging|dodge]] tourists and pigeons along the way. Marshall pedaled as fast as he could, but his bike chain [[snapped|snap]] halfway through. He had to [[abandon|abandon]] the bike and continue on foot. Barney sat in his taxi, [[stuck|stick]] in traffic, screaming at every red light. Robin, meanwhile, was [[confident|confident]] as she rode the subway. She knew the routes by heart and [[transferred|transfer]] lines with ease. However, she [[accidentally|accidental]] got on the wrong train and ended up in Brooklyn. She had to [[backtrack|backtrack]] and lost precious time. In the end, it was Ted who [[arrived|arrive]] at the restaurant first. He burst through the door and [[spotted|spot]] Woody Allen sitting at a corner table. He felt a surge of [[triumph|triumph]]. But then Robin walked in just seconds later, [[breathless|breathless]] but smiling. She pointed out that Ted was not even a real New Yorker since he originally came from Ohio. The gang [[argued|argue]] about who truly won, but they all agreed it was the most [[exhilarating|exhilarating]] afternoon they had spent together in a long time.",
+  "words": {
+    "challenge": {"pos": "v.", "ipa": "/ˈtʃælɪndʒ/", "cn": "向…挑战", "en": "to invite someone to compete against you"},
+    "glimpse": {"pos": "n.", "ipa": "/ɡlɪmps/", "cn": "一瞥;瞥见", "en": "a quick look at something"},
+    "accept": {"pos": "v.", "ipa": "/əkˈsept/", "cn": "接受;答应", "en": "to take something that is offered"},
+    "navigate": {"pos": "v.", "ipa": "/ˈnævɪɡeɪt/", "cn": "导航;穿行", "en": "to find a way through a place"},
+    "fierce": {"pos": "adj.", "ipa": "/fɪrs/", "cn": "激烈的;凶猛的", "en": "very strong and intense"},
+    "dodge": {"pos": "v.", "ipa": "/dɑːdʒ/", "cn": "躲避;闪开", "en": "to move quickly to avoid something"},
+    "snap": {"pos": "v.", "ipa": "/snæp/", "cn": "断裂;折断", "en": "to break suddenly with a sharp sound"},
+    "abandon": {"pos": "v.", "ipa": "/əˈbændən/", "cn": "放弃;抛弃", "en": "to leave something behind"},
+    "stick": {"pos": "v.", "ipa": "/stɪk/", "cn": "卡住;陷住", "en": "to be unable to move forward"},
+    "confident": {"pos": "adj.", "ipa": "/ˈkɑːnfɪdənt/", "cn": "自信的;确信的", "en": "feeling sure about your abilities"},
+    "transfer": {"pos": "v.", "ipa": "/trænsˈfɜːr/", "cn": "换乘;转移", "en": "to move from one thing to another"},
+    "accidental": {"pos": "adj.", "ipa": "/ˌæksɪˈdentl/", "cn": "意外的;偶然的", "en": "happening by chance, not planned"},
+    "backtrack": {"pos": "v.", "ipa": "/ˈbæktræk/", "cn": "原路返回;折返", "en": "to go back the way you came"},
+    "arrive": {"pos": "v.", "ipa": "/əˈraɪv/", "cn": "到达;抵达", "en": "to reach a place you were going to"},
+    "spot": {"pos": "v.", "ipa": "/spɑːt/", "cn": "发现;认出", "en": "to see or notice something suddenly"},
+    "triumph": {"pos": "n.", "ipa": "/ˈtraɪəmf/", "cn": "胜利;成功", "en": "a great success or victory"},
+    "breathless": {"pos": "adj.", "ipa": "/ˈbreθləs/", "cn": "气喘吁吁的", "en": "breathing fast because of effort"},
+    "exhilarating": {"pos": "adj.", "ipa": "/ɪɡˈzɪləreɪtɪŋ/", "cn": "令人兴奋的", "en": "making you feel very excited and happy"},
+    "argue": {"pos": "v.", "ipa": "/ˈɑːr.ɡjuː/", "cn": "争论;辩论", "en": "to disagree with someone in words"}
+  }
+}

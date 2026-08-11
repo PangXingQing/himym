@@ -1,0 +1,128 @@
+{
+  "id": 45,
+  "title": "Wait for It",
+  "cn": "第 1 集 · 等待",
+  "novel": "Ted returned from summer with a [[tattoo|tattoo]] on his lower back. He [[blamed|blame]] it on a [[reckless|reckless]] night of tequila. At MacLaren's, Robin [[introduced|introduce]] her new boyfriend Gael — a [[laid-back|laid-back]] surfer whose calm [[accent|accent]] filled Ted with [[jealousy|jealousy]].\n\nBarney [[declared|declare]] that Gael was a [[threat|threat]] to their group. \"Cool people [[ruin|ruin]] everything,\" he [[complained|complain]].\n\nMeanwhile, Lily [[hid|hide]] a dark secret: months of [[debt|debt]] from shopping sprees. She [[begged|beg]] Marshall not to open the mail. When he discovered the [[truth|truth]], he [[whispered|whisper]] that they were broke.\n\nTed decided to [[remove|remove]] the tattoo. The [[embarrassing|embarrassing]] mark [[reminded|remind]] him that summer was over. As autumn leaves fell, some summers left marks that took years to [[fade|fade]].",
+  "words": {
+    "tattoo": {
+      "pos": "n.",
+      "ipa": "/təˈtuː/",
+      "cn": "纹身；刺青",
+      "en": "a picture drawn on skin with ink"
+    },
+    "blame": {
+      "pos": "v.",
+      "ipa": "/bleɪm/",
+      "cn": "责怪；归咎",
+      "en": "to say someone is responsible for bad things"
+    },
+    "reckless": {
+      "pos": "adj.",
+      "ipa": "/ˈrek.ləs/",
+      "cn": "鲁莽的",
+      "en": "doing things without thinking about danger"
+    },
+    "introduce": {
+      "pos": "v.",
+      "ipa": "/ˌɪn.trəˈdjuːs/",
+      "cn": "介绍；引见",
+      "en": "to tell someone another person's name"
+    },
+    "laid-back": {
+      "pos": "adj.",
+      "ipa": "/ˌleɪdˈbæk/",
+      "cn": "懒散的；随和的",
+      "en": "relaxed and not easily worried"
+    },
+    "accent": {
+      "pos": "n.",
+      "ipa": "/ˈæk.sənt/",
+      "cn": "口音；腔调",
+      "en": "the way people speak in an area"
+    },
+    "jealousy": {
+      "pos": "n.",
+      "ipa": "/ˈdʒel.ə.si/",
+      "cn": "嫉妒",
+      "en": "anger when someone has what you want"
+    },
+    "declare": {
+      "pos": "v.",
+      "ipa": "/dɪˈkleə/",
+      "cn": "宣布；断言",
+      "en": "to say something firmly and publicly"
+    },
+    "threat": {
+      "pos": "n.",
+      "ipa": "/θret/",
+      "cn": "威胁；隐患",
+      "en": "someone that may cause harm"
+    },
+    "ruin": {
+      "pos": "v.",
+      "ipa": "/ˈruː.ɪn/",
+      "cn": "毁坏；毁掉",
+      "en": "to destroy completely"
+    },
+    "complain": {
+      "pos": "v.",
+      "ipa": "/kəmˈpleɪn/",
+      "cn": "抱怨；诉苦",
+      "en": "to say you are not satisfied"
+    },
+    "hide": {
+      "pos": "v.",
+      "ipa": "/haɪd/",
+      "cn": "隐藏；掩盖",
+      "en": "to keep something secret"
+    },
+    "debt": {
+      "pos": "n.",
+      "ipa": "/det/",
+      "cn": "债务；欠款",
+      "en": "money you owe to someone"
+    },
+    "beg": {
+      "pos": "v.",
+      "ipa": "/beɡ/",
+      "cn": "恳求；乞求",
+      "en": "to ask desperately for something"
+    },
+    "truth": {
+      "pos": "n.",
+      "ipa": "/truːθ/",
+      "cn": "真相；事实",
+      "en": "the real facts about something"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pə/",
+      "cn": "低语；耳语",
+      "en": "to speak very quietly"
+    },
+    "remove": {
+      "pos": "v.",
+      "ipa": "/rɪˈmuːv/",
+      "cn": "移除；去除",
+      "en": "to take something away"
+    },
+    "embarrassing": {
+      "pos": "adj.",
+      "ipa": "/ɪmˈbær.ə.sɪŋ/",
+      "cn": "令人尴尬的",
+      "en": "making you feel shy or ashamed"
+    },
+    "remind": {
+      "pos": "v.",
+      "ipa": "/rɪˈmaɪnd/",
+      "cn": "提醒；使想起",
+      "en": "to make someone remember something"
+    },
+    "fade": {
+      "pos": "v.",
+      "ipa": "/feɪd/",
+      "cn": "褪色；消失",
+      "en": "to slowly lose color or disappear"
+    }
+  }
+}

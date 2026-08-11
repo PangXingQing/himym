@@ -1,0 +1,134 @@
+{
+  "id": 70,
+  "title": "Happily Ever After",
+  "cn": "第 6 集 · 从此幸福快乐",
+  "novel": "Ted tried to [[pretend|pretend]] everything was fine. He told the gang he was [[relieved|relieved]] that Stella left him. \"I [[dodged|dodge]] a bullet,\" he said with a forced smile.\n\nBut the gang knew better. Marshall [[encouraged|encourage]] him to face his feelings. \"You can't just [[bottle|bottle]] everything up,\" he said.\n\nMeanwhile, each member of the gang [[avoided|avoid]] their own [[awkward|awkward]] [[encounter|encounter]]. Marshall ran into an old [[bully|bully]] from school. Lily met a [[creepy|creepy]] guy who would not leave her alone. Robin faced a [[humiliating|humiliating]] moment on live TV.\n\nBarney, of all people, hid from a woman he had [[wronged|wrong]]. He spotted her in a restaurant and ducked under the table. \"She's going to [[destroy|destroy]] me,\" he [[whispered|whisper]].\n\nTed finally [[bumped|bump]] into Stella and Tony at a restaurant. He felt a [[surge|surge]] of anger, but he [[swallowed|swallow]] it. \"I hope you're happy,\" he said [[coldly|coldly]].\n\nStella looked [[guilty|guilty]]. \"Ted, I'm sorry—\"\n\n\"Don't,\" Ted [[interrupted|interrupt]]. He walked away, his head held high.\n\nLater, Robin found Ted on the rooftop. \"You didn't [[bottle|bottle]] it up,\" she said. \"You faced it.\"\n\nTed nodded. \"It hurt. But I'll be okay.\"\n\nSometimes, the [[bravest|brave]] thing was simply to keep walking forward.",
+  "words": {
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "relieved": {
+      "pos": "adj.",
+      "ipa": "/rɪˈliːvd/",
+      "cn": "松了一口气的",
+      "en": "feeling happy that something bad did not happen"
+    },
+    "dodge": {
+      "pos": "v.",
+      "ipa": "/dɒdʒ/",
+      "cn": "躲开",
+      "en": "to move quickly to avoid something"
+    },
+    "encourage": {
+      "pos": "v.",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "cn": "鼓励",
+      "en": "to give someone confidence to do something"
+    },
+    "bottle": {
+      "pos": "v.",
+      "ipa": "/ˈbɒt.əl/",
+      "cn": "压抑（情感）",
+      "en": "to hide your feelings inside"
+    },
+    "avoid": {
+      "pos": "v.",
+      "ipa": "/əˈvɔɪd/",
+      "cn": "躲避",
+      "en": "to stay away from someone or something"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel uncomfortable"
+    },
+    "encounter": {
+      "pos": "n.",
+      "ipa": "/ɪnˈkaʊn.tər/",
+      "cn": "邂逅；遭遇",
+      "en": "a meeting, especially one that is unexpected"
+    },
+    "bully": {
+      "pos": "n.",
+      "ipa": "/ˈbʊl.i/",
+      "cn": "欺凌者",
+      "en": "someone who hurts or frightens others"
+    },
+    "creepy": {
+      "pos": "adj.",
+      "ipa": "/ˈkriː.pi/",
+      "cn": "令人毛骨悚然的",
+      "en": "making you feel nervous and slightly frightened"
+    },
+    "humiliating": {
+      "pos": "adj.",
+      "ipa": "/hjuːˈmɪl.i.eɪ.tɪŋ/",
+      "cn": "羞辱性的",
+      "en": "making you feel ashamed in front of others"
+    },
+    "wrong": {
+      "pos": "v.",
+      "ipa": "/rɒŋ/",
+      "cn": "委屈；伤害",
+      "en": "to treat someone unfairly"
+    },
+    "destroy": {
+      "pos": "v.",
+      "ipa": "/dɪˈstrɔɪ/",
+      "cn": "毁掉",
+      "en": "to damage something completely"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pər/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "bump": {
+      "pos": "v.",
+      "ipa": "/bʌmp/",
+      "cn": "偶遇",
+      "en": "to meet someone by chance"
+    },
+    "surge": {
+      "pos": "n.",
+      "ipa": "/sɜːdʒ/",
+      "cn": "涌起",
+      "en": "a sudden strong feeling"
+    },
+    "swallow": {
+      "pos": "v.",
+      "ipa": "/ˈswɒl.əʊ/",
+      "cn": "咽下；忍住",
+      "en": "to hold back your feelings"
+    },
+    "coldly": {
+      "pos": "adv.",
+      "ipa": "/ˈkəʊld.li/",
+      "cn": "冷淡地",
+      "en": "in an unfriendly way"
+    },
+    "guilty": {
+      "pos": "adj.",
+      "ipa": "/ˈɡɪl.ti/",
+      "cn": "内疚的",
+      "en": "feeling bad about something you did"
+    },
+    "interrupt": {
+      "pos": "v.",
+      "ipa": "/ˌɪn.təˈrʌpt/",
+      "cn": "打断",
+      "en": "to stop someone from speaking"
+    },
+    "brave": {
+      "pos": "adj.",
+      "ipa": "/breɪv/",
+      "cn": "勇敢的",
+      "en": "showing no fear in a difficult situation"
+    }
+  }
+}

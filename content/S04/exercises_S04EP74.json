@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "overwhelmed",
+    "hint": "不知所措的",
+    "phonetic": "/ˌoʊ.vərˈwelmd/"
+  },
+  {
+    "type": "spelling",
+    "word": "coincidence",
+    "hint": "巧合",
+    "phonetic": "/koʊˈɪn.sɪ.dəns/"
+  },
+  {
+    "type": "spelling",
+    "word": "thrilled",
+    "hint": "极为兴奋的",
+    "phonetic": "/θrɪld/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Not because she had to, but because she __________ to.",
+    "answer": "wanted"
+  },
+  {
+    "type": "spelling",
+    "word": "guilty",
+    "hint": "内疚的",
+    "phonetic": "/ˈɡɪl.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "mysterious",
+    "hint": "神秘的",
+    "phonetic": "/mɪˈstɪr.i.əs/"
+  },
+  {
+    "type": "spelling",
+    "word": "anxious",
+    "hint": "焦虑的",
+    "phonetic": "/ˈæŋk.ʃəs/"
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "id": 147,
+  "title": "The Rebound Girl",
+  "cn": "第 11 集 · 回弹女孩",
+  "novel": "Ted and Barney [[discussed|discuss]] a [[life-changing|life-changing]] decision. They were both feeling [[lonely|lonely]] after their recent breakups. Barney [[suggested|suggest]] that they should adopt a baby together. Ted thought it was a [[ridiculous|ridiculous]] idea at first. He laughed and told Barney he was being [[crazy|crazy]]. But Barney was [[serious|serious]] and tried to [[convince|convince]] Ted it was a good plan. He said they could raise the child together and be great fathers. Ted [[considered|consider]] it for a moment but [[ultimately|ultimately]] decided against it. Meanwhile, Robin tried to [[discourage|discourage]] Marshall and Lily from moving to Long Island. She did not want her best friends to move far away. She came up with many reasons why the suburbs were [[terrible|terrible]]. She said the commute would be [[exhausting|exhausting]] and the [[neighborhood|neighborhood]] would be boring. Robin [[argued|argue]] that the city was much more exciting. She pointed out all the great things about living in New York. Marshall and Lily [[listened|listen]] to her concerns but said they needed more space for the baby. Robin felt [[selfish|selfish]] for trying to stop them. She [[realized|realize]] that she was thinking about herself instead of what was best for them. She finally [[admitted|admit]] that she was afraid of losing their friendship. Marshall and Lily [[promised|promise]] that moving would not change anything between them. They said true friends stayed close no matter the [[distance|distance]].",
+  "words": {
+    "discuss": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌst/",
+      "cn": "讨论",
+      "en": "to talk about something seriously"
+    },
+    "life-changing": {
+      "pos": "adj.",
+      "ipa": "/laɪf ˈtʃeɪndʒɪŋ/",
+      "cn": "改变人生的",
+      "en": "that changes your life completely"
+    },
+    "lonely": {
+      "pos": "adj.",
+      "ipa": "/ˈloʊnli/",
+      "cn": "孤独的",
+      "en": "feeling sad and alone"
+    },
+    "suggest": {
+      "pos": "v.",
+      "ipa": "/səˈdʒestɪd/",
+      "cn": "建议",
+      "en": "to propose an idea"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪkjələs/",
+      "cn": "荒谬的",
+      "en": "very silly or unreasonable"
+    },
+    "crazy": {
+      "pos": "adj.",
+      "ipa": "/ˈkreɪzi/",
+      "cn": "疯狂的",
+      "en": "not thinking sensibly"
+    },
+    "serious": {
+      "pos": "adj.",
+      "ipa": "/ˈsɪriəs/",
+      "cn": "认真的",
+      "en": "not joking; meaning what you say"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "to make someone believe something"
+    },
+    "consider": {
+      "pos": "v.",
+      "ipa": "/kənˈsɪdərd/",
+      "cn": "考虑",
+      "en": "to think about something carefully"
+    },
+    "ultimately": {
+      "pos": "adv.",
+      "ipa": "/ˈʌltɪmətli/",
+      "cn": "最终",
+      "en": "in the end; finally"
+    },
+    "discourage": {
+      "pos": "v.",
+      "ipa": "/dɪsˈkɜːrɪdʒ/",
+      "cn": "劝阻",
+      "en": "to make someone less confident"
+    },
+    "terrible": {
+      "pos": "adj.",
+      "ipa": "/ˈterəbl/",
+      "cn": "糟糕的",
+      "en": "very bad or unpleasant"
+    },
+    "exhausting": {
+      "pos": "adj.",
+      "ipa": "/ɪɡˈzɔːstɪŋ/",
+      "cn": "令人疲惫的",
+      "en": "making you very tired"
+    },
+    "neighborhood": {
+      "pos": "n.",
+      "ipa": "/ˈneɪbərhʊd/",
+      "cn": "社区",
+      "en": "the area around your home"
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡjuːd/",
+      "cn": "争辩",
+      "en": "to give reasons for something"
+    },
+    "listen": {
+      "pos": "v.",
+      "ipa": "/ˈlɪsnd/",
+      "cn": "听取",
+      "en": "to pay attention to someone"
+    },
+    "selfish": {
+      "pos": "adj.",
+      "ipa": "/ˈselfɪʃ/",
+      "cn": "自私的",
+      "en": "caring only about yourself"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪzd/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪtɪd/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "promise": {
+      "pos": "v.",
+      "ipa": "/ˈprɑːmɪst/",
+      "cn": "承诺",
+      "en": "to say you will do something"
+    },
+    "distance": {
+      "pos": "n.",
+      "ipa": "/ˈdɪstəns/",
+      "cn": "距离",
+      "en": "how far apart things are"
+    }
+  }
+}

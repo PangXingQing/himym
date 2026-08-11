@@ -1,0 +1,140 @@
+{
+  "id": 146,
+  "title": "Tick Tick Tick...",
+  "cn": "第 10 集 · 滴答滴答",
+  "novel": "Barney and Robin [[hid|hide]] a [[secret|secret]] from their [[significant|significant]] others. They had shared a moment together that they both [[regretted|regret]]. They agreed to never talk about it again, but the [[guilt|guilt]] [[weighed|weigh]] heavily on both of them. They tried to act normal around Kevin and Nora, but it was [[difficult|difficult]]. Robin felt [[terrible|terrible]] about [[cheating|cheat]] on Kevin, who was kind and good to her. Barney also felt bad about [[betraying|betray]] Nora's [[trust|trust]]. The gang attended a concert together that evening. The [[music|music]] was loud and [[energetic|energetic]], but Robin and Barney could not enjoy it. They kept [[exchanging|exchange]] guilty [[glances|glance]] across the crowd. Ted noticed that something was wrong with both of them. He asked if they were feeling okay, but they both said they were fine. Marshall and Lily were too busy [[dancing|dance]] and having fun to notice. The concert was [[amazing|amazing]], but Robin and Barney could not stop thinking about their mistake. After the concert, Robin [[confessed|confess]] to Kevin about what happened. Kevin was [[heartbroken|heartbroken]] and needed time to think. Barney also told Nora the truth, and she was [[devastated|devastate]]. Both relationships were [[damaged|damage]] by the secret. Robin and Barney realized that actions have [[consequences|consequence]].",
+  "words": {
+    "hide": {
+      "pos": "v.",
+      "ipa": "/hɪd/",
+      "cn": "隐藏",
+      "en": "to keep something secret"
+    },
+    "secret": {
+      "pos": "n.",
+      "ipa": "/ˈsiːkrət/",
+      "cn": "秘密",
+      "en": "something kept hidden"
+    },
+    "significant": {
+      "pos": "adj.",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "cn": "重要的",
+      "en": "important in a relationship"
+    },
+    "regret": {
+      "pos": "v.",
+      "ipa": "/rɪˈɡretɪd/",
+      "cn": "后悔",
+      "en": "to feel sorry about something"
+    },
+    "guilt": {
+      "pos": "n.",
+      "ipa": "/ɡɪlt/",
+      "cn": "内疚",
+      "en": "a bad feeling about wrong actions"
+    },
+    "weigh": {
+      "pos": "v.",
+      "ipa": "/weɪd/",
+      "cn": "重压",
+      "en": "to press heavily on someone"
+    },
+    "difficult": {
+      "pos": "adj.",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "cn": "困难的",
+      "en": "hard to do or handle"
+    },
+    "terrible": {
+      "pos": "adj.",
+      "ipa": "/ˈterəbl/",
+      "cn": "糟糕的",
+      "en": "very bad or unpleasant"
+    },
+    "cheat": {
+      "pos": "v.",
+      "ipa": "/tʃiːtɪŋ/",
+      "cn": "背叛",
+      "en": "to be unfaithful in a relationship"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪɪŋ/",
+      "cn": "辜负",
+      "en": "to break someone's trust"
+    },
+    "trust": {
+      "pos": "n.",
+      "ipa": "/trʌst/",
+      "cn": "信任",
+      "en": "belief in someone's honesty"
+    },
+    "music": {
+      "pos": "n.",
+      "ipa": "/ˈmjuːzɪk/",
+      "cn": "音乐",
+      "en": "sounds arranged in patterns"
+    },
+    "energetic": {
+      "pos": "adj.",
+      "ipa": "/ˌenərˈdʒetɪk/",
+      "cn": "充满活力的",
+      "en": "full of energy and life"
+    },
+    "exchange": {
+      "pos": "v.",
+      "ipa": "/ɪksˈtʃeɪndʒɪŋ/",
+      "cn": "交换",
+      "en": "to give and receive"
+    },
+    "glance": {
+      "pos": "n.",
+      "ipa": "/ɡlænsɪz/",
+      "cn": "瞥视",
+      "en": "a quick look at someone"
+    },
+    "dance": {
+      "pos": "v.",
+      "ipa": "/ˈdænsɪŋ/",
+      "cn": "跳舞",
+      "en": "to move to music rhythmically"
+    },
+    "amazing": {
+      "pos": "adj.",
+      "ipa": "/əˈmeɪzɪŋ/",
+      "cn": "极好的",
+      "en": "very surprising and impressive"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfest/",
+      "cn": "坦白",
+      "en": "to admit something wrong"
+    },
+    "heartbroken": {
+      "pos": "adj.",
+      "ipa": "/ˈhɑːrtbroʊkən/",
+      "cn": "心碎的",
+      "en": "extremely sad about love"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "cn": "使崩溃",
+      "en": "to destroy emotionally"
+    },
+    "damage": {
+      "pos": "v.",
+      "ipa": "/ˈdæmɪdʒd/",
+      "cn": "损害",
+      "en": "to cause harm to something"
+    },
+    "consequence": {
+      "pos": "n.",
+      "ipa": "/ˈkɑːnsɪkwensɪz/",
+      "cn": "后果",
+      "en": "a result of an action"
+    }
+  }
+}

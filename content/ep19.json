@@ -1,0 +1,30 @@
+{
+  "id": 19,
+  "title": "Mary the Paralegal",
+  "cn": "第 19 集 · 助理律师玛丽",
+  "novel": "Barney brought a woman to a formal dinner and introduced her as a [[paralegal|paralegal]].\n\nTed did not [[assume|assume]] anything at first. Then Barney winked twice, and a stupid [[rumour|rumour]] took root in Ted's head. All evening he tried not to stare, [[muttering|mutter]] questions to Marshall behind his glass.\n\nThe dinner was an [[award|award]] night. Robin was a [[nominee|nominee]]. When her name was read out there was warm [[applause|applause]], and she walked to the [[podium|podium]] looking calm and proud.\n\nTed should have been happy. Instead he felt [[jealous|jealous]] of the man who had come as her [[escort|escort]], and quietly [[resented|resent]] the whole room.\n\nHe made one [[sarcastic|sarcastic]] joke too many. It landed like an [[insult|insult]]. Robin was [[offended|offend]].\n\n\"That was [[outrageous|outrageous]],\" she said outside. \"Do you hear yourself?\"\n\nHe tried to [[clarify|clarify]] what he had meant, then realised the truth was worse than the [[misunderstanding|misunderstanding]]. His [[accusation|accusation]] had been [[spiteful|spiteful]], and he could not [[defend|defend]] it.\n\nSo he said one [[sincere|sincere]] sentence instead of ten clever ones.\n\nBarney, meanwhile, got a [[punch|punch]] in the arm — and deserved it.",
+  "words": {
+    "paralegal": {"pos": "n.", "ipa": "/ˌpær.əˈliː.ɡəl/", "cn": "律师助理", "en": "a person who helps a lawyer but is not a lawyer"},
+    "assume": {"pos": "v.", "ipa": "/əˈsjuːm/", "cn": "想当然地认为", "en": "to believe something is true without checking"},
+    "rumour": {"pos": "n.", "ipa": "/ˈruː.mə/", "cn": "谣言（美式 rumor）", "en": "a story people tell each other that may not be true"},
+    "mutter": {"pos": "v.", "ipa": "/ˈmʌt.ə/", "cn": "嘟囔；小声抱怨", "en": "to speak quietly and unclearly, often when annoyed"},
+    "award": {"pos": "n.", "ipa": "/əˈwɔːd/", "cn": "奖项", "en": "a prize given for good work"},
+    "nominee": {"pos": "n.", "ipa": "/ˌnɒm.ɪˈniː/", "cn": "被提名人", "en": "a person chosen as one of the people who might win"},
+    "applause": {"pos": "n.", "ipa": "/əˈplɔːz/", "cn": "掌声", "en": "the sound of many people clapping"},
+    "podium": {"pos": "n.", "ipa": "/ˈpəʊ.di.əm/", "cn": "讲台；领奖台", "en": "the small raised stand a speaker stands on"},
+    "jealous": {"pos": "adj.", "ipa": "/ˈdʒel.əs/", "cn": "嫉妒的；吃醋的", "en": "unhappy because someone else has what you want"},
+    "escort": {"pos": "n.", "ipa": "/ˈes.kɔːt/", "cn": "陪同者；男伴", "en": "a person who goes with someone to an event"},
+    "resent": {"pos": "v.", "ipa": "/rɪˈzent/", "cn": "怨恨；心里不服", "en": "to feel angry about something you think is unfair"},
+    "sarcastic": {"pos": "adj.", "ipa": "/sɑːˈkæs.tɪk/", "cn": "讽刺挖苦的", "en": "saying the opposite of what you mean, to hurt or joke"},
+    "insult": {"pos": "n.", "ipa": "/ˈɪn.sʌlt/", "cn": "侮辱（的话）", "en": "a rude thing said to hurt someone"},
+    "offend": {"pos": "v.", "ipa": "/əˈfend/", "cn": "冒犯；得罪", "en": "to make someone feel upset or angry"},
+    "outrageous": {"pos": "adj.", "ipa": "/aʊtˈreɪ.dʒəs/", "cn": "太过分的；令人愤慨的", "en": "shocking and clearly wrong"},
+    "clarify": {"pos": "v.", "ipa": "/ˈklær.ɪ.faɪ/", "cn": "澄清；说清楚", "en": "to explain something so it becomes clear"},
+    "misunderstanding": {"pos": "n.", "ipa": "/ˌmɪs.ʌn.dəˈstæn.dɪŋ/", "cn": "误会", "en": "a mistake about what someone meant"},
+    "accusation": {"pos": "n.", "ipa": "/ˌæk.jʊˈzeɪ.ʃən/", "cn": "指责；控告", "en": "a statement that someone did something bad"},
+    "spiteful": {"pos": "adj.", "ipa": "/ˈspaɪt.fəl/", "cn": "恶意的；存心伤人的", "en": "wanting to hurt someone on purpose"},
+    "defend": {"pos": "v.", "ipa": "/dɪˈfend/", "cn": "为……辩护", "en": "to say words that support or protect someone"},
+    "sincere": {"pos": "adj.", "ipa": "/sɪnˈsɪə/", "cn": "真诚的", "en": "honest, and really meaning what you say"},
+    "punch": {"pos": "n.", "ipa": "/pʌntʃ/", "cn": "一拳", "en": "a hit with a closed hand"}
+  }
+}

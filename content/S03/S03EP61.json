@@ -1,0 +1,128 @@
+{
+  "id": 61,
+  "title": "The Goat",
+  "cn": "第 17 集 · 山羊",
+  "novel": "Barney [[slept|sleep]] with Robin, [[devastating|devastate]] Ted. Their [[friendship|friendship]] [[fractured|fracture]] in an [[instant|instant]].\n\n\"You [[betrayed|betray]] me,\" Ted [[whispered|whisper]], his voice [[shaking|shake]] with [[anger|anger]]. \"You knew how I felt.\"\n\nBarney [[pleaded|plead]] for [[forgiveness|forgiveness]]. \"It just happened,\" he said. But Ted [[refused|refuse]] to listen.\n\nLily [[tried|try]] to [[mediate|mediate]]. \"People make [[mistakes|mistake]],\" she said. But the [[damage|damage]] was done.\n\nMeanwhile, a [[goat|goat]] [[wandered|wander]] into the apartment and ate Marshall's [[towel|towel]]. The [[absurd|absurd]] scene symbolized the chaos in their lives.\n\nWeeks passed. The guilt gnawed at Barney. He realized that betrayal had a price — not just Ted's friendship, but his own soul. Some wounds, like the goat's visit, were unexpected and impossible to explain.",
+  "words": {
+    "sleep": {
+      "pos": "v.",
+      "ipa": "/sliːp/",
+      "cn": "睡觉（slept为过去式）",
+      "en": "to rest with eyes closed"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdev.ə.steɪt/",
+      "cn": "摧毁；使崩溃",
+      "en": "to make very shocked and upset"
+    },
+    "friendship": {
+      "pos": "n.",
+      "ipa": "/ˈfrend.ʃɪp/",
+      "cn": "友谊",
+      "en": "a relationship between friends"
+    },
+    "fracture": {
+      "pos": "v.",
+      "ipa": "/ˈfræk.tʃə/",
+      "cn": "破裂",
+      "en": "to break or crack"
+    },
+    "instant": {
+      "pos": "n.",
+      "ipa": "/ˈɪn.stənt/",
+      "cn": "瞬间",
+      "en": "a very short moment"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪ/",
+      "cn": "背叛",
+      "en": "to be disloyal to someone"
+    },
+    "whisper": {
+      "pos": "v.",
+      "ipa": "/ˈwɪs.pə/",
+      "cn": "低语",
+      "en": "to speak very quietly"
+    },
+    "shake": {
+      "pos": "v.",
+      "ipa": "/ʃeɪk/",
+      "cn": "颤抖",
+      "en": "to tremble from emotion"
+    },
+    "anger": {
+      "pos": "n.",
+      "ipa": "/ˈæŋ.ɡə/",
+      "cn": "愤怒",
+      "en": "a strong feeling of displeasure"
+    },
+    "plead": {
+      "pos": "v.",
+      "ipa": "/pliːd/",
+      "cn": "恳求",
+      "en": "to ask desperately"
+    },
+    "forgiveness": {
+      "pos": "n.",
+      "ipa": "/fəˈɡɪv.nəs/",
+      "cn": "原谅",
+      "en": "the act of pardoning"
+    },
+    "refuse": {
+      "pos": "v.",
+      "ipa": "/rɪˈfjuːz/",
+      "cn": "拒绝",
+      "en": "to say no"
+    },
+    "mediate": {
+      "pos": "v.",
+      "ipa": "/ˈmiː.di.eɪt/",
+      "cn": "调解",
+      "en": "to help two sides agree"
+    },
+    "mistake": {
+      "pos": "n.",
+      "ipa": "/mɪˈsteɪk/",
+      "cn": "错误",
+      "en": "a wrong action"
+    },
+    "damage": {
+      "pos": "n.",
+      "ipa": "/ˈdæm.ɪdʒ/",
+      "cn": "损害",
+      "en": "harm caused to something"
+    },
+    "goat": {
+      "pos": "n.",
+      "ipa": "/ɡəʊt/",
+      "cn": "山羊",
+      "en": "a farm animal with horns"
+    },
+    "wander": {
+      "pos": "v.",
+      "ipa": "/ˈwɒn.də/",
+      "cn": "徘徊",
+      "en": "to walk without direction"
+    },
+    "towel": {
+      "pos": "n.",
+      "ipa": "/ˈtaʊ.əl/",
+      "cn": "毛巾",
+      "en": "cloth for drying"
+    },
+    "absurd": {
+      "pos": "adj.",
+      "ipa": "/əbˈsɜːd/",
+      "cn": "荒谬的",
+      "en": "completely unreasonable"
+    },
+    "try": {
+      "pos": "v.",
+      "ipa": "/traɪ/",
+      "cn": "尝试",
+      "en": "to attempt to do something"
+    }
+  }
+}

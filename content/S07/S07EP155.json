@@ -1,0 +1,80 @@
+{
+  "id": 155,
+  "title": "The Broath",
+  "cn": "第 19 集 · 兄弟誓言",
+  "novel": "The gang tried to [[break up|break up]] Barney and Quinn. They were worried that Quinn was using Barney for his money. Ted and Robin [[suspected|suspect]] that Quinn had [[manipulated|manipulate]] Barney into moving in with her. They thought she was taking advantage of his [[generosity|generosity]]. The group [[conspired|conspire]] to find evidence of Quinn's bad [[intentions|intention]]. They followed her and watched her every move. Quinn [[noticed|notice]] that they were watching her and confronted Barney about it. She was angry and felt [[betrayed|betray]] by the group's lack of trust. She told Barney that his friends needed to [[accept|accept]] her or she would leave. Barney was caught between his friends and his [[girlfriend|girlfriend]]. He decided to make the gang take a broath, a special oath between bros. They had to promise to accept Quinn and stop [[interfering|interfere]] in his life. The gang reluctantly agreed but still had their doubts. Meanwhile, Robin and Ted fought over subletting her apartment. Robin wanted to move out and needed someone to take over her lease. Ted wanted the apartment but Robin was not sure he was the right person. They [[argued|argue]] about it for days. In the end, Quinn proved herself to the group by helping them in a tough situation. The gang slowly began to accept her and gave her a chance.",
+  "words": {
+    "break up": {
+      "pos": "phr.v.",
+      "ipa": "/breɪk ʌp/",
+      "cn": "拆散",
+      "en": "to end a relationship"
+    },
+    "suspect": {
+      "pos": "v.",
+      "ipa": "/səˈspektɪd/",
+      "cn": "怀疑",
+      "en": "to think something is true"
+    },
+    "manipulate": {
+      "pos": "v.",
+      "ipa": "/məˈnɪpjuleɪtɪd/",
+      "cn": "操纵",
+      "en": "to control someone cleverly"
+    },
+    "generosity": {
+      "pos": "n.",
+      "ipa": "/ˌdʒenəˈrɑːsəti/",
+      "cn": "慷慨",
+      "en": "being willing to give freely"
+    },
+    "conspire": {
+      "pos": "v.",
+      "ipa": "/kənˈspaɪərd/",
+      "cn": "密谋",
+      "en": "to plan secretly with others"
+    },
+    "intention": {
+      "pos": "n.",
+      "ipa": "/ɪnˈtenʃnz/",
+      "cn": "意图",
+      "en": "a plan or purpose"
+    },
+    "notice": {
+      "pos": "v.",
+      "ipa": "/ˈnoʊtɪst/",
+      "cn": "注意到",
+      "en": "to see or observe something"
+    },
+    "betray": {
+      "pos": "v.",
+      "ipa": "/bɪˈtreɪd/",
+      "cn": "背叛",
+      "en": "to break someone's trust"
+    },
+    "accept": {
+      "pos": "v.",
+      "ipa": "/əkˈsept/",
+      "cn": "接受",
+      "en": "to welcome someone willingly"
+    },
+    "girlfriend": {
+      "pos": "n.",
+      "ipa": "/ˈɡɜːrlfrend/",
+      "cn": "女朋友",
+      "en": "a romantic female partner"
+    },
+    "interfere": {
+      "pos": "v.",
+      "ipa": "/ˌɪntərˈfɪrɪŋ/",
+      "cn": "干涉",
+      "en": "to get involved in others' business"
+    },
+    "argue": {
+      "pos": "v.",
+      "ipa": "/ˈɑːrɡjuːd/",
+      "cn": "争吵",
+      "en": "to disagree strongly"
+    }
+  }
+}

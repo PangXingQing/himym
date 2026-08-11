@@ -1,0 +1,164 @@
+{
+  "id": 35,
+  "title": "Columns",
+  "cn": "第35集 · 圆柱",
+  "novel": "Ted's boss gave him his first [[solo|solo]] [[project|project]]: design a [[skyscraper|skyscraper]] [[lobby|lobby]] for a major [[client|client]]. But there was one problem — the client, a [[stubborn|stubborn]] [[billionaire|billionaire]] named Mr. [[Bilson|Bilson]], [[insisted|insist]] on adding a [[huge|huge]] [[column|column]] in the middle of the room. A column that would [[ruin|ruin]] the entire [[design|design]].\n\n\"It's [[structural|structure]],\" Bilson said. \"You can't have a building without columns.\"\n\n\"Actually you can,\" Ted argued. \"With modern [[cantilevers|cantilever]] and [[reinforced|reinforce]] [[concrete|concrete]] —\"\n\n\"I want the column. It's [[tradition|tradition]].\"\n\nTed spent weeks trying to convince him. He made [[elaborate|elaborate]] [[presentations|presentation]], built [[scale models|scale model]], and even wrote a [[poem|poem]] about the [[beauty|beautiful]] of open spaces. Bilson was not moved.\n\n\"The column stays,\" he said. \"Or you're fired.\"\n\nMeanwhile, Marshall and Lily were dealing with their own conflicts. Lily wanted to [[redecorate|redecorate]] the apartment; Marshall loved it exactly the way it was, right down to the [[mysterious|mysterious]] [[stain|stain]] on the [[ceiling|ceiling]]. \"That stain has been there since college!\" Marshall protested. \"Exactly!\" Lily said.\n\nIn the end, Ted found a [[compromise|compromise]]. He designed a column that was not just structural but [[artistic|artistic]] — a [[sculpture|sculpture]] that told the story of the building's construction, from the first [[brick|brick]] to the final [[beam|beam]]. Bilson loved it. \"You're a [[genius|genius]],\" he said. \"I know,\" Ted replied.",
+  "words": {
+    "solo": {
+      "pos": "adj.",
+      "ipa": "/ˈsəʊ.ləʊ/",
+      "cn": "单独的；独自的",
+      "en": "done alone, without other people's help"
+    },
+    "project": {
+      "pos": "n.",
+      "ipa": "/ˈprɒdʒ.ekt/",
+      "cn": "项目；工程",
+      "en": "a planned piece of work that takes time to complete"
+    },
+    "skyscraper": {
+      "pos": "n.",
+      "ipa": "/ˈskaɪˌskreɪ.pər/",
+      "cn": "摩天大楼",
+      "en": "a very tall building in a city"
+    },
+    "lobby": {
+      "pos": "n.",
+      "ipa": "/ˈlɒb.i/",
+      "cn": "大堂；门厅",
+      "en": "the large entrance area of a hotel, office building, etc."
+    },
+    "client": {
+      "pos": "n.",
+      "ipa": "/ˈklaɪ.ənt/",
+      "cn": "客户",
+      "en": "a person or company that pays for a service"
+    },
+    "stubborn": {
+      "pos": "adj.",
+      "ipa": "/ˈstʌb.ən/",
+      "cn": "固执的",
+      "en": "unwilling to change your mind, even when you are wrong"
+    },
+    "billionaire": {
+      "pos": "n.",
+      "ipa": "/ˌbɪl.jəˈneər/",
+      "cn": "亿万富翁",
+      "en": "a person who has more than a billion dollars"
+    },
+    "huge": {
+      "pos": "adj.",
+      "ipa": "/hjuːdʒ/",
+      "cn": "巨大的",
+      "en": "extremely large in size or amount"
+    },
+    "column": {
+      "pos": "n.",
+      "ipa": "/ˈkɒl.əm/",
+      "cn": "柱子；专栏",
+      "en": "a tall solid upright post that supports a building"
+    },
+    "structural": {
+      "pos": "adj.",
+      "ipa": "/ˈstrʌk.tʃər.əl/",
+      "cn": "结构上的",
+      "en": "relating to the way something is built or organized"
+    },
+    "reinforce": {
+      "pos": "v.",
+      "ipa": "/ˌriː.ɪnˈfɔːs/",
+      "cn": "加固；加强",
+      "en": "to make something stronger"
+    },
+    "concrete": {
+      "pos": "n.",
+      "ipa": "/ˈkɒŋ.kriːt/",
+      "cn": "混凝土",
+      "en": "a hard building material made from cement, sand and stones"
+    },
+    "tradition": {
+      "pos": "n.",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "cn": "传统",
+      "en": "a belief or way of doing things that has existed for a long time"
+    },
+    "elaborate": {
+      "pos": "adj.",
+      "ipa": "/ɪˈlæb.ər.ət/",
+      "cn": "精心制作的",
+      "en": "containing a lot of careful detail"
+    },
+    "presentation": {
+      "pos": "n.",
+      "ipa": "/ˌprez.ənˈteɪ.ʃən/",
+      "cn": "演示；报告",
+      "en": "a talk or show that explains something to a group"
+    },
+    "scale model": {
+      "pos": "n.",
+      "ipa": "/skeɪl ˈmɒd.əl/",
+      "cn": "比例模型",
+      "en": "a small copy of something made at an exact ratio"
+    },
+    "poem": {
+      "pos": "n.",
+      "ipa": "/ˈpəʊ.ɪm/",
+      "cn": "诗",
+      "en": "a piece of writing in short lines expressing feelings or ideas"
+    },
+    "beauty": {
+      "pos": "n.",
+      "ipa": "/ˈbjuː.ti/",
+      "cn": "美；美丽",
+      "en": "the quality of being pleasing to look at or experience"
+    },
+    "redecorate": {
+      "pos": "v.",
+      "ipa": "/ˌriːˈdek.ə.reɪt/",
+      "cn": "重新装修",
+      "en": "to paint and decorate a room again in a new style"
+    },
+    "stain": {
+      "pos": "n.",
+      "ipa": "/steɪn/",
+      "cn": "污渍；污点",
+      "en": "a dirty mark on something that is hard to remove"
+    },
+    "ceiling": {
+      "pos": "n.",
+      "ipa": "/ˈsiː.lɪŋ/",
+      "cn": "天花板",
+      "en": "the upper surface of a room"
+    },
+    "compromise": {
+      "pos": "n.",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "cn": "妥协；折中方案",
+      "en": "an agreement reached by each side giving up something"
+    },
+    "artistic": {
+      "pos": "adj.",
+      "ipa": "/ɑːˈtɪs.tɪk/",
+      "cn": "艺术的；有艺术性的",
+      "en": "relating to art or showing creative skill"
+    },
+    "sculpture": {
+      "pos": "n.",
+      "ipa": "/ˈskʌlp.tʃər/",
+      "cn": "雕塑",
+      "en": "a piece of art made from stone, metal, wood, etc."
+    },
+    "brick": {
+      "pos": "n.",
+      "ipa": "/brɪk/",
+      "cn": "砖",
+      "en": "a hard rectangular block used for building walls"
+    },
+    "beam": {
+      "pos": "n.",
+      "ipa": "/biːm/",
+      "cn": "梁；横梁",
+      "en": "a long thick piece of steel or wood that supports a building"
+    }
+  }
+}

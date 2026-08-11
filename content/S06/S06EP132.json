@@ -1,0 +1,25 @@
+{
+  "id": 132,
+  "title": "The Exploding Meatball Sub",
+  "cn": "第 20 集 · 爆炸肉丸子三明治",
+  "novel": "Marshall [[quit|quit]] his well-paying job at GNB to volunteer at an environmental organization. He had been feeling [[unfulfilled|unfulfill]] for months and wanted to do something that truly [[mattered|matters]] to him. Lily was [[supportive|supportive]] but also concerned about their finances. She told Marshall that she believed in his dream but that they needed a plan. Marshall [[assured|assure]] her that everything would work out. Meanwhile, Ted and Zoey's relationship was [[strained|strain]] because of their opposing positions on the Arcadian building. Ted wanted to design the new GNB tower that would replace the Arcadian, while Zoey was fighting to save it. They tried to keep their work lives and personal lives [[separate|separate]], but it became [[impossible|impossible]]. Every dinner conversation turned into a debate about architecture and preservation. Barney, meanwhile, was [[plotting|plot]] revenge against Marshall for an incident involving a meatball sub. He had been [[humiliated|humiliate]] when Marshall had caused him to spill a meatball sub on his shirt years ago. Barney built an elaborate trap involving a [[modified|modify]] sandwich that would explode on command. The gang watched in [[disbelief|disbelief]] as Barney revealed his plan. Marshall told Barney that he was being [[childish|childish]] and that revenge was a waste of time. Barney ignored him and set the trap anyway. But when he saw how happy Marshall was about his new job, Barney had a change of heart. He decided not to go through with the prank and ate the exploding sub himself, [[ruining|ruin]] his own suit instead. Ted and Zoey finally had an honest conversation about the Arcadian. Ted told Zoey that he could not give up the GNB project, and Zoey told Ted that she could not give up her fight to save the building. They both realized that their [[principles|principle]] were more important than their relationship, and they tearfully agreed to [[break|break]] up. It was a painful but honest [[ending|end]] to a complicated romance.",
+  "words": {
+    "quit": {"pos": "v.", "ipa": "/kwɪt/", "cn": "辞职;放弃", "en": "to leave a job or stop doing something"},
+    "unfulfill": {"pos": "v.", "ipa": "/ˌʌnfʊlˈfɪl/", "cn": "使不满足;使空虚", "en": "to leave someone feeling unsatisfied"},
+    "matters": {"pos": "v.", "ipa": "/ˈmætərz/", "cn": "要紧;重要", "en": "to be important or have significance"},
+    "supportive": {"pos": "adj.", "ipa": "/səˈpɔːrtɪv/", "cn": "支持的;给予帮助的", "en": "giving help and encouragement"},
+    "assure": {"pos": "v.", "ipa": "/əˈʃʊr/", "cn": "保证;使确信", "en": "to tell someone something will definitely happen"},
+    "strain": {"pos": "v.", "ipa": "/streɪn/", "cn": "使紧张;拉紧", "en": "to put pressure on a relationship or thing"},
+    "separate": {"pos": "adj.", "ipa": "/ˈsepərət/", "cn": "分开的;独立的", "en": "not joined or mixed with something else"},
+    "impossible": {"pos": "adj.", "ipa": "/ɪmˈpɑːsəbl/", "cn": "不可能的;办不到的", "en": "something that cannot be done or happen"},
+    "plot": {"pos": "v.", "ipa": "/plɑːt/", "cn": "密谋;策划", "en": "to secretly plan to do something"},
+    "humiliate": {"pos": "v.", "ipa": "/hjuːˈmɪlieɪt/", "cn": "羞辱;使丢脸", "en": "to make someone feel deeply ashamed in public"},
+    "modify": {"pos": "v.", "ipa": "/ˈmɑːdɪfaɪ/", "cn": "修改;改造", "en": "to change something slightly to improve it"},
+    "disbelief": {"pos": "n.", "ipa": "/ˌdɪsbɪˈliːf/", "cn": "不信;怀疑", "en": "a feeling that something cannot be true"},
+    "childish": {"pos": "adj.", "ipa": "/ˈtʃaɪldɪʃ/", "cn": "幼稚的;孩子气的", "en": "behaving like a child, not mature"},
+    "ruin": {"pos": "v.", "ipa": "/ˈruːɪn/", "cn": "毁坏;糟蹋", "en": "to damage something so badly it is destroyed"},
+    "principle": {"pos": "n.", "ipa": "/ˈprɪnsəpl/", "cn": "原则;信念", "en": "a moral rule that guides your behavior"},
+    "break": {"pos": "v.", "ipa": "/breɪk/", "cn": "分手;断绝", "en": "to end a relationship with someone"},
+    "end": {"pos": "n.", "ipa": "/ˈendɪŋ/", "cn": "结局;结尾", "en": "the final part of something"}
+  }
+}

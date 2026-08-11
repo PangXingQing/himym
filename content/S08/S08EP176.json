@@ -1,0 +1,86 @@
+{
+  "id": 176,
+  "title": "Bad Crazy",
+  "cn": "第 16 集 · 坏疯子",
+  "novel": "Ted was [[reluctant|reluctant]] to break up with his crazy girlfriend Jeanette. She was [[unstable|unstable]] and did many [[bizarre|bizarre]] things. She threw things out of windows and showed up at Ted's workplace uninvited. Everyone in the group could see that Jeanette was not good for Ted. Marshall and Lily tried to [[convince|convince]] Ted to end the relationship. They told him that Jeanette was [[dangerous|dangerous]] and that he needed to get away from her. Ted made excuses for her behavior and said she was just [[passionate|passionate]]. He was afraid of how she would react if he tried to break up with her. Meanwhile, Robin became attached to Marvin. She spent more and more time with the baby and loved taking care of him. She read him stories and sang him songs. Marshall and Lily noticed that Robin was using Marvin to avoid dealing with her own feelings. She was [[distracting|distract]] herself from the stress of planning her wedding. Marshall gently told Robin that she needed to focus on her own life. Robin [[admitted|admit]] that she was using the baby as an [[escape|escape]] from her [[anxiety|anxiety]] about the wedding. Ted finally gathered the courage to break up with Jeanette. The breakup was [[chaotic|chaotic]] and Jeanette threw a [[tantrum|tantrum]]. She broke things in Ted's apartment and screamed at him. Ted stood firm and told her it was over. After Jeanette left, Ted felt a sense of [[relief|relief]].",
+  "words": {
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌktənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "unstable": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈsteɪbl/",
+      "cn": "不稳定的",
+      "en": "likely to change suddenly"
+    },
+    "bizarre": {
+      "pos": "adj.",
+      "ipa": "/bɪˈzɑːr/",
+      "cn": "古怪的",
+      "en": "very strange or unusual"
+    },
+    "convince": {
+      "pos": "v.",
+      "ipa": "/kənˈvɪns/",
+      "cn": "说服",
+      "en": "to make someone believe"
+    },
+    "dangerous": {
+      "pos": "adj.",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "cn": "危险的",
+      "en": "likely to cause harm"
+    },
+    "passionate": {
+      "pos": "adj.",
+      "ipa": "/ˈpæʃənət/",
+      "cn": "热情的",
+      "en": "having strong feelings"
+    },
+    "distract": {
+      "pos": "v.",
+      "ipa": "/dɪˈstræktɪŋ/",
+      "cn": "转移注意力",
+      "en": "to take attention away"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪtɪd/",
+      "cn": "承认",
+      "en": "to agree something is true"
+    },
+    "escape": {
+      "pos": "n.",
+      "ipa": "/ɪˈskeɪp/",
+      "cn": "逃避",
+      "en": "a way to avoid something"
+    },
+    "anxiety": {
+      "pos": "n.",
+      "ipa": "/æŋˈzaɪəti/",
+      "cn": "焦虑",
+      "en": "a feeling of worry"
+    },
+    "chaotic": {
+      "pos": "adj.",
+      "ipa": "/keɪˈɑːtɪk/",
+      "cn": "混乱的",
+      "en": "in a state of confusion"
+    },
+    "tantrum": {
+      "pos": "n.",
+      "ipa": "/ˈtæntrəm/",
+      "cn": "发脾气",
+      "en": "an uncontrolled outburst of anger"
+    },
+    "relief": {
+      "pos": "n.",
+      "ipa": "/rɪˈliːf/",
+      "cn": "如释重负",
+      "en": "a feeling of comfort after stress"
+    }
+  }
+}

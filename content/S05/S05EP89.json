@@ -1,0 +1,92 @@
+{
+  "id": 89,
+  "title": "Definitions",
+  "cn": "第 1 集 · 定义",
+  "novel": "Ted stood before his first class, fingers shaking around the [[syllabus|syllabus]]. He was a [[professor|professor]] now, and the title felt too large for him. He opened his mouth and [[stuttered|stutter]]. A student laughed, and Ted's face grew hot.\n\nMeanwhile, Barney and Robin sat in the booth, refusing to [[define|define]] what they were. \"[[Labels|label]] are for cans,\" Barney said. Robin nodded, [[reluctant|reluctant]] to admit anything deeper.\n\n\"You two are clearly more than friends,\" Lily said.\n\nBarney [[hesitated|hesitate]]. Robin looked away. It was, Ted later said, the most [[awkward|awkward]] silence of the year.\n\nThat evening Ted returned to the bar, exhausted but [[confident|confident]] for the first time. His [[lecture|lecture]] had not been perfect, but he had survived it.\n\n\"So what are you two, really?\" Ted asked.\n\nThey exchanged a glance. \"We're two friends who help each other,\" Barney said, as if reading from a [[mutual|mutual]] script they had [[pretended|pretend]] to believe.\n\nRobin smiled, a small [[relief|relief]] crossing her face. Some definitions, Ted [[realized|realize]], were best left unwritten.",
+  "words": {
+    "syllabus": {
+      "pos": "n.",
+      "ipa": "/ˈsɪl.ə.bəs/",
+      "cn": "教学大纲",
+      "en": "a list of the subjects to be taught in a course"
+    },
+    "professor": {
+      "pos": "n.",
+      "ipa": "/prəˈfes.ər/",
+      "cn": "教授",
+      "en": "a teacher of the highest rank in a university"
+    },
+    "stutter": {
+      "pos": "v.",
+      "ipa": "/ˈstʌt.ər/",
+      "cn": "结巴地说",
+      "en": "to speak with difficulty, repeating sounds"
+    },
+    "define": {
+      "pos": "v.",
+      "ipa": "/dɪˈfaɪn/",
+      "cn": "定义；界定",
+      "en": "to say exactly what something means"
+    },
+    "label": {
+      "pos": "n.",
+      "ipa": "/ˈleɪ.bəl/",
+      "cn": "标签；称号",
+      "en": "a word that describes someone or something"
+    },
+    "reluctant": {
+      "pos": "adj.",
+      "ipa": "/rɪˈlʌk.tənt/",
+      "cn": "不情愿的",
+      "en": "not willing to do something"
+    },
+    "hesitate": {
+      "pos": "v.",
+      "ipa": "/ˈhez.ɪ.teɪt/",
+      "cn": "犹豫；踌躇",
+      "en": "to pause before doing something because you are unsure"
+    },
+    "awkward": {
+      "pos": "adj.",
+      "ipa": "/ˈɔː.kwəd/",
+      "cn": "尴尬的",
+      "en": "making people feel shy or uncomfortable"
+    },
+    "confident": {
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "cn": "自信的",
+      "en": "sure that you can do something well"
+    },
+    "lecture": {
+      "pos": "n.",
+      "ipa": "/ˈlek.tʃər/",
+      "cn": "讲座；讲课",
+      "en": "a talk given to teach a group of students"
+    },
+    "mutual": {
+      "pos": "adj.",
+      "ipa": "/ˈmjuː.tʃu.əl/",
+      "cn": "共同的；相互的",
+      "en": "shared by two or more people"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "relief": {
+      "pos": "n.",
+      "ipa": "/rɪˈliːf/",
+      "cn": "如释重负",
+      "en": "the good feeling when something unpleasant stops"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈrɪə.laɪz/",
+      "cn": "意识到；明白",
+      "en": "to understand a fact suddenly"
+    }
+  }
+}

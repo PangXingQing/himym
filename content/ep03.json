@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "title": "Sweet Taste of Liberty",
+  "cn": "第 3 集 · 自由的滋味",
+  "novel": "Barney had a theory: [[liberty|liberty]] tastes best when the plan is [[spontaneous|spontaneous]].\n\nSo he dragged Ted to the airport at nine at night. They had no bags, no hotel, and no [[itinerary|itinerary]] — only two cheap [[boarding passes|boarding pass]] to Philadelphia. Ted said it was [[reckless|reckless]]. Barney said the word he liked was \"[[thrill|thrill]]\".\n\nThey [[sprinted|sprint]] through the [[terminal|terminal]] with [[adrenaline|adrenaline]] burning in their legs, [[wandered|wander]] past the wrong [[gate|gate]] twice, and were nearly stopped by [[security|security]] because Barney kept smiling like a criminal.\n\nOn the plane he told two [[strangers|stranger]] that they were rich brothers. It was [[ridiculous|ridiculous]]. It worked.\n\nIn Philadelphia the night was warm and the city was [[restless|restless]]. Ted felt young again. He was [[tempted|tempt]] to phone Robin and say something brave.\n\nThen a guard [[detained|detain]] Barney for climbing on a famous bell, and for one long hour Ted [[regretted|regret]] everything.\n\nThere were no [[handcuffs|handcuffs]] in the end, and nobody had to pay [[bail|bail]]. At dawn the two of them sat on the airport floor, laughing, tired, and strangely proud.\n\n\"Freedom,\" Barney said, \"is just a mistake you [[escape|escape]] from before breakfast.\"",
+  "words": {
+    "liberty": {"pos": "n.", "ipa": "/ˈlɪb.ə.ti/", "cn": "自由", "en": "the right to do what you want, without control from others"},
+    "spontaneous": {"pos": "adj.", "ipa": "/spɒnˈteɪ.ni.əs/", "cn": "即兴的；自发的", "en": "done suddenly, without any planning"},
+    "itinerary": {"pos": "n.", "ipa": "/aɪˈtɪn.ər.ər.i/", "cn": "行程表", "en": "a plan of a trip: where you go and when"},
+    "boarding pass": {"pos": "n.", "ipa": "/ˈbɔː.dɪŋ pɑːs/", "cn": "登机牌", "en": "the paper or card you must show to get on a plane"},
+    "reckless": {"pos": "adj.", "ipa": "/ˈrek.ləs/", "cn": "鲁莽的", "en": "doing dangerous things without thinking about the risk"},
+    "thrill": {"pos": "n.", "ipa": "/θrɪl/", "cn": "刺激；兴奋感", "en": "a strong feeling of excitement"},
+    "sprint": {"pos": "v.", "ipa": "/sprɪnt/", "cn": "冲刺；快跑", "en": "to run very fast for a short distance"},
+    "terminal": {"pos": "n.", "ipa": "/ˈtɜː.mɪ.nəl/", "cn": "航站楼", "en": "the building at an airport where people get on and off planes"},
+    "adrenaline": {"pos": "n.", "ipa": "/əˈdren.əl.ɪn/", "cn": "肾上腺素（激动感）", "en": "the chemical your body makes when you are excited or afraid"},
+    "wander": {"pos": "v.", "ipa": "/ˈwɒn.də/", "cn": "闲逛；漫无目的地走", "en": "to walk slowly with no clear direction"},
+    "gate": {"pos": "n.", "ipa": "/ɡeɪt/", "cn": "登机口", "en": "the door at an airport where you get on your plane"},
+    "security": {"pos": "n.", "ipa": "/sɪˈkjʊə.rə.ti/", "cn": "安检；保安", "en": "the people and checks that keep a place safe"},
+    "stranger": {"pos": "n.", "ipa": "/ˈstreɪn.dʒə/", "cn": "陌生人", "en": "someone you do not know"},
+    "ridiculous": {"pos": "adj.", "ipa": "/rɪˈdɪk.jə.ləs/", "cn": "荒唐可笑的", "en": "very silly; making people laugh at you"},
+    "restless": {"pos": "adj.", "ipa": "/ˈrest.ləs/", "cn": "不安分的；躁动的", "en": "unable to stay still or calm"},
+    "tempt": {"pos": "v.", "ipa": "/tempt/", "cn": "诱惑；使很想做", "en": "to make someone want to do something"},
+    "detain": {"pos": "v.", "ipa": "/dɪˈteɪn/", "cn": "拘留；扣留", "en": "to keep someone in a place, usually by the police"},
+    "regret": {"pos": "v.", "ipa": "/rɪˈɡret/", "cn": "后悔", "en": "to feel sorry about something you did"},
+    "handcuffs": {"pos": "n.", "ipa": "/ˈhænd.kʌfs/", "cn": "手铐", "en": "metal rings that police lock on a person's wrists"},
+    "bail": {"pos": "n.", "ipa": "/beɪl/", "cn": "保释金", "en": "money paid so that a person can leave prison before the trial"},
+    "escape": {"pos": "v.", "ipa": "/ɪˈskeɪp/", "cn": "逃脱；逃离", "en": "to get away from a place or a danger"}
+  }
+}

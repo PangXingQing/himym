@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "back out",
+    "hint": "反悔；退出",
+    "phonetic": "/bæk aʊt/"
+  },
+  {
+    "type": "spelling",
+    "word": "sour",
+    "hint": "酸的；（奶）馊了的",
+    "phonetic": "/saʊə/"
+  },
+  {
+    "type": "spelling",
+    "word": "gamble",
+    "hint": "赌博；冒险之举",
+    "phonetic": "/ˈɡæm.bl̩/"
+  },
+  {
+    "type": "spelling",
+    "word": "deadline",
+    "hint": "最后期限",
+    "phonetic": "/ˈded.laɪn/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Only on the rooftop did __________ speak the truth.",
+    "answer": "they"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "It's high time you __________ rehearsing and just talked.",
+    "answer": "stopped"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The night was as magical as __________ fairy tale.",
+    "answer": "any"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted stared at __________ fridge as if it held the answer to his future.",
+    "answer": "the"
+  }
+]

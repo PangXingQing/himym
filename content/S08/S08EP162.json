@@ -1,0 +1,110 @@
+{
+  "id": 162,
+  "title": "The Pre-Nup",
+  "cn": "第 2 集 · 婚前协议",
+  "novel": "Barney designed an [[extensive|extensive]] pre-nup before his wedding to Quinn. The document was very [[detailed|detailed]] and contained many unusual [[clauses|clause]]. Quinn was [[shocked|shock]] when she read the document. She could not believe Barney wanted to control so many aspects of their marriage. The pre-nup included rules about weight gain, [[appearance|appearance]], and even how often they could see their friends. Quinn felt [[insulted|insult]] and told Barney the agreement was [[ridiculous|ridiculous]]. She said she would not sign anything that treated her like a [[possession|possession]]. The other guys in the group started proposing their own relationship [[amendments|amendment]]. Ted suggested rules about [[punctuality|punctuality]] and cleanliness. Marshall wanted rules about shared [[chores|chore]]. Even Robin's boyfriend came up with his own list of demands. The women were angry about all these rules and [[demands|demand]]. Lily said the whole thing was [[childish|childish]]. She told Marshall that marriage was about [[compromise|compromise]], not control. Robin agreed and said a real relationship was built on [[trust|trust]], not contracts. Quinn confronted Barney and told him to tear up the pre-nup. She said she would not marry him if he could not [[trust|trust]] her. Barney [[realized|realize]] he was being unreasonable and [[agreed|agree]] to rip up the document. He said he just wanted to protect himself because he was scared.",
+  "words": {
+    "extensive": {
+      "pos": "adj.",
+      "ipa": "/ɪkˈstensɪv/",
+      "cn": "详尽的",
+      "en": "covering a large area"
+    },
+    "detailed": {
+      "pos": "adj.",
+      "ipa": "/ˈdiːteɪld/",
+      "cn": "详细的",
+      "en": "having many small parts"
+    },
+    "clause": {
+      "pos": "n.",
+      "ipa": "/klɔːzɪz/",
+      "cn": "条款",
+      "en": "a section of a legal document"
+    },
+    "shock": {
+      "pos": "v.",
+      "ipa": "/ʃɑːkt/",
+      "cn": "震惊",
+      "en": "to surprise someone greatly"
+    },
+    "appearance": {
+      "pos": "n.",
+      "ipa": "/əˈpɪrəns/",
+      "cn": "外貌",
+      "en": "the way someone looks"
+    },
+    "insult": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsʌltɪd/",
+      "cn": "冒犯",
+      "en": "to treat with disrespect"
+    },
+    "ridiculous": {
+      "pos": "adj.",
+      "ipa": "/rɪˈdɪkjələs/",
+      "cn": "荒谬的",
+      "en": "very silly or unreasonable"
+    },
+    "possession": {
+      "pos": "n.",
+      "ipa": "/pəˈzeʃn/",
+      "cn": "所有物",
+      "en": "something you own"
+    },
+    "amendment": {
+      "pos": "n.",
+      "ipa": "/əˈmendmənts/",
+      "cn": "修正条款",
+      "en": "a change to a document"
+    },
+    "punctuality": {
+      "pos": "n.",
+      "ipa": "/ˌpʌŋktʃuˈæləti/",
+      "cn": "守时",
+      "en": "being on time"
+    },
+    "chore": {
+      "pos": "n.",
+      "ipa": "/tʃɔːrz/",
+      "cn": "家务",
+      "en": "a small job around the house"
+    },
+    "demand": {
+      "pos": "n.",
+      "ipa": "/dɪˈmændz/",
+      "cn": "要求",
+      "en": "something you ask for firmly"
+    },
+    "childish": {
+      "pos": "adj.",
+      "ipa": "/ˈtʃaɪldɪʃ/",
+      "cn": "幼稚的",
+      "en": "behaving like a child"
+    },
+    "compromise": {
+      "pos": "n.",
+      "ipa": "/ˈkɑːmprəmaɪz/",
+      "cn": "妥协",
+      "en": "an agreement reached by both sides"
+    },
+    "trust": {
+      "pos": "n.",
+      "ipa": "/trʌst/",
+      "cn": "信任",
+      "en": "belief in someone's honesty"
+    },
+    "realize": {
+      "pos": "v.",
+      "ipa": "/ˈriːəlaɪzd/",
+      "cn": "意识到",
+      "en": "to understand something clearly"
+    },
+    "agree": {
+      "pos": "v.",
+      "ipa": "/əˈɡriːd/",
+      "cn": "同意",
+      "en": "to say yes to something"
+    }
+  }
+}

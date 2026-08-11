@@ -1,0 +1,86 @@
+{
+  "id": 153,
+  "title": "No Pressure",
+  "cn": "第 17 集 · 没有压力",
+  "novel": "Robin [[broke up|break up]] with Kevin after he proposed to her. She could not [[accept|accept]] his proposal because she did not love him the way he [[deserved|deserve]]. Kevin was [[heartbroken|heartbroken]] but said he understood. Robin felt terrible about hurting him but knew it was the right [[decision|decision]]. After the breakup, Ted [[confessed|confess]] his feelings to Robin. He told her that he still loved her and wanted to be with her. Robin was [[surprised|surprised]] by his confession. She had always valued their friendship and was afraid of ruining it. Ted said there was no [[pressure|pressure]] on her to give an answer right away. He just wanted her to know how he felt. Robin took some time to think about it. She weighed her feelings for Ted against her fear of losing him as a friend. Meanwhile, Barney searched for something [[private|private]] of Marshall and Lily's. He wanted to find a secret they were hiding from the group. He [[snooped|snoop]] around their house when they were not looking. Marshall and Lily [[caught|catch]] him in the act and were furious. They told Barney to [[respect|respect]] their privacy. Barney apologized but said he was just curious. Ted waited patiently for Robin's answer about their relationship. Robin finally told Ted that she did not share the same feelings. Ted was [[disappointed|disappoint]] but accepted her decision. He said their friendship was more important than anything else.",
+  "words": {
+    "break up": {
+      "pos": "phr.v.",
+      "ipa": "/breɪk ʌp/",
+      "cn": "分手",
+      "en": "to end a relationship"
+    },
+    "accept": {
+      "pos": "v.",
+      "ipa": "/əkˈsept/",
+      "cn": "接受",
+      "en": "to agree to take something"
+    },
+    "deserve": {
+      "pos": "v.",
+      "ipa": "/dɪˈzɜːrvd/",
+      "cn": "应得",
+      "en": "to be worthy of something"
+    },
+    "heartbroken": {
+      "pos": "adj.",
+      "ipa": "/ˈhɑːrtbroʊkən/",
+      "cn": "心碎的",
+      "en": "extremely sad about love"
+    },
+    "decision": {
+      "pos": "n.",
+      "ipa": "/dɪˈsɪʒn/",
+      "cn": "决定",
+      "en": "a choice you make"
+    },
+    "confess": {
+      "pos": "v.",
+      "ipa": "/kənˈfest/",
+      "cn": "坦白",
+      "en": "to admit your feelings"
+    },
+    "surprised": {
+      "pos": "adj.",
+      "ipa": "/səˈpraɪzd/",
+      "cn": "惊讶的",
+      "en": "feeling unexpected amazement"
+    },
+    "pressure": {
+      "pos": "n.",
+      "ipa": "/ˈpreʃər/",
+      "cn": "压力",
+      "en": "a feeling of being pushed"
+    },
+    "private": {
+      "pos": "adj.",
+      "ipa": "/ˈpraɪvət/",
+      "cn": "私密的",
+      "en": "kept secret from others"
+    },
+    "snoop": {
+      "pos": "v.",
+      "ipa": "/snuːpt/",
+      "cn": "窥探",
+      "en": "to look around secretly"
+    },
+    "catch": {
+      "pos": "v.",
+      "ipa": "/kɔːt/",
+      "cn": "抓住",
+      "en": "to find someone doing something"
+    },
+    "respect": {
+      "pos": "v.",
+      "ipa": "/rɪˈspekt/",
+      "cn": "尊重",
+      "en": "to treat with consideration"
+    },
+    "disappoint": {
+      "pos": "v.",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "cn": "使失望",
+      "en": "to feel sad when let down"
+    }
+  }
+}

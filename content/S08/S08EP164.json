@@ -1,0 +1,80 @@
+{
+  "id": 164,
+  "title": "Who Wants to Be a Godparent?",
+  "cn": "第 4 集 · 谁想当教父",
+  "novel": "Lily and Marshall put the gang through a game show-style competition for godparent. They wanted to choose the best person to take care of Marvin if something happened to them. They [[created|create]] a series of questions and [[challenges|challenge]] for Ted, Robin, and Barney. The competition was [[intense|intense]] and everyone wanted to win. Ted was asked about his [[parenting|parenting]] [[philosophy|philosophy]]. He talked about education and creativity. Robin was asked about handling [[emergencies|emergency]]. She talked about her [[survival|survival]] skills and quick thinking. Barney was asked about teaching values to a child. He gave a [[surprisingly|surprise]] thoughtful answer about loyalty and friendship. The gang took the competition very seriously. They each prepared [[presentations|presentation]] and brought props to [[impress|impress]] Marshall and Lily. Ted brought books and educational toys. Robin brought a first aid kit. Barney brought a suit for baby Marvin. Marshall and Lily were [[amused|amuse]] by their efforts but also touched by how much they cared. In the end, Marshall and Lily could not choose just one person. They decided to make all three of them godparents. They said their son was lucky to have so many people who loved him. The gang was [[touched|touch]] by the decision and promised to always be there for Marvin.",
+  "words": {
+    "create": {
+      "pos": "v.",
+      "ipa": "/kriˈeɪtɪd/",
+      "cn": "创建",
+      "en": "to make something new"
+    },
+    "challenge": {
+      "pos": "n.",
+      "ipa": "/ˈtʃælɪndʒɪz/",
+      "cn": "挑战",
+      "en": "a difficult task to complete"
+    },
+    "intense": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈtens/",
+      "cn": "激烈的",
+      "en": "very strong or extreme"
+    },
+    "parenting": {
+      "pos": "n.",
+      "ipa": "/ˈperəntɪŋ/",
+      "cn": "育儿",
+      "en": "the act of raising a child"
+    },
+    "philosophy": {
+      "pos": "n.",
+      "ipa": "/fəˈlɑːsəfi/",
+      "cn": "理念",
+      "en": "a set of beliefs or principles"
+    },
+    "emergency": {
+      "pos": "n.",
+      "ipa": "/ɪˈmɜːrdʒənsiz/",
+      "cn": "紧急情况",
+      "en": "a sudden dangerous situation"
+    },
+    "survival": {
+      "pos": "n.",
+      "ipa": "/sərˈvaɪvl/",
+      "cn": "生存",
+      "en": "the ability to stay alive"
+    },
+    "surprise": {
+      "pos": "adv.",
+      "ipa": "/sərˈpraɪzɪŋli/",
+      "cn": "出人意料地",
+      "en": "in an unexpected way"
+    },
+    "presentation": {
+      "pos": "n.",
+      "ipa": "/ˌpriːzenˈteɪʃnz/",
+      "cn": "展示",
+      "en": "a talk showing information"
+    },
+    "impress": {
+      "pos": "v.",
+      "ipa": "/ɪmˈpres/",
+      "cn": "打动",
+      "en": "to make someone admire you"
+    },
+    "amuse": {
+      "pos": "v.",
+      "ipa": "/əˈmjuːzd/",
+      "cn": "逗乐",
+      "en": "to make someone laugh or smile"
+    },
+    "touch": {
+      "pos": "v.",
+      "ipa": "/tʌtʃt/",
+      "cn": "感动",
+      "en": "to affect emotionally"
+    }
+  }
+}

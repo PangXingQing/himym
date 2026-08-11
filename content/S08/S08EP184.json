@@ -1,0 +1,56 @@
+{
+  "id": 184,
+  "title": "Something New",
+  "cn": "第 24 集 · 新物",
+  "novel": "The gang prepared for Robin and Barney's wedding. Everyone was busy with last-minute preparations. Robin was getting her dress ready and making sure everything was [[perfect|perfect]]. Barney was practicing his vows and trying to stay calm. Ted showed his finished house to the gang for the first time. He had been working on it for months and was proud of what he had [[accomplished|accomplish]]. The house was beautiful, with large windows and a modern design. Marshall and Lily were impressed by Ted's work. They told him it was the most beautiful house they had ever seen. Ted was [[happy|happy]] that his friends liked it. He said he could not wait to fill it with a family. Meanwhile, the Mother was revealed buying a train ticket. She stood at a train station with her luggage and a [[guitar|guitar]] case. She was heading to Farhampton for the wedding. She had a [[warm|warm]] smile and seemed excited about the trip. She did not know that her life was about to change forever. She did not know that she would meet the love of her life at that wedding. The gang [[gathered|gather]] at the train station, ready to go to Farhampton. Ted looked at his friends and felt a deep sense of [[gratitude|gratitude]]. They had been through so much together. He knew that the next few days would change everything. As they boarded the train, Ted smiled. He felt that something [[wonderful|wonderful]] was about to happen.",
+  "words": {
+    "perfect": {
+      "pos": "adj.",
+      "ipa": "/ˈpɜːrfɪkt/",
+      "cn": "完美的",
+      "en": "without any flaws"
+    },
+    "accomplish": {
+      "pos": "v.",
+      "ipa": "/əˈkɑːmplɪʃt/",
+      "cn": "完成",
+      "en": "to succeed in doing something"
+    },
+    "happy": {
+      "pos": "adj.",
+      "ipa": "/ˈhæpi/",
+      "cn": "开心的",
+      "en": "feeling pleasure and joy"
+    },
+    "guitar": {
+      "pos": "n.",
+      "ipa": "/ɡɪˈtɑːr/",
+      "cn": "吉他",
+      "en": "a stringed musical instrument"
+    },
+    "warm": {
+      "pos": "adj.",
+      "ipa": "/wɔːrm/",
+      "cn": "温暖的",
+      "en": "friendly and kind"
+    },
+    "gather": {
+      "pos": "v.",
+      "ipa": "/ˈɡæðərd/",
+      "cn": "聚集",
+      "en": "to come together"
+    },
+    "gratitude": {
+      "pos": "n.",
+      "ipa": "/ˈɡrætɪtuːd/",
+      "cn": "感激",
+      "en": "a feeling of being thankful"
+    },
+    "wonderful": {
+      "pos": "adj.",
+      "ipa": "/ˈwʌndərfl/",
+      "cn": "美好的",
+      "en": "extremely good and pleasant"
+    }
+  }
+}

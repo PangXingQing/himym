@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HIMYM 英语课</title>
+<link rel="stylesheet" href="assets/css/style.css?v=20260812">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">HIMYM</span>
+    <div class="brand-text">
+      <h1>HIMYM 英语课</h1>
+      <p>一集美剧一节课，一季就是一学期</p>
+    </div>
+  </div>
+  <div class="tools">
+    <select id="seasonSelect" class="season-select" title="选择季"></select>
+    <button id="btnEpisodes" class="btn ghost" title="选集">☰ 选集</button>
+    <button id="btnPrev" class="btn ghost" title="上一课">‹</button>
+    <span id="epLabel" class="ep-label">L01</span>
+    <button id="btnNext" class="btn ghost" title="下一课">›</button>
+    <div class="seg" id="modeSeg" role="tablist" title="切换课文内容：改写小说 / 原剧台本">
+      <button class="seg-btn active" data-mode="novel">小说</button>
+      <button class="seg-btn" data-mode="script">台本</button>
+    </div>
+    <label class="switch" title="隐藏高亮，检验自己">
+      <input type="checkbox" id="tglMark" checked><span>高亮</span>
+    </label>
+    <label class="switch" title="切换中文释义">
+      <input type="checkbox" id="tglCn" checked><span>中文</span>
+    </label>
+    <button id="btnTheme" class="btn ghost" title="夜间模式">◐</button>
+  </div>
+</header>
+
+<nav class="tab-bar" id="tabBar" role="tablist">
+  <button class="tab active" data-tab="text">📖 课文</button>
+  <button class="tab" data-tab="grammar">📝 语法</button>
+  <button class="tab" data-tab="exercise">✏️ 练习</button>
+  <button class="tab" data-tab="quiz">📋 测验</button>
+</nav>
+
+<div id="drawer" class="drawer" hidden>
+  <div class="drawer-head">
+    <strong>全部课程</strong>
+    <button id="btnCloseDrawer" class="btn ghost">✕</button>
+  </div>
+  <ul id="epList" class="ep-list"></ul>
+</div>
+<div id="scrim" class="scrim" hidden></div>
+
+<!-- 课文 Tab: 左文本 + 右词表 -->
+<main class="layout tab-panel" id="tab-text">
+  <section class="pane novel-pane">
+    <div class="pane-inner">
+      <div class="novel-head">
+        <span class="kicker">Lesson <b id="epNum">1</b></span>
+        <h2 id="epTitle">—</h2>
+        <p id="epCn" class="sub">—</p>
+        <p id="epMeta" class="meta">—</p>
+      </div>
+      <div id="warmupBox" class="warmup"></div>
+      <article id="novel" class="novel"></article>
+      <div class="novel-foot">
+        <button id="btnPrev2" class="btn">‹ 上一课</button>
+        <button id="btnNext2" class="btn primary">下一课 ›</button>
+      </div>
+    </div>
+  </section>
+  <aside class="pane vocab-pane">
+    <div class="vocab-head">
+      <h3>词汇表 <span id="vocabCount" class="pill">0</span></h3>
+      <input id="search" class="search" type="search" placeholder="筛选单词…">
+    </div>
+    <div id="vocab" class="vocab-list"></div>
+  </aside>
+</main>
+
+<!-- 语法 Tab -->
+<section class="tab-panel course-panel" id="tab-grammar" hidden>
+  <div id="grammarContent" class="course-card"></div>
+</section>
+
+<!-- 练习 Tab -->
+<section class="tab-panel course-panel" id="tab-exercise" hidden>
+  <div id="exerciseContent" class="course-card"></div>
+</section>
+
+<!-- 测验 Tab -->
+<section class="tab-panel course-panel" id="tab-quiz" hidden>
+  <div id="quizContent" class="course-card"></div>
+  <div id="quizResult" class="quiz-result" hidden></div>
+</section>
+
+<div id="loading" class="loading">正在载入…</div>
+
+<!-- 内联全部数据（含词源与发音引用），离线 / file:// 直接打开即可用 -->
+<script src="assets/js/data.js?v=20260812"></script>
+<script src="assets/js/app.js?v=20260812"></script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "spelling",
+    "word": "betray",
+    "hint": "背叛",
+    "phonetic": "/bɪˈtreɪ/"
+  },
+  {
+    "type": "spelling",
+    "word": "reconcile",
+    "hint": "和解",
+    "phonetic": "/ˈrek.ən.saɪl/"
+  },
+  {
+    "type": "spelling",
+    "word": "integrity",
+    "hint": "正直",
+    "phonetic": "/ɪnˈteɡ.rə.ti/"
+  },
+  {
+    "type": "spelling",
+    "word": "ambition",
+    "hint": "抱负",
+    "phonetic": "/æmˈbɪʃ.ən/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He would rather struggle __________ sell out.",
+    "answer": "than"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "I'd rather __________ than drive.",
+    "answer": "walk"
+  },
+  {
+    "type": "spelling",
+    "word": "corporate",
+    "hint": "企业的",
+    "phonetic": "/ˈkɔːr.pər.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "awkward",
+    "hint": "尴尬的",
+    "phonetic": "/ˈɔː.kwərd/"
+  }
+]

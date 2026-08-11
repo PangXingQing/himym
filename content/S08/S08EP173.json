@@ -1,0 +1,68 @@
+{
+  "id": 173,
+  "title": "Band or DJ?",
+  "cn": "第 13 集 · 乐队还是DJ",
+  "novel": "Robin learned that Barney never asked her father's [[permission|permission]] before proposing to her. She was upset because she wanted her father to be involved in the [[engagement|engagement]]. Robin insisted that Barney seek her father's [[approval|approval]] before they could continue with the wedding plans. Barney was [[nervous|nervous]] about meeting Robin's father. He knew that Mr. Scherbatsky was a tough and [[intimidating|intimidate]] man. Barney tried to prepare himself for the meeting. He [[practiced|practice]] what he would say and how he would act. When Barney finally met Robin's father, things did not go well. Mr. Scherbatsky did not think Barney was good enough for his daughter. He rejected Barney's request and told him to leave. Barney was [[devastated|devastate]] but refused to give up. He came back again and again, trying to win Mr. Scherbatsky's [[respect|respect]]. Eventually, Barney's persistence paid off. Mr. Scherbatsky saw how much Barney loved Robin and gave his [[blessing|blessing]]. Meanwhile, Ted helped plan their wedding. He offered to design the wedding venue and create something special. Ted threw himself into the work, wanting to give his friends the perfect wedding. He spent hours sketching and planning every detail. Robin and Barney were [[grateful|grateful]] for Ted's help and dedication.",
+  "words": {
+    "permission": {
+      "pos": "n.",
+      "ipa": "/pərˈmɪʃn/",
+      "cn": "许可",
+      "en": "the act of allowing something"
+    },
+    "engagement": {
+      "pos": "n.",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "cn": "订婚",
+      "en": "an agreement to marry"
+    },
+    "approval": {
+      "pos": "n.",
+      "ipa": "/əˈpruːvl/",
+      "cn": "批准",
+      "en": "official agreement to something"
+    },
+    "nervous": {
+      "pos": "adj.",
+      "ipa": "/ˈnɜːrvəs/",
+      "cn": "紧张的",
+      "en": "feeling worried or afraid"
+    },
+    "intimidate": {
+      "pos": "adj.",
+      "ipa": "/ɪnˈtɪmɪdeɪtɪŋ/",
+      "cn": "令人畏惧的",
+      "en": "making you feel afraid"
+    },
+    "practice": {
+      "pos": "v.",
+      "ipa": "/ˈpræktɪst/",
+      "cn": "练习",
+      "en": "to do something repeatedly"
+    },
+    "devastate": {
+      "pos": "v.",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "cn": "使崩溃",
+      "en": "to destroy emotionally"
+    },
+    "respect": {
+      "pos": "n.",
+      "ipa": "/rɪˈspekt/",
+      "cn": "尊重",
+      "en": "admiration for someone"
+    },
+    "blessing": {
+      "pos": "n.",
+      "ipa": "/ˈblesɪŋ/",
+      "cn": "祝福",
+      "en": "approval and good wishes"
+    },
+    "grateful": {
+      "pos": "adj.",
+      "ipa": "/ˈɡreɪtfl/",
+      "cn": "感激的",
+      "en": "feeling thankful for something"
+    }
+  }
+}

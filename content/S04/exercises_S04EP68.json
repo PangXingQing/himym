@@ -1,0 +1,49 @@
+[
+  {
+    "type": "spelling",
+    "word": "crush",
+    "hint": "暗恋",
+    "phonetic": "/krʌʃ/"
+  },
+  {
+    "type": "spelling",
+    "word": "chemistry",
+    "hint": "默契",
+    "phonetic": "/ˈkem.ɪ.stri/"
+  },
+  {
+    "type": "spelling",
+    "word": "breakup",
+    "hint": "分手",
+    "phonetic": "/ˈbreɪk.ʌp/"
+  },
+  {
+    "type": "spelling",
+    "word": "jealousy",
+    "hint": "嫉妒",
+    "phonetic": "/ˈdʒel.ə.si/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "The __________ backfired on him.",
+    "answer": "scheme"
+  },
+  {
+    "type": "spelling",
+    "word": "infatuation",
+    "hint": "迷恋",
+    "phonetic": "/ɪnˌfætʃ.uˈeɪ.ʃən/"
+  },
+  {
+    "type": "spelling",
+    "word": "legendary",
+    "hint": "传奇般的",
+    "phonetic": "/ˈledʒ.ən.der.i/"
+  },
+  {
+    "type": "spelling",
+    "word": "commitment",
+    "hint": "承诺",
+    "phonetic": "/kəˈmɪt.mənt/"
+  }
+]

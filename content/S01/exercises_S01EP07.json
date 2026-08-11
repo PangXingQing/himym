@@ -1,0 +1,47 @@
+[
+  {
+    "type": "spelling",
+    "word": "criteria",
+    "hint": "标准；条件",
+    "phonetic": "/kraɪˈtɪə.ri.ə/"
+  },
+  {
+    "type": "spelling",
+    "word": "clients",
+    "hint": "客户",
+    "phonetic": "/ˈklaɪ.ənts/"
+  },
+  {
+    "type": "spelling",
+    "word": "statistics",
+    "hint": "统计数据",
+    "phonetic": "/stəˈtɪs.tɪks/"
+  },
+  {
+    "type": "spelling",
+    "word": "settle for",
+    "hint": "将就；勉强接受",
+    "phonetic": "/ˈset.l̩ fɔː/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "His answers were fed __________ the matchmaker's algorithm.",
+    "answer": "into"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Ted __________ his life needed changing.",
+    "answer": "felt"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "He has been single for __________ long.",
+    "answer": "too"
+  },
+  {
+    "type": "spelling",
+    "word": "database",
+    "hint": "数据库",
+    "phonetic": "/ˈdeɪ.tə.beɪs/"
+  }
+]

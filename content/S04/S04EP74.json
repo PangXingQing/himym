@@ -1,0 +1,158 @@
+{
+  "id": 74,
+  "title": "The Fight",
+  "cn": "第 10 集 · 打架",
+  "novel": "Ted and Barney [[decided|decide]] to get into a [[physical|physical]] fight to impress two women at the bar. They had never been in a fight before, and they were secretly [[terrified|terrify]].\n\n\"I've never [[thrown|throw]] a punch in my life,\" Barney [[admitted|admit]].\n\n\"Me neither,\" Ted said. But they [[pretended|pretend]] to be tough.\n\nThey [[confronted|confront]] a rude regular named Doug at MacLaren's. Doug was short, [[aggressive|aggressive]], and always looking for trouble. The [[confrontation|confrontation]] was [[brief|brief]] — Doug [[shoved|shove]] them both to the floor in seconds.\n\nTed and Barney [[exaggerated|exaggerate]] the story to the women. \"You should have seen us,\" Barney said. \"We were like [[gladiators|gladiator]].\"\n\nMeanwhile, Marshall and Lily had a fight about Marshall's [[habit|habit]] of [[overspending|overspend]]. Their argument was [[misinterpreted|misinterpret]] by everyone at the bar. People thought they were breaking up.\n\n\"We're fine!\" Lily [[insisted|insist]]. \"We just fight differently.\"\n\nThe next day, Ted and Barney [[discovered|discover]] that Doug had actually [[punched|punch]] them both while they were [[unconscious|unconscious]]. They had not fought at all — they had been [[knocked|knock]] out instantly.\n\nEveryone at the bar [[hated|hate]] Doug for his [[arrogance|arrogance]]. Ted and Barney felt [[humiliated|humiliate]].\n\n\"We're [[cowards|coward]],\" Barney said.\n\n\"Yes,\" Ted agreed. \"But at least we're honest cowards.\"",
+  "words": {
+    "decide": {
+      "pos": "v.",
+      "ipa": "/dɪˈsaɪd/",
+      "cn": "决定",
+      "en": "to choose to do something"
+    },
+    "physical": {
+      "pos": "adj.",
+      "ipa": "/ˈfɪz.ɪ.kəl/",
+      "cn": "身体的",
+      "en": "related to the body, not the mind"
+    },
+    "terrify": {
+      "pos": "v.",
+      "ipa": "/ˈter.ɪ.faɪ/",
+      "cn": "使恐惧",
+      "en": "to make someone very afraid"
+    },
+    "throw": {
+      "pos": "v.",
+      "ipa": "/θrəʊ/",
+      "cn": "扔；挥（拳）",
+      "en": "to send something through the air"
+    },
+    "admit": {
+      "pos": "v.",
+      "ipa": "/ədˈmɪt/",
+      "cn": "承认",
+      "en": "to agree that something is true"
+    },
+    "pretend": {
+      "pos": "v.",
+      "ipa": "/prɪˈtend/",
+      "cn": "假装",
+      "en": "to act as if something is true when it is not"
+    },
+    "confront": {
+      "pos": "v.",
+      "ipa": "/kənˈfrʌnt/",
+      "cn": "对抗",
+      "en": "to face someone in a hostile way"
+    },
+    "aggressive": {
+      "pos": "adj.",
+      "ipa": "/əˈɡres.ɪv/",
+      "cn": "好斗的",
+      "en": "ready to fight or attack"
+    },
+    "confrontation": {
+      "pos": "n.",
+      "ipa": "/ˌkɒn.frʌnˈteɪ.ʃən/",
+      "cn": "对抗",
+      "en": "a fight or angry meeting"
+    },
+    "brief": {
+      "pos": "adj.",
+      "ipa": "/briːf/",
+      "cn": "短暂的",
+      "en": "lasting only a short time"
+    },
+    "shove": {
+      "pos": "v.",
+      "ipa": "/ʃʌv/",
+      "cn": "猛推",
+      "en": "to push someone roughly"
+    },
+    "exaggerate": {
+      "pos": "v.",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "cn": "夸大",
+      "en": "to make something seem bigger than it is"
+    },
+    "gladiator": {
+      "pos": "n.",
+      "ipa": "/ˈɡlæd.i.eɪ.tər/",
+      "cn": "角斗士",
+      "en": "a fighter in ancient Rome"
+    },
+    "habit": {
+      "pos": "n.",
+      "ipa": "/ˈhæb.ɪt/",
+      "cn": "习惯",
+      "en": "something you do regularly"
+    },
+    "overspend": {
+      "pos": "v.",
+      "ipa": "/ˌəʊ.vəˈspend/",
+      "cn": "超支",
+      "en": "to spend more money than you should"
+    },
+    "misinterpret": {
+      "pos": "v.",
+      "ipa": "/ˌmɪs.ɪnˈtɜː.prɪt/",
+      "cn": "误解",
+      "en": "to understand something wrongly"
+    },
+    "insist": {
+      "pos": "v.",
+      "ipa": "/ɪnˈsɪst/",
+      "cn": "坚持",
+      "en": "to say firmly that something is true"
+    },
+    "discover": {
+      "pos": "v.",
+      "ipa": "/dɪˈskʌv.ər/",
+      "cn": "发现",
+      "en": "to find something out"
+    },
+    "punch": {
+      "pos": "v.",
+      "ipa": "/pʌntʃ/",
+      "cn": "用拳打",
+      "en": "to hit someone with your closed hand"
+    },
+    "unconscious": {
+      "pos": "adj.",
+      "ipa": "/ʌnˈkɒn.ʃəs/",
+      "cn": "失去知觉的",
+      "en": "not awake or aware"
+    },
+    "knock": {
+      "pos": "v.",
+      "ipa": "/nɒk/",
+      "cn": "击倒",
+      "en": "to hit someone so they fall"
+    },
+    "hate": {
+      "pos": "v.",
+      "ipa": "/heɪt/",
+      "cn": "讨厌",
+      "en": "to dislike someone very strongly"
+    },
+    "arrogance": {
+      "pos": "n.",
+      "ipa": "/ˈær.ə.ɡəns/",
+      "cn": "傲慢",
+      "en": "thinking you are better than others"
+    },
+    "humiliate": {
+      "pos": "v.",
+      "ipa": "/hjuːˈmɪl.i.eɪt/",
+      "cn": "羞辱",
+      "en": "to make someone feel ashamed"
+    },
+    "coward": {
+      "pos": "n.",
+      "ipa": "/ˈkaʊ.əd/",
+      "cn": "懦夫",
+      "en": "someone who is not brave"
+    }
+  }
+}

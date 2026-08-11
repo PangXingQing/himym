@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "forgive",
+    "hint": "原谅",
+    "phonetic": "/fəˈɡɪv/"
+  },
+  {
+    "type": "spelling",
+    "word": "gossip",
+    "hint": "闲话；八卦",
+    "phonetic": "/ˈɡɒs.ɪp/"
+  },
+  {
+    "type": "spelling",
+    "word": "judge",
+    "hint": "评判；对……有意见",
+    "phonetic": "/dʒʌdʒ/"
+  },
+  {
+    "type": "spelling",
+    "word": "opponent",
+    "hint": "对手",
+    "phonetic": "/əˈpəʊ.nənt/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Standing on __________ rooftop, Ted looked down at the city.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ by his honesty, Robin didn't know what to say.",
+    "answer": "Surprised"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Unless someone cheats, the truth __________ stay hidden.",
+    "answer": "will"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Rehearsing his lines, Ted paced __________ and forth.",
+    "answer": "back"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": 135,
+  "title": "Landmarks",
+  "cn": "第 23 集 · 地标",
+  "novel": "Ted faced the most important [[decision|decision]] of his career. He had to choose between designing the new GNB tower or helping Zoey save the Arcadian building as a [[landmark|landmark]]. The city council was holding a hearing to decide whether the Arcadian would be [[designated|designate]] a historic landmark, which would prevent it from being [[demolished|demolish]]. Ted was torn between his professional [[ambition|ambition]] and his love for Zoey. He knew that if the Arcadian was saved, he would lose the GNB project. But if the Arcadian was destroyed, he would lose Zoey. The gang sat down and had an honest conversation about Zoey. They told Ted that they did not think Zoey was right for him. Marshall said that Zoey always put Ted in a difficult position. Robin said that Zoey was too [[selfish|selfish]] and that she only cared about her own causes. Lily said that Ted deserved someone who supported his dreams instead of [[challenging|challenge]] them at every turn. Barney said that Zoey was a [[distraction|distraction]] and that Ted should focus on his career. Ted was [[hurt|hurt]] by their honesty, but he knew they were right. He had been compromising too much of himself to make the relationship work. At the landmark hearing, Ted was called as a witness. He was asked whether the Arcadian had [[architectural|architectural]] significance. Ted knew that his answer would determine the fate of both the building and his relationship. He took a deep breath and testified that the Arcadian did not meet the criteria for landmark status. His words sealed the building's fate. Zoey was [[devastated|devastate]]. She told Ted that he had chosen his career over their love and that she could never forgive him. Ted watched her walk away, his heart [[aching|ache]] with grief. He had made the right professional decision, but it had cost him the woman he loved. The gang gathered around Ted and told him that he would be okay. Ted nodded, knowing that some decisions change everything.",
+  "words": {
+    "decision": {"pos": "n.", "ipa": "/dɪˈsɪʒ.ən/", "cn": "决定;抉择", "en": "a choice you make about something"},
+    "landmark": {"pos": "n.", "ipa": "/ˈlændmɑːrk/", "cn": "地标;历史遗迹", "en": "a building or place that is important"},
+    "designate": {"pos": "v.", "ipa": "/ˈdezɪɡneɪt/", "cn": "指定;认定", "en": "to officially choose something for a purpose"},
+    "demolish": {"pos": "v.", "ipa": "/dɪˈmɑːlɪʃ/", "cn": "拆除;摧毁", "en": "to completely destroy a building or structure"},
+    "ambition": {"pos": "n.", "ipa": "/æmˈbɪʃ.ən/", "cn": "雄心;抱负", "en": "a strong desire to achieve something"},
+    "selfish": {"pos": "adj.", "ipa": "/ˈselfɪʃ/", "cn": "自私的;利己的", "en": "caring only about yourself, not others"},
+    "challenge": {"pos": "v.", "ipa": "/ˈtʃælɪndʒ/", "cn": "挑战;质疑", "en": "to question or test the validity of something"},
+    "distraction": {"pos": "n.", "ipa": "/dɪˈstrækʃ.ən/", "cn": "分心;干扰", "en": "something that takes your attention away"},
+    "hurt": {"pos": "v.", "ipa": "/hɜːrt/", "cn": "伤害;使伤心", "en": "to cause emotional or physical pain"},
+    "architectural": {"pos": "adj.", "ipa": "/ˌɑːrkɪˈtektʃərəl/", "cn": "建筑的;建筑学的", "en": "relating to the design of buildings"},
+    "devastate": {"pos": "v.", "ipa": "/ˈdevəsteɪt/", "cn": "使极度悲伤;摧毁", "en": "to cause someone great sadness or shock"},
+    "ache": {"pos": "v.", "ipa": "/eɪk/", "cn": "疼痛;隐痛", "en": "to feel a continuous dull pain"}
+  }
+}

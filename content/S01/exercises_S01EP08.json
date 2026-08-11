@@ -1,0 +1,46 @@
+[
+  {
+    "type": "spelling",
+    "word": "lease",
+    "hint": "租约",
+    "phonetic": "/liːs/"
+  },
+  {
+    "type": "spelling",
+    "word": "ownership",
+    "hint": "所有权",
+    "phonetic": "/ˈəʊ.nə.ʃɪp/"
+  },
+  {
+    "type": "spelling",
+    "word": "inherit",
+    "hint": "继承",
+    "phonetic": "/ɪnˈher.ɪt/"
+  },
+  {
+    "type": "spelling",
+    "word": "split up",
+    "hint": "分手",
+    "phonetic": "/splɪt ʌp/"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "__________ sword was inherited from Ted's grandfather.",
+    "answer": "One"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "Marshall __________ Lily got married.",
+    "answer": "and"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "They met at __________ café to discuss the duel.",
+    "answer": "the"
+  },
+  {
+    "type": "fill_blank",
+    "sentence": "No sooner had Ted __________ down than Robin walked in.",
+    "answer": "sat"
+  }
+]
