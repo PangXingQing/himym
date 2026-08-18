@@ -1,0 +1,179 @@
+{
+ "blastblight": [
+  "blast",
+  "blight"
+ ],
+ "blastfire": [
+  "blast",
+  "fire"
+ ],
+ "blightproof": [
+  "blight",
+  "proof"
+ ],
+ "bloodline": [
+  "blood",
+  "line"
+ ],
+ "boltreaver": [
+  "bolt",
+  "reaver"
+ ],
+ "bugmaster": [
+  "bug",
+  "master"
+ ],
+ "carapaceon": [
+  "carapace",
+  "on"
+ ],
+ "cooldown": [
+  "cool",
+  "down"
+ ],
+ "critheal": [
+  "crit",
+  "heal"
+ ],
+ "crossup": [
+  "cross",
+  "up"
+ ],
+ "crystalbone": [
+  "crystal",
+  "bone"
+ ],
+ "divebombing": [
+  "dive",
+  "bombing"
+ ],
+ "dragonbone": [
+  "dragon",
+  "bone"
+ ],
+ "dragonbug": [
+  "dragon",
+  "bug"
+ ],
+ "dragonfell": [
+  "dragon",
+  "fell"
+ ],
+ "dreadking": [
+  "dread",
+  "king"
+ ],
+ "dreadqueen": [
+  "dread",
+  "queen"
+ ],
+ "elderfrost": [
+  "elder",
+  "frost"
+ ],
+ "firestone": [
+  "fire",
+  "stone"
+ ],
+ "flashbug": [
+  "flash",
+  "bug"
+ ],
+ "frostbite": [
+  "frost",
+  "bite"
+ ],
+ "frostfang": [
+  "frost",
+  "fang"
+ ],
+ "goldenfish": [
+  "golden",
+  "fish"
+ ],
+ "grimclaw": [
+  "grim",
+  "claw"
+ ],
+ "hardbone": [
+  "hard",
+  "bone"
+ ],
+ "headtohead": [
+  "head",
+  "to",
+  "head"
+ ],
+ "lightcrystal": [
+  "light",
+  "crystal"
+ ],
+ "novacrystal": [
+  "nova",
+  "crystal"
+ ],
+ "rageray": [
+  "rage",
+  "ray"
+ ],
+ "rumblefish": [
+  "rumble",
+  "fish"
+ ],
+ "setup": [
+  "set",
+  "up"
+ ],
+ "skyhigh": [
+  "sky",
+  "high"
+ ],
+ "snowfield": [
+  "snow",
+  "field"
+ ],
+ "soapgrass": [
+  "soap",
+  "grass"
+ ],
+ "springnight": [
+  "spring",
+  "night"
+ ],
+ "startup": [
+  "start",
+  "up"
+ ],
+ "thunderbug": [
+  "thunder",
+  "bug"
+ ],
+ "thundercall": [
+  "thunder",
+  "call"
+ ],
+ "thunderfist": [
+  "thunder",
+  "fist"
+ ],
+ "thunderlord": [
+  "thunder",
+  "lord"
+ ],
+ "thunderstrike": [
+  "thunder",
+  "strike"
+ ],
+ "uptime": [
+  "up",
+  "time"
+ ],
+ "warmup": [
+  "warm",
+  "up"
+ ],
+ "weakspot": [
+  "weak",
+  "spot"
+ ]
+}
